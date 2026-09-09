@@ -1,19 +1,105 @@
 1	A. N. ROHE HOLDING LTD.
-2	ADANA INVESTMENT,LTD
+		LEI: 549300A7RPWGQP6R3N58
+		addr: 2nd Floor, 35 Barrack Road, Belize City, BZ-BZ, Belize
+		country: BZ
+		reg: 2017-11-13
+2	ADANA INVESTMENTS, LTD
+	ADANA INVESTMENT,LTD
+		addr: 5 Osborne Terrace, Jesmond, Newcastle Upon Tyne, NE2 1SQ
+		reg: 2009-12-15
+		officer: Martin Joseph SAVAGE (UK)
+		code: 07105739
+		country: UK
 3	ADANA TRADE LLP
+		code: OC375797
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		reg: 2012-06-06
+		dis: 2016-11-15
+		officer: KENMARK INC. (DM)
+		officer: OSTBERG LTD. (DM)
+		country: UK
 4	AGCOMPANY OÜ
+		reg: 2013-05-08
+		dis: 2017-06-29
+		country: EE
+		code: 12470099
+		board: Roman VNUKOV (EE)
+		addr: Põhja-Tallinna linnaosa, Tallinn
+		biz: repair of motor vehicles
 5	AKKOTEX LTD
+		code: 1678595
+		reg: 2011-11-02
+		country: VG
 6	ALENTER TRADING LIMITED
+		reg: 2011-08-17
+		dis: 2011-08-17
+		addr: 43 Bedford Street, Office 11, London, WC2E 9HA
+		country: UK
+		officer: Valery KALOPONG (VU)
+		officer: King Howard Cordero ENRIQUEZ (PH)
+		code: 07743949
 7	ALFA DIS TICARET LIMITED SIRKETI
+		officer: Cuneyt IPEKLER (TR)
+		biz: wine and distilled alcoholic beverage merchant wholesalers
+		country: TR
+		addr: No:126 Ferhatpasa Mahallesi Maresal Fevzi Cakmak Caddesi Atasehir, Istanbul, Marmara 34888
+		reg: 2002-11-22
 8	ALGAN METAL SANAYI VE TICARET ANO
-9	ALGHARABALLY NATIONAL TRADING
-10	ALIYEV RUSLAN
+		country: TR
+		biz: welding supplies
+		addr: Aydıntepe Mah. Sahil Blv. Özek İş Mrk. No:142/D5, 34947 Tuzla/İstanbul
+9	MAHMOUD AL-GHARABALLY TRADING EST.
+	ALGHARABALLY NATIONAL TRADING
+		country: KW
+		addr: Khalifa Al-Jassim Street, Shuwiakh Industrial Area, Kuwait
+		biz: construction materials
+10	Ruslan ALIYEV
+	ALIYEV RUSLAN
+		country: AZ
+		person
 11	ALOZIRIO HOLDINGS LIMITED
+	KAMAZONIA LIMITED
+		country: HE
+		code: 273725
+		addr: Panaretos Eliana Complex, Flat/Office 104, Dimokritou 15, 4041 Limassol, Cyprus
+		reg: 2010-09-16
+		dis: 2019-12-18
+		officer: Irina KLEANTHOYS (HE)
 12	ALPS VENTURES LIMITED
+		country: UK
+		code: 05887499
+		addr: First Floor Kirkland House, 11-15 Peterborough Road, Harrow, Middlesex, HA1 2AX
+		reg: 2006-07-26
+		dis: 2016-02-02
+		officer: Omar Mowaffak AL MIDANI (US)
+		biz: VC incubator
 13	ALTER MANAGEMENT LIMITED
+		country: NZ
+		code: 2181378
+		reg: 2008-11-03
+		dis: 2015-01-22
+		officer: Marianna GEMENITZI (HE)
+		addr: C/-gannaway Mercer Ltd, Chartered Accountants, 11a Wynyard St, Devonport, Auckland 0624 , New Zealand
 14	ALUNG ENTERPRISES LIMITED
+		code: 278090
+		country: HE
+		reg: 2010-06-12
+		dis: 2019-12-18
+		addr: Griva Digeni, PANAGIDES BUILDING, Floor 2, Flat 3, 3030, Lemesos, Cyprus
 15	AMA CONSULTANTS PTE. LTD.
-16	AMATOLA GROUP LTD.
+		code: 200616206K
+		country: SG
+		reg: 2006-10-31
+		biz: wholesale trade
+		addr: 21 BUKIT BATOK CRESCENT, #03-76, WCEGA TOWER, Singapore 658065
+		dis: 2026-08-07
+16	AMATOLA HOLDINGS LIMITED
+	AMATOLA GROUP LTD.
+		country: GI
+		code: 110692
+		reg: 2013-11-07
+		dis: 2018-04-19
+
 17	AMECTA LIMITED
 18	APOLLO(CHINA) CO.,LTD
 19	ARAS GLOBAL TICARET VE LOJISTIK
