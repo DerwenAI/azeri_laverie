@@ -1,7 +1,9 @@
 # azeri_laverie
 
-Analysis of money laundering in the 'Azerjaibani Laundromat' leaked
-banking data provided by OCCRP.
+Money laundering graph data analysis based on leaked banking data
+provided by OCCRP regarding the
+[Azerjaibani Laundromat](https://www.occrp.org/en/project/the-azerbaijani-laundromat)
+
 
 ## Getting Started
 
@@ -25,3 +27,9 @@ and simplifies use in commercial applications.
 
 All materials herein are Copyright © 2026 Senzing, Inc.
 </details>
+
+
+DISCLAIMER:
+Please note that the data used here may contain legitimate business
+transactions, and that the presence of any name in this dataset does
+not necessarily imply any intentional wrongdoing.

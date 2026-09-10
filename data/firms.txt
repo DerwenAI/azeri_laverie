@@ -49,6 +49,7 @@
 		biz: welding supplies
 		addr: Aydıntepe Mah. Sahil Blv. Özek İş Mrk. No:142/D5, 34947 Tuzla/İstanbul
 9	MAHMOUD AL-GHARABALLY TRADING EST.
+	AL GHARABALLY NATIONAL TRADING
 	ALGHARABALLY NATIONAL TRADING
 		country: KW
 		addr: Khalifa Al-Jassim Street, Shuwiakh Industrial Area, Kuwait
@@ -59,12 +60,12 @@
 		person
 11	ALOZIRIO HOLDINGS LIMITED
 	KAMAZONIA LIMITED
-		country: HE
-		code: 273725
+		country: CY
+		code: HE273725
 		addr: Panaretos Eliana Complex, Flat/Office 104, Dimokritou 15, 4041 Limassol, Cyprus
 		reg: 2010-09-16
 		dis: 2019-12-18
-		officer: Irina KLEANTHOYS (HE)
+		officer: Irina KLEANTHOYS (CY)
 12	ALPS VENTURES LIMITED
 		country: UK
 		code: 05887499
@@ -78,11 +79,11 @@
 		code: 2181378
 		reg: 2008-11-03
 		dis: 2015-01-22
-		officer: Marianna GEMENITZI (HE)
+		officer: Marianna GEMENITZI (CY)
 		addr: C/-gannaway Mercer Ltd, Chartered Accountants, 11a Wynyard St, Devonport, Auckland 0624 , New Zealand
 14	ALUNG ENTERPRISES LIMITED
-		code: 278090
-		country: HE
+		code: HE278090
+		country: CY
 		reg: 2010-06-12
 		dis: 2019-12-18
 		addr: Griva Digeni, PANAGIDES BUILDING, Floor 2, Flat 3, 3030, Lemesos, Cyprus
@@ -99,51 +100,343 @@
 		code: 110692
 		reg: 2013-11-07
 		dis: 2018-04-19
-
-17	AMECTA LIMITED
-18	APOLLO(CHINA) CO.,LTD
-19	ARAS GLOBAL TICARET VE LOJISTIK
-20	ARASH MEDICAL PRODUCTION LTD
+17	AMECA LIMITED
+	AMECTA LIMITED
+		addr: Esperidon, 12, Floor 4, 1087, Levkosia, Cyprus
+		country: CY
+		code: HE329293
+		reg: 2014-02-05
+		dis: 2020-07-08
+		officer: Lev POLISHCHUK (CY)
+		note: this appears to have been misspelled
+18	APPOLLO (CHINA) CO., LTD
+	APOLLO(CHINA) CO.,LTD
+		country: CN
+		addr: 8th Floor, Canton-chip Building, No.18, Science Avenue, Huangpu District, Guangzhou, China
+		biz: manufacturing, wholesale import/export
+		code: F0013918
+		reg: 1996-06-25
+19	ARAS GLOBAL TICARET VE LOJISTIK TURIZM LIMITED ŞIRKETI
+	ARAS GLOBAL TICARET VE LOJISTIK
+	ARAS GLOBAL TIC. VE LOJ.TUR.LTD.STI
+		reg: 2008-02-27
+		biz: global trade and international supply chains
+		addr: No:61a Osman Yilmaz Mahallesi 648. Sokak Gebze Kocaeli, Marmara 41400
+		country: TR
+		code: 110891
+20	ARASH MEDICAL COMPANY CJSC
+	ARASH MEDICAL PRODUCTION LTD
+		biz: medical equipment
+		country: AZ
+		addr: 26 Salamzade St., Baku, AZ1078, Azerbaijan
+		reg: 1994-01-01
 21	ARMA STEEL TRADING LP
-22	ASAS ALUMINYUM SAN.VE TIC.A.S
-23	ASEL DIS TICARET VE PAZARLAMA LTD S
-24	ASTON GLOBAL L P
+		code: LP014442
+		addr: 1st Floor 32 Wigmore Street, London, W1U 2RP
+		reg: 2011-05-12
+		country: UK
+22	ASAŞ ALÜMINYUM SANAYI VE TICARET A.Ş
+	ASAS ALUMINYUM SAN.VE TIC.A.S
+		biz: aluminum manufacturing
+		country: TR
+		addr: Asas Ismerkezi No.2 Ruzgarlibahce Mahallesi Kumlu Sokak Beykoz Kavacik, Istanbul, Marmara 34805
+		lei: 78900067SCLSMMFJF687
+		code: 0086003837500011
+		reg: 1990-09-17
+23	ASEL DıŞ TICARET VE PAZARLAMA LIMITED ŞIRKETI
+	ASEL DIS TICARET VE PAZARLAMA LTD S
+		country: TR
+		addr: B.blok/205- 207- 209 N:82 Iosb Mahallesi Haseyad 1.kis.cabani Is Mrk Basaksehir, Istanbul, Marmara 34306
+		biz: electronics wholesale
+		reg: 1993-02-10
+24	ASTON GLOBAL L.P.
+	ASTON GLOBAL L P
+		country: UK
+		code: SL008049
+		reg: 2010-07-16
+		addr: Suite 1 78 Montgomery Street, Edinburgh, EH7 5JA
+		biz: industrial spare parts
 25	ATTICO LOGISTICS LIMITED
+		country: CY
+		code: HE174601
+		addr: Themistokli Dervi, 48, Centennial Building, Floor 3, Nicosia, Cyprus
+		reg: 2006-04-05
+		dis: 2022-05-06
+		officer: Andreas SPYRIDIS (CY)
+		officer: Dimitra STAVRINOU (CY)
 26	AUTOHAUS GRAMPP GMBH
+	AUTOHAUS ANSAWI GMBH
+	PETER GRAMPP GMBH & CO. KG
+		country: DE
+		biz: automobile dealership
+		code: HRB908
+		reg: 1980-07-03
+		addr: Rechtenbacher Str. 17, 97816 Lohr am Main
+		officer: Peter GRAMPP (DE)
 27	AVROMED COMPANY LLP
 	AVROMED COMPANY
+	AVROMED COMPANY CJSC
+		biz: pharmaceutical supplier
+		country: AZ
+		reg: 2002-04-01
+		addr: Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ
+		officer: Javanshir FEYZIYEV (AZ)
 29	AZARBAYCAN METANOL KOMPANI MMC
-30	AZERB.REP.MINIST.EMERGENCY SITUA
-31	AZERBAIJAN STATE CASPIAN SHIPP CO
+	AZERBAYCAN METANOL KOMPANI MMC
+	AZMECO
+	SOCAR METHANOL MMC
+	AZERBAIJAN METHANOL COMPANY
+	AZMECO INTERNATIONAL FINANCE
+		addr: 22nd km, Salyan Highway, Garadagh District, Baku, AZ1080, Azerbaijan
+		biz: petrochemical projects
+		officer: Sadig MAMEDOV (AZ)
+		country: AZ
+		reg: 2008-01-01		
+30	MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN
+	AZERB.REP.MINIST.EMERGENCY SITUA
+	AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI
+		country: AZ
+		addr: M. Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073
+		biz: public sector, emergency response
+31	AZERBAIJAN CASPIAN SHIPPING COMPANY
+	ASCO
+	AZERBAIJAN STATE CASPIAN SHIPP CO
+	AZARB.XAZAR DANIZ GAMICILIYI QSC
+		country: AZ
+		addr: Mikayil Useynov kucasi 2, AZ 1003, Baku, Azerbaijan
+		biz: shipping fleets
+		code: 1701579951
+		reg: 2013-10-22
 32	AZERIPAMPSERVICES MMC
-33	AZMECO INTERNATIONAL FINANCE
+		biz: energy
+		country: AZ
 34	BAKTELEKOM MMC
+		country: AZ
+		biz: fraud
+		officer: Rasim ASADOV (AZ)
+		note: one letter off the legit `Baktelecom` with no evidence of any connection
 35	BALANKOS COMMERCIAL LTD.
+		country: VG
+		reg: 2008-09-04
+		officer: Dmitry SMIRNOV (RU)
 36	BANCHER OÜ
-37	BARCGB22
+		country: EE
+		code: 12057318
+		reg: 2011-02-08
+		dis: 2015-12-22
+		addr: Valukoja 8, 11415 Tallinn, Estonia
+37	BARCLAYS BANK PLC
+	BARCGB22
+		country: UK
+		biz: banking
+		addr: 1 Churchill Place, London, E14 5HP
+		reg: 1971-10-04
+		code: 01026167
+		lei: G5GSEF7VJP5I7OUK5573
+		sanction: https://www.opensanctions.org/entities/NK-5XuAeTe3aJMe6HKbHA5Syj/
+		sanction: https://opencheck.world/?lei=2549003Q5J2G7ALNU316
+		sanction: https://search.openaleph.org/search?limit=30&q=BARCLAYS%20BANK%20PLC
 38	BAYBURT GROUP CONSTRUCTION LTD
+	BAYBURT GRUP INSAAT NAKLIYAT MADENCILIK ITHALAT IHRACAT SANAYI VE TICARET ANONIM SIRKETI
+		country: TR
+		biz: large-scale infrastructure construction
+		addr: Ayisigi Sitesi D:38 No:18 Yukari Ovecler Mahallesi 1276 Caddesi Cankaya, Ankara, Central Anatolia, 06460
+		code: 16003746
+		reg: 1973-01-01
+		officer: Kiyasi SENTURK (TR)
 39	BAYERISCHE LANDESBANK MUNICH
+		country: DE
+		addr: Brienner Strasse 18, Munich, Bayern, 80333
+		biz: banking
+		code: HRA76030
+		lei: VDYMYTQGZZ6DU0912C88
+		reg: 1972-06-27
 40	BENARDO SOLUTIONS LLP
+		code: OC353233
+		country: UK
+		addr: Cornwall Buildings 45-51 Newhall Street, Office 330, Birmingham, B3 3QR
+		reg: 2010-03-15
+		dis: 2014-10-28
+		officer: CONSULTING GROUP CORP (BZ)
+		officer: TRADE INVEST SYSTEM LIMITED (BZ)
 41	BENTCARD IMPORT LLP
+		code: OC369315
+		country: UK
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2016-04-19
+		reg: 2011-10-31
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
+		lei: 54930007FGRO3F0RZ382
 42	BERGFOX ALLIANCE LLP
+		country: UK
+		code: OC372748
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2015-10-06
+		reg: 2012-02-23
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
 43	BERTEX SYSTEM LTD
+	BERTEX HOLDING LIMITED
+		country: CY
+		code: HE119085
+		note: assuming this is the known shell company involved in RU-related fraud
+		reg: 2001-03-16
+		dis: 2021-08-06
+		addr: Akropoleos, 59-61, Floor 3, Flat 301, 2012, Levkosia, Cyprus
+		officer: Nikos AVRAAMIDIS (CY)
 44	BHW PROJECTS LLP
+		country: UK
+		code: OC368144
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW
+		dis: 2014-05-06
+		reg: 2011-09-19
+		officer: LUXHOLD LTD. (SC)
+		officer: RAINHOLD LTD. (SC)
+99	EUROILGAS INDUSTRIES PLC
+		country: UK
+		code: 05716053
+		reg: 2006-02-21
+		dis: 2019-01-22
+		addr: 85 Great Portland Street, First Floor, London, England, W1W 7LT
+		officer: BILOXI GLOBAL INC.
+		officer: Khagani BASHIROV (FR)
 45	BILOXI GLOBAL INC.
-46	BKCHCNBJ
-47	BKTRUS33
+		country: VG
+		code: 465020
+		reg: 2008-02-18
+		addr: Wickhams Cay 1, De Castro Street, 30, P.O.Box 4519, Road Town, Tortola, British Virgin Islands
+46	BANK OF CHINA
+	BKCHCNBJ
+		code: FC002851
+		addr: No 1 Fuxingmen Nei Dajie, Beijing, Peoples Republic Of China, 100818, China
+		country: CN
+		officer: Zhao CAI (CN)
+		biz: banking
+		reg: 1983-10-31
+		lei: 213800DXECSXBR79QK58
+47	DEUTSCHE BANK TRUST COMPANY AMERICAS
+	BKTRUS33
+	BANKERS TRUST COMPANY
+		country: US
+		addr: 1 Columbus Circle, New York, NY
+		lei: 8EWQ2UQKS07AKK8ANH81
+		reg: 1903-03-05
+		related: DEUTSCHE BANK AG
+		biz: banking
+		sanction: https://opencheck.world/?lei=8EWQ2UQKS07AKK8ANH81
+		sanction: https://www.opensanctions.org/entities/NK-eFCBobC4JzPJxwQoGGkCzH/
+		sanction: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20TRUST%20COMPANY%20AMERICAS
 48	BONDWEST LLP
+		country: UK
+		code: OC371790
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2016-01-19
+		reg: 2012-01-26
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
 49	BONINVEST LLP
-50	BONWEST INDUSTRIAL  LLP
+		country: UK
+		code: OC363814
+		addr: Suite 1 The Studio, St. Nicholas Close, Elstree, Hertfordshire, WD6 3EW
+		dis: 2014-11-18
+		reg: 2011-04-13
+		officer: FORMOND INC. (MH)
+		officer: PRIMECROSS INC. (MH)
+		officer: IRELAND & OVERSEAS ACQUISITIONS LTD. (BZ)
+		officer: MILLTOWN CORPORATE SERVICES LTD (BZ)
+50	BONWEST INDUSTRIAL LLP
+	BONWEST INDUSTRIAL  LLP
+		code: OC371947
+		country: UK
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2016-07-12
+		reg: 2012-02-01
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
 51	BONWILL PROJECTS LLP
-52	BORFIT BORU VE EK PARCALARI SAN.TIC
-53	BOTKGB2L
+		country: UK
+		code: OC380720
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2017-11-21
+		reg: 2012-12-04
+		officer: KENMARK INC. (DM)
+		officer: OSTBERG LTD. (DM)
+52	BORFIT BORU VE EK PARCALARI SANAYI TICARET LIMITED SIRKETI
+	BORFIT BORU VE EK PARCALARI SAN.TIC
+		country: TR
+		addr: No:6 Sanayi Mahallesi Adiguzel Sokak Pendik, Istanbul, Marmara, 34906
+		biz: building materials
+		reg: 2007-06-20
+		code: 630242
+53	MUFG BANK, LTD.
+	THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.
+	BOTKGB2L
+		country: UK
+		code: BR002013
+		addr: Ropemaker Place 25 Ropemaker Street, London, EC2Y 9AN
+		biz: banking
+		sanction: https://search.openaleph.org/search?limit=30&q=MUFG%20BANK%2C%20LTD.
+		sanction: https://www.opensanctions.org/search/?q=MUFG+BANK%2C+LTD.
 54	BRADFIELD INVESTMENTS LTD.
+		country: VG
+		code: 137940
+		sanction: https://search.openaleph.org/entities/icijol-20030717.c9175b6d3d57ae38abb7cf29b8654780c74222dc
+		reg: 1995-02-24
+		note: possibly operating in Gibraltar and Bahamas
 55	BRENTON BUSINESS LP
+	BRENTON BUSINESS L.P.
+		country: UK
+		code: SL010012
+		addr: 1/2 35 Taits Lane, Dundee, Scotland, DD2 1DZ
+		reg: 2011-12-13
 56	BRIGHT LINE MARITIME LLP
+		code: OC360814
+		country: UK
+		addr: Intershore Suites Vernon House, Sicilian Avenue, London, WC1A 2QS
+		dis: 2014-03-04
+		reg: 2011-01-12
+		officer: Beryl Cynthia ALCINDOR (SC)
+		officer: Annabelle Jachintha JEAN-LOUIS (SC)
 57	BSMAX LLP
+		code: OC334604
+		country: UK
+		addr: Coddan Cpm Ltd, 124 Baker Street, London, W1U 6TY
+		dis: 2017-05-15
+		reg: 2008-02-06
+		officer: CODDAN NOMINEE ADMINISTRATOR LTD (SC)
+		officer: CODDAN NOMINEE SUBSCRIBER LTD (SC)
+		officer: CODDAN MANAGER LIMITED (SC)
+		officer: CODDAN CPM (UK) LIMITED (VG)
+		note: The UK Insolvency Service found that BSMAX LLP and another opaque entity filed fraudulent accounts showing tens of billions of pounds in turnover, using nominated members and forged accountant credentials.
 58	CAMBELL UNIVERSAL LLP
+		code: OC324779
+		country: UK
+		addr: Suite 1, The Studio, St. Nicholas Close, Elstree, Hertfordshire, WD6 3EW
+		dis: 2014-07-22
+		reg: 2006-12-12
+		officer: INTRAHOLD A.G. (SC)
+		officer: MONOHOLD A.G. (SC)
+		officer: IRELAND & OVERSEAS ACQUISITIONS LIMITED (BZ)
+		officer: MILLTOWN CORPORATE SERVICES LIMITED (BZ)
 59	CAPTRON MERCHANTS LLP
+		code: OC373296
+		country: UK
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2015-10-20
+		reg: 2012-03-13
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
 60	CARGOSTAR LLP
+		code: OC381681
+		country: UK
+		addr: 60 Larchmont Road, Leicester, England, LE4 0 BE
+		dis: 2016-06-28
+		reg: 2013-01-17
+		officer: CONSULTEXA LTD (UK)
+		officer: CORPOREX LIMITED (BZ)
+		officer: FINANCIUM LIMITED (BZ)
+
 61	CARTELORT PRODUCTS LTD
 62	CARTFIELD TRADE L.P.
 63	CASPIAN MOBILE LTD.
