@@ -131,15 +131,15 @@ other words, who's making a cash withdrawal at the laundered end of a
 scheme? Because without that you won't *catch* any arch-villains at
 the top. Three words: **follow the money**.
 
-This gets into more complex issues:
+This gets us into more complex issues:
 
   - [*identity intelligence*](https://senzing.com/what-is-identity-intelligence/)
   - [*entity resolution*](https://senzing.com/what-is-entity-resolution/)
   - [*ultimate beneficial ownership*](https://www.beneficialownership.co.uk/)
   - [*sanctions*](https://sanctionslist.ofac.treas.gov/Home/SdnList)
 
-... and more, where graph technologies and AI tooling help
-investigators confront the global kleptocracy.
+... where graph technologies and AI tooling help investigators
+confront the global kleptocracy.
 
 This problem is massive. It's been gaining momentum, and isn't going
 away anytime soon. Check out a sampler of sources about recent money
@@ -180,7 +180,7 @@ Starting with the OCCRP dataset, we can augment with other data sources to resol
       + UK: [Companies House](https://find-and-update.company-information.service.gov.uk/)
       + VG: [BVI Company Search](https://i-bvi.com/)
 
-  4. Additional data about some of the shell companies involved are available through [IJIC Offshore Leaks](https://offshoreleaks.icij.org/pages/database).
+  4. Additional data about some of the shell companies involved may be available through [IJIC Offshore Leaks](https://offshoreleaks.icij.org/pages/database).
 
 Most of the data described above is available through [OpenSanctions](https://www.opensanctions.org/).
 However in some cases, additional curation will be required.
