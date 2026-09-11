@@ -8,9 +8,9 @@ incident.
 This repo includes three main resources:
 
   * [`ABSTRACT.md`](https://github.com/DerwenAI/azeri_laverie/blob/main/ABSTRACT.md):
-an introduction to the material, description of the processes involved, plus links to primary sources and other resources onling.
+an introduction to this material, descriptions of the processes involved, plus links to primary sources and other resources available online.
   * [`TRADECRAFT.md`](https://github.com/DerwenAI/azeri_laverie/blob/main/TRADECRAFT.md):
-detailed descriptions of how money laundering is performed, plus excerpts from industry experts analyzing this Azerbaijani Laundromat case.
+detailed descriptions of how money laundering gets performed, plus excerpts from industry experts analyzing the Azerbaijani Laundromat case.
   * [`occrp.ipynb`](https://github.com/DerwenAI/azeri_laverie/blob/main/occrp.ipynb):
 a Jupyter notebook which performs forensic auditing on the leaked bank records, using graph algorithms and network analytics to identify criminal tradecraft.
 
