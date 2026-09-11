@@ -547,12 +547,46 @@
 		officer: FORMOND INC. (MH)
 		officer: PRIMECROSS INC. (MH)
 74	CROSSPARK LINES LLP
-
+		code: OC381424
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		reg: 2013-01-08
+		dis: 2017-06-20
+		officer: KENMARK INC. (DM)
+		officer: OSTBERG LTD. (DM)
+		country: UK
 75	CURZON CONSULTANTS CORP
+	CURZON CONSULTANTS CORP.
+		code: 601399
+		country: PA
+		addr: 53 Obarrio Street, Panama
+		reg: 2008-01-25
+		dis: 2026-05-31
 76	CYNOSURE INC.
+		country: US
+		code: 1222993
+		lei: 54930087QLH0D6V7E833
+		reg: 1991-07-09
+		addr: 5 Carlisle Road, Westford, MA 01886
+		biz: laser hair removal equipment
+		officer: Amy TANNENBAUM (US)
+		edd: https://opencheck.world/?lei=54930087QLH0D6V7E833
 77	CYRTOMEX SERVICES LIMITED
+		country: CY
+		code: HE302173
+		edd: https://search.openaleph.org/search?limit=30&q=CYRTOMEX%20SERVICES%20LIMITED
+		reg: 2012-03-02
+		addr: Demetriou Building 2, Floor 1, Flat/Office 12, 1 Apriliou 47, 3117 Limassol, Cyprus
+		officer: RMI PROXY & SECRETARY LTD (CY)
+		dis: 2021-04-21
 79	DANBELL IMPORT LLP
 	DANBELL  IMPORT  LLP
+		code: OC371965
+		country: UK
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2016-07-19
+		reg: 2012-02-01
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
 80	DANSKE BANK A/S EESTI FILIAAL
 		biz: banking
 		code: 11488826
