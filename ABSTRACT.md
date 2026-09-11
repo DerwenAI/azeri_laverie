@@ -36,7 +36,7 @@ For detailed analysis of this incident, see _The Data Money Files_ S1:E3
 where authors Ray Blake and Graham Barrow describe
 > "Simple and obvious clues that a given account is laundering money that if you know what you're looking for, stick out a mile."
 
-Additional analysis by The Sentry is available at
+Additional analysis by *The Sentry* is available at
 <https://atlas.thesentry.org/azerbaijan-aliyev-empire/>
 
 
@@ -46,11 +46,11 @@ Of the 438 entities named in the wire transfers, 45 are duplicates.
 In other words, more than 10% duplicates rate -- where the typical
 rate of entity mismatch is 10-30% in enterprise data.
 
-Be cautious about any use AI services, agents, and related search
-engines (e.g., Google) to research this kind of data, since core
-elements of fraud tradecraft rely on "one letter off" or "one word
-off" changes to names to make shell companies appear legit -- and this
-is precisely the mistake which the "AI" services tend to amplify.
+Be cautious about use of AI services, agents, and related search
+engines (e.g., Google) to research this kind of data.
+Core elements of fraud techniques rely on "one letter off" or "one
+word off" changes to names, to make shell companies seem more legit.
+This is **precisely** the mistake which AI services tend to amplify.
 
 
 ## The tutorial
