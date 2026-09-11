@@ -234,8 +234,8 @@
 		code: 01026167
 		lei: G5GSEF7VJP5I7OUK5573
 		sanction: https://www.opensanctions.org/entities/NK-5XuAeTe3aJMe6HKbHA5Syj/
-		sanction: https://opencheck.world/?lei=2549003Q5J2G7ALNU316
-		sanction: https://search.openaleph.org/search?limit=30&q=BARCLAYS%20BANK%20PLC
+		edd: https://opencheck.world/?lei=2549003Q5J2G7ALNU316
+		edd: https://search.openaleph.org/search?limit=30&q=BARCLAYS%20BANK%20PLC
 38	BAYBURT GROUP CONSTRUCTION LTD
 	BAYBURT GRUP INSAAT NAKLIYAT MADENCILIK ITHALAT IHRACAT SANAYI VE TICARET ANONIM SIRKETI
 		country: TR
@@ -293,7 +293,7 @@
 		reg: 2011-09-19
 		officer: LUXHOLD LTD. (SC)
 		officer: RAINHOLD LTD. (SC)
-99	EUROILGAS INDUSTRIES PLC
+0.01	EUROILGAS INDUSTRIES PLC
 		country: UK
 		code: 05716053
 		reg: 2006-02-21
@@ -324,9 +324,9 @@
 		reg: 1903-03-05
 		related: DEUTSCHE BANK AG
 		biz: banking
-		sanction: https://opencheck.world/?lei=8EWQ2UQKS07AKK8ANH81
+		edd: https://opencheck.world/?lei=8EWQ2UQKS07AKK8ANH81
 		sanction: https://www.opensanctions.org/entities/NK-eFCBobC4JzPJxwQoGGkCzH/
-		sanction: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20TRUST%20COMPANY%20AMERICAS
+		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20TRUST%20COMPANY%20AMERICAS
 48	BONDWEST LLP
 		country: UK
 		code: OC371790
@@ -376,14 +376,27 @@
 		code: BR002013
 		addr: Ropemaker Place 25 Ropemaker Street, London, EC2Y 9AN
 		biz: banking
-		sanction: https://search.openaleph.org/search?limit=30&q=MUFG%20BANK%2C%20LTD.
+		edd: https://search.openaleph.org/search?limit=30&q=MUFG%20BANK%2C%20LTD.
 		sanction: https://www.opensanctions.org/search/?q=MUFG+BANK%2C+LTD.
 54	BRADFIELD INVESTMENTS LTD.
 		country: VG
 		code: 137940
-		sanction: https://search.openaleph.org/entities/icijol-20030717.c9175b6d3d57ae38abb7cf29b8654780c74222dc
+		edd: https://search.openaleph.org/entities/icijol-20030717.c9175b6d3d57ae38abb7cf29b8654780c74222dc
 		reg: 1995-02-24
 		note: possibly operating in Gibraltar and Bahamas
+		officer: MMG BAHAMAS LTD. (BS) 
+0.03	MMG BAHAMAS LTD.
+	MMG MANAGEMENT CORP.
+	MORGAN & MORGAN BAHAMAS
+		country: BS
+		code: 176696
+		reg: 2017-07-03
+		biz: legal services
+		edd: https://search.openaleph.org/search?q=MMG%20BAHAMAS%20LTD.
+		edd: https://opencheck.world/?lei=254900ABHCZ12OFUCP06
+		officer: Laverne THOMPSON (BS)
+		addr: Suite 102, Saffrey Square Bay Street & Bank Lane NASSAU, New Providence, Bahamas
+		lei: 254900ABHCZ12OFUCP06
 55	BRENTON BUSINESS LP
 	BRENTON BUSINESS L.P.
 		country: UK
@@ -436,28 +449,129 @@
 		officer: CONSULTEXA LTD (UK)
 		officer: CORPOREX LIMITED (BZ)
 		officer: FINANCIUM LIMITED (BZ)
-
 61	CARTELORT PRODUCTS LTD
+		code: 1441038
+		reg: 2007-10-31
+		country: VG
+		officer: STANDARD DIRECTORS LTD. (BV)
 62	CARTFIELD TRADE L.P.
+		addr: Suite 1 78 Montgomery Street, Edinburgh, Scotland, EH7 5JA
+		country: UK
+		code: SL008371
+		reg: 2010-11-08
 63	CASPIAN MOBILE LTD.
+		addr: Karpich Street 14/1, Baku, Azerbaijan, AZ0022
+		reg: 1999-10-01
+		biz: mobile phone import
+		country: AZ
 64	CAYREST EXPORT LLP
+		code: OC365542
+		country: UK
+		addr: Cornwall Buildings 45-51 Newhall Street, Office 330, Birmingham, United Kingdom, B3 3QR
+		dis: 2015-02-03
+		reg: 2011-06-14
+		officer: PINTOX SYSTEMS LIMITED (MH)
+		officer: SYTEN GROUP LIMITED (MH)
 65	CENTROEXPERT LLP
+		code: OC350705
+		country: UK
+		addr: Enterprise House, 82 Whitchurch Road, Cardiff, CF14 3LX
+		dis: 2014-07-22
+		reg: 2009-12-09
+		officer: INTRAHOLD A.G. (SC)
+		officer: MONOHOLD A.G. (SC)
+		officer: IRELAND & OVERSEAS ACQUISITIONS LTD. (BZ)
+		officer: MILLTOWN CORPORATE SERVICES LTD (BZ)
 67	CLAMOSA LIMITED
 	CLAMOSA LIMITED SUITE 2 23 24 GREAT
+		biz: wholesale consumer electronics
+		country: UK
+		code: 07805986
+		addr: 44 A The Green, Warlingham, Surrey, CR6 9NA
+		dis: 2017-07-11
+		reg: 2011-10-11
+		officer: Nancy BENNETT (SA)
+		officer: ABS SECRETARY SERVICES LTD. (SC)
+		officer: Pamela Natasha POUPONNEAU (SC)
 68	CLIMBFREE SOLUTIONS LIMITED
+		country: UK
+		code: 05239730
+		biz: agents specialised in the sale of other particular products
+		addr: 48 Queen Anne Street, London, W1G 9JJ
+		dis: 2015-05-05
+		reg: 2004-09-23
+		officer: BONITA LLC (US)
+		officer: Juchun LEE (SK)
+		officer: TRANSHOLD CORPORATION LIMITED (HK)
+		officer: BRIGHTON SECRETARY LTD (UK)
+		officer: Danny BANGER (IE)
+		officer: BRIGHTON DIRECTOR LTD (UK)
 69	COMMERZBANK AG
 	COBADEFFXXX
+		country: DE
+		addr: Kaiserstrasse 16, Frankfurt am Main, Hessen, 60261
+		biz: banking
+		sanction: https://www.opensanctions.org/entities/NK-h2QY8PrgDim7PmCY3T9bKM/
+		code: HRB32000
+		reg: 1958-06-30
 70	CONATIO LIMITED
-71	CONTRATECH SALES  LLP
+		country: CY
+		code: HΕ270083
+		reg: 2010-07-06
+		dis: 2018-05-16
+		officer: Evgeny GOLIKOV (CY)
+		addr: Prodromou, 41, Rita Court 50, Floor 4, Flat/Office 401, 1048, Nicosia, Cyprus
+71	CONTRATECH SALES LLP
+	CONTRATECH SALES  LLP
+		country: UK
+		code: OC371955
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW
+		dis: 2014-09-23
+		reg: 2012-02-01
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
 72	CREDILEX LLP
+		country: UK
+		code: OC370953
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
+		dis: 2014-08-05
+		reg: 2011-12-21
 73	CROFTLINK EXPORT LLP
+		code: OC365095
+		country: UK
+		addr: Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW
+		dis: 2014-01-21
+		reg: 2011-05-31
+		officer: FORMOND INC. (MH)
+		officer: PRIMECROSS INC. (MH)
 74	CROSSPARK LINES LLP
+
 75	CURZON CONSULTANTS CORP
 76	CYNOSURE INC.
 77	CYRTOMEX SERVICES LIMITED
 79	DANBELL IMPORT LLP
 	DANBELL  IMPORT  LLP
 80	DANSKE BANK A/S EESTI FILIAAL
+		biz: banking
+		code: 11488826
+		country: EE
+		reg: 2008-04-02
+		dis: 2020-06-26
+		addr: Narva mnt 11, 15015, Tallinn, Estonia
+		related: DANSKE BANK A/S
+0.02	DANSKE BANK A/S
+		biz: banking
+		code: 61126228
+		country: DE
+		lei: MAES062Z21O4RZ2U7M96
+		reg: 1992-12-31
+		addr:  Bernstorffsgade 40, 1577 København V, Denmark
+		sanction: https://www.opensanctions.org/entities/us-sec-harm-danske-bank-a-s/
+		edd: https://opencheck.world/?lei=MAES062Z21O4RZ2U7M96
+		edd: https://search.openaleph.org/search?limit=30&q=DANSKE%20BANK
+
 81	DARTLEY CAPITAL LLP
 82	DATEMILE ALLIANCE LLP
 83	DAYFORD SALES LLP
@@ -469,6 +583,7 @@
 89	DERWOTS PRODUCTIONS LIMITED
 91	DEUTSCHE BANK AG
 	DEUTDEFFXXX
+		biz: banking
 92	DEXPORT UNIVERSAL  LLP
 93	DEXPORT UNIVERSAL LLP
 95	DIGIMARK MERCHANTS LLP
@@ -616,6 +731,7 @@
 236	MARAK CO LIMITED
 237	MARCOS TRADING LTD.
 238	MASHREQBANK PSC
+		biz: banking
 239	MAXTON ENTERPRISE S.A.
 240	MEGA TURIZM TASIMACILIK ,TARIM ORMA
 241	MERCEDES-BENZ BELGIUM LUXE
@@ -700,12 +816,14 @@
 320	ROYCCAT2X
 321	RUSMEDIZD TRADE LLP
 322	RUSSIAN AGRICULTURAL BANK
+		biz: banking
 323	SABA CARS GERMANY GMBH
 324	SAFAR A SAFAROV
 325	SAMITEX TRADING LLP
 326	SANDLAND OVERSEAS
 327	SANTRAL ELEKTRIK LP
 328	SBERBANK OF RUSSIA
+		biz: banking
 329	SCHLUETER + MAACK
 330	SDT TRADE LLP
 331	SEABON LIMITED
@@ -716,6 +834,7 @@
 336	SEMRA UZUNCIMEN
 337	SEVEN MILE SHIPPING LTD
 338	SHANGHAI PUDONG DEV BANK
+		biz: banking
 339	SILVERPORT ALLIANCE LTD.
 340	SIRONA DENTAL SYSTEMS GMBH
 341	SKN ELECTRICAL SERVICES LIMITED
