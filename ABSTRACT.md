@@ -3,12 +3,15 @@
 **Paco Nathan**, [Senzing](https://senzing.com/)  
 2026-09-11
 
-In general, this tutorial is about the "weapons of mass corruption" --
+It's been said that almost any kind of financial transaction can be
+turned into a *money laundering* scam.
+
+This material is about confronting the "weapons of mass corruption" --
 to paraphrase author [Gil Durán](https://www.gilduran.com/).
-One underlying issue is that financial crimes plus other fraud and
-corruption conducted by criminal networks tend to leverage systematic
-problems in data infrastructure.
-Means for rectifying these problems are described by
+Notably, financial crimes and other fraud and corruption conducted by
+criminal networks which tend to leverage systematic problems in data
+infrastructure as well as shortcomings of human nature and perception.
+Means for rectifying these problems are described by the practices of
 [*identity intelligence*](https://senzing.com/what-is-identity-intelligence/).
 
 The primary dataset used here comes from:
@@ -25,11 +28,19 @@ Our analysis builds on a prior project led by Clair Sullivan:
 
 ## Legal fallout
 
-Danske Bank subsequently pleaded guilty to fraud charges by the
-US DOJ in Dec 2022 and paid ~$2B fines and settlements across
-US and EU authorities. Two Lithuanian facilitators connected to
-the scheme, Irene ELLERT and Arūnas MAČĖNAS, were sentenced to
-9 and 7 years respectively in Feb 2024.
+These transactions were leaked in 2018 by a bank employee at the
+Estonian branch named
+[Howard WILKINSON](https://kkc.com/whistleblower-case-archive/howard-wilkinson/),
+acting as a whistleblower.
+Subsequent investigations found that upwards of $800 billion was
+laundered through **one branch of Danske Bank in Estonia** during the
+early/mid 2010s.
+
+Danske Bank plead guilty to fraud charges by the US DOJ in Dec 2022
+and paid ~$2B fines and settlements across US and EU authorities.
+Two Lithuanian facilitators connected to the scheme, Irene ELLERT and
+Arūnas MAČĖNAS, were sentenced to 9 and 7 years respectively in Feb
+2024.
 
 For detailed analysis of this incident, see _The Data Money Files_ S1:E3
 ["The Billion Dollar Shuffle"](https://youtu.be/Gtp7U0iq-2I?feature=shared)
@@ -50,13 +61,13 @@ Be cautious about use of AI services, agents, and related search
 engines (e.g., Google) to research this kind of data.
 Core elements of fraud techniques rely on "one letter off" or "one
 word off" changes to names, to make shell companies seem more legit.
-This is **precisely** the mistake which AI services tend to amplify.
+This is **precisely** the kind of mistake which AI services amplify.
+In other words, use agents properly -- via "tools" -- or the agents
+may compound identity errors which can cause serious legal liabilities
+at machine speed at scale.
 
 
 ## The tutorial
-
-It's been said that almost any kind of financial transaction can be
-turned into a *money laundering* scam.
 
 Earlier versions of this "How to get started in money laundering"
 tutorial were standing-room-only at other conferences. Apparently,
@@ -77,11 +88,7 @@ In this tutorial, based on the
 [https://github.com/DerwenAI/azeri\_laverie](https://github.com/DerwenAI/azeri_laverie)
 GitHub repo, we'll explore data from the
 [Azerbaijani Laundromat](https://www.occrp.org/en/project/the-azerbaijani-laundromat)
-incident which were leaked in 2018 by a whistleblower,
-[Howard Wilkinson](https://kkc.com/whistleblower-case-archive/howard-wilkinson/).
-Subsequent investigations found
-that upwards of $800 billion was laundered through **one branch of
-Danske Bank in Estonia** during the early/mid 2010s.
+incident which were leaked in 2018 by Howard Wilkinson.
 
 Russia's federal bank had asked the US and EU to check suspicious
 activity at this branch **twice**, while regulators had their hands
@@ -311,8 +318,8 @@ and other financial crime:
   * *data quality*: enterprise data generally has an entity mismatch rate of ~10% (up to 30% in some instances)
   * *customer relations*: bank executives are often reluctant to report their top customers for potential crimes
   * *global banking*: some wire transfers must go through intermediaries, e.g., *correspondent banks*, in jurisdictions which tend to be sus
-  * *legacy analytics*: fraud analyst teams which don't use ER and graph analytics tend to lose sight of crimes
-  * *influence campaigns*: organized crime in some jurisdictions (US, IT, etc.) lobby corrupt officials to erode corporate transparency
+  * *legacy analytics*: fraud analyst teams which don't use ER and graph analytics tend to miss financial crimes
+  * *influence campaigns*: organized crime in some jurisdictions (US, IT, etc.) lobby corrupt officials to erode *corporate transparency*
 
 While we cannot solve all of these problems, clearly an anti-fraud
 analyst equipped with graph analytics on a laptop could have spotted
@@ -326,7 +333,7 @@ Ultimately, what's desperately needed is for more jurisdictions to
 make their company registry data available for public use of
 beneficial ownership disclosures.
 Initiatives such as [Open Ownership](https://www.openownership.org/)
-seek to promote exactly this.
+seek to promote and achieve exactly this.
 
 
 ## Related news articles
