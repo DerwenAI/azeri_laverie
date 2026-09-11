@@ -605,8 +605,16 @@
 		sanction: https://www.opensanctions.org/entities/us-sec-harm-danske-bank-a-s/
 		edd: https://opencheck.world/?lei=MAES062Z21O4RZ2U7M96
 		edd: https://search.openaleph.org/search?limit=30&q=DANSKE%20BANK
-
 81	DARTLEY CAPITAL LLP
+		code: OC371557
+		country: UK
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2015-09-01
+		reg: 2012-01-18
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
+
+
 82	DATEMILE ALLIANCE LLP
 83	DAYFORD SALES LLP
 84	DELFRONT IMPORT LLP
