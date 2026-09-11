@@ -107,6 +107,9 @@ _The Data Money Files_ S1:E3
 The authors Ray Blake and Graham Barrow describe this as:
 > "Simple and obvious clues that a given account is laundering money that if you know what you're looking for, stick out a mile."
 
+While not explicitly stated, we assume that this podcast material
+is copyright [The Dark Money Files Ltd](https://www.thedarkmoneyfiles.com/)
+
 
 ### total volume and daily volumes
 

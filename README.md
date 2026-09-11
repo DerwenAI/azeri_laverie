@@ -3,6 +3,18 @@
 Money laundering graph data analysis based on leaked banking data
 provided by OCCRP regarding the
 [Azerjaibani Laundromat](https://www.occrp.org/en/project/the-azerbaijani-laundromat)
+incident.
+
+There are three areas of resources:
+
+  * <ABSTRACT.md> -- an introduction to the material, description of the processes involved, plus links to primary sources and other resources onling.
+  * <TRADECRAFT.md> -- detailed descriptions of how money laundering is performed, plus excerpts from industry experts analyzing this Azerbaijani Laundromat case.
+  * <occrp.ipynb> -- a Jupyter notebook which performs forensic auditing on the leaked bank records, using graph algorithms and network analytics to identify criminal tradecraft.
+
+**DISCLAIMER:**
+Please note that the data used here may contain legitimate business
+transactions, and that the presence of any name in this dataset does
+not necessarily imply any intentional wrongdoing.
 
 
 ## Getting Started
@@ -25,11 +37,5 @@ Source code plus any logo, documentation, and coding examples have an
 [MIT license](https://spdx.org/licenses/MIT.html) which is succinct
 and simplifies use in commercial applications.
 
-All materials herein are Copyright © 2026 Senzing, Inc.
+Unless otherwise noted, all materials herein are Copyright © 2026 Senzing, Inc.
 </details>
-
-
-DISCLAIMER:
-Please note that the data used here may contain legitimate business
-transactions, and that the presence of any name in this dataset does
-not necessarily imply any intentional wrongdoing.
