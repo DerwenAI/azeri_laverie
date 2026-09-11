@@ -106,16 +106,17 @@ became open data. We'll discuss typical ways to devise money
 laundering schemes, then look at how to identify financial crime
 "tradecraft" within these wire transfers by reframing them as a graph
 
-TL;DR: large criminal networks do the crimes, though typically not the
-laundering. For that part they hire professionals: large armies of
-"kinda sus" law firms, financial advisors, CPAs, title companies,
-property management, and so on. These shadowy services exist worldwide
-to fulfill the needs of bad guys, such as oligarchs who become
-billionaires by profiting from human trafficking, illegal weapons
-trade, ransomware against hospitals, political influence campaigns,
-illegal fishing fleets, and so on. Using external professionals is
-much like hiring an Uber driver for your getaway car, then tipping
-well -- except the driver specializes in obscured crimes at scale.
+**TL;DR:* large criminal networks do the crimes, though typically not
+the laundering. For that part they hire professionals: large armies of
+"kinda sus" law firms, financial advisors, CPAs, real estate, title
+companies, property management, and so on.
+These shadowy services exist worldwide to fulfill the needs of bad
+guys, such as oligarchs who become billionaires by profiting from
+human trafficking, illegal weapons trade, ransomware against
+hospitals, political influence campaigns, illegal fishing fleets, and
+so on. Using external professionals is much like hiring an Uber driver
+for your getaway car, then tipping well -- except the driver
+specializes in obscured crimes at scale.
 
 By leveraging graph algorithms and visualizations, we'll perform some
 forensic accounting on the leaked data, showing how to spot the

@@ -25,59 +25,59 @@ journalism, and regulatory guidance.
 
 ### Placement techniques
 
-1. **Structuring (or "smurfing")** — breaking large cash deposits into many smaller ones, each kept below the reporting threshold (e.g. $10,000 in the US, €10,000 in the EU). Often spread across multiple branches, accounts, or "smurfs" (people acting on behalf of the launderer).
+1. **Structuring (or "smurfing")** -- breaking large cash deposits into many smaller ones, each kept below the reporting threshold (e.g. $10,000 in the US, €10,000 in the EU). Often spread across multiple branches, accounts, or "smurfs" (people acting on behalf of the launderer).
 
-2. **Cash-intensive front businesses** — running illicit cash through legitimate-looking businesses that genuinely take a lot of cash (car washes, laundromats, nail bars, bars and nightclubs, parking lots, vending machines), inflating their reported revenues.
+2. **Cash-intensive front businesses** -- running illicit cash through legitimate-looking businesses that genuinely take a lot of cash (car washes, laundromats, nail bars, bars and nightclubs, parking lots, vending machines), inflating their reported revenues.
 
-3. **Currency exchanges and money service businesses** — using bureaux de change, remittance firms, or unregistered hawala-style networks to convert or move cash with weaker KYC than a bank.
+3. **Currency exchanges and money service businesses** -- using bureaux de change, remittance firms, or unregistered hawala-style networks to convert or move cash with weaker KYC than a bank.
 
-4. **Cash smuggling** — physically transporting bulk cash across borders to a jurisdiction with looser controls, then depositing it there.
+4. **Cash smuggling** -- physically transporting bulk cash across borders to a jurisdiction with looser controls, then depositing it there.
 
-5. **Mixing illicit cash with legitimate takings** — depositing dirty cash alongside the genuine receipts of a business so the totals look plausible.
+5. **Mixing illicit cash with legitimate takings** -- depositing dirty cash alongside the genuine receipts of a business so the totals look plausible.
 
 
 ### Layering techniques
 
-6. **Shell companies** — anonymous entities (often LLCs, LLPs, or international business companies) with nominee directors and registered agents, used to hold accounts and move funds while hiding beneficial ownership.
+6. **Shell companies** -- anonymous entities (often LLCs, LLPs, or international business companies) with nominee directors and registered agents, used to hold accounts and move funds while hiding beneficial ownership.
 
-7. **Chains of wire transfers across jurisdictions** — moving funds through multiple banks in multiple countries, especially using secrecy or weakly-regulated jurisdictions, to break the audit trail.
+7. **Chains of wire transfers across jurisdictions** -- moving funds through multiple banks in multiple countries, especially using secrecy or weakly-regulated jurisdictions, to break the audit trail.
 
-8. **Correspondent and "nested" banking relationships** — exploiting the fact that a small foreign bank's transactions are bundled through a larger correspondent bank that doesn't see the underlying customers.
+8. **Correspondent and "nested" banking relationships** -- exploiting the fact that a small foreign bank's transactions are bundled through a larger correspondent bank that doesn't see the underlying customers.
 
-9. **Trade-based money laundering (TBML)** — over- or under-invoicing goods, multiple invoicing for the same shipment, phantom shipments, or misdescribing goods so that value moves between countries disguised as trade payments.
+9. **Trade-based money laundering (TBML)** -- over- or under-invoicing goods, multiple invoicing for the same shipment, phantom shipments, or misdescribing goods so that value moves between countries disguised as trade payments.
 
-10. **Mirror trades** — buying securities in one country/currency and simultaneously selling equivalent securities in another, moving value across borders without an obvious wire transfer.
+10. **Mirror trades** -- buying securities in one country/currency and simultaneously selling equivalent securities in another, moving value across borders without an obvious wire transfer.
 
-11. **Back-to-back loans** — laundering money by "lending" it to yourself: dirty money is placed offshore, then a related entity in another jurisdiction takes out a loan secured against it, so the funds appear as legitimate borrowings.
+11. **Back-to-back loans** -- laundering money by "lending" it to yourself: dirty money is placed offshore, then a related entity in another jurisdiction takes out a loan secured against it, so the funds appear as legitimate borrowings.
 
-12. **Round-tripping** — sending funds offshore and bringing them back as foreign "investment," often through tax havens.
+12. **Round-tripping** -- sending funds offshore and bringing them back as foreign "investment," often through tax havens.
 
-13. **Casinos and gambling** — buying chips with cash, gambling minimally, then cashing out for a check or wire as "winnings." Online gambling and prepaid betting accounts are modern variants.
+13. **Casinos and gambling** -- buying chips with cash, gambling minimally, then cashing out for a check or wire as "winnings." Online gambling and prepaid betting accounts are modern variants.
 
-14. **Real estate transactions** — buying property (often through shells or trusts), sometimes in cash, and reselling it; or using rapid resales ("flipping") with manipulated prices.
+14. **Real estate transactions** -- buying property (often through shells or trusts), sometimes in cash, and reselling it; or using rapid resales ("flipping") with manipulated prices.
 
-15. **High-value goods** — jewelry, gold, art, antiques, classic cars, and luxury watches, which can store value, move physically, and trade through opaque markets.
+15. **High-value goods** -- jewelry, gold, art, antiques, classic cars, and luxury watches, which can store value, move physically, and trade through opaque markets.
 
-16. **Cryptocurrency techniques** — using mixers/tumblers, chain-hopping between coins, privacy coins, peel chains, decentralized exchanges, and unhosted wallets to break blockchain traceability.
+16. **Cryptocurrency techniques** -- using mixers/tumblers, chain-hopping between coins, privacy coins, peel chains, decentralized exchanges, and unhosted wallets to break blockchain traceability.
 
-17. **Prepaid cards and stored-value instruments** — loading funds onto cards that can be used or cashed out across borders with limited KYC.
+17. **Prepaid cards and stored-value instruments** -- loading funds onto cards that can be used or cashed out across borders with limited KYC.
 
-18. **Insurance products** — buying single-premium life insurance or annuities and then surrendering them early, often at a loss, to receive an apparently clean payout.
+18. **Insurance products** -- buying single-premium life insurance or annuities and then surrendering them early, often at a loss, to receive an apparently clean payout.
 
 
 ### Integration techniques
 
-19. **Property purchases for personal use** — once layered, funds buy houses, apartments, or commercial real estate held in the launderer's or a relative's name.
+19. **Property purchases for personal use** -- once layered, funds buy houses, apartments, or commercial real estate held in the launderer's or a relative's name.
 
-20. **Investing in legitimate businesses** — acquiring or capitalizing real companies, sometimes loss-making ones, to provide ongoing "income."
+20. **Investing in legitimate businesses** -- acquiring or capitalizing real companies, sometimes loss-making ones, to provide ongoing "income."
 
-21. **Loan-back schemes** — the launderer's offshore vehicle "lends" them money domestically; loan repayments then look like normal financial activity.
+21. **Loan-back schemes** -- the launderer's offshore vehicle "lends" them money domestically; loan repayments then look like normal financial activity.
 
-22. **Salaries, fees, and consulting payments to insiders or family members** — paying associates from a controlled company so the money arrives as ordinary employment income.
+22. **Salaries, fees, and consulting payments to insiders or family members** -- paying associates from a controlled company so the money arrives as ordinary employment income.
 
-23. **Fake legal settlements, lawsuits, or gambling winnings** — manufacturing a paper reason for a large, "clean" lump sum to appear in someone's account.
+23. **Fake legal settlements, lawsuits, or gambling winnings** -- manufacturing a paper reason for a large, "clean" lump sum to appear in someone's account.
 
-24. **Charitable foundations and non-profits** — abusing NGOs or foundations as conduits, particularly across borders.
+24. **Charitable foundations and non-profits** -- abusing NGOs or foundations as conduits, particularly across borders.
 
 
 ### Cross-cutting facilitators
@@ -91,7 +91,16 @@ recognize how these persona recur in most schemes:
 
 3. **complicit insiders** at banks who suppress alerts
 
-4. **secrecy jurisdictions** which combine corporate anonymity with weak information-sharing. Large-scale schemes — the Russian Laundromat, the Azerbaijani Laundromat, Danske Estonia, 1MDB, and so on — almost always combining several of the above rather than relying on a single method
+4. **secrecy jurisdictions** which combine corporate anonymity with weak information-sharing.
+Large-scale schemes --
+[Russian Laundromat](https://www.occrp.org/en/project/the-russian-laundromat/),
+[Azerbaijani Laundromat](https://www.occrp.org/en/project/the-russian-laundromat/),
+[Troika Laundromat](https://www.occrp.org/en/project/the-troika-laundromat/),
+[Bottle Laundromat](https://www.transparency.org.uk/news/bottle-laundromat-how-fake-trades-and-british-shell-companies-helped-move-820-million-hot),
+[Proxy Platform](https://www.occrp.org/en/project/the-proxy-platform/),
+[1MDB](https://www.ft.com/content/fce8018c-2b4e-11e9-88a4-c32129756dd8?syn-25a6b1a6=1),
+and so on --
+almost always combine several of the approaches above rather than relying on a single method
 
 
 ---
@@ -245,63 +254,63 @@ episode transcripts:
 Focusing on structural set-up, not the transaction-level mechanics:
 <https://youtu.be/-ahmWY-mFEM?si=2M7o-cMjgTdW7C_d>
 
-1. **"Non-resident portfolio" banking** — running a dedicated stream of accounts at the Estonian branch for customers based outside Estonia (largely Russian and other Central/Eastern European clients), keeping the activity at arm's length from the bank's home jurisdiction.
+1. **"Non-resident portfolio" banking** -- running a dedicated stream of accounts at the Estonian branch for customers based outside Estonia (largely Russian and other Central/Eastern European clients), keeping the activity at arm's length from the bank's home jurisdiction.
 
-2. **Pure "flow" business** — accounts that take in money and send it on, with no lending and almost no credit risk, so the branch needs minimal capital and attracts less prudential scrutiny.
+2. **Pure "flow" business** -- accounts that take in money and send it on, with no lending and almost no credit risk, so the branch needs minimal capital and attracts less prudential scrutiny.
 
-3. **Cross-border corporate layering of the bank itself** — Danish parent → acquired Finnish bank (Sampo) → Estonian branch → Russian-and-CIS customers, so supervision is split across multiple regulators who each see only part of the picture.
+3. **Cross-border corporate layering of the bank itself** -- Danish parent → acquired Finnish bank (Sampo) → Estonian branch → Russian-and-CIS customers, so supervision is split across multiple regulators who each see only part of the picture.
 
-4. **Volume wildly disproportionate to the local economy** — flows peaking around €32bn/year through one branch in a country whose entire GDP was ~€38bn (roughly 90% of GDP through a single branch).
+4. **Volume wildly disproportionate to the local economy** -- flows peaking around €32bn/year through one branch in a country whose entire GDP was ~€38bn (roughly 90% of GDP through a single branch).
 
-5. **Ignoring early-warning signals from foreign regulators** — the Russian Central Bank's alert (via the Danish FSA) about "criminal activity in its pure form, including money laundering" estimated at billions of rubles a month was effectively not acted on.
+5. **Ignoring early-warning signals from foreign regulators** -- the Russian Central Bank's alert (via the Danish FSA) about "criminal activity in its pure form, including money laundering" estimated at billions of rubles a month was effectively not acted on.
 
-6. **Connection to other known laundromats** — the Estonian flows are linked to the Russian Laundromat and the Azerbaijani Laundromat schemes.
-Mirror trades — flagged but deferred to a later episode (buying a security in one currency/country and simultaneously selling it in another to move value across borders).
+6. **Connection to other known laundromats** -- the Estonian flows are linked to the Russian Laundromat and the Azerbaijani Laundromat schemes.
+Mirror trades -- flagged but deferred to a later episode (buying a security in one currency/country and simultaneously selling it in another to move value across borders).
 
-7. **Mirror trades** — flagged but deferred to a later episode (buying a security in one currency/country and simultaneously selling it in another to move value across borders).
+7. **Mirror trades** -- flagged but deferred to a later episode (buying a security in one currency/country and simultaneously selling it in another to move value across borders).
 
 
 ### *The Billion Dollar Shuffle* (Episode 3)
 Walking through transaction-level red flags found within the leaked bank documents:
 <https://youtu.be/Gtp7U0iq-2I?feature=shared>
 
-1. **Rapid in-and-out flow** — funds moved on almost immediately to avoid being frozen if spotted; matched credits and debits each day.
+1. **Rapid in-and-out flow** -- funds moved on almost immediately to avoid being frozen if spotted; matched credits and debits each day.
 
-2. **Very low average overnight balance** relative to total daily turnover — accounts repeatedly emptied at end of day despite huge throughput.
+2. **Very low average overnight balance** relative to total daily turnover -- accounts repeatedly emptied at end of day despite huge throughput.
 
-3. **Structuring / smurfing** — transactions kept consistently just below reporting thresholds (e.g., just under $9,000, $99,000, or €1,000,000), sometimes implying inside knowledge of bank-specific limits.
+3. **Structuring / smurfing** -- transactions kept consistently just below reporting thresholds (e.g., just under $9,000, $99,000, or €1,000,000), sometimes implying inside knowledge of bank-specific limits.
 
-4. **Round-figure transactions** — large round-number transfers (e.g., €50,000, €300,000, $987,000) that don't match the messy numbers of genuine commercial invoicing.
+4. **Round-figure transactions** -- large round-number transfers (e.g., €50,000, €300,000, $987,000) that don't match the messy numbers of genuine commercial invoicing.
 
-5. **Layering** — moving money through chains of accounts in multiple jurisdictions to obscure origin (described as "shuffling the cards").
+5. **Layering** -- moving money through chains of accounts in multiple jurisdictions to obscure origin (described as "shuffling the cards").
 
-6. **Integration** — reinjecting laundered funds into the legitimate economy in non-round amounts to specific recipients, e.g., private school/college fees, property purchases ("entrusting of money for the paying of property").
+6. **Integration** -- reinjecting laundered funds into the legitimate economy in non-round amounts to specific recipients, e.g., private school/college fees, property purchases ("entrusting of money for the paying of property").
 
-7. **UK Limited Liability Partnerships as shell vehicles** — LLPs used because they offer corporate-style anonymity with limited filing obligations.
+7. **UK Limited Liability Partnerships as shell vehicles** -- LLPs used because they offer corporate-style anonymity with limited filing obligations.
 
-8. **Address clustering of shells** — 23 of 29 frequently-recurring LLPs registered at just two addresses (a mansion flat in Earl's Court and a nail bar in Cardiff).
+8. **Address clustering of shells** -- 23 of 29 frequently-recurring LLPs registered at just two addresses (a mansion flat in Earl's Court and a nail bar in Cardiff).
 
-9. **Common nominee designated members** — the same two corporate designated members (Ireland & Overseas Acquisitions Ltd and Milltown Corporate Services Ltd) used across 2,184 LLPs, themselves registered in secrecy jurisdictions (BVI, Belize).
+9. **Common nominee designated members** -- the same two corporate designated members (Ireland & Overseas Acquisitions Ltd and Milltown Corporate Services Ltd) used across 2,184 LLPs, themselves registered in secrecy jurisdictions (BVI, Belize).
 
 10. **Bland, meaningless company names** that give no indication of any actual business.
 
-11. **Mismatch between registered and trading addresses** — registered in West London, trading address in Moscow.
+11. **Mismatch between registered and trading addresses** -- registered in West London, trading address in Moscow.
 
-12. **Mismatched payment descriptions** — credit narratives ("construction equipment") not matching debit narratives ("electronic techniques") on near-identical amounts passing straight through.
+12. **Mismatched payment descriptions** -- credit narratives ("construction equipment") not matching debit narratives ("electronic techniques") on near-identical amounts passing straight through.
 
-13. **Counterparty business mismatch** — entities supposedly trading with each other whose stated industries make no commercial sense as trading partners.
+13. **Counterparty business mismatch** -- entities supposedly trading with each other whose stated industries make no commercial sense as trading partners.
 
-14. **Same counterparty acting as both payer and payee** — the same firm sending money in and receiving money out, atypical of genuine supplier/customer relationships.
+14. **Same counterparty acting as both payer and payee** -- the same firm sending money in and receiving money out, atypical of genuine supplier/customer relationships.
 
 15. **No internet or commercial footprint** for ostensibly trading companies.
 
-16. **Heavy activity from day one** — large transactions starting within days of account opening, before any normal business could have been built up.
+16. **Heavy activity from day one** -- large transactions starting within days of account opening, before any normal business could have been built up.
 
 17. **Multi-currency activity** disproportionate to the entity's apparent size (one LLP transacting in Swiss francs, Estonian crowns, euros, pounds, rubles, and dollars).
 
-18. **Huge gap between filed accounts and bank flows** — LLPs filing Companies House accounts showing £12k–£36k of annual income while moving tens of millions of euros and dollars through their bank accounts in the same period.
+18. **Huge gap between filed accounts and bank flows** -- LLPs filing Companies House accounts showing £12k–£36k of annual income while moving tens of millions of euros and dollars through their bank accounts in the same period.
 
-19. **Self-dealing networks** — remitter, account holder, and ultimate receiver all controlled by the same parties (necessary so the launderers don't lose the money), with deliberate effort to mask the connections.
+19. **Self-dealing networks** -- remitter, account holder, and ultimate receiver all controlled by the same parties (necessary so the launderers don't lose the money), with deliberate effort to mask the connections.
 
 The authors also note how "red flags" compound exponentially, not additively.
 A few of these occurring together is substantially more suspicious
