@@ -15,11 +15,9 @@ The primary dataset used here comes from:
 
  - <https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-raw-data>
 
-These are leaked wire transfer transactions from the _Azerbaijani
-Laundromat_ case during 2012-2014 at the Estonian branch of Danske
-Bank involving thousands of "non-resident accounts", i.e., from
-Russia.
-
+These are wire transfer transactions from the _Azerbaijani Laundromat_
+incident at the Estonian branch of Danske Bank during 2012-2014, which
+involved thousands of "non-resident accounts", i.e., from Russia.
 Our analysis builds on a prior project led by Clair Sullivan:
 
  - <https://github.com/cj2001/senzing_occrp_mapping_demo/>
