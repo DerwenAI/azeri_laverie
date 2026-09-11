@@ -160,8 +160,9 @@ laundering scams and their interdictions:
 
 Graph Enhanced AI track, 1 hour, beginner level:
 
-  * uses Python, [NetworkX](https://networkx.org/en/), [Polars](https://pola.rs/), [Jupyter](https://jupyter.org/), [Senzing](https://mcp.senzing.com/), [Garphield](https://garphield.com/), and more
-  * especially well suited for Public Sector, Finance, Retail
+  * Some background coding in Python is needed
+  * Integrates [NetworkX](https://networkx.org/en/), [Polars](https://pola.rs/), [Jupyter](https://jupyter.org/), [Senzing](https://mcp.senzing.com/), [Garphield](https://garphield.com/), [OpenCheck](https://opencheck.world/), [Placekey](https://www.placekey.io/), and more
+  * This material especially well suited for Public Sector, Finance, Retail
 
 
 ## Replicating results
@@ -186,9 +187,16 @@ Starting with the OCCRP dataset, we can augment with other data sources to resol
   4. Additional data about some of the shell companies involved are available through [IJIC Offshore Leaks](https://offshoreleaks.icij.org/pages/database).
 
 Most of the data described above is available through [OpenSanctions](https://www.opensanctions.org/).
-However in some cases, manual curation will be required.
+However in some cases, additional curation will be required.
+Banks used the term
+[*enhanced due diligence*](https://legal.thomsonreuters.com/blog/enhanced-due-diligence-edd-an-overview/)
+to describe thorough background investigations conducted on high-risk
+business relationships and their transactions.
+Tools such as [OpenCheck](https://opencheck.world/) can be leveraged via 
+[API or an MCP server](https://opencheck.world/api).
+However, in some cases manual searches through company registries may be needed.
 
-With these data sources available, one can run
+With these data sources collected, one can run
 [*entity resolution*](https://senzing.com/what-is-entity-resolution/) (ER),
 for example by using a [Senzing MCP server](https://mcp.senzing.com/) with 
 Anthropic Claude or other AI services.
@@ -212,6 +220,9 @@ by author Jessica Talisman, leveraging a few data models which are based on
   * [Follow The Money](https://followthemoney.tech/)
   * [Beneficial Data Ownership Standard](https://standard.openownership.org/)
   * [sz-semantics](https://github.com/senzing-garage/sz-semantics/wiki/ns)
+
+Note: Jessica Talisman also assisted on defining the semantics used in
+the `sz-semantics` data model.
 
 This produces a *semantic graph*, based on the [*semantic web standards*](https://www.w3.org/RDF/),
 which can be transformed into a *property graph* in [`NetworkX`](https://networkx.org/) using a
@@ -254,6 +265,7 @@ to _follow the money_ in contexts which don't quite pass the "smell test":
   4. Graph query pattern: red-flag companies which are limited partnerships (LLP or LP) registered in the UK (where it's inexpensive, quick, simple, and deliberately permissive) which have officers in offshore tax havens such as Belize, Seychelles, British Virgin Islands, Marshall Islands, and so on -- plus often quite vague [*Standard Industrial Classification*](https://www.sec.gov/search-filings/standard-industrial-classification-sic-code-list) (SIC) codes describing their business activities.
 
   5. Several companies are based in Turkey and Cyprus -- engaged in import/export or construction, which may be legit -- though this can also be a vector for obscuring money laundering activities.
+
 
 ## Key takeaways
 
@@ -304,13 +316,14 @@ civil liabilities for over-reporting -- even as double-jeopardy
 within the same case!
 
 Compounding these tensions and inherent conflicts, there are other
-structural issues which interfere with efforts to identity money
-laundering and other financial crime:
+structural issues which impede efforts to identity money laundering
+and other financial crime:
 
   * *data quality*: enterprise data generally has an entity mismatch rate of ~10% (up to 30% in some instances)
   * *customer relations*: bank executives are often reluctant to report their top customers for potential crimes
-  * *global banking*: international wire transfers sometimes must go through intermediaries in jurisdictions which are sus
+  * *global banking*: some wire transfers must go through intermediaries, e.g., *correspondent banks*, in jurisdictions which tend to be sus
   * *legacy analytics*: fraud analyst teams which don't use ER and graph analytics tend to lose sight of crimes
+  * *influence campaigns*: organized crime in some jurisdictions (US, IT, etc.) lobby corrupt officials to erode corporate transparency
 
 While we cannot solve all of these problems, clearly an anti-fraud
 analyst equipped with graph analytics on a laptop could have spotted
@@ -319,6 +332,12 @@ By augmenting graph technologies with properly combined ER engines (as
 tools) and AI services (for summarizing), anti-fraud teams can
 accelerate their collaborations with FIUs, tax authorities, the IC,
 and so on, to overcome obstacles created by the tradecraft.
+
+Ultimately, what's desperately needed is for more jurisdictions to
+make their company registry data available for public use of
+beneficial ownership disclosures.
+Initiatives such as [Open Ownership](https://www.openownership.org/)
+seek to promote exactly this.
 
 
 ## Related news articles
