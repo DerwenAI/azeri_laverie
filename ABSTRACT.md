@@ -104,7 +104,7 @@ Our dataset includes 4K wire transfers, which entail
 -- a mere 0.36% of the alleged damage, though it's the part which
 became open data. We'll discuss typical ways to devise money
 laundering schemes, then look at how to identify financial crime
-"tradecraft" within these wire transfers by reframing them as a graph.
+"tradecraft" within these wire transfers by reframing them as a graph
 
 TL;DR: large criminal networks do the crimes, though typically not the
 laundering. For that part they hire professionals: large armies of
@@ -117,13 +117,14 @@ illegal fishing fleets, and so on. Using external professionals is
 much like hiring an Uber driver for your getaway car, then tipping
 well -- except the driver specializes in obscured crimes at scale.
 
-By leveraging graph algorithms and visualizations, we'll show how to
-spot the schemes, like, on your laptop. This is something any bank
-*could* afford to do, just that some would rather not accuse their
-largest and most profitable customers of conducting dirty deeds …
-*through the bank*. Perhaps we can assist with the necessary
-analytics, help stick it to the oligarchs and their billionaire-bully
-friends?
+By leveraging graph algorithms and visualizations, we'll perform some
+forensic accounting on the leaked data, showing how to spot the
+schemes, like, on your laptop.
+This is something any bank *could* afford to do, just that some would
+rather not accuse their largest and most profitable customers of
+conducting dirty deeds ... *through the bank*.
+Perhaps we can assist with the necessary analytics, help stick it to
+the oligarchs and their billionaire-bully friends?
 
 We'll also talk about the elephant in the room. Once you identify
 money laundering, how do you find the people orchestrating it? In
