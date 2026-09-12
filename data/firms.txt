@@ -3,6 +3,7 @@
 		addr: 2nd Floor, 35 Barrack Road, Belize City, BZ-BZ, Belize
 		country: BZ
 		reg: 2017-11-13
+		class: bz-shell
 2	ADANA INVESTMENTS, LTD
 	ADANA INVESTMENT,LTD
 		addr: 5 Osborne Terrace, Jesmond, Newcastle Upon Tyne, NE2 1SQ
@@ -10,6 +11,7 @@
 		officer: Martin Joseph SAVAGE (UK)
 		code: 07105739
 		country: UK
+		class: dormant
 3	ADANA TRADE LLP
 		code: OC375797
 		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
@@ -18,6 +20,7 @@
 		officer: KENMARK INC. (DM)
 		officer: OSTBERG LTD. (DM)
 		country: UK
+		class: uk-shell
 4	AGCOMPANY OÜ
 		reg: 2013-05-08
 		dis: 2017-06-29
@@ -26,10 +29,12 @@
 		board: Roman VNUKOV (EE)
 		addr: Põhja-Tallinna linnaosa, Tallinn
 		biz: repair of motor vehicles
+		class: ee-shell
 5	AKKOTEX LTD
 		code: 1678595
 		reg: 2011-11-02
 		country: VG
+		class: vg-shell
 6	ALENTER TRADING LIMITED
 		reg: 2011-08-17
 		dis: 2011-08-17
@@ -38,26 +43,30 @@
 		officer: Valery KALOPONG (VU)
 		officer: King Howard Cordero ENRIQUEZ (PH)
 		code: 07743949
+		class: uk-shell
 7	ALFA DIS TICARET LIMITED SIRKETI
 		officer: Cuneyt IPEKLER (TR)
 		biz: wine and distilled alcoholic beverage merchant wholesalers
 		country: TR
 		addr: No:126 Ferhatpasa Mahallesi Maresal Fevzi Cakmak Caddesi Atasehir, Istanbul, Marmara 34888
 		reg: 2002-11-22
+		class: operating
 8	ALGAN METAL SANAYI VE TICARET ANO
 		country: TR
 		biz: welding supplies
 		addr: Aydıntepe Mah. Sahil Blv. Özek İş Mrk. No:142/D5, 34947 Tuzla/İstanbul
+		class: operating
 9	MAHMOUD AL-GHARABALLY TRADING EST.
 	AL GHARABALLY NATIONAL TRADING
 	ALGHARABALLY NATIONAL TRADING
 		country: KW
 		addr: Khalifa Al-Jassim Street, Shuwiakh Industrial Area, Kuwait
 		biz: construction materials
+		class: operating
 10	Ruslan ALIYEV
 	ALIYEV RUSLAN
 		country: AZ
-		person
+		class: person
 11	ALOZIRIO HOLDINGS LIMITED
 	KAMAZONIA LIMITED
 		country: CY
@@ -66,6 +75,7 @@
 		reg: 2010-09-16
 		dis: 2019-12-18
 		officer: Irina KLEANTHOYS (CY)
+		class: cy-shell
 12	ALPS VENTURES LIMITED
 		country: UK
 		code: 05887499
@@ -74,6 +84,7 @@
 		dis: 2016-02-02
 		officer: Omar Mowaffak AL MIDANI (US)
 		biz: VC incubator
+		class: dormant
 13	ALTER MANAGEMENT LIMITED
 		country: NZ
 		code: 2181378
@@ -81,12 +92,14 @@
 		dis: 2015-01-22
 		officer: Marianna GEMENITZI (CY)
 		addr: C/-gannaway Mercer Ltd, Chartered Accountants, 11a Wynyard St, Devonport, Auckland 0624 , New Zealand
+		class: nz-shell
 14	ALUNG ENTERPRISES LIMITED
 		code: HE278090
 		country: CY
 		reg: 2010-06-12
 		dis: 2019-12-18
 		addr: Griva Digeni, PANAGIDES BUILDING, Floor 2, Flat 3, 3030, Lemesos, Cyprus
+		class: cy-shell
 15	AMA CONSULTANTS PTE. LTD.
 		code: 200616206K
 		country: SG
@@ -94,12 +107,14 @@
 		biz: wholesale trade
 		addr: 21 BUKIT BATOK CRESCENT, #03-76, WCEGA TOWER, Singapore 658065
 		dis: 2026-08-07
+		class: sg-shell
 16	AMATOLA HOLDINGS LIMITED
 	AMATOLA GROUP LTD.
 		country: GI
 		code: 110692
 		reg: 2013-11-07
 		dis: 2018-04-19
+		class: gi-shell
 17	AMECA LIMITED
 	AMECTA LIMITED
 		addr: Esperidon, 12, Floor 4, 1087, Levkosia, Cyprus
@@ -109,6 +124,7 @@
 		dis: 2020-07-08
 		officer: Lev POLISHCHUK (CY)
 		note: this appears to have been misspelled
+		class: cy-shell
 18	APPOLLO (CHINA) CO., LTD
 	APOLLO(CHINA) CO.,LTD
 		country: CN
@@ -116,6 +132,7 @@
 		biz: manufacturing, wholesale import/export
 		code: F0013918
 		reg: 1996-06-25
+		class: operating
 19	ARAS GLOBAL TICARET VE LOJISTIK TURIZM LIMITED ŞIRKETI
 	ARAS GLOBAL TICARET VE LOJISTIK
 	ARAS GLOBAL TIC. VE LOJ.TUR.LTD.STI
@@ -124,17 +141,20 @@
 		addr: No:61a Osman Yilmaz Mahallesi 648. Sokak Gebze Kocaeli, Marmara 41400
 		country: TR
 		code: 110891
+		class: operating
 20	ARASH MEDICAL COMPANY CJSC
 	ARASH MEDICAL PRODUCTION LTD
 		biz: medical equipment
 		country: AZ
 		addr: 26 Salamzade St., Baku, AZ1078, Azerbaijan
 		reg: 1994-01-01
+		class: operating
 21	ARMA STEEL TRADING LP
 		code: LP014442
 		addr: 1st Floor 32 Wigmore Street, London, W1U 2RP
 		reg: 2011-05-12
 		country: UK
+		class: dormant
 22	ASAŞ ALÜMINYUM SANAYI VE TICARET A.Ş
 	ASAS ALUMINYUM SAN.VE TIC.A.S
 		biz: aluminum manufacturing
@@ -143,12 +163,14 @@
 		lei: 78900067SCLSMMFJF687
 		code: 0086003837500011
 		reg: 1990-09-17
+		class: operating
 23	ASEL DıŞ TICARET VE PAZARLAMA LIMITED ŞIRKETI
 	ASEL DIS TICARET VE PAZARLAMA LTD S
 		country: TR
 		addr: B.blok/205- 207- 209 N:82 Iosb Mahallesi Haseyad 1.kis.cabani Is Mrk Basaksehir, Istanbul, Marmara 34306
 		biz: electronics wholesale
 		reg: 1993-02-10
+		class: operating
 24	ASTON GLOBAL L.P.
 	ASTON GLOBAL L P
 		country: UK
@@ -156,6 +178,7 @@
 		reg: 2010-07-16
 		addr: Suite 1 78 Montgomery Street, Edinburgh, EH7 5JA
 		biz: industrial spare parts
+		class: dormant
 25	ATTICO LOGISTICS LIMITED
 		country: CY
 		code: HE174601
@@ -164,6 +187,7 @@
 		dis: 2022-05-06
 		officer: Andreas SPYRIDIS (CY)
 		officer: Dimitra STAVRINOU (CY)
+		class: cy-shell
 26	AUTOHAUS GRAMPP GMBH
 	AUTOHAUS ANSAWI GMBH
 	PETER GRAMPP GMBH & CO. KG
@@ -173,6 +197,7 @@
 		reg: 1980-07-03
 		addr: Rechtenbacher Str. 17, 97816 Lohr am Main
 		officer: Peter GRAMPP (DE)
+		class: operating
 27	AVROMED COMPANY LLP
 	AVROMED COMPANY
 	AVROMED COMPANY CJSC
@@ -181,6 +206,7 @@
 		reg: 2002-04-01
 		addr: Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ
 		officer: Javanshir FEYZIYEV (AZ)
+		class: operating
 29	AZARBAYCAN METANOL KOMPANI MMC
 	AZERBAYCAN METANOL KOMPANI MMC
 	AZMECO
@@ -192,12 +218,14 @@
 		officer: Sadig MAMEDOV (AZ)
 		country: AZ
 		reg: 2008-01-01		
+		class: operating
 30	MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN
 	AZERB.REP.MINIST.EMERGENCY SITUA
 	AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI
 		country: AZ
 		addr: M. Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073
 		biz: public sector, emergency response
+		class: operating
 31	AZERBAIJAN CASPIAN SHIPPING COMPANY
 	ASCO
 	AZERBAIJAN STATE CASPIAN SHIPP CO
@@ -207,6 +235,7 @@
 		biz: shipping fleets
 		code: 1701579951
 		reg: 2013-10-22
+		class: operating
 32	AZERIPAMPSERVICES MMC
 		biz: energy
 		country: AZ
@@ -219,12 +248,14 @@
 		country: VG
 		reg: 2008-09-04
 		officer: Dmitry SMIRNOV (RU)
+		class: vg-shell
 36	BANCHER OÜ
 		country: EE
 		code: 12057318
 		reg: 2011-02-08
 		dis: 2015-12-22
 		addr: Valukoja 8, 11415 Tallinn, Estonia
+		class: ee-shell
 37	BARCLAYS BANK PLC
 	BARCGB22
 		country: UK
@@ -236,6 +267,7 @@
 		sanction: https://www.opensanctions.org/entities/NK-5XuAeTe3aJMe6HKbHA5Syj/
 		edd: https://opencheck.world/?lei=2549003Q5J2G7ALNU316
 		edd: https://search.openaleph.org/search?limit=30&q=BARCLAYS%20BANK%20PLC
+		class: operating-bank
 38	BAYBURT GROUP CONSTRUCTION LTD
 	BAYBURT GRUP INSAAT NAKLIYAT MADENCILIK ITHALAT IHRACAT SANAYI VE TICARET ANONIM SIRKETI
 		country: TR
@@ -244,6 +276,7 @@
 		code: 16003746
 		reg: 1973-01-01
 		officer: Kiyasi SENTURK (TR)
+		class: operating
 39	BAYERISCHE LANDESBANK MUNICH
 		country: DE
 		addr: Brienner Strasse 18, Munich, Bayern, 80333
@@ -251,6 +284,7 @@
 		code: HRA76030
 		lei: VDYMYTQGZZ6DU0912C88
 		reg: 1972-06-27
+		class: operating-bank
 40	BENARDO SOLUTIONS LLP
 		code: OC353233
 		country: UK
@@ -259,6 +293,7 @@
 		dis: 2014-10-28
 		officer: CONSULTING GROUP CORP (BZ)
 		officer: TRADE INVEST SYSTEM LIMITED (BZ)
+		class: uk-shell
 41	BENTCARD IMPORT LLP
 		code: OC369315
 		country: UK
@@ -268,6 +303,7 @@
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
 		lei: 54930007FGRO3F0RZ382
+		class: uk-shell
 42	BERGFOX ALLIANCE LLP
 		country: UK
 		code: OC372748
@@ -276,6 +312,7 @@
 		reg: 2012-02-23
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 43	BERTEX SYSTEM LTD
 	BERTEX HOLDING LIMITED
 		country: CY
@@ -285,6 +322,7 @@
 		dis: 2021-08-06
 		addr: Akropoleos, 59-61, Floor 3, Flat 301, 2012, Levkosia, Cyprus
 		officer: Nikos AVRAAMIDIS (CY)
+		class: cy-shell
 44	BHW PROJECTS LLP
 		country: UK
 		code: OC368144
@@ -293,19 +331,22 @@
 		reg: 2011-09-19
 		officer: LUXHOLD LTD. (SC)
 		officer: RAINHOLD LTD. (SC)
+		class: uk-shell
 0.01	EUROILGAS INDUSTRIES PLC
 		country: UK
 		code: 05716053
 		reg: 2006-02-21
 		dis: 2019-01-22
 		addr: 85 Great Portland Street, First Floor, London, England, W1W 7LT
-		officer: BILOXI GLOBAL INC.
+		officer: BILOXI GLOBAL INC. (VG)
 		officer: Khagani BASHIROV (FR)
+		class: uk-shell
 45	BILOXI GLOBAL INC.
 		country: VG
 		code: 465020
 		reg: 2008-02-18
 		addr: Wickhams Cay 1, De Castro Street, 30, P.O.Box 4519, Road Town, Tortola, British Virgin Islands
+		class: vg-shell
 46	BANK OF CHINA
 	BKCHCNBJ
 		code: FC002851
@@ -315,6 +356,7 @@
 		biz: banking
 		reg: 1983-10-31
 		lei: 213800DXECSXBR79QK58
+		class: operating-bank
 47	DEUTSCHE BANK TRUST COMPANY AMERICAS
 	BKTRUS33
 	BANKERS TRUST COMPANY
@@ -327,6 +369,7 @@
 		edd: https://opencheck.world/?lei=8EWQ2UQKS07AKK8ANH81
 		sanction: https://www.opensanctions.org/entities/NK-eFCBobC4JzPJxwQoGGkCzH/
 		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20TRUST%20COMPANY%20AMERICAS
+		class: operating-bank
 48	BONDWEST LLP
 		country: UK
 		code: OC371790
@@ -335,6 +378,7 @@
 		reg: 2012-01-26
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 49	BONINVEST LLP
 		country: UK
 		code: OC363814
@@ -345,6 +389,7 @@
 		officer: PRIMECROSS INC. (MH)
 		officer: IRELAND & OVERSEAS ACQUISITIONS LTD. (BZ)
 		officer: MILLTOWN CORPORATE SERVICES LTD (BZ)
+		class: uk-shell
 50	BONWEST INDUSTRIAL LLP
 	BONWEST INDUSTRIAL  LLP
 		code: OC371947
@@ -354,6 +399,7 @@
 		reg: 2012-02-01
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 51	BONWILL PROJECTS LLP
 		country: UK
 		code: OC380720
@@ -362,6 +408,7 @@
 		reg: 2012-12-04
 		officer: KENMARK INC. (DM)
 		officer: OSTBERG LTD. (DM)
+		class: uk-shell
 52	BORFIT BORU VE EK PARCALARI SANAYI TICARET LIMITED SIRKETI
 	BORFIT BORU VE EK PARCALARI SAN.TIC
 		country: TR
@@ -369,6 +416,7 @@
 		biz: building materials
 		reg: 2007-06-20
 		code: 630242
+		class: operating
 53	MUFG BANK, LTD.
 	THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.
 	BOTKGB2L
@@ -378,6 +426,7 @@
 		biz: banking
 		edd: https://search.openaleph.org/search?limit=30&q=MUFG%20BANK%2C%20LTD.
 		sanction: https://www.opensanctions.org/search/?q=MUFG+BANK%2C+LTD.
+		class: operating-bank
 54	BRADFIELD INVESTMENTS LTD.
 		country: VG
 		code: 137940
@@ -385,6 +434,7 @@
 		reg: 1995-02-24
 		note: possibly operating in Gibraltar and Bahamas
 		officer: MMG BAHAMAS LTD. (BS) 
+		class: vg-shell
 0.03	MMG BAHAMAS LTD.
 	MMG MANAGEMENT CORP.
 	MORGAN & MORGAN BAHAMAS
@@ -397,12 +447,14 @@
 		officer: Laverne THOMPSON (BS)
 		addr: Suite 102, Saffrey Square Bay Street & Bank Lane NASSAU, New Providence, Bahamas
 		lei: 254900ABHCZ12OFUCP06
+		class: operating
 55	BRENTON BUSINESS LP
 	BRENTON BUSINESS L.P.
 		country: UK
 		code: SL010012
 		addr: 1/2 35 Taits Lane, Dundee, Scotland, DD2 1DZ
 		reg: 2011-12-13
+		class: dormant
 56	BRIGHT LINE MARITIME LLP
 		code: OC360814
 		country: UK
@@ -411,6 +463,7 @@
 		reg: 2011-01-12
 		officer: Beryl Cynthia ALCINDOR (SC)
 		officer: Annabelle Jachintha JEAN-LOUIS (SC)
+		class: uk-shell
 57	BSMAX LLP
 		code: OC334604
 		country: UK
@@ -422,6 +475,7 @@
 		officer: CODDAN MANAGER LIMITED (SC)
 		officer: CODDAN CPM (UK) LIMITED (VG)
 		note: The UK Insolvency Service found that BSMAX LLP and another opaque entity filed fraudulent accounts showing tens of billions of pounds in turnover, using nominated members and forged accountant credentials.
+		class: uk-shell
 58	CAMBELL UNIVERSAL LLP
 		code: OC324779
 		country: UK
@@ -432,6 +486,7 @@
 		officer: MONOHOLD A.G. (SC)
 		officer: IRELAND & OVERSEAS ACQUISITIONS LIMITED (BZ)
 		officer: MILLTOWN CORPORATE SERVICES LIMITED (BZ)
+		class: uk-shell
 59	CAPTRON MERCHANTS LLP
 		code: OC373296
 		country: UK
@@ -440,6 +495,7 @@
 		reg: 2012-03-13
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 60	CARGOSTAR LLP
 		code: OC381681
 		country: UK
@@ -449,21 +505,25 @@
 		officer: CONSULTEXA LTD (UK)
 		officer: CORPOREX LIMITED (BZ)
 		officer: FINANCIUM LIMITED (BZ)
+		class: uk-shell
 61	CARTELORT PRODUCTS LTD
 		code: 1441038
 		reg: 2007-10-31
 		country: VG
 		officer: STANDARD DIRECTORS LTD. (BV)
+		class: vg-shell
 62	CARTFIELD TRADE L.P.
 		addr: Suite 1 78 Montgomery Street, Edinburgh, Scotland, EH7 5JA
 		country: UK
 		code: SL008371
 		reg: 2010-11-08
+		class: dormant
 63	CASPIAN MOBILE LTD.
 		addr: Karpich Street 14/1, Baku, Azerbaijan, AZ0022
 		reg: 1999-10-01
 		biz: mobile phone import
 		country: AZ
+		class: operating
 64	CAYREST EXPORT LLP
 		code: OC365542
 		country: UK
@@ -472,6 +532,7 @@
 		reg: 2011-06-14
 		officer: PINTOX SYSTEMS LIMITED (MH)
 		officer: SYTEN GROUP LIMITED (MH)
+		class: uk-shell
 65	CENTROEXPERT LLP
 		code: OC350705
 		country: UK
@@ -482,6 +543,7 @@
 		officer: MONOHOLD A.G. (SC)
 		officer: IRELAND & OVERSEAS ACQUISITIONS LTD. (BZ)
 		officer: MILLTOWN CORPORATE SERVICES LTD (BZ)
+		class: uk-shell
 67	CLAMOSA LIMITED
 	CLAMOSA LIMITED SUITE 2 23 24 GREAT
 		biz: wholesale consumer electronics
@@ -493,6 +555,7 @@
 		officer: Nancy BENNETT (SA)
 		officer: ABS SECRETARY SERVICES LTD. (SC)
 		officer: Pamela Natasha POUPONNEAU (SC)
+		class: uk-shell
 68	CLIMBFREE SOLUTIONS LIMITED
 		country: UK
 		code: 05239730
@@ -506,6 +569,7 @@
 		officer: BRIGHTON SECRETARY LTD (UK)
 		officer: Danny BANGER (IE)
 		officer: BRIGHTON DIRECTOR LTD (UK)
+		class: uk-shell
 69	COMMERZBANK AG
 	COBADEFFXXX
 		country: DE
@@ -514,6 +578,7 @@
 		sanction: https://www.opensanctions.org/entities/NK-h2QY8PrgDim7PmCY3T9bKM/
 		code: HRB32000
 		reg: 1958-06-30
+		class: operating-bank
 70	CONATIO LIMITED
 		country: CY
 		code: HΕ270083
@@ -521,6 +586,7 @@
 		dis: 2018-05-16
 		officer: Evgeny GOLIKOV (CY)
 		addr: Prodromou, 41, Rita Court 50, Floor 4, Flat/Office 401, 1048, Nicosia, Cyprus
+		class: cy-shell
 71	CONTRATECH SALES LLP
 	CONTRATECH SALES  LLP
 		country: UK
@@ -530,6 +596,7 @@
 		reg: 2012-02-01
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 72	CREDILEX LLP
 		country: UK
 		code: OC370953
@@ -538,6 +605,7 @@
 		officer: EXPONET GMBH (SC)
 		dis: 2014-08-05
 		reg: 2011-12-21
+		class: uk-shell
 73	CROFTLINK EXPORT LLP
 		code: OC365095
 		country: UK
@@ -546,6 +614,7 @@
 		reg: 2011-05-31
 		officer: FORMOND INC. (MH)
 		officer: PRIMECROSS INC. (MH)
+		class: uk-shell
 74	CROSSPARK LINES LLP
 		code: OC381424
 		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
@@ -554,6 +623,7 @@
 		officer: KENMARK INC. (DM)
 		officer: OSTBERG LTD. (DM)
 		country: UK
+		class: uk-shell
 75	CURZON CONSULTANTS CORP
 	CURZON CONSULTANTS CORP.
 		code: 601399
@@ -570,6 +640,7 @@
 		biz: laser hair removal equipment
 		officer: Amy TANNENBAUM (US)
 		edd: https://opencheck.world/?lei=54930087QLH0D6V7E833
+		class: operating
 77	CYRTOMEX SERVICES LIMITED
 		country: CY
 		code: HE302173
@@ -578,6 +649,7 @@
 		addr: Demetriou Building 2, Floor 1, Flat/Office 12, 1 Apriliou 47, 3117 Limassol, Cyprus
 		officer: RMI PROXY & SECRETARY LTD (MH)
 		dis: 2021-04-21
+		class: cy-shell
 79	DANBELL IMPORT LLP
 	DANBELL  IMPORT  LLP
 		code: OC371965
@@ -587,6 +659,7 @@
 		reg: 2012-02-01
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 80	DANSKE BANK A/S EESTI FILIAAL
 		biz: banking
 		code: 11488826
@@ -605,6 +678,7 @@
 		sanction: https://www.opensanctions.org/entities/us-sec-harm-danske-bank-a-s/
 		edd: https://opencheck.world/?lei=MAES062Z21O4RZ2U7M96
 		edd: https://search.openaleph.org/search?limit=30&q=DANSKE%20BANK
+		class: operating-bank
 81	DARTLEY CAPITAL LLP
 		code: OC371557
 		country: UK
@@ -613,6 +687,7 @@
 		reg: 2012-01-18
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 82	DATEMILE ALLIANCE LLP
 		code: OC379963
 		country: UK
@@ -621,6 +696,7 @@
 		reg: 2012-11-06
 		officer: RMI PROXY & SECRETARY LTD (MH)
 		officer: CEO CORONA LTD (MH)
+		class: uk-shell
 0.04	RMI PROXY & SECRETARY LTD
 		country: MH
 		addr: Trust Company Complex, Ajeltake Road, Ajeltake Island, Majuro, MH96960, Marshall Island
@@ -633,6 +709,7 @@
 		reg: 2013-01-23
 		officer: DELTACOM LTD. (DM)
 		officer: HOLDSTAR INC. (DM)
+		class: uk-shell
 84	DELFRONT IMPORT LLP
 		code: OC380736
 		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
@@ -641,6 +718,7 @@
 		officer: KENMARK INC. (DM)
 		officer: OSTBERG LTD. (DM)
 		country: UK
+		class: uk-shell
 85	DELLWOOD SALES LLP
 		officer: FORMOND INC. (MH)
 		officer: PRIMECROSS INC. (MH)
@@ -651,6 +729,7 @@
 		dis: 2016-01-21
 		addr: Suite 1 The Studio, St Nicholas Close, Elstree, Herts, WD6 3EW
 		reg: 2011-05-31
+		class: uk-shell
 86	DELMOORE EXPRESS LLP
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
@@ -659,6 +738,7 @@
 		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW
 		dis: 2014-11-18
 		reg: 2012-03-28
+		class: uk-shell
 87	DELOKALI LIMITED
 		officer: T.C SECRETARIAL LIMITED (CY)
 		officer: Natalia ANASTASIOY (CY)
@@ -667,6 +747,7 @@
 		reg: 2011-06-15
 		dis: 2018-05-16
 		addr: Promitheos, 14, Flat M002, 1065, Levkosia, Cyprus
+		class: cy-shell
 88	DENIZBANK A.S.
 	DENİZBANK ANONİM ŞİRKETİ
 	DENITRIS
@@ -679,6 +760,7 @@
 		edd: https://opencheck.world/?lei=7890004ARP2VFYAW4818
 		edd: https://search.openaleph.org/search?q=DENIZBANK
 		sanction: https://www.opensanctions.org/entities/NK-MbqQMduismBCFaaZYw8U43/
+		class: operating-bank
 89	DERWOTS PRODUCTIONS LIMITED
 		code: HE318771
 		country: CY
@@ -687,6 +769,7 @@
 		addr: 1 Apriliou, 47, DEMETRIOU BUILDING No. 2, Floor 1, Flat 12, 3117, Lemesos, Cyprus
 		officer: CONSULTING GROUP CORP. (BZ)
 		officer: REGISTERED SOLUTIONS LIMITED (BZ)
+		class: cy-shell
 91	DEUTSCHE BANK AG
 	DEUTDEFFXXX
 		biz: banking
@@ -697,6 +780,7 @@
 		reg: 1899-12-31
 		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20AG
 		sanction: https://www.opensanctions.org/entities/NK-i4AC54iqYCLi2Liodrzq9n/
+		class: operating-bank
 92	DEXPORT UNIVERSAL LLP
 	DEXPORT UNIVERSAL  LLP
 		code: OC371949
@@ -706,6 +790,7 @@
 		reg: 2012-02-01
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 95	DIGIMARK MERCHANTS LLP
 	DIGIMARK MERCHANTS  LLP
 		code: OC371956
@@ -715,6 +800,7 @@
 		reg: 2012-02-01
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
+		class: uk-shell
 96	DOCKWOOD ALLIANCE LLP
 		country: UK
 		code: OC365663
@@ -723,14 +809,65 @@
 		reg: 2011-06-17
 		officer: LUXHOLD LTD. (SC)
 		officer: RAINHOLD LTD. (SC)
+		class: uk-shell
 97	DRINKSTAR GMBH
+		country: DE
+		code: HRB415
+		edd: https://search.openaleph.org/search?q=DRINKSTAR%20GMBH
+		reg: 2018-06-19
+		addr: Äußere Oberaustraße 36/5, 83026 Rosenheim, Germany
+		class: operating
 98	EASTMAN CHEMICAL BV
-99	EBILAEAD
+		biz: chemical manufacturing
+		country: NL
+		code: 27150948
+		addr: Watermanweg 70 3067 GG, Rotterdam, Zuid-Holland Netherlands
+		reg: 1995-01-01
+		officer: Kuijpers JORIS (NL)
+		officer: Hamon YVES (NL)
+		class: operating
+99	EMIRATES NBD BANK PJSC
+	EBILAEAD
+		country: AE
+		biz: banking
+		sanction: https://www.opensanctions.org/entities/sentry-bb2cf2b0-6414-db0e-7a29-b34a65cf1ef6/
+		edd: https://search.openaleph.org/search?q=Emirates%20NBD
+		reg: 1963-06-19
+		addr: Baniyas Road, Deira, P.O. Box 777, Dubai, United Arab Emirates
+		code: 1004
+		class: operating-bank
 100	EFFECTIVE TRADE LIMITED
+		biz: fraud -- fishing equipment, allegedly
+		country: VG
+		class: vg-shell
 101	EGERSON PRODUCTIONS CORP.
+		country: VG
+		code: 1587899
+		reg: 2010-06-02
+		officer: Veronique Claire SAVY (SC)
+		officer: Edward PETRE-MEARS (KN)
+		edd: https://search.openaleph.org/search?limit=30&q=EGERSON%20PRODUCTIONS
+		addr: Unitrust Consulting attn: Ludmila IVANOV, Teterinsky Pereulok dom 4 bldg. 1 office 215 Moscovskaya Oblast (Moscow) Russian Federation 109004
+		note: typical structure for a BVI shell wrapping a Russia-linked beneficial owner who wants to stay off the company's face
+		class: vg-shell
 102	EKLINGTON COMMERCIAL INC
+		edd: https://search.openaleph.org/search?limit=30&q=EKLINGTON%20COMMERCIAL%20INC
+		country: VG
+		code: 1403634
+		reg: 2007-05-08
+		addr: Amond & Smith Schipok Str. 9/26 Bldg. 1, Entrance 3., Office 1 Moscow, 115054 Russia
+		officer: Linzi ALCINDOR (SC)
+		officer: INTERNATIONAL ADMINISTRATORS LIMITED (CN)
+		class: vg-shell
 103	EKSPORT TAMPL MMC
+		country: AZ
 104	EKVITA LLC
+		country: AZ
+		reg: 2008-10-01
+		addr: Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku
+		biz: full-service legal, tax, and management consulting
+		class: operating
+
 105	ELECTRON ENTERPRISES LTD
 106	ELEKTROMASH MMC
 107	EMERGOMED
