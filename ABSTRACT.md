@@ -184,6 +184,8 @@ Starting with the OCCRP dataset, we can augment with other data sources to resol
 
   4. Additional data about some of the shell companies involved may be available through [IJIC Offshore Leaks](https://offshoreleaks.icij.org/pages/database).
 
+  5. Several transactions have beneficiaries with names that are codes beginning with `INN` -- such as `INN3016043171` -- and these appear to be with Russian banks.
+
 Most of the data described above is available through [OpenSanctions](https://www.opensanctions.org/).
 However in some cases, additional curation will be required.
 Banks used the term

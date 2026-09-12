@@ -576,7 +576,7 @@
 		edd: https://search.openaleph.org/search?limit=30&q=CYRTOMEX%20SERVICES%20LIMITED
 		reg: 2012-03-02
 		addr: Demetriou Building 2, Floor 1, Flat/Office 12, 1 Apriliou 47, 3117 Limassol, Cyprus
-		officer: RMI PROXY & SECRETARY LTD (CY)
+		officer: RMI PROXY & SECRETARY LTD (MH)
 		dis: 2021-04-21
 79	DANBELL IMPORT LLP
 	DANBELL  IMPORT  LLP
@@ -613,11 +613,28 @@
 		reg: 2012-01-18
 		officer: ASTROCOM AG (SC)
 		officer: EXPONET GMBH (SC)
-
-
 82	DATEMILE ALLIANCE LLP
+		code: OC379963
+		country: UK
+		addr: Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR
+		dis: 2016-04-19
+		reg: 2012-11-06
+		officer: RMI PROXY & SECRETARY LTD (MH)
+		officer: CEO CORONA LTD (MH)
+0.04	RMI PROXY & SECRETARY LTD
+		country: MH
+		addr: Trust Company Complex, Ajeltake Road, Ajeltake Island, Majuro, MH96960, Marshall Island
+		note: highlighted by financial crime researchers examining anonymous corporate networks and proxy ownership structures.
 83	DAYFORD SALES LLP
+		country: UK
+		code: OC381830
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2015-09-01
+		reg: 2013-01-23
+		officer: DELTACOM LTD. (DM)
+		officer: HOLDSTAR INC. (DM)
 84	DELFRONT IMPORT LLP
+
 85	DELLWOOD SALES LLP
 86	DELMOORE EXPRESS LLP
 87	DELOKALI LIMITED
