@@ -652,17 +652,77 @@
 		addr: Suite 1 The Studio, St Nicholas Close, Elstree, Herts, WD6 3EW
 		reg: 2011-05-31
 86	DELMOORE EXPRESS LLP
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
+		country: UK
+		code: OC373853
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW
+		dis: 2014-11-18
+		reg: 2012-03-28
 87	DELOKALI LIMITED
-88	DENITRIS
+		officer: T.C SECRETARIAL LIMITED (CY)
+		officer: Natalia ANASTASIOY (CY)
+		country: CY
+		code: HE288796
+		reg: 2011-06-15
+		dis: 2018-05-16
+		addr: Promitheos, 14, Flat M002, 1065, Levkosia, Cyprus
+88	DENIZBANK A.S.
+	DENİZBANK ANONİM ŞİRKETİ
+	DENITRIS
+		biz: banking
+		country: TR
+		code: 368587
+		lei: 3RV7W250LTUQH12INJ88
+		reg: 2014-02-24
+		addr: Büyükdere Cad. No:141, 34394 İstanbul
+		edd: https://opencheck.world/?lei=7890004ARP2VFYAW4818
+		edd: https://search.openaleph.org/search?q=DENIZBANK
+		sanction: https://www.opensanctions.org/entities/NK-MbqQMduismBCFaaZYw8U43/
 89	DERWOTS PRODUCTIONS LIMITED
+		code: HE318771
+		country: CY
+		reg: 2013-02-04
+		dis: 2021-06-30
+		addr: 1 Apriliou, 47, DEMETRIOU BUILDING No. 2, Floor 1, Flat 12, 3117, Lemesos, Cyprus
+		officer: CONSULTING GROUP CORP. (BZ)
+		officer: REGISTERED SOLUTIONS LIMITED (BZ)
 91	DEUTSCHE BANK AG
 	DEUTDEFFXXX
 		biz: banking
-92	DEXPORT UNIVERSAL  LLP
-93	DEXPORT UNIVERSAL LLP
+		country: DE
+		addr: Taunusanlage 12, 60325 Frankfurt am Main, Germany
+		code: HRB30000
+		lei: 7LTWFZYICNSX8D621K86
+		reg: 1899-12-31
+		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20AG
+		sanction: https://www.opensanctions.org/entities/NK-i4AC54iqYCLi2Liodrzq9n/
+92	DEXPORT UNIVERSAL LLP
+	DEXPORT UNIVERSAL  LLP
+		code: OC371949
+		country: UK
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2016-07-12
+		reg: 2012-02-01
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
 95	DIGIMARK MERCHANTS LLP
 	DIGIMARK MERCHANTS  LLP
+		code: OC371956
+		country: UK
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2016-07-12
+		reg: 2012-02-01
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
 96	DOCKWOOD ALLIANCE LLP
+		country: UK
+		code: OC365663
+		addr: Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW
+		dis: 2014-01-28
+		reg: 2011-06-17
+		officer: LUXHOLD LTD. (SC)
+		officer: RAINHOLD LTD. (SC)
 97	DRINKSTAR GMBH
 98	EASTMAN CHEMICAL BV
 99	EBILAEAD
