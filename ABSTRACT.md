@@ -167,11 +167,13 @@ Graph Enhanced AI track, 1 hour, beginner level:
 
 Starting with the OCCRP dataset, we can augment with other data sources to resolve the entities named as payers and beneficiaries in the transactions:
 
-  1. Some payers are international banks, for example claiming to refund prior payments on clients' invoices. The [ISO 9362-2022 codes](https://www.iso9362.org/isobic/overview.html) for banks, also known as *Business Identifier Codes* (BIC), are managed by [SWIFT](https://www.swift.com/).
+  1. Several transactions have beneficiaries with names which are codes beginning with `INN` followed by a 10 digit number -- such as `INN3016043171` -- and these are [Russian tax identifiers](https://www.nalog.gov.ru/eng/inn/) were 10 digits signifies a company or foreign organization.
 
-  2. Banks and other firms involved in global financial markets will often have a *Legal Entity Identifier* (LEI), managed by [GLEIF](https://www.gleif.org/).
+  2. Some payers are international banks, for example claiming to refund prior payments on clients' invoices. The [ISO 9362-2022 codes](https://www.iso9362.org/isobic/overview.html) for banks, also known as *Business Identifier Codes* (BIC), are managed by [SWIFT](https://www.swift.com/).
 
-  3. Many of companies named are registered in countries (EE, UK, DE, CY, VG, TR, etc.) which make portions of their corporate registries data available for public search, or have import/export registries and other corporate directories online -- for example:
+  3. Banks and other firms involved in global financial markets will often have a *Legal Entity Identifier* (LEI), managed by [GLEIF](https://www.gleif.org/).
+
+  4. Many of companies named are registered in countries (EE, UK, DE, CY, VG, TR, etc.) which make portions of their corporate registries data available for public search, or have import/export registries and other corporate directories online -- for example:
 
       + CN: [HK Companies](https://hkg.databasesets.com/)
       + CY: [Cyprus DRCIP](https://data.gov.cy/)
@@ -182,9 +184,7 @@ Starting with the OCCRP dataset, we can augment with other data sources to resol
       + UK: [Companies House](https://find-and-update.company-information.service.gov.uk/)
       + VG: [BVI Company Search](https://i-bvi.com/)
 
-  4. Additional data about some of the shell companies involved may be available through [IJIC Offshore Leaks](https://offshoreleaks.icij.org/pages/database).
-
-  5. Several transactions have beneficiaries with names that are codes beginning with `INN` -- such as `INN3016043171` -- and these appear to be with Russian banks.
+  5. Additional data about some of the shell companies involved may be available through [IJIC Offshore Leaks](https://offshoreleaks.icij.org/pages/database).
 
 Most of the data described above is available through [OpenSanctions](https://www.opensanctions.org/).
 However in some cases, additional curation will be required.

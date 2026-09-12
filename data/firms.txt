@@ -724,19 +724,55 @@
 170	IMEX MOTORS LLC
 172	IMPOYAPI INS.MUHENDISLIK MADEN.TA
 	IMPOYAPI INS. MUH. MAD. TAS. SAN.
-173	In favour JSC Freight One
+173	FIRST FREIGHT COMPANY PJSC
+	JSC FREIGHT ONE
+	In favour JSC Freight One
+		country: RU
+		code: 1137746982856
+		reg: 2013-10-22
+		addr: 24 Novoryazanskaya Street, Moscow, 105066, Russian Federation
+		sanction: https://www.opensanctions.org/entities/NK-368r3q7A6ZJ39zeBpjBJAZ/
+		officer: Oleg ROMANOV (RU)
+		note: rail freight logistics operator, affiliated with Russian military
 174	INFOCAR TRADE LLP
 175	INFOCREST LLP
 176	INMAXO CAPITAL CORP.
 177	INN3016043171
+		country: RU
+		addr: Astrakhan Oblast, Russia
+		note: an organization, not an individual
 178	INN3016055642
+		country: RU
+		addr: Astrakhan Oblast, Russia
+		note: an organization, not an individual
 179	INN3017030922
+		country: RU
+		addr: Astrakhan Oblast, Russia
+		note: an organization, not an individual
 180	INN3018016381
+		country: RU
+		addr: Astrakhan Oblast, Russia
+		note: an organization, not an individual
 181	INN4028023076
+		country: RU
+		addr: Kaluga Oblast, Russia
+		note: an organization, not an individual
 182	INN5240004417.KPP524001001
+		country: RU
+		addr: Nizhny Novgorod Oblast, Russia
+		note: an organization, not an individual
 183	INN5906109648
+		country: RU
+		addr: Perm Krai, Russia
+		note: an organization, not an individual
 184	INN5918000980
+		country: RU
+		addr: Perm Krai, Russia
+		note: an organization, not an individual
 185	INN6234018156
+		country: RU
+		addr: Ryazan Oblast, Russia
+		note: an organization, not an individual
 186	INTERPLAZA OÜ
 187	INTERWEST L.P.
 188	INTERWEST PROJECT LLP
