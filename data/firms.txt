@@ -634,8 +634,23 @@
 		officer: DELTACOM LTD. (DM)
 		officer: HOLDSTAR INC. (DM)
 84	DELFRONT IMPORT LLP
-
+		code: OC380736
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2015-07-21
+		reg: 2012-12-05
+		officer: KENMARK INC. (DM)
+		officer: OSTBERG LTD. (DM)
+		country: UK
 85	DELLWOOD SALES LLP
+		officer: FORMOND INC. (MH)
+		officer: PRIMECROSS INC. (MH)
+		officer: IRELAND & OVERSEAS ACQUISITIONS LTD. (BZ)
+		officer: MILLTOWN CORPORATE SERVICES LTD (BZ)
+		code: OC365055
+		country: UK
+		dis: 2016-01-21
+		addr: Suite 1 The Studio, St Nicholas Close, Elstree, Herts, WD6 3EW
+		reg: 2011-05-31
 86	DELMOORE EXPRESS LLP
 87	DELOKALI LIMITED
 88	DENITRIS
