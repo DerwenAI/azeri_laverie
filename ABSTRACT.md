@@ -156,7 +156,7 @@ laundering scams and their interdictions:
   - Maple Finance (2026)  
     [https://www.cbc.ca/news/canada/canadian-banking-company-linked-to-sanctioned-money-laundering-network-9.7331482](https://www.cbc.ca/news/canada/canadian-banking-company-linked-to-sanctioned-money-laundering-network-9.7331482)
 
-Graph Enhanced AI track, 1 hour, beginner level:
+ODSC track: Graph Enhanced AI; 1 hour, beginner level
 
   * Some background coding in Python is needed
   * Integrates [NetworkX](https://networkx.org/en/), [Polars](https://pola.rs/), [Jupyter](https://jupyter.org/), [Senzing](https://mcp.senzing.com/), [Garphield](https://garphield.com/), [OpenCheck](https://opencheck.world/), [Placekey](https://www.placekey.io/), and more
@@ -167,9 +167,9 @@ Graph Enhanced AI track, 1 hour, beginner level:
 
 Starting with the OCCRP dataset, we can augment with other data sources to resolve the entities named as payers and beneficiaries in the transactions:
 
-  1. Several transactions have beneficiaries with names which are codes beginning with `INN` followed by a 10 digit number -- such as `INN3016043171` -- and these are [Russian tax identifiers](https://www.nalog.gov.ru/eng/inn/) were 10 digits signifies a company or foreign organization.
+  1. Several transactions have beneficiaries with names which are codes beginning with `INN` followed by a 10 digit number -- such as `INN3016043171` -- and these are [Russian tax identifiers](https://www.nalog.gov.ru/eng/inn/) were 10 digits signifies a company or foreign organization, and describes the region (oblast) for the tax authority.
 
-  2. Several companies and individuals are based in Azerbaijain, where business registries are not especially transparent, and moreover these may have personal ties with the Aliyev family which dominates in politics and was the main beneficiary.
+  2. Several companies and individuals are based in Azerbaijan, where business registries are not especially transparent, and moreover these may have personal ties with the Aliyev family which dominates in politics and was the main beneficiary.
 
   3. Some payers are international banks, for example claiming to refund prior payments on clients' invoices. The [ISO 9362-2022 codes](https://www.iso9362.org/isobic/overview.html) for banks, also known as *Business Identifier Codes* (BIC), are managed by [SWIFT](https://www.swift.com/).
 
