@@ -241,9 +241,10 @@
 32	AZERIPAMPSERVICES MMC
 		biz: energy
 		country: AZ
+		class: ghost
 34	BAKTELEKOM MMC
 		country: AZ
-		biz: fraud
+		class: ghost
 		officer: Rasim ASADOV (AZ)
 		note: one letter off the legit `Baktelecom` with no evidence of any connection
 35	BALANKOS COMMERCIAL LTD.
@@ -699,6 +700,7 @@
 		country: MH
 		addr: Trust Company Complex, Ajeltake Road, Ajeltake Island, Majuro, MH96960, Marshall Island
 		note: highlighted by financial crime researchers examining anonymous corporate networks and proxy ownership structures.
+		class: operating
 83	DAYFORD SALES LLP
 		country: UK
 		code: OC381830
@@ -833,9 +835,9 @@
 		code: 1004
 		class: bank
 100	EFFECTIVE TRADE LIMITED
-		biz: fraud -- fishing equipment, allegedly
+		biz: fishing equipment, allegedly
 		country: VG
-		class: shell
+		class: ghost
 101	EGERSON PRODUCTIONS CORP.
 		country: VG
 		code: 1587899
@@ -857,29 +859,132 @@
 		class: shell
 103	EKSPORT TAMPL MMC
 		country: AZ
+		class: ghost
 104	EKVITA LLC
 		country: AZ
 		reg: 2008-10-01
 		addr: Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku
 		biz: full-service legal, tax, and management consulting
 		class: operating
-
 105	ELECTRON ENTERPRISES LTD
+		note: Companies House lists a firm, code 10307339, incorporated in 2016; not the same.
+		country: UK
+		class: ghost
 106	ELEKTROMASH MMC
+		note: ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM
+		country: AZ
+		class: ghost
 107	EMERGOMED
-108	ENTERTOWN L.P
+		country: NL
+		biz: medical equipment wholesale
+		code: 08113758
+		reg: 2002-06-11
+		class: operating
+		addr: G.D. Jordensplein 24, 7417 ZP Deventer, The Netherlands
+108	ENTERTOWN L.P.
+	ENTERTOWN L.P
+		country: UK
+		code: SL008938
+		addr: Summit House, 4-5 Mitchell Street, Edinburgh, Scotland, EH6 7BD
+		reg: 2011-05-15
+		class: dormant
 109	ERELON TRADING LIMITED
+		country: CY
+		code: HE174110
+		addr: Themistokli Dervi, 48, Centennial Building, Floor 3, Nicosia, Cyprus
+		reg: 2006-03-22
+		dis: 2021-08-06
+		officer: Andreas SPYRIDIS (CY)
+		officer: Dimitra STAVRINOU (CY)
+		class: shell
 111	EURO TELECOM LTD
 	EURO TELECOM LTD.
+		country: UK
+		code: 08281918
+		addr: 146 High Street North East Ham, London, England, E6 2HT
+		dis: 2014-06-24
+		reg: 2012-11-06
+		officer: Dileep Varghese JOSEPH (UK)
+		officer: Waris KHAN (UK)
+		officer: NOMINEE DIRECTOR LTD (UK)
+		class: shell
 112	EUROEX COMMERCIAL LLP
+		officer: KENMARK INC. (DM)
+		officer: OSTBERG LTD. (DM)
+		country: UK
+		class: shell
+		code: OC383246
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2018-08-21
+		reg: 2013-03-11
 113	EVERMAIR PROJECTS LP
+		country: UK
+		class: dormant
+		code: SL011768
+		addr: Suite 4330 Mitchell House, 5 Mitchell Street, Edinburgh, Scotland, United Kingdom, EH6 7BD
+		reg: 2012-11-15
 114	EXTRAFIELD LLP
+		officer: KENMARK INC. (DM)
+		officer: OSTBERG LTD. (DM)
+		country: UK
+		class: shell
+		code: OC379332
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		dis: 2015-05-26
+		reg: 2012-10-15
 115	FABERLEX LP
+	SL012728 LP
+		country: UK
+		code: SL012728
+		addr: Suite 1101 111 West George Street, Glasgow, G2 1QX
+		reg: 2013-03-26
+		class: dormant
 116	FANEL DEVELOPMENT LIMITED
+		country: VG
+		code: 1691360
+		reg: 2012-01-13
+		addr: Road Town, Tortola, British Virgin Islands
+		class: shell
+		biz: building materials, allegedly
 117	FEELGOOD PRODUCTION LLP
+		country: UK
+		class: shell
+		code: OC334605
+		addr: Coddan Cpm Ltd, 124 Baker Street, London, W1U 6TY
+		dis: 2017-05-03
+		reg: 2008-02-06
+		note: compulsory liquidation
+		officer: CODDAN NOMINEE ADMINISTRATOR LTD (SC)
+		officer: CODDAN NOMINEE SUBSCRIBER LTD (SC)
+		officer: CODDAN CPM (UK) LIMITED (VG)
+		officer: CODDAN MANAGER LIMITED (SC)
 118	FESTIVAL SALES LLP
-119	FIRST IMPORTS/EXPORTS L P
+		officer: KENMARK INC. (DM)
+		officer: OSTBERG LTD. (DM)
+		country: UK
+		class: shell
+		code: OC378268
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW
+		dis: 2014-05-13
+		reg: 2012-09-10
+119	FIRST IMPORTS/EXPORTS L.P.
+	FIRST IMPORTS/EXPORTS L P
+		country: UK
+		code: SL011146
+		addr: Suite 1 78 Montgomery Street, Edinburgh, Scotland, EH7 5JA
+		reg: 2012-08-08
+		class: dormant
 120	FIRSTWOOD ALLIANCE LLP
+		country: UK
+		addr: Enterprise House, 82 Whitchurch Road, Cardiff, CF14 3LX
+		dis: 2014-05-13
+		reg: 2010-09-16
+		officer: INTRAHOLD A.G. (SC)
+		officer: MONOHOLD A.G. (SC)
+		officer: IRELAND & OVERSEAS ACQUISITIONS LIMITED (BZ)
+		officer: MILLTOWN CORPORATE SERVICES LIMITED (BZ)
+		class: shell
+		code: OC357935
 121	FORAL GROUP
 122	FUTUREWARE S.A.
 123	GEBA INDUSTRIES LTD

@@ -169,11 +169,13 @@ Starting with the OCCRP dataset, we can augment with other data sources to resol
 
   1. Several transactions have beneficiaries with names which are codes beginning with `INN` followed by a 10 digit number -- such as `INN3016043171` -- and these are [Russian tax identifiers](https://www.nalog.gov.ru/eng/inn/) were 10 digits signifies a company or foreign organization.
 
-  2. Some payers are international banks, for example claiming to refund prior payments on clients' invoices. The [ISO 9362-2022 codes](https://www.iso9362.org/isobic/overview.html) for banks, also known as *Business Identifier Codes* (BIC), are managed by [SWIFT](https://www.swift.com/).
+  2. Several companies and individuals are based in Azerbaijain, where business registries are not especially transparent, and moreover these may have personal ties with the Aliyev family which dominates in politics and was the main beneficiary.
 
-  3. Banks and other firms involved in global financial markets will often have a *Legal Entity Identifier* (LEI), managed by [GLEIF](https://www.gleif.org/).
+  3. Some payers are international banks, for example claiming to refund prior payments on clients' invoices. The [ISO 9362-2022 codes](https://www.iso9362.org/isobic/overview.html) for banks, also known as *Business Identifier Codes* (BIC), are managed by [SWIFT](https://www.swift.com/).
 
-  4. Many of companies named are registered in countries (EE, UK, DE, CY, VG, TR, etc.) which make portions of their corporate registries data available for public search, or have import/export registries and other corporate directories online -- for example:
+  4. Banks and other firms involved in global financial markets will often have a *Legal Entity Identifier* (LEI), managed by [GLEIF](https://www.gleif.org/).
+
+  5. Many of the companies named are registered in countries (EE, UK, DE, CY, VG, TR, etc.) which make portions of their corporate registries data available for public search, or have import/export registries and other corporate directories online -- for example:
 
       + CN: [HK Companies](https://hkg.databasesets.com/)
       + CY: [Cyprus DRCIP](https://data.gov.cy/)
@@ -184,7 +186,7 @@ Starting with the OCCRP dataset, we can augment with other data sources to resol
       + UK: [Companies House](https://find-and-update.company-information.service.gov.uk/)
       + VG: [BVI Company Search](https://i-bvi.com/)
 
-  5. Additional data about some of the shell companies involved may be available through [IJIC Offshore Leaks](https://offshoreleaks.icij.org/pages/database).
+  6. Additional data about shell companies and their intermediaries is available through [IJIC Offshore Leaks](https://offshoreleaks.icij.org/pages/database).
 
 Most of the data described above is available through [OpenSanctions](https://www.opensanctions.org/).
 However in some cases, additional curation will be required.
@@ -196,12 +198,23 @@ Tools such as [OpenCheck](https://opencheck.world/) can be leveraged via
 [API or an MCP server](https://opencheck.world/api).
 However, in some cases manual searches through company registries may be needed.
 
+Note that when using data from a registry, such as Companies House, be
+sure to check the dates of incorporation. Shell companies tend to have
+relatively generic names, quite deliberately to blend into the
+landscape. You might find "ELECTRON ENTERPRISES LTD" in the data,
+however if that's a firm incorporated in 2016, funds would not have
+been transferred to it in 2012 -- so that's likely a different
+company.
+
 With these data sources collected, one can run
 [*entity resolution*](https://senzing.com/what-is-entity-resolution/) (ER),
 for example by using a [Senzing MCP server](https://mcp.senzing.com/) with 
 Anthropic Claude or other AI services.
-The ER process resolves the mentioned entities and identifies potential relationships among them.
-Results can then construct a [thesaurus](https://moderndata101.substack.com/p/the-semantic-infrastructure-opportunity) as a knowledge asset.
+The ER process resolves the mentioned entities and identifies potential
+relationships among them.
+Results can then construct a
+[thesaurus](https://moderndata101.substack.com/p/the-semantic-infrastructure-opportunity)
+as a knowledge asset.
 
 We can enrich this thesaurus with geospatial analysis, in other words
 to identify where entities' addresses overlap geographically,
@@ -210,7 +223,8 @@ identifiers for physical places.
 
 Applying this thesaurus to these wire transfer transactions produces
 the elements needed for constructing an 
-[*entity resolved knowledge graph*](https://senzing.com/entity-resolved-knowledge-graphs/), namely as *nodes*, *edges*, and *properties*.
+[*entity resolved knowledge graph*](https://senzing.com/entity-resolved-knowledge-graphs/),
+namely as *nodes*, *edges*, and *properties*.
 
 We will use a knowledge graph construction process known as the
 [*Ontology Pipeline*](https://technicspub.com/ontology-pipeline/)
