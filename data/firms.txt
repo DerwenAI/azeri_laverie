@@ -986,18 +986,99 @@
 		class: shell
 		code: OC357935
 121	FORAL GROUP
+		country: US
+		biz: construction materials
+		note: likely not "FORAL LP" SL015300, given the dates
+		class: ghost
 122	FUTUREWARE S.A.
+		country: PA
+		code: 19315
+		addr: Torre Global Plaza, Calle 50, Panama City, Panama
+		reg: 2011-02-23
+		officer: Humberto Gregorio BARRERA MOJICA (PA)
+		class: dormant
 123	GEBA INDUSTRIES LTD
-124	GENERAL TURBO S.A
-125	GENTECH (FZE)
-126	GEORGIA MEDIA EXCHANGE' LLC
+		country: UK
+		code: SC375222
+		addr: 18/2 Royston Mains Street, Edinburgh, EH5 1LB
+		dis: 2016-02-08
+		reg: 2010-03-19
+		officer: ARRAN SECRETARIES LTD (UK)
+		officer: Alise ILSLEY (LV)
+		officer: David John BENGE (UK)
+		officer: Neil YOUNG (UK)
+		class: shell
+124	GENERAL TURBO SA
+	GENERAL TURBO S.A
+		country: RO
+		code: J1992026498408
+		biz: heavy power generation equipment, nuclear energy
+		reg: 1992-10-21
+		class: operating
+		addr: 104 Berceni, Bucharest 4, 041919
+		edd: https://search.openaleph.org/search?q=GENERAL+TURBO
+125	GENTECH GLOBAL FZ-LLC
+	GENTECH FZE
+	GENTECH (FZE)
+		country: AE
+		addr: VUNE1303, Compass Building, Al Hulaila Industrial Zone-FZ, UAE
+		biz: coordinates product design, technology integration, production management, and international supply for GENTECH GROUP
+		class: operating
+126	GEORGIA MEDIA EXCHANGE
+	GEORGIA MEDIA EXCHANGE' LLC
+		code: 204574399
+		country: GE
+		addr: Gudiashvili sq. 4, 0105, Tbilisi, Georgia
+		reg: 2009-10-21
+		class: operating
+		biz: advertising and media agency
 127	GFG EXPORT LLP
-128	GLOBECOM TRADE L P
+		country: UK
+		addr: 175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW
+		officer: ASTROCOM AG (SC)
+		officer: EXPONET GMBH (SC)
+		class: shell
+		dis: 2014-09-23
+		reg: 2012-02-10
+		code: OC372307
+128	GLOBECOM TRADE L.P.
+	GLOBECOM TRADE L P
 	GLOBECOM TRADE L.P
-130	GMH MEDIZINTECHNIK GMBH,
+		country: UK
+		class: dormant
+		code: SL009161
+		addr: 1/2 35 Taits Lane, Dundee, DD2 1DZ
+		reg: 2011-06-29
+130	GMH MEDIZINTECHNIK GMBH
+	GMH MEDIZINTECHNIK GMBH,
+		country: DE
+		code: HRB9546
+		reg: 2008-12-16
+		class: operating
+		biz: medical supply
+		addr: Robert-Bosch-Straße 18, Dreieich-Sprendlingen, Germany
+		officer: John KHWAJA (DE)
+		officer: Fuad ALIYEV (AZ)
+		officer: Peter Komives (RO)
+		note: liquidation date 2015-11-25
 132	GOKNUR BAKI LTD
 	GOKNUR BAKI LTD MMC
+		biz: manufacture and import/export of electrical equipment and industrial material
+		country: AZ
+		code: 1500023181
+		addr: Ziya Bunyadov Street 11, Quarter 2062, Buyuk-Shor Highway, Narimanov District, Baku AZ1029, Azerbaijan
+		class: operating
+		reg: 2003-01-01
 133	GOLDEN FIDES INTERNATIONAL LTD
+		country: CY
+		code: ΗΕ294820
+		dis: 2018-05-16
+		reg: 2011-10-05
+		officer: Panagiotis CHATZIPANAGIOTOY (CY)
+		officer: Margarita MARKOY (CY)
+		addr: Agiou Georgiou Makri, 42, K & C COURT 15, Floor 4, Flat 402, 6036, Larnaka, Cyprus
+		class: shell		
+
 134	GOLDPIECE CORPORATION
 135	GRANSTON SALES LLP
 136	GRAY KENT INVESTMENTS LP
