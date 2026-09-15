@@ -4,6 +4,7 @@ data/config.toml
 data/azeri.tsv
 data/occrp.json
 occrp.html
+out.json
 *~
 
 # Byte-compiled / optimized / DLL files

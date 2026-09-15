@@ -7,6 +7,9 @@ See <https://developer-specs.company-information.service.gov.uk/>
 """
 
 from difflib import SequenceMatcher
+import csv
+import datetime as dt
+import json
 import pathlib
 import sys
 import time
@@ -21,21 +24,19 @@ ic.configureOutput(
 )
 
 
-BASE_URL: str = "https://api.company-information.service.gov.uk"
-
-
-def get_uk_coho (
+def get_ukcoh (
     api_key: str,
     query: str,
     search: str,
     kept_fields: dict[ str, str ],
     *,
     debug: bool = True,
+    base_url: str = "https://api.company-information.service.gov.uk",
     ) -> dict[ str, typing.Any ] | None:
     """
 Access the UK Companies House API for the given search parameters.
     """
-    url: str = f"{BASE_URL}/{search}"
+    url: str = f"{base_url}/{search}"
 
     response: requests.Response = requests.get(
         url.format(query),
@@ -52,6 +53,9 @@ Access the UK Companies House API for the given search parameters.
         return None
 
     for item in dat.get("items"):
+        if debug:
+            ic(item)
+
         result: dict[ str, typing.Any ] = {}
 
         if "title" in item:
@@ -61,14 +65,13 @@ Access the UK Companies House API for the given search parameters.
                 query.lower().strip(),
             ).ratio()
 
-            result["similar"] = round(similar, 2)
+            result["lavie:similar"] = round(similar, 2)
 
         for field_key, field_iri in kept_fields.items():
             if field_key in item:
                 result[field_iri] = item.get(field_key)
 
-        if debug:
-            ic(item)
+        result["lavie:query"] = query
 
         return result
 
@@ -78,22 +81,23 @@ def search_company (
     query: str,
     *,
     debug: bool = True,
-    ) -> None:
+    sim_thresh: float = 0.85,
+    ) -> dict | None:
     """
 Search one company.
     """
     search: str = f"search/companies?q={query}"
 
     kept_fields: dict[ str, str ] = {
-        "address_snippet": "bods:streetAddress", 
-        "company_number": "code", 
-        "company_status": "status", 
-        "date_of_cessation": "dis", 
-        "date_of_creation": "reg", 
         "title": "bods:fullName",
+        "company_number": "bods:idString", 
+        "address_snippet": "bods:streetAddress", 
+        "date_of_cessation": "bods:dissolutionDate", 
+        "date_of_creation": "bods:foundingDate", 
+        "company_status": "ukcoh:status", 
     }
 
-    result: dict[ str, typing.Any ] | None = get_uk_coho(
+    result: dict[ str, typing.Any ] | None = get_ukcoh(
         api_key,
         query,
         search,
@@ -101,35 +105,51 @@ Search one company.
         debug = debug,
     )
 
-    if result is not None and result.get("similar") > 0.99:
-        query = result.get("code")
-        search = f"company/{query}/officers"
+    if result is None:
+        return None
 
-        kept_fields = {
-            "address": "address",
-            "appointed_on": "appointed_on",
-            "identification": "identification",
-            "name": "name",
-            "officer_role": "officer_role",
-            "person_number": "person_number",
-        }
+    if result.get("lavie:similar") < sim_thresh:
+        ic(query, result.get("lavie:similar"))
+        return None
 
-        officers: dict[ str, typing.Any ] | None = get_uk_coho(
-            api_key,
-            query,
-            search,
-            kept_fields,
-            debug = debug,
-        )
-
-        if officers is not None:
-            result["officers"] = officers
-
-    result["bods:code"] = "UK"
+    result["lavie:aliases"] = []
+    result["bods:retrievedAt"] = f"{dt.datetime.now(dt.UTC).isoformat()}"
+    result["bods:code"] = "codes:UK"
     result["bods:entityType"] = "codes:RegisteredEntity"
-    result["oc:sourceId"] = "uk_companies_house" 
+    result["bods:schemeName"] = "Companies House" 
+    result["bods:scheme"] = "GB-COH"
 
-    ic(result)
+    if result.get("lavie:similar") < 1.0:
+        result["lavie:aliases"].append(query)
+
+    # next, get the officers -- if any
+    query = result.get("bods:idString")
+    search = f"company/{query}/officers"
+
+    kept_fields = {
+        "address": "address",
+        "appointed_on": "appointed_on",
+        "identification": "identification",
+        "name": "name",
+        "officer_role": "officer_role",
+        "person_number": "person_number",
+    }
+
+    officers: dict[ str, typing.Any ] | None = get_ukcoh(
+        api_key,
+        query,
+        search,
+        kept_fields,
+        debug = debug,
+    )
+
+    if officers is not None:
+        result["ukcoh:officers"] = officers
+
+    if debug:
+        ic(result)
+
+    return result
 
 
 if __name__ == "__main__":
@@ -140,26 +160,39 @@ if __name__ == "__main__":
     with open(config_path, mode = "rb") as fp:
         config = tomllib.load(fp)
 
-    # search a list of likell UK-based companies
-    api_key: str = config["api"]["uk_coho"]
+    # search a list of likely UK-based companies
+    api_key: str = config["api"]["ukcoh"]
 
-    companies: list[ str ] = [
-        "ALLYSON SOLUTIONS LLP",
-        "ALSATEC LLP",
-        "ARBA MANAGEMENT LLP",
-        "ARIONA TRADING LLP",
-        "BRANDHOLD ALLIANCE LLP",
-        "BUILDCO SUPPLIES LLP",
-        "Captron Merchants LLP",
-        "CARLEX TECHNOLOGY LLP",
-    ]
+    companies: list[ str ] = []
+    uk_path: pathlib.Path = pathlib.Path("uk.tsv")
 
-    # API allows up to 600 requests within a 5 minute period.
+    with open(uk_path, mode = "r", encoding = "utf-8") as fp:
+        reader = csv.reader(fp, delimiter = "\t")
+
+        for name, _, _ in reader:
+            companies.append(name)
+
+    # rate limiting: API allows 600 requests within a 5 minute period
+    out_data: list[dict] = []
+
     for name in companies:
-        search_company(
+        result: dict | None = search_company(
             api_key,
             name,
-            debug = False,
+            debug = False, # True
         )
 
         time.sleep(1)
+
+        if result is not None:
+            out_data.append(result)
+
+    out_path: pathlib.Path = pathlib.Path("out.json")
+
+    with open(out_path, mode = "w", encoding = "utf-8") as fp:
+        json.dump(
+            out_data,
+            fp,
+            ensure_ascii = False,
+            indent = 2,
+        )
