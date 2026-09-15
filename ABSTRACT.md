@@ -21,9 +21,11 @@ The primary dataset used here comes from:
 These are wire transfer transactions from the _Azerbaijani Laundromat_
 incident at the Estonian branch of Danske Bank during 2012-2014, which
 involved thousands of "non-resident accounts", i.e., from Russia.
-Our analysis builds on a prior project led by Clair Sullivan:
+Our analysis builds on prior project:
 
- - <https://github.com/cj2001/senzing_occrp_mapping_demo/>
+ - Clair Sullivan <https://github.com/cj2001/senzing_occrp_mapping_demo/>
+ - Christophe Willemsen <https://github.com/ikwattro/occrp-azerbaijani-laundromat-dataset/blob/main/transactions.csv>
+ - Douglas Lee <https://public.tableau.com/app/profile/douglas.lee2850/viz/AzerbaijaniLaundromatEDAWIP/AccountInfo>
 
 
 ## Legal fallout
@@ -376,3 +378,4 @@ seek to promote and achieve exactly this.
 - <https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-core-companies>
 - <https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-origin-of-the-money>
 - <https://www.occrp.org/en/project/the-fincen-files/rinse-profit-repeat-how-a-small-team-of-estonians-turned-a-danish-bank-into-a-laundromat>
+- <https://www.occrp.org/en/project/the-azerbaijani-laundromat/hamid-karimov>

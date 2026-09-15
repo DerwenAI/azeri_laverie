@@ -5,3 +5,10 @@
   - convert transaction amounts from various currencies to USD
   - build a graph which has the full set of entities and relations
   - calculate how much % coverage can be obtained through each AML rule
+
+
+## API example access
+
+  - <https://github.com/dannykellett/ukcompanies>
+  - <https://broadoakdata.uk/how-to-get-companies-house-data-using-rest-api/>
+  - <https://github.com/RegistrumUK/companies-house-api-python-starter/blob/master/example.py>
