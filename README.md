@@ -40,5 +40,11 @@ Source code plus any logo, documentation, and coding examples have an
 [MIT license](https://spdx.org/licenses/MIT.html) which is succinct
 and simplifies use in commercial applications.
 
-Unless otherwise noted, all materials herein are Copyright © 2026 Senzing, Inc.
+The datasets used are licensed by their respective data providers:
+
+  - UK gov
+  - OCCRP
+  - OpenCheck
+
+Unless otherwise noted, all other materials herein are Copyright © 2026 Senzing, Inc.
 </details>

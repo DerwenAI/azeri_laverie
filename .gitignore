@@ -1,4 +1,6 @@
 # local files
+data/*.trig
+data/config.toml
 data/azeri.tsv
 data/occrp.json
 occrp.html
