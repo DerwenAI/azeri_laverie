@@ -1,6 +1,7 @@
 [
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "lavie:query": "EURO TELECOM LTD",
         "bods:fullName": "EURO TELECOM LTD",
         "bods:idString": "08281918",
@@ -343,6 +344,7 @@
     },
     {
         "lavie:similar": 1.0,
+        "lavie:class": "shell",
         "bods:fullName": "ADANA TRADE LLP",
         "bods:idString": "OC375797",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -509,6 +511,7 @@
     },
     {
         "lavie:similar": 1.0,
+        "lavie:class": "shell",
         "bods:fullName": "ALENTER TRADING LIMITED",
         "bods:idString": "07743949",
         "bods:streetAddress": "43 Bedford Street, Office 11, London, WC2E 9HA",
@@ -635,6 +638,8 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "dormant",
+	"lavie:biz": "VC incubator",
         "bods:fullName": "ALPS VENTURES LIMITED",
         "bods:idString": "05887499",
         "bods:streetAddress": "First Floor Kirkland House, 11-15 Peterborough Road, Harrow, Middlesex, HA1 2AX",
@@ -1085,6 +1090,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "dormant",
         "bods:fullName": "ARMA STEEL TRADING LP",
         "bods:idString": "LP014442",
         "bods:streetAddress": "1st Floor 32 Wigmore Street, London, W1U 2RP",
@@ -1101,6 +1107,8 @@
     },
     {
         "lavie:similar": 0.91,
+	"lavie:class": "dormant",
+	"lavie:biz": "industrial spare parts",
         "bods:fullName": "ASTON GLOBAL L.P.",
         "bods:idString": "SL008049",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, EH7 5JA",
@@ -1427,6 +1435,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BENARDO SOLUTIONS LLP",
         "bods:idString": "OC353233",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -1489,6 +1498,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BENTCARD IMPORT LLP",
         "bods:idString": "OC369315",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -1549,6 +1559,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BERGFOX ALLIANCE LLP",
         "bods:idString": "OC372748",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -1678,6 +1689,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BHW PROJECTS LLP",
         "bods:idString": "OC368144",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -1984,6 +1996,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BONDWEST LLP",
         "bods:idString": "OC371790",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2044,6 +2057,7 @@
     },
     {
         "lavie:similar": 0.98,
+	"lavie:class": "shell",
         "bods:fullName": "BONWEST INDUSTRIAL LLP",
         "bods:idString": "OC371947",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2106,6 +2120,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BONWILL PROJECTS LLP",
         "bods:idString": "OC380720",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2226,6 +2241,7 @@
     },
     {
         "lavie:similar": 0.95,
+	"lavie:class": "dormant",
         "bods:fullName": "BRENTON BUSINESS L.P.",
         "bods:idString": "SL010012",
         "bods:streetAddress": "1/2 35 Taits Lane, Dundee, Scotland, DD2 1DZ",
@@ -2244,6 +2260,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BRIGHT LINE MARITIME LLP",
         "bods:idString": "OC360814",
         "bods:streetAddress": "Intershore Suites Vernon House, Sicilian Avenue, London, WC1A 2QS",
@@ -2288,6 +2305,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BSMAX LLP",
         "bods:idString": "OC334604",
         "bods:streetAddress": "124 Baker Street, London, W1U 6TY",
@@ -2591,6 +2609,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "CAMBELL UNIVERSAL LLP",
         "bods:idString": "OC324779",
         "bods:streetAddress": "Suite 1, The Studio, St. Nicholas Close, Elstree, Hertfordshire, WD6 3EW",
@@ -2691,6 +2710,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "CAPTRON MERCHANTS LLP",
         "bods:idString": "OC373296",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2955,6 +2975,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "dormant",
         "bods:fullName": "CARTFIELD TRADE L.P.",
         "bods:idString": "SL008371",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, Scotland, EH7 5JA",
@@ -2971,6 +2992,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "CAYREST EXPORT LLP",
         "bods:idString": "OC365542",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, United Kingdom, B3 3QR",
@@ -3031,6 +3053,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "CENTROEXPERT LLP",
         "bods:idString": "OC350705",
         "bods:streetAddress": "Enterprise House, 82 Whitchurch Road, Cardiff, CF14 3LX",
@@ -3146,6 +3169,8 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
+	"lavie:biz": "wholesale consumer electronics",
         "bods:fullName": "CLAMOSA LIMITED",
         "bods:idString": "07805986",
         "bods:streetAddress": "44 A The Green, Warlingham, Surrey, CR6 9NA",
@@ -3214,6 +3239,8 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
+	"lavie:biz": "agents specialised in the sale of other particular products",
         "bods:fullName": "CLIMBFREE SOLUTIONS LIMITED",
         "bods:idString": "05239730",
         "bods:streetAddress": "48 Queen Anne Street, London, W1G 9JJ",
@@ -3553,6 +3580,7 @@
     },
     {
         "lavie:similar": 0.98,
+	"lavie:class": "shell",
         "bods:fullName": "CONTRATECH SALES LLP",
         "bods:idString": "OC371955",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -4029,6 +4057,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "CREDILEX LLP",
         "bods:idString": "OC370953",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -4089,6 +4118,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "CROFTLINK EXPORT LLP",
         "bods:idString": "OC365095",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW",
@@ -4188,6 +4218,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "CROSSPARK LINES LLP",
         "bods:idString": "OC381424",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4310,6 +4341,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DANBELL IMPORT LLP",
         "bods:idString": "OC371965",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4372,6 +4404,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DARTLEY CAPITAL LLP",
         "bods:idString": "OC371557",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4432,6 +4465,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DATEMILE ALLIANCE LLP",
         "bods:idString": "OC379963",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -4684,6 +4718,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DAYFORD SALES LLP",
         "bods:idString": "OC381830",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4744,6 +4779,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DELFRONT IMPORT LLP",
         "bods:idString": "OC380736",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4804,6 +4840,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DELLWOOD SALES LLP",
         "bods:idString": "OC365055",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, WD6 3EW",
@@ -4903,6 +4940,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DELMOORE EXPRESS LLP",
         "bods:idString": "OC373853",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -5274,6 +5312,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DEXPORT UNIVERSAL LLP",
         "bods:idString": "OC371949",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -5336,6 +5375,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DIGIMARK MERCHANTS LLP",
         "bods:idString": "OC371956",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -5865,6 +5905,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "DOCKWOOD ALLIANCE LLP",
         "bods:idString": "OC365663",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW",
@@ -6057,6 +6098,7 @@
     },
     {
         "lavie:similar": 0.96,
+	"lavie:class": "dormant",
         "bods:fullName": "ENTERTOWN L.P.",
         "bods:idString": "SL008938",
         "bods:streetAddress": "Summit House, 4-5 Mitchell Street, Edinburgh, Scotland, EH6 7BD",
@@ -6137,6 +6179,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "EUROEX COMMERCIAL LLP",
         "bods:idString": "OC383246",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -6197,6 +6240,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "dormant",
         "bods:fullName": "EVERMAIR PROJECTS LP",
         "bods:idString": "SL011768",
         "bods:streetAddress": "Suite 4330 Mitchell House, 5 Mitchell Street, Edinburgh, Scotland, United Kingdom, EH6 7BD",
@@ -6213,6 +6257,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "EXTRAFIELD LLP",
         "bods:idString": "OC379332",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -6465,6 +6510,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "FEELGOOD PRODUCTION LLP",
         "bods:idString": "OC334605",
         "bods:streetAddress": "124 Baker Street, London, W1U 6TY",
@@ -6709,6 +6755,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "FESTIVAL SALES LLP",
         "bods:idString": "OC378268",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -6952,6 +6999,7 @@
     },
     {
         "lavie:similar": 0.94,
+	"lavie:class": "dormant",
         "bods:fullName": "FIRST IMPORTS/EXPORTS L.P.",
         "bods:idString": "SL011146",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, Scotland, EH7 5JA",
@@ -6988,6 +7036,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "FIRSTWOOD ALLIANCE LLP",
         "bods:idString": "OC357935",
         "bods:streetAddress": "Enterprise House, 82 Whitchurch Road, Cardiff, CF14 3LX",
@@ -7540,6 +7589,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "GEBA INDUSTRIES LTD",
         "bods:idString": "SC375222",
         "bods:streetAddress": "18/2 Royston Mains Street, Edinburgh, EH5 1LB",
@@ -7817,6 +7867,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "GFG EXPORT LLP",
         "bods:idString": "OC372307",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -8018,6 +8069,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "dormant",
         "bods:fullName": "GLOBECOM TRADE L.P.",
         "bods:idString": "SL009161",
         "bods:streetAddress": "1/2 35 Taits Lane, Dundee, DD2 1DZ",
@@ -20074,6 +20126,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "BONINVEST LLP",
         "bods:idString": "OC363814",
         "bods:streetAddress": {
@@ -20179,6 +20232,7 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "shell",
         "bods:fullName": "CARGOSTAR LLP",
         "bods:idString": "OC381681",
         "bods:streetAddress": {
@@ -20440,5 +20494,277 @@
                 "lavie:query": "07792400"
             }
         ]
+    },
+    {
+        "lavie:similar": 1.0,
+	"lavie:class": "dormant",
+        "bods:fullName": "ADANA INVESTMENTS LTD",
+        "bods:idString": "07105739",
+        "bods:streetAddress": {
+            "address_line_1": "5 Osborne Terrace",
+            "locality": "Jesmond",
+            "postal_code": "NE2 1SQ",
+            "region": "Newcastle Upon Tyne"
+        },
+        "bods:foundingDate": "2009-12-15",
+        "ukcoh:status": "active",
+        "lavie:aliases": [
+	    "ADANA INVESTMENTS, LTD",
+	    "ADANA INVESTMENT,LTD"
+	],
+        "bods:retrievedAt": "2026-09-16T22:43:33.751476+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Osborne Terrace",
+                    "country": "United Kingdom",
+                    "locality": "Jesmond",
+                    "postal_code": "NE2 1SQ",
+                    "premises": "5",
+                    "region": "Newcastle Upon Tyne"
+                },
+                "appointed_on": "2009-12-15",
+                "name": "SAVAGE, Martin Joseph",
+                "officer_role": "director",
+                "person_number": "104976320001",
+                "lavie:query": "07105739"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+	"lavie:class": "shell",
+        "bods:fullName": "EUROILGAS INDUSTRIES PLC",
+        "bods:idString": "05716053",
+        "bods:streetAddress": {
+            "address_line_1": "85 Great Portland Street",
+            "address_line_2": "First Floor",
+            "country": "England",
+            "locality": "London",
+            "postal_code": "W1W 7LT"
+        },
+        "bods:dissolutionDate": "2019-01-22",
+        "bods:foundingDate": "2006-02-21",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T22:43:36.149658+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Great Portland Street",
+                    "address_line_2": "First Floor",
+                    "country": "England",
+                    "locality": "London",
+                    "postal_code": "W1W 7LT",
+                    "premises": "85"
+                },
+                "appointed_on": "2018-07-18",
+                "name": "KHALILOV, Intigam",
+                "officer_role": "director",
+                "person_number": "249327470001",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "Bruton Lane",
+                    "country": "United Kingdom",
+                    "locality": "London",
+                    "postal_code": "W1J 6JQ",
+                    "premises": "25"
+                },
+                "appointed_on": "2006-02-21",
+                "name": "JODHUN, Dhirsingh",
+                "officer_role": "secretary",
+                "person_number": "110888530002",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "Bruton Lane",
+                    "country": "United Kingdom",
+                    "locality": "London",
+                    "postal_code": "W1J 6JQ",
+                    "premises": "25"
+                },
+                "appointed_on": "2010-10-25",
+                "name": "BASHIROV, Khagani",
+                "officer_role": "director",
+                "person_number": "77327920006",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "Bruton Lane",
+                    "country": "United Kingdom",
+                    "locality": "London",
+                    "postal_code": "W1J 6JQ",
+                    "premises": "25"
+                },
+                "appointed_on": "2013-12-27",
+                "name": "JODHUN, Dhirsingh",
+                "officer_role": "director",
+                "person_number": "178017960001",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "Great Portland Street",
+                    "address_line_2": "First Floor",
+                    "country": "England",
+                    "locality": "London",
+                    "postal_code": "W1W 7LT",
+                    "premises": "85"
+                },
+                "appointed_on": "2013-09-10",
+                "name": "JODHUN, Dhirsingh",
+                "officer_role": "director",
+                "person_number": "146567300002",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "Great Portland Street",
+                    "address_line_2": "First Floor",
+                    "country": "England",
+                    "locality": "London",
+                    "postal_code": "W1W 7LT",
+                    "premises": "85"
+                },
+                "appointed_on": "2015-03-02",
+                "name": "KAKOURIDES, Christos",
+                "officer_role": "director",
+                "person_number": "199517840002",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "6th Midcrodistrict, 1410 Passage",
+                    "address_line_2": "Bldg4, Apt. 107",
+                    "country": "Azerbaijan",
+                    "locality": "Baku",
+                    "postal_code": "FOREIGN"
+                },
+                "appointed_on": "2006-10-11",
+                "name": "TAGHIYEVA, Sabina",
+                "officer_role": "director",
+                "person_number": "118424800001",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "Pasea Estate",
+                    "country": "British Virgin Islands",
+                    "locality": "Road Town",
+                    "po_box": "958",
+                    "premises": "Morgan & Morgan Building",
+                    "region": "Tortola"
+                },
+                "appointed_on": "2014-05-06",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "BANKS AND TRUST COMPANIES ACT 1990",
+                    "legal_form": "BUSINESS COMPANY",
+                    "place_registered": "BRITISH VIRGIN ISLANDS",
+                    "registration_number": "1465020"
+                },
+                "name": "BILOXI GLOBAL INC.",
+                "officer_role": "corporate-director",
+                "person_number": "187428840001",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "Portland House",
+                    "address_line_2": "Gracis Road",
+                    "country": "Gibraltar",
+                    "locality": "Gibraltar",
+                    "postal_code": "FOREIGN",
+                    "premises": "23"
+                },
+                "appointed_on": "2006-02-21",
+                "identification": {
+                    "identification_type": "eea",
+                    "place_registered": "REGISTERED ADDRESS",
+                    "registration_number": "94991"
+                },
+                "name": "JAVA GROUP LTD",
+                "officer_role": "corporate-director",
+                "person_number": "111405170001",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "Borough High Street",
+                    "locality": "London",
+                    "postal_code": "SE1 1XU",
+                    "premises": "30"
+                },
+                "appointed_on": "2006-02-21",
+                "identification": {
+                    "identification_type": "eea",
+                    "place_registered": "REGISTERED OFFICE",
+                    "registration_number": "5517160"
+                },
+                "name": "JAVA INVESTMENTS MANAGEMENT PLC",
+                "officer_role": "corporate-director",
+                "person_number": "111405090001",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "4 Princes Street",
+                    "locality": "London",
+                    "postal_code": "W1B 2LE"
+                },
+                "appointed_on": "2006-02-21",
+                "name": "WOODSTOCK DIRECTORS LIMITED",
+                "officer_role": "corporate-director",
+                "person_number": "103935390001",
+                "lavie:query": "05716053"
+            },
+            {
+                "address": {
+                    "address_line_1": "4 Princes Street",
+                    "address_line_2": "Mayfair",
+                    "locality": "London",
+                    "postal_code": "W1B 2LE"
+                },
+                "appointed_on": "2006-02-21",
+                "name": "WOODSTOCK SECRETARIES LIMITED",
+                "officer_role": "corporate-director",
+                "person_number": "101836250001",
+                "lavie:query": "05716053"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+	"lavie:class": "dormant",
+        "bods:fullName": "SL012728 LP",
+        "bods:idString": "SL012728",
+        "bods:streetAddress": {
+            "address_line_1": "Suite 1101 111 West George Street",
+            "locality": "Glasgow",
+            "postal_code": "G2 1QX"
+        },
+        "bods:foundingDate": "2013-03-26",
+        "ukcoh:status": "active",
+        "lavie:aliases": [
+	    "FABERLEX LP"
+	],
+        "bods:retrievedAt": "2026-09-16T22:43:38.553971+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": []
     }
 ]
