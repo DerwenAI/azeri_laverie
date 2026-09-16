@@ -227,7 +227,7 @@
 		country: AZ
 		addr: M. Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073
 		biz: public sector, emergency response
-		class: operating
+		class: agency
 31	AZERBAIJAN CASPIAN SHIPPING COMPANY
 	ASCO
 	AZERBAIJAN STATE CASPIAN SHIPP CO
@@ -241,10 +241,10 @@
 32	AZERIPAMPSERVICES MMC
 		biz: energy
 		country: AZ
-		class: ghost
+		class: unknown
 34	BAKTELEKOM MMC
 		country: AZ
-		class: ghost
+		class: unknown
 		officer: Rasim ASADOV (AZ)
 		note: one letter off the legit `Baktelecom` with no evidence of any connection
 35	BALANKOS COMMERCIAL LTD.
@@ -729,7 +729,7 @@
 100	EFFECTIVE TRADE LIMITED
 		biz: fishing equipment, allegedly
 		country: VG
-		class: ghost
+		class: unknown
 101	EGERSON PRODUCTIONS CORP.
 		country: VG
 		code: 1587899
@@ -751,7 +751,7 @@
 		class: shell
 103	EKSPORT TAMPL MMC
 		country: AZ
-		class: ghost
+		class: unknown
 104	EKVITA LLC
 		country: AZ
 		reg: 2008-10-01
@@ -761,11 +761,11 @@
 105	ELECTRON ENTERPRISES LTD
 		note: Companies House lists a firm, code 10307339, incorporated in 2016; not the same.
 		country: UK
-		class: ghost
+		class: unknown
 106	ELEKTROMASH MMC
 		note: ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM
 		country: AZ
-		class: ghost
+		class: unknown
 107	EMERGOMED
 		country: NL
 		biz: medical equipment wholesale
@@ -881,7 +881,7 @@
 		country: US
 		biz: construction materials
 		note: likely not "FORAL LP" SL015300, given the dates
-		class: ghost
+		class: unknown
 122	FUTUREWARE S.A.
 		country: PA
 		code: 19315

@@ -30,9 +30,9 @@ def get_ukcoh (
     search: str,
     kept_fields: dict[ str, str ],
     *,
-    debug: bool = True,
+    debug: bool = False,
     base_url: str = "https://api.company-information.service.gov.uk",
-    ) -> dict[ str, typing.Any ] | None:
+    ) -> typing.Iterator[ dict[ str, typing.Any ]]:
     """
 Access the UK Companies House API for the given search parameters.
     """
@@ -45,73 +45,62 @@ Access the UK Companies House API for the given search parameters.
 
     if not response.ok:
         ic(query, response.reason)
-        return None
+        return
 
     dat: dict = response.json()
 
-    if dat.get("total_results") < 1:
-        return None
+    if debug:
+        ic(dat)
 
-    for item in dat.get("items"):
-        if debug:
-            ic(item)
+    if "items" in dat:
+        if dat.get("total_results") < 0:
+            return
 
+        for item in dat.get("items"):
+            if debug:
+                ic(item)
+
+            result: dict[ str, typing.Any ] = {}
+
+            if "title" in item:
+                similar: float = SequenceMatcher(
+                    None,
+                    item.get("title").lower(),
+                    query.lower().strip(),
+                ).ratio()
+
+                result["lavie:similar"] = round(similar, 2)
+
+            for field_key, field_iri in kept_fields.items():
+                if field_key in item:
+                    result[field_iri] = item.get(field_key)
+
+            result["lavie:query"] = query
+
+            yield result
+
+    else:
         result: dict[ str, typing.Any ] = {}
-
-        if "title" in item:
-            similar: float = SequenceMatcher(
-                None,
-                item.get("title").lower(),
-                query.lower().strip(),
-            ).ratio()
-
-            result["lavie:similar"] = round(similar, 2)
+        result["lavie:similar"] = 1.0
+        item = dat
 
         for field_key, field_iri in kept_fields.items():
             if field_key in item:
                 result[field_iri] = item.get(field_key)
 
-        result["lavie:query"] = query
-
-        return result
+        yield result
 
 
-def search_company (
+def populate_officers (
     api_key: str,
     query: str,
+    result: dict,
     *,
-    debug: bool = True,
-    sim_thresh: float = 0.85,
+    debug: bool = False,
     ) -> dict | None:
     """
-Search one company.
+Pouplate the officers, if any.
     """
-    search: str = f"search/companies?q={query}"
-
-    kept_fields: dict[ str, str ] = {
-        "title": "bods:fullName",
-        "company_number": "bods:idString", 
-        "address_snippet": "bods:streetAddress", 
-        "date_of_cessation": "bods:dissolutionDate", 
-        "date_of_creation": "bods:foundingDate", 
-        "company_status": "ukcoh:status", 
-    }
-
-    result: dict[ str, typing.Any ] | None = get_ukcoh(
-        api_key,
-        query,
-        search,
-        kept_fields,
-        debug = debug,
-    )
-
-    if result is None:
-        return None
-
-    if result.get("lavie:similar") < sim_thresh:
-        ic(query, result.get("lavie:similar"))
-        return None
-
     result["lavie:aliases"] = []
     result["bods:retrievedAt"] = f"{dt.datetime.now(dt.UTC).isoformat()}"
     result["bods:code"] = "codes:UK"
@@ -135,7 +124,7 @@ Search one company.
         "person_number": "person_number",
     }
 
-    officers: dict[ str, typing.Any ] | None = get_ukcoh(
+    uk_iter = get_ukcoh(
         api_key,
         query,
         search,
@@ -143,13 +132,63 @@ Search one company.
         debug = debug,
     )
 
-    if officers is not None:
-        result["ukcoh:officers"] = officers
+    result["ukcoh:officers"] = []
+
+    for officer in uk_iter:
+        result["ukcoh:officers"].append(officer)
 
     if debug:
         ic(result)
 
     return result
+
+
+def search_company (
+    api_key: str,
+    query: str,
+    *,
+    debug: bool = False,
+    sim_thresh: float = 0.85,
+    ) -> dict | None:
+    """
+Search one company.
+    """
+    search: str = f"search/companies?q={query}"
+
+    kept_fields: dict[ str, str ] = {
+        "title": "bods:fullName",
+        "company_number": "bods:idString", 
+        "address_snippet": "bods:streetAddress", 
+        "date_of_cessation": "bods:dissolutionDate", 
+        "date_of_creation": "bods:foundingDate", 
+        "company_status": "ukcoh:status", 
+    }
+
+    iter_uk = get_ukcoh(
+        api_key,
+        query,
+        search,
+        kept_fields,
+        debug = debug,
+    )
+
+    for result in iter_uk:
+        if result.get("lavie:similar") < sim_thresh:
+            ic(query, result.get("lavie:similar"))
+
+            if debug:
+                ic(result)
+
+            continue
+
+        populate_officers(
+            api_key,
+            query,
+            result,
+            debug = debug,
+        )
+
+        return result
 
 
 if __name__ == "__main__":
@@ -160,9 +199,13 @@ if __name__ == "__main__":
     with open(config_path, mode = "rb") as fp:
         config = tomllib.load(fp)
 
-    # search a list of likely UK-based companies
     api_key: str = config["api"]["ukcoh"]
 
+    # CUSTOMIZED SEARCHES
+    #search: str = f"company/{query}"
+
+
+    # search a list of likely UK-based companies
     companies: list[ str ] = []
     uk_path: pathlib.Path = pathlib.Path("uk.tsv")
 
@@ -194,5 +237,5 @@ if __name__ == "__main__":
             out_data,
             fp,
             ensure_ascii = False,
-            indent = 2,
+            indent = 4,
         )

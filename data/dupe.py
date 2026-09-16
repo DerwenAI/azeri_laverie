@@ -27,6 +27,7 @@ if __name__ == "__main__":
 
     # first, collect the resolved entity names and their aliases
     ORIG_COUNT: int = 3881
+    MAX_DATE: str = "2014-12-31"
 
     names: set[ str ] = set()
     alias: set[ str ] = set()
@@ -37,16 +38,20 @@ if __name__ == "__main__":
         dat: dict = json.load(fp)
 
     for item in dat:
-        name: str = item["bods:fullName"]
+        name: str = item.get("bods:fullName")
+        founding: str | None = item.get("bods:foundingDate")
+
+        if founding is not None and founding > MAX_DATE:
+            logging.info(f"{name} founded too late: {founding}")
 
         if name in names:
-            logger.debug(f"DUPLICATE: {name}")
+            logger.info(f"DUPLICATE: {name}")
         else:
             names.add(name)
 
-        for name in item["lavie:aliases"]:
+        for name in item.get("lavie:aliases"):
             if name in names:
-                logger.debug(f"DUPLICATE: {name}")
+                logger.info(f"DUPLICATE: {name}")
             else:
                 alias.add(name)
 
