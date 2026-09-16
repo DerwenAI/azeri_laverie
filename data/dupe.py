@@ -17,14 +17,14 @@ ic.configureOutput(
     noColor = True,
 )
 
+logger = logging.getLogger(__name__)
+
+logging.basicConfig(
+    level = logging.INFO,
+)
+
 
 if __name__ == "__main__":
-    logger = logging.getLogger(__name__)
-
-    logging.basicConfig(
-        level = logging.INFO,
-    )
-
     # first, collect the resolved entity names and their aliases
     ORIG_COUNT: int = 3881
     MAX_DATE: str = "2014-12-31"
@@ -80,7 +80,7 @@ if __name__ == "__main__":
     logger.info(f"{len(alias)} aliases found")
     logger.info(f"{len(todo)} remain unresolved")
 
-    dupe_rate: float = round(float(len(alias)) / float(len(names)) * 100.0, 2)
+    dupe_rate: float = round(float(len(alias)) / float(len(alias) + len(names)) * 100.0, 2)
     done_rate: float = round(100.0 - (float(len(todo)) / float(ORIG_COUNT) * 100.0), 2)
 
     logger.info(f"{dupe_rate}% duplicates")

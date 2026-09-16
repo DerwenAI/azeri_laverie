@@ -17,70 +17,15 @@ ic| query: 'CLYDY LTD', sim: 0.82
 ic| query: 'MOBILA LLP', sim: 0.8
 
 
-## wrong match
+## wrong matches
 
 INFO:root:ITARAH LTD founded too late: 2026-05-21
 	sim: 0.89
-
-
-## misses
-
-ic| query: 'HILUX SERVICES LP', sim: 0.7
-	SL012732
-	scots limited, name change
-
-ic| query: 'WEST SPORT ALLIANCE LLP', sim: 0.76
-	SO300935
-	really effin long name
-
-ic| query: 'EXPA UK LTD', sim: 0.81
-	03858674
-	differs from "EXPA (UK) LIMITED"
 
 ic| query: 'CASA LONDRA LTD', sim: 0.82
     	not "CASA-LONDRA LTD" which looks legit
 	found "CIAO LONDRA LTD" instead?
 
-ic| query: 'PEDERSEN AND PARTNERS INTERNATIONAL', sim: 0.84
-	07296626
-	differs from "PEDERSEN & PARTNERS INTERNATIONAL LIMITED"
 
-ic| query: 'PENSUM LTD', sim: 0.83
-	01125371
-	differs from "PENSUM LIMITED"
+## misses
 
-ic| query: 'QUEEN ETHELBURGA S COLLEGE', sim: 0.83
-	02573843
-	munged search "QUEEN ETHELBURGA'S COLLEGE LIMITED"
-
-ic| query: 'SEABON LIMITED', sim: 0.83
-	06026625
-	wtf? "SEABON LIMITED"
-
-ic| query: 'SECURO LIMITED', sim: 0.83
-	02979210
-	name changed
-
-ic| query: 'ULTRA CORPORATION LLP', sim: 0.83
-	OC366899
-	wtf? "ULTRA CORPORATION LLP"
-
-BONINVEST LLP
-	OC363814
-
-CARGOSTAR LLP
-	OC381681
-
-RIVERLANE LLP
-	OC376597
-
-KG COMMERCE LLP
-	OC372326
-
-INFO:root:PRESTIGE CAPITAL PROPERTIES LTD founded too late: 2024-09-18
-	07792400
-	PRESTIGE CAPITAL PROPERTIES LIMITED
-	found a close match instead
-
-ULTRA CORPORATION LLP
-	OC366899

@@ -19206,5 +19206,1239 @@
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
         "ukcoh:officers": []
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "SL012732 LP",
+        "bods:idString": "SL012732",
+        "bods:streetAddress": {
+            "address_line_1": "Suite 1105 111 West George Street",
+            "locality": "Glasgow",
+            "postal_code": "G2 1QX"
+        },
+        "bods:foundingDate": "2013-03-26",
+        "ukcoh:status": "active",
+        "lavie:aliases": [
+	    "HILUX SERVICES LP"
+	],
+        "bods:retrievedAt": "2026-09-16T18:58:24.052069+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": []
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "WEST SPORT ALLIANCE LIMITED LIABILITY PARTNERSHIP",
+        "bods:idString": "SO300935",
+        "bods:streetAddress": {
+            "address_line_1": "39/5 Granton Crescent",
+            "country": "United Kingdom",
+            "locality": "Edinburgh",
+            "postal_code": "EH5 1BN"
+        },
+        "bods:foundingDate": "2006-05-31",
+        "ukcoh:status": "active",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:26.447882+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Granton Crescent",
+                    "country": "United Kingdom",
+                    "locality": "Edinburgh",
+                    "postal_code": "EH5 1BN",
+                    "premises": "39/5"
+                },
+                "appointed_on": "2020-09-01",
+                "name": "EFIMOV, Valeriu",
+                "officer_role": "llp-designated-member",
+                "person_number": "274337000001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "Granton Crescent",
+                    "country": "United Kingdom",
+                    "locality": "Edinburgh",
+                    "postal_code": "EH5 1BN",
+                    "premises": "39/5"
+                },
+                "appointed_on": "2020-09-01",
+                "name": "EFIMOVA, Diana",
+                "officer_role": "llp-designated-member",
+                "person_number": "274337030001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "Granton Crescent",
+                    "country": "United Kingdom",
+                    "locality": "Edinburgh",
+                    "postal_code": "EH5 1BN",
+                    "premises": "39/5"
+                },
+                "appointed_on": "2020-09-01",
+                "name": "POLYANSKAYA, Natalia",
+                "officer_role": "llp-designated-member",
+                "person_number": "274337150001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "Apt 2884",
+                    "address_line_2": "Al Murekhi Tower",
+                    "country": "Uae",
+                    "locality": "Dubai",
+                    "region": "PO BOX 7045"
+                },
+                "appointed_on": "2006-06-01",
+                "name": "CALDERBANK, Damian James",
+                "officer_role": "llp-designated-member",
+                "person_number": "141800620001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "89 Albert Street",
+                    "address_line_2": "Flat 1f1",
+                    "country": " ",
+                    "locality": "Edinburgh",
+                    "postal_code": "EH7 5LY",
+                    "region": " "
+                },
+                "appointed_on": "2006-05-31",
+                "name": "TURNBULL, Norma Alexander",
+                "officer_role": "llp-designated-member",
+                "person_number": "155115380001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "25 Langlaw Road",
+                    "address_line_2": "Mayfield",
+                    "country": " ",
+                    "locality": "Dalkeith",
+                    "postal_code": "EH22 5AT",
+                    "region": " "
+                },
+                "appointed_on": "2006-05-31",
+                "name": "WALTERS, Shaun Paul",
+                "officer_role": "llp-designated-member",
+                "person_number": "114904740001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "Estate",
+                    "address_line_2": "Road Town",
+                    "country": "Virgin Islands, British",
+                    "locality": "Tortola",
+                    "postal_code": "FOREIGN",
+                    "premises": "Pasea"
+                },
+                "appointed_on": "2008-06-02",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "BVI",
+                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+                    "place_registered": "BVI",
+                    "registration_number": "1472997"
+                },
+                "name": "BERWICK PARTNERS LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "142514290001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "Ajeltake Road",
+                    "address_line_2": "Ajeltake Island",
+                    "country": "Marshall Islands",
+                    "locality": "Majuro",
+                    "postal_code": "MH96960",
+                    "premises": "Trust Company Complex"
+                },
+                "appointed_on": "2020-06-25",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "IBC ACT",
+                    "legal_form": "IBC",
+                    "place_registered": "MARSHALL ISLANDS",
+                    "registration_number": "105148"
+                },
+                "name": "CRAYMAN LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "271436530001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "Ajeltake Road",
+                    "address_line_2": "Ajeltake Island",
+                    "country": "Marshall Islands",
+                    "locality": "Majuro",
+                    "postal_code": "MH96960",
+                    "premises": "Trust Company Complex"
+                },
+                "appointed_on": "2020-06-25",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "IBC ACT",
+                    "legal_form": "IBC",
+                    "place_registered": "MARSHALL ISLANDS",
+                    "registration_number": "105149"
+                },
+                "name": "HIGHWAVE LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "271436210001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "Ground Floor",
+                    "address_line_2": "Blake Bldg",
+                    "country": "Belize",
+                    "locality": "Corner Eyre & Huston Streets",
+                    "postal_code": "FOREIGN",
+                    "premises": "Suite 102",
+                    "region": "Belize City"
+                },
+                "appointed_on": "2008-06-02",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "BELIZE",
+                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+                    "place_registered": "BELIZE",
+                    "registration_number": "56,025"
+                },
+                "name": "LAKESTAR LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "142514280001",
+                "lavie:query": "SO300935"
+            },
+            {
+                "address": {
+                    "address_line_1": "Jasmine Court",
+                    "address_line_2": "35 A Regent Street, PO BOX 1777",
+                    "country": "Belize",
+                    "locality": "Belize City",
+                    "region": " "
+                },
+                "appointed_on": "2006-06-01",
+                "name": "NEWBURN HOLDINGS LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "75236550001",
+                "lavie:query": "SO300935"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "EXPA (UK) LIMITED",
+        "bods:idString": "03858674",
+        "bods:streetAddress": {
+            "address_line_1": "Suite 100 25 Upper Brook Street",
+            "locality": "London",
+            "postal_code": "W1K 7QD"
+        },
+        "bods:dissolutionDate": "2018-07-31",
+        "bods:foundingDate": "1999-10-13",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:28.922755+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Upper Brook Street",
+                    "country": "United Kingdom",
+                    "locality": "London",
+                    "postal_code": "W1K 7QD",
+                    "premises": "25",
+                    "region": "London"
+                },
+                "appointed_on": "2011-01-04",
+                "identification": {
+                    "identification_type": "eea",
+                    "place_registered": "ENGLAND AND WALES",
+                    "registration_number": "4052659"
+                },
+                "name": "PROFESSIONAL TRUST COMPANY (UK) LIMITED",
+                "officer_role": "corporate-secretary",
+                "person_number": "128777060001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "25 Upper Brook Street",
+                    "locality": "London",
+                    "postal_code": "W1K 7QD",
+                    "premises": "Suite 100"
+                },
+                "appointed_on": "2015-05-13",
+                "name": "KAVRAZ, Bulent",
+                "officer_role": "director",
+                "person_number": "197710800001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "72 New Bond Street",
+                    "locality": "London",
+                    "postal_code": "W1S 1RR"
+                },
+                "appointed_on": "1999-10-13",
+                "name": "FIRST SECRETARIES LIMITED",
+                "officer_role": "corporate-nominee-secretary",
+                "person_number": "900000780001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "PO BOX 218",
+                    "address_line_2": "45-45 La Motte Street",
+                    "locality": "St Helier",
+                    "postal_code": "JE4 8SD",
+                    "region": "Jersey"
+                },
+                "appointed_on": "2002-07-02",
+                "name": "MINERVA TRUST COMPANY LIMITED",
+                "officer_role": "corporate-secretary",
+                "person_number": "104454750003",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "Suite 204 118 Piccadilly",
+                    "address_line_2": "Mayfair",
+                    "locality": "London",
+                    "postal_code": "W1J 7NW"
+                },
+                "appointed_on": "2000-08-31",
+                "name": "PROFESSIONAL TRUST COMPANY (UK) LIMITED",
+                "officer_role": "corporate-secretary",
+                "person_number": "72149760003",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "Thirty Six Hilgrove Street",
+                    "address_line_2": "St Helier",
+                    "locality": "Jersey",
+                    "postal_code": "JE4 8TR"
+                },
+                "appointed_on": "1999-10-20",
+                "name": "PROFESSIONAL TRUST COMPANY LIMITED",
+                "officer_role": "corporate-secretary",
+                "person_number": "104454750001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "Abdi Ipekci Cad",
+                    "address_line_2": "Karaman Sok No 9",
+                    "country": "Turkey",
+                    "locality": "Yakccik-Kartal",
+                    "postal_code": "81450",
+                    "region": "Istanbul"
+                },
+                "appointed_on": "2000-05-02",
+                "name": "AKINCILAR, Sadik",
+                "officer_role": "director",
+                "person_number": "70616360001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "Abdi Ipekci Cad Karaitian Sok No 9",
+                    "country": "Turkey",
+                    "locality": "Yakacik-Kartal",
+                    "postal_code": "FOREIGN",
+                    "region": "81450 Istanbul"
+                },
+                "appointed_on": "2000-05-02",
+                "name": "COYGUN, Gultekin",
+                "officer_role": "director",
+                "person_number": "70949240001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "Carsi Mah. Hediye Sok.",
+                    "address_line_2": "No:13 Yackacik/Kartal",
+                    "country": "Turkey",
+                    "locality": "Istanbul",
+                    "postal_code": "FOREIGN",
+                    "region": "34876"
+                },
+                "appointed_on": "2007-02-15",
+                "name": "SIMSIR, Birgul",
+                "officer_role": "director",
+                "person_number": "120980090001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "Ugur Mumcu Mah,Nergis Sok,",
+                    "address_line_2": "Saglikcilae Sitesi C/21",
+                    "country": "Turkey",
+                    "locality": "Yakacik",
+                    "postal_code": "FOREIGN",
+                    "region": "Istanbul"
+                },
+                "appointed_on": "2005-06-17",
+                "name": "SUMER, Yildrim",
+                "officer_role": "director",
+                "person_number": "107764850001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "72 New Bond Street",
+                    "locality": "London",
+                    "postal_code": "W1S 1RR"
+                },
+                "appointed_on": "1999-10-13",
+                "name": "FIRST DIRECTORS LIMITED",
+                "officer_role": "corporate-nominee-director",
+                "person_number": "900000770001",
+                "lavie:query": "03858674"
+            },
+            {
+                "address": {
+                    "address_line_1": "P O Box Cb-13022",
+                    "address_line_2": "43 Elizabeth Avenue",
+                    "locality": "Nassau",
+                    "postal_code": "FOREIGN",
+                    "region": "Bahamas"
+                },
+                "appointed_on": "1999-10-20",
+                "name": "IMPA LIMITED",
+                "officer_role": "corporate-director",
+                "person_number": "67191090001",
+                "lavie:query": "03858674"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "PEDERSEN & PARTNERS INTERNATIONAL LIMITED",
+        "bods:idString": "07296626",
+        "bods:streetAddress": {
+            "address_line_1": "Second Floor De Burgh House",
+            "address_line_2": "Market Road",
+            "locality": "Wickford",
+            "postal_code": "SS12 0FD",
+            "region": "Essex"
+        },
+        "bods:dissolutionDate": "2021-03-16",
+        "bods:foundingDate": "2010-06-28",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:31.358274+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Market Road",
+                    "country": "United Kingdom",
+                    "locality": "Wickford",
+                    "postal_code": "SS12 0BB",
+                    "premises": "Second Floor De Burgh House",
+                    "region": "Essex"
+                },
+                "appointed_on": "2010-06-28",
+                "identification": {
+                    "identification_type": "uk-limited-company",
+                    "registration_number": "04933369"
+                },
+                "name": "KINGSLEY SECRETARIES LIMITED",
+                "officer_role": "corporate-secretary",
+                "person_number": "103863840002",
+                "lavie:query": "07296626"
+            },
+            {
+                "address": {
+                    "address_line_1": "Market Road",
+                    "country": "England",
+                    "locality": "Wickford",
+                    "postal_code": "SS12 0FD",
+                    "premises": "Second Floor De Burgh House",
+                    "region": "Essex"
+                },
+                "appointed_on": "2014-02-19",
+                "name": "ALLEN, Bianca Ann",
+                "officer_role": "director",
+                "person_number": "171427860003",
+                "lavie:query": "07296626"
+            },
+            {
+                "address": {
+                    "address_line_1": "De Burgh House",
+                    "address_line_2": "Market Road",
+                    "country": "United Kingdom",
+                    "locality": "Wickford",
+                    "postal_code": "SS12 0BB",
+                    "premises": "Second Floor",
+                    "region": "Essex"
+                },
+                "appointed_on": "2010-06-28",
+                "name": "ASHBY, Simon Michael",
+                "officer_role": "director",
+                "person_number": "158369450001",
+                "lavie:query": "07296626"
+            },
+            {
+                "address": {
+                    "address_line_1": "De Burgh House",
+                    "address_line_2": "Market Road",
+                    "country": "United Kingdom",
+                    "locality": "Wickford",
+                    "postal_code": "SS12 0BB",
+                    "premises": "Second Floor",
+                    "region": "Essex"
+                },
+                "appointed_on": "2010-06-28",
+                "name": "GRIGGS, Lauren",
+                "officer_role": "director",
+                "person_number": "151690780001",
+                "lavie:query": "07296626"
+            },
+            {
+                "address": {
+                    "address_line_1": "Market Road",
+                    "country": "United Kingdom",
+                    "locality": "Wickford",
+                    "postal_code": "SS12 0BB",
+                    "premises": "Second Floor, De Burgh House",
+                    "region": "Essex"
+                },
+                "appointed_on": "2010-09-13",
+                "name": "ST. PIERRE, Aston May, Miss.",
+                "officer_role": "director",
+                "person_number": "150672880001",
+                "lavie:query": "07296626"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "PENSUM LIMITED",
+        "bods:idString": "01125371",
+        "bods:streetAddress": {
+            "address_line_1": "Melbury House",
+            "address_line_2": "34 Southborough Road",
+            "locality": "Bickley,Bromley",
+            "postal_code": "BR1 2AB",
+            "region": "Kent"
+        },
+        "bods:dissolutionDate": "2025-07-15",
+        "bods:foundingDate": "1973-07-30",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:33.814300+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Melbury House",
+                    "address_line_2": "34 Southborough Road",
+                    "locality": "Bickley,Bromley",
+                    "postal_code": "BR1 2AB",
+                    "region": "Kent"
+                },
+                "appointed_on": "1994-02-01",
+                "name": "CASTLE, Paul Richard",
+                "officer_role": "director",
+                "person_number": "35865390002",
+                "lavie:query": "01125371"
+            },
+            {
+                "address": {
+                    "address_line_1": "59 St Georges Road West",
+                    "address_line_2": "Bickley",
+                    "locality": "Bromley",
+                    "postal_code": "BR1 2NR",
+                    "region": "Kent"
+                },
+                "name": "CASTLE, Brenda Elsie",
+                "officer_role": "secretary",
+                "person_number": "9533770001",
+                "lavie:query": "01125371"
+            },
+            {
+                "address": {
+                    "address_line_1": "Rabys",
+                    "address_line_2": "South Park Lane",
+                    "locality": "Bletchingley",
+                    "postal_code": "RH1 4ND",
+                    "region": "Surrey"
+                },
+                "appointed_on": "2003-08-31",
+                "name": "CASTLE, Paul Richard",
+                "officer_role": "secretary",
+                "person_number": "35865390002",
+                "lavie:query": "01125371"
+            },
+            {
+                "address": {
+                    "address_line_1": "Home Farmhouse Hildenborough Road",
+                    "address_line_2": "Leigh",
+                    "locality": "Tonbridge",
+                    "postal_code": "TN11 8NA",
+                    "region": "Kent"
+                },
+                "appointed_on": "1993-02-01",
+                "name": "WINTER, Anita May Elizabeth",
+                "officer_role": "secretary",
+                "person_number": "22366940002",
+                "lavie:query": "01125371"
+            },
+            {
+                "address": {
+                    "address_line_1": "59 St Georges Road West",
+                    "address_line_2": "Bickley",
+                    "locality": "Bromley",
+                    "postal_code": "BR1 2NR",
+                    "region": "Kent"
+                },
+                "name": "CASTLE, Brenda Elsie",
+                "officer_role": "director",
+                "person_number": "9533770001",
+                "lavie:query": "01125371"
+            },
+            {
+                "address": {
+                    "address_line_1": "20 Beaumont Road",
+                    "locality": "Petts Wood",
+                    "postal_code": "BR5 1JN",
+                    "region": "Kent"
+                },
+                "name": "FRENCH, Pamela Jane",
+                "officer_role": "director",
+                "person_number": "9533780002",
+                "lavie:query": "01125371"
+            },
+            {
+                "address": {
+                    "address_line_1": "Home Farmhouse Hildenborough Road",
+                    "address_line_2": "Leigh",
+                    "locality": "Tonbridge",
+                    "postal_code": "TN11 8NA",
+                    "region": "Kent"
+                },
+                "name": "WINTER, Anita May Elizabeth",
+                "officer_role": "director",
+                "person_number": "22366940002",
+                "lavie:query": "01125371"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "QUEEN ETHELBURGA'S COLLEGE LIMITED",
+        "bods:idString": "02573843",
+        "bods:streetAddress": {
+            "address_line_1": "Thorpe Underwood Hall Thorpe Underwood",
+            "address_line_2": "Ouseburn",
+            "locality": "York",
+            "postal_code": "YO26 9SZ"
+        },
+        "bods:foundingDate": "1991-01-15",
+        "ukcoh:status": "active",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:36.286178+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Thorpe Underwood",
+                    "address_line_2": "Ouseburn",
+                    "locality": "York",
+                    "postal_code": "YO26 9SZ",
+                    "premises": "Thorpe Underwood Hall"
+                },
+                "appointed_on": "2014-01-31",
+                "name": "HALL, Christopher James",
+                "officer_role": "secretary",
+                "person_number": "185632480001",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "Thorpe Underwood",
+                    "address_line_2": "Ouseburn",
+                    "locality": "York",
+                    "postal_code": "YO26 9SZ",
+                    "premises": "Thorpe Underwood Hall"
+                },
+                "appointed_on": "2014-01-31",
+                "name": "HALL, Christopher James",
+                "officer_role": "director",
+                "person_number": "124295050001",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "Thorpe Underwood",
+                    "address_line_2": "Ouseburn",
+                    "locality": "York",
+                    "postal_code": "YO26 9SZ",
+                    "premises": "Thorpe Underwood Hall"
+                },
+                "appointed_on": "2010-01-08",
+                "name": "MARTIN, Amy Katherine",
+                "officer_role": "director",
+                "person_number": "123396830001",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "8 Harcourt Drive",
+                    "address_line_2": "Addingham",
+                    "locality": "Ilkley",
+                    "postal_code": "LS29 0HZ",
+                    "region": "West Yorkshire"
+                },
+                "appointed_on": "1991-02-12",
+                "name": "GRIFFIN, Christopher Alan",
+                "officer_role": "secretary",
+                "person_number": "5720800001",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "Second Floor",
+                    "address_line_2": "80 Great Eastern Street",
+                    "locality": "London",
+                    "postal_code": "EC2A 3RX"
+                },
+                "appointed_on": "1991-01-15",
+                "name": "RM REGISTRARS LIMITED",
+                "officer_role": "corporate-nominee-secretary",
+                "person_number": "900000760001",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "9 Eversleigh Road",
+                    "address_line_2": "Finchley",
+                    "locality": "London",
+                    "postal_code": "N3 1HY"
+                },
+                "appointed_on": "1991-01-15",
+                "name": "COHEN, Violet",
+                "officer_role": "nominee-director",
+                "person_number": "900000750001",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "8 Harcourt Drive",
+                    "address_line_2": "Addingham",
+                    "locality": "Ilkley",
+                    "postal_code": "LS29 0HZ",
+                    "region": "West Yorkshire"
+                },
+                "appointed_on": "1992-11-01",
+                "name": "GRIFFIN, Christopher Alan",
+                "officer_role": "director",
+                "person_number": "5720800001",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "The Monk House",
+                    "address_line_2": "Thorpe Underwood",
+                    "locality": "Ouseburn",
+                    "postal_code": "YO26 9SS",
+                    "region": "York"
+                },
+                "appointed_on": "1991-02-12",
+                "name": "MARTIN, Brian Richard",
+                "officer_role": "director",
+                "person_number": "159035560001",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "Thorpe Underwood",
+                    "address_line_2": "Ouseburn",
+                    "locality": "York",
+                    "postal_code": "YO26 9SS",
+                    "premises": "The Coach House"
+                },
+                "appointed_on": "1991-02-12",
+                "name": "MARTIN, Elizabeth",
+                "officer_role": "director",
+                "person_number": "25665660003",
+                "lavie:query": "02573843"
+            },
+            {
+                "address": {
+                    "address_line_1": "Thorpe Underwood",
+                    "address_line_2": "Ouseburn",
+                    "locality": "York",
+                    "postal_code": "YO26 9SS",
+                    "premises": "The Monk House"
+                },
+                "appointed_on": "1992-11-01",
+                "name": "MARTIN, Francis David",
+                "officer_role": "director",
+                "person_number": "37022450013",
+                "lavie:query": "02573843"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "ULTRA CORPORATION LLP",
+        "bods:idString": "OC366899",
+        "bods:streetAddress": {
+            "address_line_1": "Cornwall Buildings 45-51 Newhall Street",
+            "address_line_2": "Office 330",
+            "locality": "Birmingham",
+            "postal_code": "B3 3QR"
+        },
+        "bods:dissolutionDate": "2018-03-20",
+        "bods:foundingDate": "2011-07-29",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:43.573255+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Ajeltake Road, Ajeltake Island",
+                    "country": "Marshall Islands",
+                    "locality": "Majuro",
+                    "postal_code": "MH96960",
+                    "premises": "Trust Company Complex"
+                },
+                "appointed_on": "2011-07-29",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "MARSHALL ISLANDS BUSINESS CORPORATIONS ACT",
+                    "legal_form": "LIMITED",
+                    "place_registered": "OFFICE OF THE REGISTRAR OF CORPORATIONS, MARSHALL",
+                    "registration_number": "15819"
+                },
+                "name": "ARTA CONSULTING LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "161958000001",
+                "lavie:query": "OC366899"
+            },
+            {
+                "address": {
+                    "address_line_1": "Ajeltake Road, Ajeltake Island",
+                    "country": "Marshall Islands",
+                    "locality": "Majuro",
+                    "postal_code": "MH96960",
+                    "premises": "Trust Company Complex"
+                },
+                "appointed_on": "2011-07-29",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "MARSHALL ISLANDS BUSINESS CORPORATIONS ACT",
+                    "legal_form": "LIMITED",
+                    "place_registered": "OFFICE OF THE REGISTRAR OF CORPORATIONS, MARSHALL",
+                    "registration_number": "15828"
+                },
+                "name": "MONTBAR LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "161958010001",
+                "lavie:query": "OC366899"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "BONINVEST LLP",
+        "bods:idString": "OC363814",
+        "bods:streetAddress": {
+            "address_line_1": "Suite 1 The Studio",
+            "address_line_2": "St. Nicholas Close",
+            "locality": "Elstree",
+            "postal_code": "WD6 3EW",
+            "region": "Hertfordshire"
+        },
+        "bods:dissolutionDate": "2014-11-18",
+        "bods:foundingDate": "2011-04-13",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:46.028513+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Ajeltake Island",
+                    "country": "Marshall Islands",
+                    "locality": "Majuro",
+                    "po_box": "1405",
+                    "premises": "Trust Company Complex"
+                },
+                "appointed_on": "2012-05-01",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "MARSHALL IBC ACT SECT. 32",
+                    "legal_form": "IBC",
+                    "place_registered": "MARSHALL ISLANDS",
+                    "registration_number": "52939"
+                },
+                "name": "FORMOND INC.",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "167023030001",
+                "lavie:query": "OC363814"
+            },
+            {
+                "address": {
+                    "address_line_1": "Ajeltake Island",
+                    "country": "Marshall Islands",
+                    "locality": "Majuro",
+                    "po_box": "1405",
+                    "premises": "Trust Company Complex"
+                },
+                "appointed_on": "2012-05-01",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "MARSHALL IBC ACT SECT. 32",
+                    "legal_form": "IBC",
+                    "place_registered": "MARSHALL ISLANDS",
+                    "registration_number": "52938"
+                },
+                "name": "PRIMECROSS INC.",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "167023020001",
+                "lavie:query": "OC363814"
+            },
+            {
+                "address": {
+                    "address_line_1": "New Road",
+                    "country": "Belize",
+                    "locality": "Belize City",
+                    "premises": "No.35"
+                },
+                "appointed_on": "2011-04-13",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "INTERNATIONAL BUSINESS",
+                    "legal_form": "INTERNATIONAL",
+                    "place_registered": "BELIZE",
+                    "registration_number": "97,310"
+                },
+                "name": "IRELAND & OVERSEAS ACQUISITIONS LTD.",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "159364360001",
+                "lavie:query": "OC363814"
+            },
+            {
+                "address": {
+                    "address_line_1": "New Road",
+                    "country": "Belize",
+                    "locality": "Belize City",
+                    "premises": "No.35"
+                },
+                "appointed_on": "2011-04-13",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "INTERNATIONAL BUSINESS",
+                    "legal_form": "INTERNATIONAL",
+                    "place_registered": "BELIZE",
+                    "registration_number": "97,311"
+                },
+                "name": "MILLTOWN CORPORATE SERVICES LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "159364370001",
+                "lavie:query": "OC363814"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "CARGOSTAR LLP",
+        "bods:idString": "OC381681",
+        "bods:streetAddress": {
+            "address_line_1": "60 Larchmont Road",
+            "country": "England",
+            "locality": "Leicester",
+            "postal_code": "LE4 0 BE"
+        },
+        "bods:dissolutionDate": "2016-06-28",
+        "bods:foundingDate": "2013-01-17",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:48.430486+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Etchingham Court",
+                    "address_line_2": "Etchingham Park Road",
+                    "country": "England",
+                    "locality": "London",
+                    "postal_code": "N3 2EA",
+                    "premises": "30"
+                },
+                "appointed_on": "2013-01-17",
+                "identification": {
+                    "identification_type": "eea",
+                    "place_registered": "ENGLAND",
+                    "registration_number": "08152695"
+                },
+                "name": "CONSULTEXA LTD",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "175064540001",
+                "lavie:query": "OC381681"
+            },
+            {
+                "address": {
+                    "address_line_1": "Trellis Building",
+                    "country": "Belize",
+                    "locality": "Belize City",
+                    "premises": "864 Northern Highway"
+                },
+                "appointed_on": "2015-08-07",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "BELIZE",
+                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+                    "place_registered": "BELIZE",
+                    "registration_number": "128,979"
+                },
+                "name": "CORPOREX LIMITED",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "176079140001",
+                "lavie:query": "OC381681"
+            },
+            {
+                "address": {
+                    "address_line_1": "3 1/2 Miles Philip S. W. Goldson Highway",
+                    "country": "Belize",
+                    "locality": "Belize City",
+                    "premises": "Ground Floor New Horizon Building"
+                },
+                "appointed_on": "2013-01-17",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "BELIZE",
+                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+                    "place_registered": "BELIZE",
+                    "registration_number": "122,492"
+                },
+                "name": "FINANCIUM LIMITED",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "172423500001",
+                "lavie:query": "OC381681"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "RIVERLANE LLP",
+        "bods:idString": "OC376597",
+        "bods:streetAddress": {
+            "address_line_1": "175 Darkes Lane",
+            "address_line_2": "Suite B, 2nd Floor",
+            "country": "England",
+            "locality": "Potters Bar",
+            "postal_code": "EN6 1BW",
+            "region": "Hertfordshire"
+        },
+        "bods:dissolutionDate": "2015-02-17",
+        "bods:foundingDate": "2012-07-03",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [
+	    "RIVARLANE LLP"
+	],
+        "bods:retrievedAt": "2026-09-16T18:58:50.858115+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Copthall",
+                    "country": "Commonwealth Of Dominica",
+                    "locality": "Roseau Valley",
+                    "postal_code": "00152",
+                    "premises": "8"
+                },
+                "appointed_on": "2012-07-03",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "COMMONWEALTH OF DOMINICA",
+                    "legal_form": "CORPORATION",
+                    "place_registered": "COMMONWEALTH OF DOMINICA",
+                    "registration_number": "16575"
+                },
+                "name": "KENMARK INC.",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "169559100001",
+                "lavie:query": "OC376597"
+            },
+            {
+                "address": {
+                    "address_line_1": "Copthall",
+                    "country": "Commonwealth Of Dominica",
+                    "locality": "Roseau Valley",
+                    "postal_code": "00152",
+                    "premises": "8"
+                },
+                "appointed_on": "2012-07-03",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "COMMONWEALTH OF DOMINICA",
+                    "legal_form": "CORPORATION",
+                    "place_registered": "COMMONWEALTH OF DOMINICA",
+                    "registration_number": "16576"
+                },
+                "name": "OSTBERG LTD.",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "169559090001",
+                "lavie:query": "OC376597"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "KG COMMERCE LLP",
+        "bods:idString": "OC372326",
+        "bods:streetAddress": {
+            "address_line_1": "175 Darkes Lane",
+            "address_line_2": "Suite B, 2nd Floor",
+            "locality": "Potters Bar",
+            "postal_code": "EN6 1BW",
+            "region": "Hertfordshire"
+        },
+        "bods:dissolutionDate": "2015-09-22",
+        "bods:foundingDate": "2012-02-10",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:53.263287+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Floor Dekk House",
+                    "address_line_2": "Zippora Street Providence Industrial Estate",
+                    "country": "Seychelles",
+                    "locality": "Mahe",
+                    "premises": "1st"
+                },
+                "appointed_on": "2012-02-10",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT, 1994",
+                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+                    "place_registered": "SEYCHELLES",
+                    "registration_number": "096479"
+                },
+                "name": "ASTROCOM AG",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "163669430001",
+                "lavie:query": "OC372326"
+            },
+            {
+                "address": {
+                    "address_line_1": "Floor Dekk House",
+                    "address_line_2": "Zippora Street Providence Industrial Estate",
+                    "country": "Seychelles",
+                    "locality": "Mahe",
+                    "premises": "1st"
+                },
+                "appointed_on": "2012-02-10",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT, 1994",
+                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+                    "place_registered": "SEYCHELLES",
+                    "registration_number": "096480"
+                },
+                "name": "EXPONET GMBH",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "163669440001",
+                "lavie:query": "OC372326"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "PRESTIGE CAPITAL PROPERTIES LIMITED",
+        "bods:idString": "07792400",
+        "bods:streetAddress": {
+            "address_line_1": "815 Old Kent Road",
+            "locality": "London",
+            "postal_code": "SE15 1NX"
+        },
+        "bods:dissolutionDate": "2016-01-12",
+        "bods:foundingDate": "2011-09-29",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T18:58:55.680283+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Couchmore Avenue",
+                    "country": "England",
+                    "locality": "Ilford",
+                    "postal_code": "IG5 0PL",
+                    "premises": "15"
+                },
+                "appointed_on": "2011-09-29",
+                "name": "TIJANI, Oladunni Foluso",
+                "officer_role": "secretary",
+                "person_number": "163413080001",
+                "lavie:query": "07792400"
+            },
+            {
+                "address": {
+                    "address_line_1": "Couchmore Avenue",
+                    "country": "England",
+                    "locality": "Ilford",
+                    "postal_code": "IG5 0PL",
+                    "premises": "15"
+                },
+                "appointed_on": "2011-09-29",
+                "name": "TIJANI, Oladunni Foluso",
+                "officer_role": "director",
+                "person_number": "163413070001",
+                "lavie:query": "07792400"
+            }
+        ]
     }
 ]

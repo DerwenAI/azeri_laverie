@@ -10,6 +10,7 @@ from difflib import SequenceMatcher
 import csv
 import datetime as dt
 import json
+import logging
 import pathlib
 import sys
 import time
@@ -19,8 +20,19 @@ import typing
 from icecream import ic
 import requests
 
+
+SEARCH_NAMES: bool = False # True
+TARGET_SOURCE: str = "uk.tsv"
+
+
 ic.configureOutput(
     noColor = True,
+)
+
+logger = logging.getLogger(__name__)
+
+logging.basicConfig(
+    level = logging.INFO,
 )
 
 
@@ -44,7 +56,7 @@ Access the UK Companies House API for the given search parameters.
     )
 
     if not response.ok:
-        ic(query, response.reason)
+        logging.info(f"{query} - {response.reason}")
         return
 
     dat: dict = response.json()
@@ -143,15 +155,16 @@ Pouplate the officers, if any.
     return result
 
 
-def search_company (
+def search_company_name (
     api_key: str,
     query: str,
     *,
     debug: bool = False,
     sim_thresh: float = 0.85,
+    max_date: str = "2014-12-31",
     ) -> dict | None:
     """
-Search one company.
+Search one company by name.
     """
     search: str = f"search/companies?q={query}"
 
@@ -173,8 +186,20 @@ Search one company.
     )
 
     for result in iter_uk:
-        if result.get("lavie:similar") < sim_thresh:
-            ic(query, result.get("lavie:similar"))
+        name: str = result.get("bods:fullName")
+        sim: float = result.get("lavie:similar")
+        founding: str | None = result.get("bods:foundingDate")
+
+        if founding is not None and founding > max_date:
+            logging.info(f"{query} founded too late: {founding}")
+
+            if debug:
+                ic(result)
+
+            continue
+
+        if sim < sim_thresh:
+            logging.info(f"{query} differs {name}: {sim}")
 
             if debug:
                 ic(result)
@@ -186,6 +211,45 @@ Search one company.
             query,
             result,
             debug = debug,
+        )
+
+        return result
+
+
+def search_company_code (
+    api_key: str,
+    code: str,
+    *,
+    debug: bool = False,
+    ) -> dict | None:
+    """
+Search one company by code.
+    """
+    search: str = f"company/{code}"
+
+    kept_fields: dict[ str, str ] = {
+        "company_name": "bods:fullName",
+        "company_number": "bods:idString", 
+        "registered_office_address": "bods:streetAddress", 
+        "date_of_cessation": "bods:dissolutionDate", 
+        "date_of_creation": "bods:foundingDate", 
+        "company_status": "ukcoh:status", 
+    }
+
+    iter_uk = get_ukcoh(
+        api_key,
+        code,
+        search,
+        kept_fields,
+        debug = debug, # True,
+    )
+
+    for result in iter_uk:
+        populate_officers(
+            api_key,
+            code,
+            result,
+            debug = debug, # True,
         )
 
         return result
@@ -206,24 +270,33 @@ if __name__ == "__main__":
 
 
     # search a list of likely UK-based companies
-    companies: list[ str ] = []
-    uk_path: pathlib.Path = pathlib.Path("uk.tsv")
+    targets: list[ str ] = []
+    target_path: pathlib.Path = pathlib.Path(TARGET_SOURCE)
 
-    with open(uk_path, mode = "r", encoding = "utf-8") as fp:
+    with open(target_path, mode = "r", encoding = "utf-8") as fp:
         reader = csv.reader(fp, delimiter = "\t")
 
-        for name, _, _ in reader:
-            companies.append(name)
+        for row in reader:
+            targets.append(row[0])
 
     # rate limiting: API allows 600 requests within a 5 minute period
     out_data: list[dict] = []
 
-    for name in companies:
-        result: dict | None = search_company(
-            api_key,
-            name,
-            debug = False, # True
-        )
+    for target in targets:
+        result: dict | None = None
+
+        if SEARCH_NAMES:
+            result = search_company_name(
+                api_key,
+                target,
+                debug = False, # True
+            )
+        else:
+            result = search_company_code(
+                api_key,
+                target,
+                debug = False, # True
+            )
 
         time.sleep(1)
 
