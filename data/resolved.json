@@ -6184,7 +6184,9 @@
     "bods:foundingDate": "1962-12-10",
     "ukcoh:status": "active",
     "lavie:query": "POLYFLOR LIMITED",
-    "lavie:aliases": [],
+    "lavie:aliases": [
+	"POLYFLOR LTD"
+    ],
     "bods:retrievedAt": "2026-09-15T23:27:32.565324+00:00",
     "bods:code": "codes:UK",
     "bods:entityType": "codes:RegisteredEntity",

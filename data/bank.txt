@@ -1,3 +1,114 @@
+37	BARCLAYS BANK PLC
+	BARCGB22
+		country: UK
+		addr: 1 Churchill Place, London, E14 5HP
+		reg: 1971-10-04
+		code: 01026167
+		lei: G5GSEF7VJP5I7OUK5573
+		sanction: https://www.opensanctions.org/entities/NK-5XuAeTe3aJMe6HKbHA5Syj/
+		edd: https://opencheck.world/?lei=2549003Q5J2G7ALNU316
+		edd: https://search.openaleph.org/search?limit=30&q=BARCLAYS%20BANK%20PLC
+		class: bank
+39	BAYERISCHE LANDESBANK MUNICH
+		country: DE
+		addr: Brienner Strasse 18, Munich, Bayern, 80333
+		code: HRA76030
+		lei: VDYMYTQGZZ6DU0912C88
+		edd: https://opencheck.world/?lei=VDYMYTQGZZ6DU0912C88
+		reg: 1972-06-27
+		class: bank
+46	BANK OF CHINA
+	BKCHCNBJ
+		code: FC002851
+		addr: No 1 Fuxingmen Nei Dajie, Beijing, Peoples Republic Of China, 100818, China
+		country: CN
+		officer: Zhao CAI (CN)
+		reg: 1983-10-31
+		lei: 213800DXECSXBR79QK58
+		edd: https://opencheck.world/?lei=213800DXECSXBR79QK58
+		class: bank
+47	DEUTSCHE BANK TRUST COMPANY AMERICAS
+	BKTRUS33
+	BANKERS TRUST COMPANY
+		country: US
+		addr: 1 Columbus Circle, New York, NY
+		lei: 8EWQ2UQKS07AKK8ANH81
+		reg: 1903-03-05
+		related: DEUTSCHE BANK AG
+		edd: https://opencheck.world/?lei=8EWQ2UQKS07AKK8ANH81
+		sanction: https://www.opensanctions.org/entities/NK-eFCBobC4JzPJxwQoGGkCzH/
+		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20TRUST%20COMPANY%20AMERICAS
+		class: bank
+53	MUFG BANK, LTD.
+	THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.
+	BOTKGB2L
+		country: UK
+		code: BR002013
+		addr: Ropemaker Place 25 Ropemaker Street, London, EC2Y 9AN
+		edd: https://search.openaleph.org/search?limit=30&q=MUFG%20BANK%2C%20LTD.
+		sanction: https://www.opensanctions.org/search/?q=MUFG+BANK%2C+LTD.
+		class: bank
+69	COMMERZBANK AG
+	COBADEFFXXX
+		country: DE
+		addr: Kaiserstrasse 16, Frankfurt am Main, Hessen, 60261
+		sanction: https://www.opensanctions.org/entities/NK-h2QY8PrgDim7PmCY3T9bKM/
+		code: HRB32000
+		reg: 1958-06-30
+		class: bank
+80	DANSKE BANK A/S EESTI FILIAAL
+		code: 11488826
+		country: EE
+		reg: 2008-04-02
+		dis: 2020-06-26
+		addr: Narva mnt 11, 15015, Tallinn, Estonia
+		related: DANSKE BANK A/S
+		class: bank
+0.02	DANSKE BANK A/S
+		code: 61126228
+		country: DE
+		lei: MAES062Z21O4RZ2U7M96
+		reg: 1992-12-31
+		addr:  Bernstorffsgade 40, 1577 København V, Denmark
+		sanction: https://www.opensanctions.org/entities/us-sec-harm-danske-bank-a-s/
+		edd: https://opencheck.world/?lei=MAES062Z21O4RZ2U7M96
+		edd: https://search.openaleph.org/search?limit=30&q=DANSKE%20BANK
+		class: bank
+88	DENIZBANK A.S.
+	DENİZBANK ANONİM ŞİRKETİ
+	DENITRIS
+		country: TR
+		code: 368587
+		lei: 3RV7W250LTUQH12INJ88
+		reg: 2014-02-24
+		addr: Büyükdere Cad. No:141, 34394 İstanbul
+		edd: https://opencheck.world/?lei=7890004ARP2VFYAW4818
+		edd: https://search.openaleph.org/search?q=DENIZBANK
+		sanction: https://www.opensanctions.org/entities/NK-MbqQMduismBCFaaZYw8U43/
+		class: bank
+91	DEUTSCHE BANK AG
+	DEUTDEFFXXX
+		country: DE
+		addr: Taunusanlage 12, 60325 Frankfurt am Main, Germany
+		code: HRB30000
+		lei: 7LTWFZYICNSX8D621K86
+		edd: https://opencheck.world/?lei=7LTWFZYICNSX8D621K86
+		reg: 1899-12-31
+		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20AG
+		sanction: https://www.opensanctions.org/entities/NK-i4AC54iqYCLi2Liodrzq9n/
+		class: bank
+99	EMIRATES NBD BANK PJSC
+	EBILAEAD
+		country: AE
+		sanction: https://www.opensanctions.org/entities/sentry-bb2cf2b0-6414-db0e-7a29-b34a65cf1ef6/
+		edd: https://search.openaleph.org/search?q=Emirates%20NBD
+		reg: 1963-06-19
+		addr: Baniyas Road, Deira, P.O. Box 777, Dubai, United Arab Emirates
+		code: 1004
+		class: bank
+
+
+
 146	HANG SENG BANK LIMITED
 	HASEHKHH
 		class: bank

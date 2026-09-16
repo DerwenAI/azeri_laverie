@@ -5,6 +5,7 @@ data/azeri.tsv
 data/occrp.json
 occrp.html
 out.json
+out.tsv
 *~
 
 # Byte-compiled / optimized / DLL files
