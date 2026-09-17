@@ -3,10 +3,6 @@
 		country: UK
 		"lavie:class": "unknown",
 
-41	BENTCARD IMPORT LLP
-		code: OC369315
-		lei: 54930007FGRO3F0RZ382
-		edd: https://opencheck.world/?lei=54930007FGRO3F0RZ382
 
 177	INN3016043171
 		country: RU

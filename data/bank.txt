@@ -1,14 +1,3 @@
-37	BARCLAYS BANK PLC
-	BARCGB22
-		country: UK
-		addr: 1 Churchill Place, London, E14 5HP
-		reg: 1971-10-04
-		code: 01026167
-		lei: G5GSEF7VJP5I7OUK5573
-		sanction: https://www.opensanctions.org/entities/NK-5XuAeTe3aJMe6HKbHA5Syj/
-		edd: https://opencheck.world/?lei=2549003Q5J2G7ALNU316
-		edd: https://search.openaleph.org/search?limit=30&q=BARCLAYS%20BANK%20PLC
-		class: bank
 39	BAYERISCHE LANDESBANK MUNICH
 		country: DE
 		addr: Brienner Strasse 18, Munich, Bayern, 80333
@@ -38,15 +27,6 @@
 		edd: https://opencheck.world/?lei=8EWQ2UQKS07AKK8ANH81
 		sanction: https://www.opensanctions.org/entities/NK-eFCBobC4JzPJxwQoGGkCzH/
 		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20TRUST%20COMPANY%20AMERICAS
-		class: bank
-53	MUFG BANK, LTD.
-	THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.
-	BOTKGB2L
-		country: UK
-		code: BR002013
-		addr: Ropemaker Place 25 Ropemaker Street, London, EC2Y 9AN
-		edd: https://search.openaleph.org/search?limit=30&q=MUFG%20BANK%2C%20LTD.
-		sanction: https://www.opensanctions.org/search/?q=MUFG+BANK%2C+LTD.
 		class: bank
 69	COMMERZBANK AG
 	COBADEFFXXX

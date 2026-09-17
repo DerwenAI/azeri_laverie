@@ -374,6 +374,7 @@ seek to promote and achieve exactly this.
 - <https://www.businessday.co.za/bd/world/europe/2021-07-14-london-couples-high-life-sheds-light-on-azerbaijani-laundromat/>
 - <https://www.delfi.ee/artikkel/74691745/osa-magnitski-surmaga-seotud-rahast-vois-jouda-eesti-firmadeni>
 - <https://www.fi.ee/en/news/liquidation-danske-bank-estonian-branch-has-started>
+- <https://www.heraldscotland.com/news/15514317.scottish-firms-at-heart-of-22bn-money-laundering-probe/>
 - <https://www.occrp.org/en/project/the-azerbaijani-laundromat/avromed-company-llp>
 - <https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-core-companies>
 - <https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-origin-of-the-money>
