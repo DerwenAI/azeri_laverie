@@ -21,10 +21,6 @@ from icecream import ic
 import requests
 
 
-SEARCH_NAMES: bool = False # True
-TARGET_SOURCE: str = "uk.tsv"
-
-
 ic.configureOutput(
     noColor = True,
 )
@@ -34,6 +30,10 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(
     level = logging.INFO,
 )
+
+
+SEARCH_NAMES: bool = False # True
+TARGET_SOURCE: str = "uk.tsv"
 
 
 def get_ukcoh (
