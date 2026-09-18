@@ -21656,5 +21656,27 @@
         "lavie:note": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN048073601",
+        "bods:streetAddress": "Altai Republic, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, with location inferred from invalid format",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN905281886",
+        "bods:streetAddress": "Zaporizhzhia Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, with location inferred from invalid format",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
     }
 ]
