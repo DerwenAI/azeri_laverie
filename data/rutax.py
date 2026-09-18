@@ -22,7 +22,10 @@ There are two lengths for Russian INN numbers:
 """
 
 from dataclasses import dataclass
+import csv
+import json
 import logging
+import pathlib
 import sys
 
 from icecream import ic
@@ -44,6 +47,7 @@ WEIGHTS_10: list[ int ] = [ 2, 4, 10, 3, 5, 9, 4, 6, 8 ]           # single chec
 WEIGHTS_12_C1: list[ int ] = [ 7, 2, 4, 10, 3, 5, 9, 4, 6, 8 ]     # 1st checksum digit of a 12-digit INN
 WEIGHTS_12_C2: list[ int ] = [ 3, 7, 2, 4, 10, 3, 5, 9, 4, 6, 8 ]  # 2nd checksum digit of a 12-digit INN
 
+# <https://github.com/grazh/russian_regions_codes/blob/main/russian_regions_codes.csv>
 REGIONS: dict[ str, str ] = {
     "01": "Adygea",
     "02": "Bashkortostan",
@@ -177,13 +181,19 @@ using a fixed set of weights defined by the Russian Federal Tax Service (FNS)
 
 
 def decode_inn (
-    inn: str,
+    query: str,
+    *,
+    debug: bool = False,
     ) -> InnResult:
     """
 Decode and validate a Russian INN tax ID given as a string. 
 Returns an `InnResult` object
 """
-    inn = (inn or "").strip().replace("INN", "")
+    inn: str = (query or "").strip().replace("INN", "").split(".")[0]
+
+    if debug:
+        ic(inn)
+
     errors: list[ str ] = []
 
     if not inn.isdigit():
@@ -281,13 +291,52 @@ Returns an `InnResult` object
             errors,
         )
 
+TARGET_SOURCE: str = "ru.tsv"
+
 
 if __name__ == "__main__":
-    targets: list[ str ] = [
-        "INN3016043171",
-    ]
+    # search a list of likely RU-based entities
+    targets: list[ str ] = []
+    target_path: pathlib.Path = pathlib.Path(TARGET_SOURCE)
+
+    with open(target_path, mode = "r", encoding = "utf-8") as fp:
+        reader = csv.reader(fp, delimiter = "\t")
+
+        for row in reader:
+            targets.append(row[0])
+
+
+    # search a list of likely UK-based companies    
+    out_data: list[dict] = []
 
     for target in targets:
         result: InnResult = decode_inn(target)
-        ic(result)
-        ic(REGIONS.get(result.region_code))
+
+        if not result.valid:
+            ic(result)
+            continue
+
+        record: dict = {
+            "bods:fullName": f"{target}",
+            "bods:streetAddress": f"{REGIONS.get(result.region_code)}, Russia",
+	    "bods:code": "codes:RU",
+            "bods:entityType": "codes:unknownEntity",
+            "bods:schemeName": "Russian Federal Tax Service",
+            "bods:scheme": "RU-FNS",
+	    "lavie:note": "an organization, not an individual",
+	    "lavid:class": "russian-anon",
+            "lavie:aliases": [],
+        }
+
+        ic(record)
+        out_data.append(record)
+
+    out_path: pathlib.Path = pathlib.Path("out.json")
+
+    with open(out_path, mode = "w", encoding = "utf-8") as fp:
+        json.dump(
+            out_data,
+            fp,
+            ensure_ascii = False,
+            indent = 4,
+        )

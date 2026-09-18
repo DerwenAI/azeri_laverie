@@ -265,10 +265,6 @@ if __name__ == "__main__":
 
     api_key: str = config["api"]["ukcoh"]
 
-    # CUSTOMIZED SEARCHES
-    #search: str = f"company/{query}"
-
-
     # search a list of likely UK-based companies
     targets: list[ str ] = []
     target_path: pathlib.Path = pathlib.Path(TARGET_SOURCE)

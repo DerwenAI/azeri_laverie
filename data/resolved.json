@@ -11541,29 +11541,6 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:biz": "bank",
-	"lavie:lei": {
-            "bods:idString": "5493000SA3K24EQKA103",
-            "bods:scheme": "XI-LEI",
-            "bods:schemeName": "Global Legal Entity Identifier Index"
-	},
-        "bods:fullName": "MASHREQBANK PSC",
-        "bods:idString": "BR001223",
-        "bods:streetAddress": "48-54 Moorgate, London, 3rd Floor, EC2R 6EJ",
-        "bods:foundingDate": "1978-11-01",
-        "ukcoh:status": "open",
-        "lavie:query": "MASHREQBANK PSC",
-        "lavie:aliases": [],
-        "bods:retrievedAt": "2026-09-16T02:54:57.783390+00:00",
-        "bods:code": "codes:UK",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:schemeName": "Companies House",
-        "bods:scheme": "GB-COH",
-        "ukcoh:officers": []
-    },
-    {
-        "lavie:similar": 1.0,
 	"lavie:class": "dormant",
         "bods:fullName": "MAXWISE TECHNOLOGY L.P.",
         "bods:idString": "SL007885",
@@ -21149,6 +21126,29 @@
     },
     {
         "lavie:similar": 1.0,
+	"lavie:class": "operating",
+	"lavie:biz": "bank",
+	"lavie:lei": {
+            "bods:idString": "5493000SA3K24EQKA103",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+	},
+        "bods:fullName": "MASHREQBANK PSC",
+        "bods:idString": "BR001223",
+        "bods:streetAddress": "48-54 Moorgate, London, 3rd Floor, EC2R 6EJ",
+        "bods:foundingDate": "1978-11-01",
+        "ukcoh:status": "open",
+        "lavie:query": "MASHREQBANK PSC",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T02:54:57.783390+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": []
+    },
+    {
+        "lavie:similar": 1.0,
         "lavie:class": "operating",
         "lavie:biz": "bank",
 	"lavie:lei": {
@@ -21180,465 +21180,7 @@
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
-        "ukcoh:officers": [
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "address_line_2": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "2023-02-15",
-                "name": "ELLWOOD, Hannah Elisabeth, Ms.",
-                "officer_role": "secretary",
-                "person_number": "305599010001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "United Kingdom",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2022-02-08",
-                "name": "BERRY, Robert",
-                "officer_role": "director",
-                "person_number": "292582620002",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2022-04-23",
-                "name": "CROSS, Angela Anna",
-                "officer_role": "director",
-                "person_number": "295176170001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2019-09-25",
-                "name": "FITZPATRICK, Dawn",
-                "officer_role": "director",
-                "person_number": "262848800002",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "United Kingdom",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2019-03-01",
-                "name": "HIGGINS, Nigel Paul",
-                "officer_role": "director",
-                "person_number": "255908490001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "address_line_2": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "2025-06-01",
-                "name": "MACK, Mary Tabb",
-                "officer_role": "director",
-                "person_number": "336425570001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "address_line_2": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "2023-01-23",
-                "name": "MOSES, Menasey Marc",
-                "officer_role": "director",
-                "person_number": "304646530001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "address_line_2": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "2024-07-19",
-                "name": "SHEA, Brian Thomas",
-                "officer_role": "director",
-                "person_number": "325455610001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2021-11-01",
-                "name": "VENKATAKRISHNAN, Coimbatore Sundararajan",
-                "officer_role": "director",
-                "person_number": "289042850001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2023-04-01",
-                "name": "WILSON, Julia Susan",
-                "officer_role": "director",
-                "person_number": "112510240003",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "New Lodge Woodham Rise",
-                    "address_line_2": "Horsell",
-                    "locality": "Woking",
-                    "postal_code": "GU21 4EE",
-                    "region": "Surrey"
-                },
-                "name": "ATTERBURY, John Michael David",
-                "officer_role": "secretary",
-                "person_number": "329000001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2016-12-01",
-                "name": "DAVIES, Claire Anne",
-                "officer_role": "secretary",
-                "person_number": "220669790001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2017-08-19",
-                "name": "DICKINSON, Lawrence Charles",
-                "officer_role": "secretary",
-                "person_number": "237961660001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "locality": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "2002-09-19",
-                "name": "DICKINSON, Lawrence Charles",
-                "officer_role": "secretary",
-                "person_number": "75378420003",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Flat 2",
-                    "address_line_2": "Imperial House, 92-98 Waterford Road",
-                    "locality": "London",
-                    "postal_code": "SW6 2HA"
-                },
-                "appointed_on": "1998-10-01",
-                "name": "DILLON, Alison Marie",
-                "officer_role": "secretary",
-                "person_number": "33769270006",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "locality": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "2002-06-27",
-                "name": "GONSALVES, Patrick Anthony",
-                "officer_role": "secretary",
-                "person_number": "70360200003",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2019-09-25",
-                "name": "SHAPIRO, Stephen Victor",
-                "officer_role": "secretary",
-                "person_number": "262816210001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2017-11-01",
-                "name": "SHAPIRO, Stephen Victor",
-                "officer_role": "secretary",
-                "person_number": "240314600001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Milliners Way",
-                    "address_line_2": "Saint Michael's Mead",
-                    "locality": "Bishops Stortford",
-                    "postal_code": "CM23 4GG",
-                    "region": "Hertfordshire"
-                },
-                "appointed_on": "1995-02-09",
-                "name": "TRUST, Howard Bailey",
-                "officer_role": "secretary",
-                "person_number": "39033360003",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2018-04-01",
-                "name": "WRIGHT, Jason Leslie",
-                "officer_role": "secretary",
-                "person_number": "245505210001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "locality": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "2006-09-01",
-                "name": "AGIUS, Marcus Ambrose Paul",
-                "officer_role": "director",
-                "person_number": "5845320006",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Apartment 11,The Tower",
-                    "address_line_2": "Riviera Court,St Catherines Way",
-                    "locality": "London",
-                    "postal_code": "E1W 1UJ"
-                },
-                "appointed_on": "1999-09-01",
-                "name": "ALLVEY, David Philip",
-                "officer_role": "director",
-                "person_number": "76454860004",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "locality": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "1997-02-01",
-                "name": "ARCULUS, Thomas David Guy, Sir",
-                "officer_role": "director",
-                "person_number": "141322250003",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2019-09-25",
-                "name": "ASHLEY, Michael St John",
-                "officer_role": "director",
-                "person_number": "77307600002",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "address_line_2": "Canary Wharf",
-                    "country": "United Kingdom",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2013-09-18",
-                "name": "ASHLEY, Michael St John",
-                "officer_role": "director",
-                "person_number": "77307600002",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Cathedral Green House",
-                    "locality": "Wells",
-                    "postal_code": "BA5 2UB",
-                    "region": "Somerset"
-                },
-                "name": "ATTERTON, David Valentine, Dr",
-                "officer_role": "director",
-                "person_number": "35704490002",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "4 Royal Mint Court",
-                    "locality": "London",
-                    "postal_code": "EC3N 4HJ"
-                },
-                "name": "BAKER, Mary Elizabeth",
-                "officer_role": "director",
-                "person_number": "48611770003",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "20 Ilchester Place",
-                    "locality": "London",
-                    "postal_code": "W14 8AA"
-                },
-                "name": "BAND, David",
-                "officer_role": "director",
-                "person_number": "8772890001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "locality": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "1999-10-01",
-                "name": "BARRETT, Matthew William",
-                "officer_role": "director",
-                "person_number": "66185780005",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2018-04-01",
-                "name": "BERNARD, Peter James",
-                "officer_role": "director",
-                "person_number": "245521720002",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Tyes Place",
-                    "address_line_2": "Staplefield",
-                    "locality": "Haywards Heath",
-                    "postal_code": "RH17 6EW",
-                    "region": "Sussex"
-                },
-                "name": "BEVAN, Timothy Hugh, Sir",
-                "officer_role": "director",
-                "person_number": "14456750001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "The Clock House Painshill",
-                    "address_line_2": "Portsmouth Road",
-                    "locality": "Cobham",
-                    "postal_code": "KT11 1DJ",
-                    "region": "Surrey"
-                },
-                "name": "BIRKIN, John Derek, Sir",
-                "officer_role": "director",
-                "person_number": "53167980001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "1 Churchill Place",
-                    "locality": "London",
-                    "postal_code": "E14 5HP"
-                },
-                "appointed_on": "2007-05-01",
-                "name": "BOOTH, David George",
-                "officer_role": "director",
-                "person_number": "123409130001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "England",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2019-09-25",
-                "name": "BREEDON, Timothy James",
-                "officer_role": "director",
-                "person_number": "174086260001",
-                "lavie:query": "01026167"
-            },
-            {
-                "address": {
-                    "address_line_1": "Churchill Place",
-                    "country": "United Kingdom",
-                    "locality": "London",
-                    "postal_code": "E14 5HP",
-                    "premises": "1"
-                },
-                "appointed_on": "2012-11-01",
-                "name": "BREEDON, Timothy James",
-                "officer_role": "director",
-                "person_number": "174086260001",
-                "lavie:query": "01026167"
-            }
-        ]
+        "ukcoh:officers": []
     },
     {
         "lavie:similar": 1.0,
@@ -21674,5 +21216,445 @@
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
         "ukcoh:officers": []
+    },
+    {
+        "bods:fullName": "INN1325029808",
+        "bods:streetAddress": "Mordovia, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN1653007780",
+        "bods:streetAddress": "Tatarstan, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN2626008088",
+        "bods:streetAddress": "Stavropol Krai, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN2631026460",
+        "bods:streetAddress": "Stavropol Krai, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN3016043171",
+        "bods:streetAddress": "Astrakhan Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN3016055642",
+        "bods:streetAddress": "Astrakhan Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN3017030922",
+        "bods:streetAddress": "Astrakhan Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN3018016381",
+        "bods:streetAddress": "Astrakhan Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN3025004852",
+        "bods:streetAddress": "Astrakhan Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN3526011667",
+        "bods:streetAddress": "Vologda Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN3528101147",
+        "bods:streetAddress": "Vologda Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN4028023076",
+        "bods:streetAddress": "Kaluga Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN4028031824",
+        "bods:streetAddress": "Kaluga Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN4501023743",
+        "bods:streetAddress": "Kurgan Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5003057981",
+        "bods:streetAddress": "Moscow Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5240004417",
+        "bods:streetAddress": "Nizhny Novgorod Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5240004417.KPP524001001",
+        "bods:streetAddress": "Nizhny Novgorod Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5262036363",
+        "bods:streetAddress": "Nizhny Novgorod Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5262220877",
+        "bods:streetAddress": "Nizhny Novgorod Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5834000617",
+        "bods:streetAddress": "Penza Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5835086920",
+        "bods:streetAddress": "Penza Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5905281886",
+        "bods:streetAddress": "Perm Krai, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5906109648",
+        "bods:streetAddress": "Perm Krai, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN5918000980",
+        "bods:streetAddress": "Perm Krai, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN6234018156",
+        "bods:streetAddress": "Ryazan Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN6315597649",
+        "bods:streetAddress": "Samara Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN6453114127",
+        "bods:streetAddress": "Saratov Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7601001675",
+        "bods:streetAddress": "Yaroslavl Oblast, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7704799640",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7705499230",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7707083893",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7714078157",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7718563644",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7723001560",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7725568474",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7726576968",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7729693645",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7733047394",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7733545336",
+        "bods:streetAddress": "Moscow, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
+    },
+    {
+        "bods:fullName": "INN7830001596",
+        "bods:streetAddress": "St. Petersburg, Russia",
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:unknownEntity",
+        "bods:schemeName": "Russian Federal Tax Service",
+        "bods:scheme": "RU-FNS",
+        "lavie:note": "an organization, not an individual",
+        "lavid:class": "russian-anon",
+        "lavie:aliases": []
     }
 ]
