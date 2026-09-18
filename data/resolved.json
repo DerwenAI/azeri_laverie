@@ -407,7 +407,7 @@
     {
         "lavie:similar": 0.86,
 	"lavie:class": "operating",
-	"lavie:biz": "freight air transport",
+	"lavie:synopsis": "freight air transport",
         "bods:fullName": "AGI GLOBAL LOGISTICS LIMITED",
         "bods:idString": "07552812",
         "bods:streetAddress": "Boyces Building 40-42 Regent Street, Clifton, Bristol, BS8 4HU",
@@ -643,7 +643,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "dormant",
-	"lavie:biz": "VC incubator",
+	"lavie:synopsis": "VC incubator",
         "bods:fullName": "ALPS VENTURES LIMITED",
         "bods:idString": "05887499",
         "bods:streetAddress": "First Floor Kirkland House, 11-15 Peterborough Road, Harrow, Middlesex, HA1 2AX",
@@ -1116,7 +1116,7 @@
     {
         "lavie:similar": 0.91,
 	"lavie:class": "dormant",
-	"lavie:biz": "industrial spare parts",
+	"lavie:synopsis": "industrial spare parts",
         "bods:fullName": "ASTON GLOBAL L.P.",
         "bods:idString": "SL008049",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, EH7 5JA",
@@ -3201,7 +3201,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "shell",
-	"lavie:biz": "wholesale consumer electronics",
+	"lavie:synopsis": "wholesale consumer electronics",
         "bods:fullName": "CLAMOSA LIMITED",
         "bods:idString": "07805986",
         "bods:streetAddress": "44 A The Green, Warlingham, Surrey, CR6 9NA",
@@ -3271,7 +3271,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "shell",
-	"lavie:biz": "agents specialised in the sale of other particular products",
+	"lavie:synopsis": "agents specialised in the sale of other particular products",
         "bods:fullName": "CLIMBFREE SOLUTIONS LIMITED",
         "bods:idString": "05239730",
         "bods:streetAddress": "48 Queen Anne Street, London, W1G 9JJ",
@@ -4666,7 +4666,7 @@
     {
         "lavie:similar": 0.88,
 	"lavie:class": "operating",
-	"lavie:biz": "clothing retail/wholesale",
+	"lavie:synopsis": "clothing retail/wholesale",
         "bods:fullName": "DAVID KOMA LIMITED",
         "bods:idString": "06885638",
         "bods:streetAddress": "Unit 3 The Theater Courtyard, 1 New Inn Yard, London, EC2A 3EE",
@@ -5042,7 +5042,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "operating",
-	"lavie:biz": "dental equipment",
+	"lavie:synopsis": "dental equipment",
         "bods:fullName": "DENTSPLY LIMITED",
         "bods:idString": "FC013038",
         "bods:streetAddress": "Floor 4 Willow House, Cricket Square, Po Box 268, Ky1-1104, Cayman Islands",
@@ -6365,7 +6365,7 @@
     {
         "lavie:similar": 0.93,
 	"lavie:class": "operating",
-	"lavie:biz": "freight transport by road",
+	"lavie:synopsis": "freight transport by road",
         "bods:fullName": "F.S. MACKENZIE INTERNATIONAL LIMITED",
         "bods:idString": "06596875",
         "bods:streetAddress": "Leytonstone House 3 Hanbury Drive, Leytonstone, London, England, E11 1GA",
@@ -6867,7 +6867,7 @@
     {
         "lavie:similar": 0.93,
 	"lavie:class": "operating",
-	"lavie:biz": "manufacture of wallpaper",
+	"lavie:synopsis": "manufacture of wallpaper",
         "bods:fullName": "FINE DECOR WALLCOVERINGS LIMITED",
         "bods:idString": "04110906",
         "bods:streetAddress": "Varey Road, Eaton Bank Trading Estate, Congleton, United Kingdom, CW12 1UW",
@@ -7187,7 +7187,7 @@
     {
         "lavie:similar": 0.85,
 	"lavie:class": "operating",
-	"lavie:biz": "real estate agency",
+	"lavie:synopsis": "real estate agency",
         "bods:fullName": "FOXTONS LIMITED",
         "bods:idString": "01680058",
         "bods:streetAddress": "Building 12 566 Chiswick High Road, London, United Kingdom, W4 5AN",
@@ -8678,7 +8678,7 @@
     {
         "lavie:similar": 0.98,
 	"lavie:class": "operating",
-	"lavie:biz": "luxury car dealership",
+	"lavie:synopsis": "luxury car dealership",
         "bods:fullName": "H.R. OWEN DEALERSHIPS LIMITED",
         "bods:idString": "02832555",
         "bods:streetAddress": "Melton Court, Old Brompton Road, London, SW7 3TD",
@@ -10527,7 +10527,7 @@
     {
         "lavie:similar": 0.94,
 	"lavie:class": "operating",
-	"lavie:biz": "coding and marking printers",
+	"lavie:synopsis": "coding and marking printers",
         "bods:fullName": "LINX PRINTING TECHNOLOGIES LIMITED",
         "bods:idString": "02066629",
         "bods:streetAddress": "Linx House 8 Stocks Bridge Way, Compass Point Business Park, St Ives, Cambridgeshire, PE27 5JL",
@@ -12343,7 +12343,7 @@
     {
         "lavie:similar": 0.91,
 	"lavie:class": "operating",
-	"lavie:biz": "automotive parts",
+	"lavie:synopsis": "automotive parts",
         "bods:fullName": "ONLINE AUTOMOTIVE LIMITED",
         "bods:idString": "05826105",
         "bods:streetAddress": "Unit 6 Minton Business Centre, Main Road Far Cotton, Northampton, NN4 8HJ",
@@ -13068,7 +13068,7 @@
     {
         "lavie:similar": 0.93,
 	"lavie:class": "operating",
-	"lavie:biz": "wholesale fuels",
+	"lavie:synopsis": "wholesale fuels",
         "bods:fullName": "PETRO-CANADA EUROPE LUBRICANTS LIMITED",
         "bods:idString": "05355307",
         "bods:streetAddress": "3rd Floor, 1 Ashley Road, Altrincham, Cheshire, WA14 2DT",
@@ -13609,7 +13609,7 @@
     {
         "lavie:similar": 0.88,
 	"lavie:class": "operating",
-	"lavie:biz": "fur broker",
+	"lavie:synopsis": "fur broker",
         "bods:fullName": "POLAR FURS LIMITED",
         "bods:idString": "01107372",
         "bods:streetAddress": "1st Floor Arthur Stanley House, 40-50 Tottenham Street, London, United Kingdom, W1T 4RN",
@@ -13803,7 +13803,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "operating",
-	"lavie:biz": "vinyl flooring manufacturer",
+	"lavie:synopsis": "vinyl flooring manufacturer",
         "bods:fullName": "POLYFLOR LIMITED",
         "bods:idString": "00743538",
         "bods:streetAddress": "Beechfield Hollinhurst Road, Radcliffe, Manchester, M26 1JN",
@@ -14883,7 +14883,7 @@
     {
         "lavie:similar": 0.9,
 	"lavie:class": "operating",
-	"lavie:biz": "automotive parts",
+	"lavie:synopsis": "automotive parts",
         "bods:fullName": "SAGE PARTS GSE LIMITED",
         "bods:idString": "06427895",
         "bods:streetAddress": "Unit 34 Stretford Motorway Estate, Stretford, Manchester, England, M32 0ZH",
@@ -15792,7 +15792,7 @@
     {
         "lavie:similar": 0.92,
 	"lavie:class": "operating",
-	"lavie:biz": "maritime freight",
+	"lavie:synopsis": "maritime freight",
         "bods:fullName": "SEVEN MILE SHIPPING LIMITED",
         "bods:idString": "06567091",
         "bods:streetAddress": "Level 5a, Maple House, 149 Tottenham Court Road, London, England, W1T 7NF",
@@ -16066,7 +16066,7 @@
     {
         "lavie:similar": 0.85,
 	"lavie:class": "operating",
-	"lavie:biz": "clothing sales",
+	"lavie:synopsis": "clothing sales",
         "bods:fullName": "SIZEROY LIMITED",
         "bods:idString": "01827661",
         "bods:streetAddress": "74 London Road, Wollaston, Wellingborough, England, NN29 7QP",
@@ -16128,7 +16128,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "operating",
-	"lavie:biz": "personnel placement for petrochemical",
+	"lavie:synopsis": "personnel placement for petrochemical",
         "bods:fullName": "SKN ELECTRICAL SERVICES LIMITED",
         "bods:idString": "05950064",
         "bods:streetAddress": "212a Red Bank Road, Bispham, Blackpool, Lancashire, FY2 0HJ",
@@ -16438,7 +16438,7 @@
     {
         "lavie:similar": 0.85,
 	"lavie:class": "shell",
-	"lavie:biz": "audio engineering",
+	"lavie:synopsis": "audio engineering",
         "bods:fullName": "SONIFEX LIMITED",
         "bods:idString": "01717864",
         "bods:streetAddress": "61 Station Road, Irthlingborough, Northants, NN9 5QE",
@@ -16688,7 +16688,7 @@
     {
         "lavie:similar": 0.93,
 	"lavie:class": "operating",
-	"lavie:biz": "diesel generators",
+	"lavie:synopsis": "diesel generators",
         "bods:fullName": "STAMFORD POWER SYSTEMS LIMITED",
         "bods:idString": "02844990",
         "bods:streetAddress": "14 All Saints Street, Stamford, Lincolnshire, PE9 2PA",
@@ -16896,7 +16896,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "operating",
-	"lavie:biz": "ecommerce sales",
+	"lavie:synopsis": "ecommerce sales",
         "bods:fullName": "STARGLOBE LIMITED",
         "bods:idString": "07943313",
         "bods:streetAddress": "38 Court Way, London, NW9 6JE",
@@ -17281,7 +17281,7 @@
     {
         "lavie:similar": 0.92,
 	"lavie:class": "operating",
-	"lavie:biz": "industrial spare parts",
+	"lavie:synopsis": "industrial spare parts",
         "bods:fullName": "SWIFT PLANT SPARES LIMITED",
         "bods:idString": "01504448",
         "bods:streetAddress": "19 Leigh Street, Sheffield, S9 2PR",
@@ -17636,7 +17636,7 @@
     {
         "lavie:similar": 0.91,
 	"lavie:class": "operating",
-	"lavie:biz": "luxury fashion design",
+	"lavie:synopsis": "luxury fashion design",
         "bods:fullName": "THORNTON BREGAZZI LIMITED",
         "bods:idString": "04863962",
         "bods:streetAddress": "C/O BTG BEGBIES TRAYNOR (LONDON) LLP, Level 33 One Canada Square, London, E14 5AB",
@@ -18087,7 +18087,7 @@
     {
         "lavie:similar": 0.85,
 	"lavie:class": "operating",
-	"lavie:biz": "electric lighting equipment",
+	"lavie:synopsis": "electric lighting equipment",
         "bods:fullName": "TURNOCK LIMITED",
         "bods:idString": "00320293",
         "bods:streetAddress": "Reaymer Close,, Off, Leamore Lane,, Walsall,, West Midlands,, WS2 7QZ",
@@ -19066,7 +19066,7 @@
     {
         "lavie:similar": 0.95,
 	"lavie:class": "operating",
-	"lavie:biz": "data broker",
+	"lavie:synopsis": "data broker",
         "bods:fullName": "WORLD OF TATA-NAKA LTD",
         "bods:idString": "04137466",
         "bods:streetAddress": "Studio 2.21 Plaza, 535 Kings Road, London, Greater London, England, SW10 0SZ",
@@ -19183,7 +19183,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "operating",
-	"lavie:biz": "pharmaceuticals wholesale",
+	"lavie:synopsis": "pharmaceuticals wholesale",
         "bods:fullName": "WORTHY TECHNOLOGIES LIMITED",
         "bods:idString": "02714019",
         "bods:streetAddress": "8b Accommodation Road, London, NW11 8ED",
@@ -19388,7 +19388,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "operating",
-	"lavie:biz": "retail sportswear",
+	"lavie:synopsis": "retail sportswear",
         "bods:fullName": "WEST SPORT ALLIANCE LIMITED LIABILITY PARTNERSHIP",
         "bods:idString": "SO300935",
         "bods:streetAddress": {
@@ -19792,7 +19792,7 @@
     {
         "lavie:similar": 1.0,
         "lavie:class": "operating",
-        "lavie:biz": "executive search",
+        "lavie:synopsis": "executive search",
         "bods:fullName": "PEDERSEN & PARTNERS INTERNATIONAL LIMITED",
         "bods:idString": "07296626",
         "bods:streetAddress": {
@@ -20015,7 +20015,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "operating",
-	"lavie:biz": "boarding school",
+	"lavie:synopsis": "boarding school",
         "bods:fullName": "QUEEN ETHELBURGA'S COLLEGE LIMITED",
         "bods:idString": "02573843",
         "bods:streetAddress": {
@@ -20887,7 +20887,7 @@
     {
         "lavie:similar": 1.0,
         "lavie:class": "operating",
-        "lavie:biz": "transportation equipment",
+        "lavie:synopsis": "transportation equipment",
         "bods:fullName": "Q-FREE (BRISTOL) UK LIMITED",
         "bods:idString": "SC185690",
         "bods:streetAddress": {
@@ -21127,7 +21127,7 @@
     {
         "lavie:similar": 1.0,
 	"lavie:class": "operating",
-	"lavie:biz": "bank",
+	"lavie:synopsis": "bank",
 	"lavie:lei": {
             "bods:idString": "5493000SA3K24EQKA103",
             "bods:scheme": "XI-LEI",
@@ -21152,7 +21152,7 @@
     {
         "lavie:similar": 1.0,
         "lavie:class": "operating",
-        "lavie:biz": "bank",
+        "lavie:synopsis": "bank",
 	"lavie:lei": {
             "bods:idString": "G5GSEF7VJP5I7OUK5573",
             "bods:scheme": "XI-LEI",
@@ -21187,7 +21187,7 @@
     {
         "lavie:similar": 1.0,
         "lavie:class": "operating",
-        "lavie:biz": "bank",
+        "lavie:synopsis": "bank",
 	"lavie:lei": {
             "bods:idString": "579100KKDIKDFIBKB034",
             "bods:scheme": "XI-LEI",
