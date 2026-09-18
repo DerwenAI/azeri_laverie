@@ -21139,7 +21139,9 @@
         "bods:foundingDate": "1978-11-01",
         "ukcoh:status": "open",
         "lavie:query": "MASHREQBANK PSC",
-        "lavie:aliases": [],
+        "lavie:aliases": [
+	    "MASHREQ BANK"
+	],
         "bods:retrievedAt": "2026-09-16T02:54:57.783390+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
