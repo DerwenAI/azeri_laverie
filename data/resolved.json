@@ -21220,6 +21220,43 @@
         "ukcoh:officers": []
     },
     {
+        "lavie:similar": 1.0,
+	"lavie:class": "operating",
+	"lavie:synopsis": "bank",
+	"lavie:lei": {
+            "bods:idString": "MLU0ZO3ML4LN2LL2TL39",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+	},
+	"lavie:edd": [
+	    "https://opencheck.world/?lei=MLU0ZO3ML4LN2LL2TL39",
+	    "https://search.openaleph.org/search?q=hsbc%20holdings%20plc"
+	],
+	"lavie:sanction": [
+	    "https://www.opensanctions.org/entities/NK-bkmkEMAYCkVh6Ba6oywveR/"
+	],
+        "bods:fullName": "HSBC HOLDINGS PLC",
+        "bods:idString": "00617987",
+        "bods:streetAddress": {
+            "address_line_1": "8 Canada Square",
+            "locality": "London",
+            "postal_code": "E14 5HQ"
+        },
+        "bods:foundingDate": "1959-01-01",
+        "ukcoh:status": "active",
+        "lavie:aliases": [
+	    "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+	    "HSBC",
+	    "HSBCHKHHHKH"
+	],
+        "bods:retrievedAt": "2026-09-18T22:49:33.445778+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": []
+    },
+    {
         "bods:fullName": "INN1325029808",
         "bods:streetAddress": "Mordovia, Russia",
         "bods:code": "codes:RU",

@@ -7,6 +7,7 @@
 		reg: 1972-06-27
 		class: bank
 46	BANK OF CHINA
+	中国银行
 	BKCHCNBJ
 		code: FC002851
 		addr: No 1 Fuxingmen Nei Dajie, Beijing, Peoples Republic Of China, 100818, China
@@ -26,7 +27,16 @@
 		related: DEUTSCHE BANK AG
 		edd: https://opencheck.world/?lei=8EWQ2UQKS07AKK8ANH81
 		sanction: https://www.opensanctions.org/entities/NK-eFCBobC4JzPJxwQoGGkCzH/
-		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20TRUST%20COMPANY%20AMERICAS
+		class: bank
+91	DEUTSCHE BANK AG
+	DEUTDEFFXXX
+		country: DE
+		addr: Taunusanlage 12, 60325 Frankfurt am Main, Germany
+		code: HRB30000
+		lei: 7LTWFZYICNSX8D621K86
+		edd: https://opencheck.world/?lei=7LTWFZYICNSX8D621K86
+		reg: 1899-12-31
+		sanction: https://www.opensanctions.org/entities/NK-i4AC54iqYCLi2Liodrzq9n/
 		class: bank
 69	COMMERZBANK AG
 	COBADEFFXXX
@@ -52,7 +62,6 @@
 		addr:  Bernstorffsgade 40, 1577 København V, Denmark
 		sanction: https://www.opensanctions.org/entities/us-sec-harm-danske-bank-a-s/
 		edd: https://opencheck.world/?lei=MAES062Z21O4RZ2U7M96
-		edd: https://search.openaleph.org/search?limit=30&q=DANSKE%20BANK
 		class: bank
 88	DENIZBANK A.S.
 	DENİZBANK ANONİM ŞİRKETİ
@@ -63,21 +72,10 @@
 		reg: 2014-02-24
 		addr: Büyükdere Cad. No:141, 34394 İstanbul
 		edd: https://opencheck.world/?lei=7890004ARP2VFYAW4818
-		edd: https://search.openaleph.org/search?q=DENIZBANK
 		sanction: https://www.opensanctions.org/entities/NK-MbqQMduismBCFaaZYw8U43/
 		class: bank
-91	DEUTSCHE BANK AG
-	DEUTDEFFXXX
-		country: DE
-		addr: Taunusanlage 12, 60325 Frankfurt am Main, Germany
-		code: HRB30000
-		lei: 7LTWFZYICNSX8D621K86
-		edd: https://opencheck.world/?lei=7LTWFZYICNSX8D621K86
-		reg: 1899-12-31
-		edd: https://search.openaleph.org/search?q=DEUTSCHE%20BANK%20AG
-		sanction: https://www.opensanctions.org/entities/NK-i4AC54iqYCLi2Liodrzq9n/
-		class: bank
 99	EMIRATES NBD BANK PJSC
+	"بنك الإمارات دبي الوطني"
 	EBILAEAD
 		country: AE
 		sanction: https://www.opensanctions.org/entities/sentry-bb2cf2b0-6414-db0e-7a29-b34a65cf1ef6/
@@ -86,56 +84,166 @@
 		addr: Baniyas Road, Deira, P.O. Box 777, Dubai, United Arab Emirates
 		code: 1004
 		class: bank
-
-
-
 146	HANG SENG BANK LIMITED
+	恒生銀行有限公司
 	HASEHKHH
+		country: CN
+		lei: 5493009Z5F07LWZYMK62
+		edd: https://opencheck.world/?lei=213800LK2TGWU7FK8440
+		addr: No. 83 Des Voeux Rd Central, Central, Hong Kong SAR, China
+		reg: 1952-12-04
 		class: bank
-154	HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED
-	HSBC
-	HSBCHKHHHKH
-		class: bank
+		code: 00149472
 166	BENDURA BANK AG
 	HYIBLI22
+		country: LI
+		lei: 529900XB6RQ3XCELQO62
+		edd: https://opencheck.world/?lei=529900XB6RQ3XCELQO62
+		reg: 1997-01-12
+		code: FL-0001.534.001-6
+		addr: Schaaner Strasse 27, 9487, Gamprin-Bendern, Liechtenstein
 		class: bank
 167	ISRAEL DISCOUNT BANK LTD.
+	בנק דיסקונט לישראל בעמ
 	IDBLILIT
 		class: bank
+		reg: 1944-07-02
+		code: 510022551
+		addr: 1 Discount, Discount Campus building 1, 7574602 Rishon Lezion, Israel
+		country: IL
+		sanction: https://www.opensanctions.org/entities/NK-f86gMK4UcjyH6CnhjYE5dt/
+		lei: 549300XWZ7BG5G23OF51
+		edd: https://search.openaleph.org/search?q=israel%20discount%20bank
 198	YAPI KREDI BANK NEDERLAND N.V.
 	KABANL2A
 		class: bank
+		lei: 5493009SXBGGW7I37Y31
+		code: 33278349
+		country: NL
+		edd: https://opencheck.world/?lei=5493009SXBGGW7I37Y31
+		reg: 1996-05-06
+		addr: Amstelplein 1-16, 1096 HA Amsterdam, Netherlands
+		related: YAPI VE KREDI BANKASI A.S.
+419	YAPI VE KREDI BANKASI A.S.
+	YAPI VE KREDİ BANKASI ANONİM ŞİRKETİ
+	YAPITRIS
+		class: bank
+		reg: 1944-07-06
+		code: 0937002089200741
+		country: TR
+		edd: https://search.openaleph.org/search?q=YAPI+VE+KREDI+BANKASI
+		lei: B85ZYWEZ5IZCZ2WNIO12
+		addr: Yapı Kredi Plaza D Blok 34330 Levent - Beşiktaş – İstanbul
 265	NORISBANK GMBH
 	NORSDE71
 		class: bank
-270	NATIONAL BANK OF RAS AL KHAIMAH
-	RAKBANK
-	NRAKAEAK
-		class: bank
-281	OWH SE I.L.
-	OWHBDEFF
-		class: bank
-283	PASHA BANK OJSC
-	PAHAAZ22
-		class: bank
-320	ROYAL BANK OF CANADA
-	ROYCCAT2X
-		class: bank
-322	RUSSIAN AGRICULTURAL BANK
-		class: bank
-328	SBERBANK OF RUSSIA
-		class: bank
-338	SHANGHAI PUDONG DEV BANK
-		class: bank
-372	TORONTO DOMINION BANK
-	TDOMUS33
-		class: bank
+		lei: 529900WMBOJTFWCJ6Z71
+		related: DEUTSCHE BANK AG
+		country: DE
+		code: HRB21185
+		reg: 1957-04-08
+		edd: https://opencheck.world/?lei=529900WMBOJTFWCJ6Z71
+		addr: Bundeskanzlerplatz 4, 53113 Bonn
 398	UBS SWITZERLAND AG
 	UBSWCHZH80A
 		class: bank
+		country: CH
+		lei: 549300WOIFUSNYH0FL22
+		code: CHE-412.669.376
+		addr: Bahnhofstrasse 45, 8001 Zürich
+		reg: 2014-09-03
+		edd: https://opencheck.world/?lei=549300WOIFUSNYH0FL22
 409	SIGMA BANK AG
 	VOAGLI22
 		class: bank
-419	YAPI VE KREDI BANKASI A.S.
-	YAPITRIS
+		country: LI
+		edd: https://opencheck.world/?lei=529900UHDH7QLRMEJQ86
+		lei: 529900UHDH7QLRMEJQ86
+		code: FL-0001.541.083-9
+		reg: 1997-12-19
+		addr: Feldkircher Strasse 2, 9494 Schaan
+270	NATIONAL BANK OF RAS AL KHAIMAH P.S.C
+	NATIONAL BANK OF RAS AL KHAIMAH
+	RAKBANK
+	NRAKAEAK
 		class: bank
+		country: AE
+		lei: 254900CDNPJRAT391Y16
+		edd: https://opencheck.world/?lei=254900CDNPJRAT391Y16
+		addr: National Bank of Ras Al-Khaimah Bui, Sheikh Mohammed Bin Zayed Road, Ras Al Khaimah, RK
+		reg: 1978-03-13
+		code: 12322
+338	SHANGHAI PUDONG DEVELOPMENT BANK CO., LTD.
+	SHANGHAI PUDONG DEV BANK
+	上海浦东发展银行股份有限公司
+		class: bank
+		country: CN
+		reg: 1992-10-18
+		code: 9131000013221158XC
+		lei: 300300C1031031001330
+		addr: No.12 Zhongshan Dong Yi Road, Shanghai, Shanghai Shi (CN-SH), 200002
+281	OWH SE I.L.
+	VTB BANK YUROP SE
+	OWHBDEFF
+		class: bank
+		code: HRB12169
+		country: DE
+		reg: 1971-11-10
+		sanction: https://www.opensanctions.org/entities/NK-cHYZ5ykejEaTot2sueN9ZL/
+		edd: https://opencheck.world/?lei=529900N90QS8ARRHWY83
+		addr: Marienturm, Taunusanlage 9-10, 60329 Frankfurt am Main
+		synopsis: European specialist bank for European-Russian trade relations which provides advice to companies and banks on the settlement of transactions in RU and the other CIS states. Banking license revoked in 2024, now in liquidation.
+		lei: 529900N90QS8ARRHWY83
+283	PASHA BANK OJSC
+	PAHAAZ22
+		class: bank
+		country: AZ
+		lei: 529900C4ED1UQX2LSR90
+		code: 1700767721
+		reg: 2007-06-17
+		edd: https://opencheck.world/?lei=529900C4ED1UQX2LSR90
+		addr: 13, Yusif Mammadaliyev Str., AZ1005 Baku City
+320	ROYAL BANK OF CANADA
+	ROYCCAT2X
+		class: bank
+		addr: 1 place Ville-Marie, Montreal, Quebec (CA-QC), H3B 3A9
+		lei: ES7IP3U3RHIGC71XBU11
+		country: CA
+		code: 1145330693
+		reg: 1995-12-17
+		edd: https://opencheck.world/?lei=ES7IP3U3RHIGC71XBU11
+		sanction: https://www.opensanctions.org/entities/NK-WKiHa9gqykaj6ebN6iFpHp/
+372	THE TORONTO-DOMINION BANK
+	TORONTO DOMINION BANK
+	TD BANK
+	TDOMUS33
+		class: bank
+		lei: PT3QB789TSUIDF371261
+		country: CA
+		code: 1223766
+		reg: 1995-10-30
+		edd: https://opencheck.world/?lei=PT3QB789TSUIDF371261
+		addr: 15FLR-66 ST Wellington W, Toronto, Ontario (CA-ON), M5K 1A2
+		sanction: https://www.opensanctions.org/entities/NK-VD5PLu7kFo9RFSMhZpzWq2/
+322	RUSSIAN AGRICULTURAL BANK
+	JSC ROSSELKHOZBANK
+	Российский Сельскохозяйственный банк
+		class: bank
+		code: 1027700342890
+		reg: 2000-04-23
+		country: RU
+		edd: https://opencheck.world/?lei=253400J0PTWKFG782T93
+		sanction: https://www.opensanctions.org/entities/NK-PKohHz8E8LVL9VoJAgAAsk/
+		addr: 3, Gagarinskiy Lane, Moscow, Moskva (RU-MOW), 119034
+328	SBERBANK OF RUSSIA
+	Сбербанк России
+	ПАО Сбербанк
+		class: bank
+		country: RU
+		code: 1027700132195
+		reg: 1991-06-19
+		lei: 549300WE6TAF5EEWQS81
+		edd: https://opencheck.world/?lei=549300WE6TAF5EEWQS81
+		sanction: https://www.opensanctions.org/entities/NK-gToaaA9V47RYhVzXFMUG74/
+		addr: 19, Vavilova Street, Moscow, Moskva (RU-MOW), 117312
+		
