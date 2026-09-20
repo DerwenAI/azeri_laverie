@@ -22,6 +22,7 @@
 	BANKERS TRUST COMPANY
 		country: US
 		addr: 1 Columbus Circle, New York, NY
+		code: 623
 		lei: 8EWQ2UQKS07AKK8ANH81
 		reg: 1903-03-05
 		related: DEUTSCHE BANK AG
@@ -246,4 +247,3 @@
 		edd: https://opencheck.world/?lei=549300WE6TAF5EEWQS81
 		sanction: https://www.opensanctions.org/entities/NK-gToaaA9V47RYhVzXFMUG74/
 		addr: 19, Vavilova Street, Moscow, Moskva (RU-MOW), 117312
-		

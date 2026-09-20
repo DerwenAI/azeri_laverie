@@ -1,6 +1,5 @@
 ## TODOs
 
-  - redo the edge cases on UK Companies House, via company codes directly
   - represent `firms.txt` as BODS RDF and as Sz JSON -- as a thesaurus
 
   - confirm: transaction amounts from various currencies are converted to USD?

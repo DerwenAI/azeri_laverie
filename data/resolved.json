@@ -21126,8 +21126,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "bank",
+	"lavie:class": "bank",
 	"lavie:lei": {
             "bods:idString": "5493000SA3K24EQKA103",
             "bods:scheme": "XI-LEI",
@@ -21151,8 +21150,7 @@
     },
     {
         "lavie:similar": 1.0,
-        "lavie:class": "operating",
-        "lavie:synopsis": "bank",
+        "lavie:class": "bank",
 	"lavie:lei": {
             "bods:idString": "G5GSEF7VJP5I7OUK5573",
             "bods:scheme": "XI-LEI",
@@ -21186,8 +21184,7 @@
     },
     {
         "lavie:similar": 1.0,
-        "lavie:class": "operating",
-        "lavie:synopsis": "bank",
+        "lavie:class": "bank",
 	"lavie:lei": {
             "bods:idString": "579100KKDIKDFIBKB034",
             "bods:scheme": "XI-LEI",
@@ -21221,8 +21218,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "bank",
+	"lavie:class": "bank",
 	"lavie:lei": {
             "bods:idString": "MLU0ZO3ML4LN2LL2TL39",
             "bods:scheme": "XI-LEI",
@@ -21255,6 +21251,619 @@
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
         "ukcoh:officers": []
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "BAYERISCHE LANDESBANK MUNICH",
+        "bods:idString": "HRA76030",
+        "bods:streetAddress": "Brienner Strasse 18, Munich, Bayern, 80333",
+        "bods:foundingDate": "1972-06-27",
+        "lavie:aliases": [],
+        "bods:code": "codes:DE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.464960+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=VDYMYTQGZZ6DU0912C88"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "VDYMYTQGZZ6DU0912C88",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "BANK OF CHINA",
+        "bods:idString": "FC002851",
+        "bods:streetAddress": "No 1 Fuxingmen Nei Dajie, Beijing, Peoples Republic Of China, 100818, China",
+        "bods:foundingDate": "1983-10-31",
+        "lavie:aliases": [
+            "中国银行",
+            "BKCHCNBJ"
+        ],
+        "bods:code": "codes:CN",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465094+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=213800DXECSXBR79QK58"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "213800DXECSXBR79QK58",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "DEUTSCHE BANK TRUST COMPANY AMERICAS",
+        "bods:idString": "623",
+        "bods:streetAddress": "1 Columbus Circle, New York, NY",
+        "bods:foundingDate": "1903-03-05",
+        "lavie:aliases": [
+            "BKTRUS33",
+            "BANKERS TRUST COMPANY"
+        ],
+        "bods:code": "codes:US",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465105+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=8EWQ2UQKS07AKK8ANH81"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-eFCBobC4JzPJxwQoGGkCzH/"
+        ],
+        "lavie:related": [
+            "DEUTSCHE BANK AG"
+        ],
+        "lavie:lei": {
+            "bods:idString": "8EWQ2UQKS07AKK8ANH81",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "DEUTSCHE BANK AG",
+        "bods:idString": "HRB30000",
+        "bods:streetAddress": "Taunusanlage 12, 60325 Frankfurt am Main, Germany",
+        "bods:foundingDate": "1899-12-31",
+        "lavie:aliases": [
+            "DEUTDEFFXXX"
+        ],
+        "bods:code": "codes:DE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465112+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=7LTWFZYICNSX8D621K86"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-i4AC54iqYCLi2Liodrzq9n/"
+        ],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "7LTWFZYICNSX8D621K86",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "COMMERZBANK AG",
+        "bods:idString": "HRB32000",
+        "bods:streetAddress": "Kaiserstrasse 16, Frankfurt am Main, Hessen, 60261",
+        "bods:foundingDate": "1958-06-30",
+        "lavie:aliases": [
+            "COBADEFFXXX"
+        ],
+        "bods:code": "codes:DE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465118+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-h2QY8PrgDim7PmCY3T9bKM/"
+        ],
+        "lavie:related": []
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "DANSKE BANK A/S EESTI FILIAAL",
+        "bods:idString": "11488826",
+        "bods:streetAddress": "Narva mnt 11, 15015, Tallinn, Estonia",
+        "bods:foundingDate": "2008-04-02",
+        "lavie:aliases": [],
+        "bods:code": "codes:EE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465123+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [
+            "DANSKE BANK A/S"
+        ]
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "DANSKE BANK A/S",
+        "bods:idString": "61126228",
+        "bods:streetAddress": " Bernstorffsgade 40, 1577 København V, Denmark",
+        "bods:foundingDate": "1992-12-31",
+        "lavie:aliases": [],
+        "bods:code": "codes:DE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465130+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=MAES062Z21O4RZ2U7M96"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/us-sec-harm-danske-bank-a-s/"
+        ],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "MAES062Z21O4RZ2U7M96",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "DENIZBANK A.S.",
+        "bods:idString": "368587",
+        "bods:streetAddress": "Büyükdere Cad. No:141, 34394 İstanbul",
+        "bods:foundingDate": "2014-02-24",
+        "lavie:aliases": [
+            "DENİZBANK ANONİM ŞİRKETİ",
+            "DENITRIS"
+        ],
+        "bods:code": "codes:TR",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465137+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=7890004ARP2VFYAW4818"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-MbqQMduismBCFaaZYw8U43/"
+        ],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "3RV7W250LTUQH12INJ88",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "EMIRATES NBD BANK PJSC",
+        "bods:idString": "1004",
+        "bods:streetAddress": "Baniyas Road, Deira, P.O. Box 777, Dubai, United Arab Emirates",
+        "bods:foundingDate": "1963-06-19",
+        "lavie:aliases": [
+            "\"بنك الإمارات دبي الوطني\"",
+            "EBILAEAD"
+        ],
+        "bods:code": "codes:AE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465144+00:00",
+        "lavie:edd": [
+            [
+                "https://search.openaleph.org/search?q=Emirates%20NBD"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/sentry-bb2cf2b0-6414-db0e-7a29-b34a65cf1ef6/"
+        ],
+        "lavie:related": []
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "HANG SENG BANK LIMITED",
+        "bods:idString": "00149472",
+        "bods:streetAddress": "No. 83 Des Voeux Rd Central, Central, Hong Kong SAR, China",
+        "bods:foundingDate": "1952-12-04",
+        "lavie:aliases": [
+            "恒生銀行有限公司",
+            "HASEHKHH"
+        ],
+        "bods:code": "codes:CN",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465150+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=213800LK2TGWU7FK8440"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "5493009Z5F07LWZYMK62",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "BENDURA BANK AG",
+        "bods:idString": "FL-0001.534.001-6",
+        "bods:streetAddress": "Schaaner Strasse 27, 9487, Gamprin-Bendern, Liechtenstein",
+        "bods:foundingDate": "1997-01-12",
+        "lavie:aliases": [
+            "HYIBLI22"
+        ],
+        "bods:code": "codes:LI",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465156+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=529900XB6RQ3XCELQO62"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "529900XB6RQ3XCELQO62",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "ISRAEL DISCOUNT BANK LTD.",
+        "bods:idString": "510022551",
+        "bods:streetAddress": "1 Discount, Discount Campus building 1, 7574602 Rishon Lezion, Israel",
+        "bods:foundingDate": "1944-07-02",
+        "lavie:aliases": [
+            "בנק דיסקונט לישראל בעמ",
+            "IDBLILIT"
+        ],
+        "bods:code": "codes:IL",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465163+00:00",
+        "lavie:edd": [
+            [
+                "https://search.openaleph.org/search?q=israel%20discount%20bank"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-f86gMK4UcjyH6CnhjYE5dt/"
+        ],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "549300XWZ7BG5G23OF51",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "YAPI KREDI BANK NEDERLAND N.V.",
+        "bods:idString": "33278349",
+        "bods:streetAddress": "Amstelplein 1-16, 1096 HA Amsterdam, Netherlands",
+        "bods:foundingDate": "1996-05-06",
+        "lavie:aliases": [
+            "KABANL2A"
+        ],
+        "bods:code": "codes:NL",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465169+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=5493009SXBGGW7I37Y31"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [
+            "YAPI VE KREDI BANKASI A.S."
+        ],
+        "lavie:lei": {
+            "bods:idString": "5493009SXBGGW7I37Y31",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "YAPI VE KREDI BANKASI A.S.",
+        "bods:idString": "0937002089200741",
+        "bods:streetAddress": "Yapı Kredi Plaza D Blok 34330 Levent - Beşiktaş – İstanbul",
+        "bods:foundingDate": "1944-07-06",
+        "lavie:aliases": [
+            "YAPI VE KREDİ BANKASI ANONİM ŞİRKETİ",
+            "YAPITRIS"
+        ],
+        "bods:code": "codes:TR",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465176+00:00",
+        "lavie:edd": [
+            [
+                "https://search.openaleph.org/search?q=YAPI+VE+KREDI+BANKASI"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "B85ZYWEZ5IZCZ2WNIO12",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "NORISBANK GMBH",
+        "bods:idString": "HRB21185",
+        "bods:streetAddress": "Bundeskanzlerplatz 4, 53113 Bonn",
+        "bods:foundingDate": "1957-04-08",
+        "lavie:aliases": [
+            "NORSDE71"
+        ],
+        "bods:code": "codes:DE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465182+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=529900WMBOJTFWCJ6Z71"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [
+            "DEUTSCHE BANK AG"
+        ],
+        "lavie:lei": {
+            "bods:idString": "529900WMBOJTFWCJ6Z71",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "UBS SWITZERLAND AG",
+        "bods:idString": "CHE-412.669.376",
+        "bods:streetAddress": "Bahnhofstrasse 45, 8001 Zürich",
+        "bods:foundingDate": "2014-09-03",
+        "lavie:aliases": [
+            "UBSWCHZH80A"
+        ],
+        "bods:code": "codes:CH",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465188+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=549300WOIFUSNYH0FL22"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "549300WOIFUSNYH0FL22",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "SIGMA BANK AG",
+        "bods:idString": "FL-0001.541.083-9",
+        "bods:streetAddress": "Feldkircher Strasse 2, 9494 Schaan",
+        "bods:foundingDate": "1997-12-19",
+        "lavie:aliases": [
+            "VOAGLI22"
+        ],
+        "bods:code": "codes:LI",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465194+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=529900UHDH7QLRMEJQ86"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "529900UHDH7QLRMEJQ86",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "NATIONAL BANK OF RAS AL KHAIMAH P.S.C",
+        "bods:idString": "12322",
+        "bods:streetAddress": "National Bank of Ras Al-Khaimah Bui, Sheikh Mohammed Bin Zayed Road, Ras Al Khaimah, RK",
+        "bods:foundingDate": "1978-03-13",
+        "lavie:aliases": [
+            "NATIONAL BANK OF RAS AL KHAIMAH",
+            "RAKBANK",
+            "NRAKAEAK"
+        ],
+        "bods:code": "codes:AE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465200+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=254900CDNPJRAT391Y16"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "254900CDNPJRAT391Y16",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "SHANGHAI PUDONG DEVELOPMENT BANK CO., LTD.",
+        "bods:idString": "9131000013221158XC",
+        "bods:streetAddress": "No.12 Zhongshan Dong Yi Road, Shanghai, Shanghai Shi (CN-SH), 200002",
+        "bods:foundingDate": "1992-10-18",
+        "lavie:aliases": [
+            "SHANGHAI PUDONG DEV BANK",
+            "上海浦东发展银行股份有限公司"
+        ],
+        "bods:code": "codes:CN",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465205+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "300300C1031031001330",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "lavie:synopsis": "European specialist bank for European-Russian trade relations which provides advice to companies and banks on the settlement of transactions in RU and the other CIS states. Banking license revoked in 2024, now in liquidation.",
+        "bods:fullName": "OWH SE I.L.",
+        "bods:idString": "HRB12169",
+        "bods:streetAddress": "Marienturm, Taunusanlage 9-10, 60329 Frankfurt am Main",
+        "bods:foundingDate": "1971-11-10",
+        "lavie:aliases": [
+            "VTB BANK YUROP SE",
+            "OWHBDEFF"
+        ],
+        "bods:code": "codes:DE",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465213+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=529900N90QS8ARRHWY83"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-cHYZ5ykejEaTot2sueN9ZL/"
+        ],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "529900N90QS8ARRHWY83",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "PASHA BANK OJSC",
+        "bods:idString": "1700767721",
+        "bods:streetAddress": "13, Yusif Mammadaliyev Str., AZ1005 Baku City",
+        "bods:foundingDate": "2007-06-17",
+        "lavie:aliases": [
+            "PAHAAZ22"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465219+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=529900C4ED1UQX2LSR90"
+            ]
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "529900C4ED1UQX2LSR90",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "ROYAL BANK OF CANADA",
+        "bods:idString": "1145330693",
+        "bods:streetAddress": "1 place Ville-Marie, Montreal, Quebec (CA-QC), H3B 3A9",
+        "bods:foundingDate": "1995-12-17",
+        "lavie:aliases": [
+            "ROYCCAT2X"
+        ],
+        "bods:code": "codes:CA",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465225+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=ES7IP3U3RHIGC71XBU11"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-WKiHa9gqykaj6ebN6iFpHp/"
+        ],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "ES7IP3U3RHIGC71XBU11",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "THE TORONTO-DOMINION BANK",
+        "bods:idString": "1223766",
+        "bods:streetAddress": "15FLR-66 ST Wellington W, Toronto, Ontario (CA-ON), M5K 1A2",
+        "bods:foundingDate": "1995-10-30",
+        "lavie:aliases": [
+            "TORONTO DOMINION BANK",
+            "TD BANK",
+            "TDOMUS33"
+        ],
+        "bods:code": "codes:CA",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465232+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=PT3QB789TSUIDF371261"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-VD5PLu7kFo9RFSMhZpzWq2/"
+        ],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "PT3QB789TSUIDF371261",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
+        "lavie:class": "bank",
+        "bods:fullName": "RUSSIAN AGRICULTURAL BANK",
+        "bods:idString": "1027700342890",
+        "bods:streetAddress": "3, Gagarinskiy Lane, Moscow, Moskva (RU-MOW), 119034",
+        "bods:foundingDate": "2000-04-23",
+        "lavie:aliases": [
+            "JSC ROSSELKHOZBANK",
+            "Российский Сельскохозяйственный банк"
+        ],
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T19:52:49.465238+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=253400J0PTWKFG782T93"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-PKohHz8E8LVL9VoJAgAAsk/"
+        ],
+        "lavie:related": []
     },
     {
         "bods:fullName": "INN1325029808",
