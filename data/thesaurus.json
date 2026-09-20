@@ -1,7 +1,7 @@
 [
     {
         "lavie:similar": 1.0,
-	"lavie:class": "core",
+        "lavie:class": "core",
         "bods:fullName": "POLUX MANAGEMENT LP",
         "bods:idString": "SL012725",
         "bods:streetAddress": "Suite 1098 111 West George Street, Glasgow, G2 1QX",
@@ -9,8 +9,8 @@
         "ukcoh:status": "active",
         "lavie:query": "POLUX MANAGEMENT LP",
         "lavie:aliases": [
-	    "POLUX MANAGEMENT LLP"
-	],
+            "POLUX MANAGEMENT LLP"
+        ],
         "bods:retrievedAt": "2026-09-16T02:56:10.732759+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -20,8 +20,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "core",
-        "bods:fullName": "HILUX SERVICES LP",	
+        "lavie:class": "core",
+        "bods:fullName": "HILUX SERVICES LP",
         "bods:idString": "SL012732",
         "bods:streetAddress": {
             "address_line_1": "Suite 1105 111 West George Street",
@@ -31,8 +31,8 @@
         "bods:foundingDate": "2013-03-26",
         "ukcoh:status": "active",
         "lavie:aliases": [
-	    "SL012732 LP"
-	],
+            "SL012732 LP"
+        ],
         "bods:retrievedAt": "2026-09-16T18:58:24.052069+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -42,7 +42,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "core",
+        "lavie:class": "core",
         "bods:fullName": "LCM ALLIANCE LLP",
         "bods:idString": "OC372263",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -103,7 +103,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "core",
+        "lavie:class": "core",
         "bods:fullName": "METASTAR INVEST LLP",
         "bods:idString": "OC346224",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -112,8 +112,8 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "METASTAR INVEST LLP",
         "lavie:aliases": [
-	    "METASTAR INVEST LLP CORNWALL BUILD."
-	],
+            "METASTAR INVEST LLP CORNWALL BUILD."
+        ],
         "bods:retrievedAt": "2026-09-16T02:55:02.694977+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -167,8 +167,21 @@
         ]
     },
     {
+        "lavie:class": "shell",
+        "bods:fullName": "ELECTRON ENTERPRISES LTD",
+        "ukcoh:status": "unknown",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T02:50:33.393926+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [],
+        "lavie:synopsis": "Companies House lists a firm, code 10307339, incorporated in 2016, and this is not the same; EE273300333505610002 is a structurally-correct EE bank IBAN code, though not known"
+    },
+    {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "lavie:query": "EURO TELECOM LTD",
         "bods:fullName": "EURO TELECOM LTD",
         "bods:idString": "08281918",
@@ -269,7 +282,7 @@
     },
     {
         "lavie:similar": 0.9,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "ACCESS TECHNOLOGIES LIMITED",
         "bods:idString": "02879801",
         "bods:streetAddress": "Unit A2 Cradley Business Park, Overend Road, Cradley Heath, West Midlands, B64 7DW",
@@ -573,8 +586,8 @@
     },
     {
         "lavie:similar": 0.86,
-	"lavie:class": "operating",
-	"lavie:synopsis": "freight air transport",
+        "lavie:class": "operating",
+        "lavie:synopsis": "freight air transport",
         "bods:fullName": "AGI GLOBAL LOGISTICS LIMITED",
         "bods:idString": "07552812",
         "bods:streetAddress": "Boyces Building 40-42 Regent Street, Clifton, Bristol, BS8 4HU",
@@ -750,7 +763,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "ALLYSON SOLUTIONS LLP",
         "bods:idString": "OC381687",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -809,8 +822,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
-	"lavie:synopsis": "VC incubator",
+        "lavie:class": "dormant",
+        "lavie:synopsis": "VC incubator",
         "bods:fullName": "ALPS VENTURES LIMITED",
         "bods:idString": "05887499",
         "bods:streetAddress": "First Floor Kirkland House, 11-15 Peterborough Road, Harrow, Middlesex, HA1 2AX",
@@ -867,7 +880,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "ALSATEC LLP",
         "bods:idString": "OC370896",
         "bods:streetAddress": "Office 162 Regico Offices, The Old Bank,, 153 The Parade High Street, Watford, United Kingdom, WD17 1NA",
@@ -1042,7 +1055,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "AMBERLOT INVEST LP",
         "bods:idString": "SL015505",
         "bods:streetAddress": "12 South Bridge, Suite 1, Edinburgh, Scotland, EH1 1DD",
@@ -1059,7 +1072,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "ARBA MANAGEMENT LLP",
         "bods:idString": "OC361271",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -1122,7 +1135,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "ARIONA TRADING LLP",
         "bods:idString": "SO303059",
         "bods:streetAddress": "39/5 Granton Crescent, Edinburgh, United Kingdom, EH5 1BN",
@@ -1265,7 +1278,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "ARMA STEEL TRADING LP",
         "bods:idString": "LP014442",
         "bods:streetAddress": "1st Floor 32 Wigmore Street, London, W1U 2RP",
@@ -1282,8 +1295,8 @@
     },
     {
         "lavie:similar": 0.91,
-	"lavie:class": "dormant",
-	"lavie:synopsis": "industrial spare parts",
+        "lavie:class": "dormant",
+        "lavie:synopsis": "industrial spare parts",
         "bods:fullName": "ASTON GLOBAL L.P.",
         "bods:idString": "SL008049",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, EH7 5JA",
@@ -1302,7 +1315,7 @@
     },
     {
         "lavie:similar": 0.88,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "ATROPATENA LIMITED",
         "bods:idString": "07871639",
         "bods:streetAddress": "42 Chatsworth Court, Pembroke Road, London, W8 6DH",
@@ -1338,7 +1351,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "AVROMED COMPANY LLP",
         "bods:idString": "OC378279",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -1399,8 +1412,8 @@
     },
     {
         "lavie:similar": 0.89,
-	"lavie:class": "operating",
-	"lavid:biz": "petroleum development",
+        "lavie:class": "operating",
+        "lavid:biz": "petroleum development",
         "bods:fullName": "AZERBAIJAN INTERNATIONAL OPERATING COMPANY",
         "bods:idString": "FC018764",
         "bods:streetAddress": "Robert C Cumming, Bp Compass Point,, 79-87 Kingston Road,Knowle Green, Staines,Middlesex, TW18 1DY",
@@ -1538,7 +1551,7 @@
     },
     {
         "lavie:similar": 0.88,
-	"lavie:class": "operating",
+        "lavie:class": "operating",
         "bods:fullName": "BALLY SUNGLASS & OPTICAL COMPANY LIMITED",
         "bods:idString": "01368178",
         "bods:streetAddress": "1 Rosoman Place, London, England, EC1R 0JY",
@@ -1615,7 +1628,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BENARDO SOLUTIONS LLP",
         "bods:idString": "OC353233",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -1678,15 +1691,15 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
-	"lavie:lei": {
+        "lavie:class": "shell",
+        "lavie:lei": {
             "bods:idString": "54930007FGRO3F0RZ382",
             "bods:scheme": "XI-LEI",
             "bods:schemeName": "Global Legal Entity Identifier Index"
-	},
-	"lavie:edd": [
-	    "https://opencheck.world/?lei=54930007FGRO3F0RZ382"
-	],
+        },
+        "lavie:edd": [
+            "https://opencheck.world/?lei=54930007FGRO3F0RZ382"
+        ],
         "bods:fullName": "BENTCARD IMPORT LLP",
         "bods:idString": "OC369315",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -1747,7 +1760,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BERGFOX ALLIANCE LLP",
         "bods:idString": "OC372748",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -1808,7 +1821,7 @@
     },
     {
         "lavie:similar": 0.96,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BEWHHART LTD.",
         "bods:idString": "07982544",
         "bods:streetAddress": "43 Bedford Street, Office 11, London, WC2E 9HA",
@@ -1878,7 +1891,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BHW PROJECTS LLP",
         "bods:idString": "OC368144",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -1937,7 +1950,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BOLDCROSS LIMITED",
         "bods:idString": "03458514",
         "bods:streetAddress": "Enterprise House, 113-115 George Lane, London, E18 1AB",
@@ -2071,7 +2084,7 @@
     },
     {
         "lavie:similar": 0.93,
-	"lavie:class": "operating",
+        "lavie:class": "operating",
         "bods:fullName": "BONAS MACFARLANE TUITION LIMITED",
         "bods:idString": "04125136",
         "bods:streetAddress": "27 Ursula Street, London, England, SW11 3DW",
@@ -2187,7 +2200,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BONDWEST LLP",
         "bods:idString": "OC371790",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2248,7 +2261,7 @@
     },
     {
         "lavie:similar": 0.98,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BONWEST INDUSTRIAL LLP",
         "bods:idString": "OC371947",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2311,7 +2324,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BONWILL PROJECTS LLP",
         "bods:idString": "OC380720",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2372,7 +2385,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BRANDHOLD ALLIANCE LLP",
         "bods:idString": "OC384555",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2433,7 +2446,7 @@
     },
     {
         "lavie:similar": 0.95,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "BRENTON BUSINESS L.P.",
         "bods:idString": "SL010012",
         "bods:streetAddress": "1/2 35 Taits Lane, Dundee, Scotland, DD2 1DZ",
@@ -2452,7 +2465,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BRIGHT LINE MARITIME LLP",
         "bods:idString": "OC360814",
         "bods:streetAddress": "Intershore Suites Vernon House, Sicilian Avenue, London, WC1A 2QS",
@@ -2497,7 +2510,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BSMAX LLP",
         "bods:idString": "OC334604",
         "bods:streetAddress": "124 Baker Street, London, W1U 6TY",
@@ -2594,7 +2607,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BTS INT LIMITED",
         "bods:idString": "SC365914",
         "bods:streetAddress": "Suite 2 44 Main Street, Douglas, South Lanarkshire, Scotland, ML11 0QW",
@@ -2675,7 +2688,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BUILDCO SUPPLIES LLP",
         "bods:idString": "OC389052",
         "bods:streetAddress": "Unit 5 Olympia Industrial Estate, Coburg Road, London, N22 6TZ",
@@ -2804,7 +2817,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CAMBELL UNIVERSAL LLP",
         "bods:idString": "OC324779",
         "bods:streetAddress": "Suite 1, The Studio, St. Nicholas Close, Elstree, Hertfordshire, WD6 3EW",
@@ -2905,7 +2918,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CAPTRON MERCHANTS LLP",
         "bods:idString": "OC373296",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -2914,8 +2927,8 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "CAPTRON MERCHANTS LLP",
         "lavie:aliases": [
-	    "Captron Merchants LLP"
-	],
+            "Captron Merchants LLP"
+        ],
         "bods:retrievedAt": "2026-09-16T02:50:23.477381+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -2968,7 +2981,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CARLEX TECHNOLOGY LLP",
         "bods:idString": "OC359528",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, HA2 7SA",
@@ -3111,7 +3124,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CARLPOOL LLP",
         "bods:idString": "OC388023",
         "bods:streetAddress": "Unit 5 Olympia Industrial Estate, Coburg Road, London, N22 6TZ",
@@ -3172,7 +3185,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "CARTFIELD TRADE L.P.",
         "bods:idString": "SL008371",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, Scotland, EH7 5JA",
@@ -3189,7 +3202,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CAYREST EXPORT LLP",
         "bods:idString": "OC365542",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, United Kingdom, B3 3QR",
@@ -3250,7 +3263,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CENTROEXPERT LLP",
         "bods:idString": "OC350705",
         "bods:streetAddress": "Enterprise House, 82 Whitchurch Road, Cardiff, CF14 3LX",
@@ -3350,7 +3363,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "CITYPORT CONTRACTS L.P.",
         "bods:idString": "SL013108",
         "bods:streetAddress": "45 Rosehaugh Road, Inverness, Scotland, IV2 8SW",
@@ -3367,8 +3380,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
-	"lavie:synopsis": "wholesale consumer electronics",
+        "lavie:class": "shell",
+        "lavie:synopsis": "wholesale consumer electronics",
         "bods:fullName": "CLAMOSA LIMITED",
         "bods:idString": "07805986",
         "bods:streetAddress": "44 A The Green, Warlingham, Surrey, CR6 9NA",
@@ -3377,8 +3390,8 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "CLAMOSA LIMITED",
         "lavie:aliases": [
-	    "CLAMOSA LIMITED SUITE 2 23 24 GREAT"
-	],
+            "CLAMOSA LIMITED SUITE 2 23 24 GREAT"
+        ],
         "bods:retrievedAt": "2026-09-16T02:50:45.553582+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -3437,8 +3450,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
-	"lavie:synopsis": "agents specialised in the sale of other particular products",
+        "lavie:class": "shell",
+        "lavie:synopsis": "agents specialised in the sale of other particular products",
         "bods:fullName": "CLIMBFREE SOLUTIONS LIMITED",
         "bods:idString": "05239730",
         "bods:streetAddress": "48 Queen Anne Street, London, W1G 9JJ",
@@ -3556,7 +3569,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CLYDY LTD",
         "bods:idString": "08507743",
         "bods:streetAddress": "67 Hurworth Avenue, Slough, SL3 7FF",
@@ -3604,7 +3617,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CNL UNIVERSAL LLP",
         "bods:idString": "OC380296",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -3665,7 +3678,7 @@
     },
     {
         "lavie:similar": 0.9,
-	"lavie:class": "operating",
+        "lavie:class": "operating",
         "bods:fullName": "CONTINENTAL TRADING (UK) LIMITED",
         "bods:idString": "03817036",
         "bods:streetAddress": "Unit C2, Staverton Technology Park, Staverton, Cheltenham, Gloucestershire, GL51 6TQ",
@@ -3781,7 +3794,7 @@
     },
     {
         "lavie:similar": 0.98,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CONTRATECH SALES LLP",
         "bods:idString": "OC371955",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -3844,7 +3857,7 @@
     },
     {
         "lavie:similar": 0.89,
-	"lavie:class": "operating",
+        "lavie:class": "operating",
         "bods:fullName": "COOPERS FIRE LIMITED",
         "bods:idString": "02010274",
         "bods:streetAddress": "Ignis House, Houghton Avenue, Waterlooville, Hampshire, England, PO7 3DU",
@@ -4224,7 +4237,7 @@
     },
     {
         "lavie:similar": 0.97,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CREATD SOFTWARE LTD",
         "bods:idString": "08662999",
         "bods:streetAddress": "4 Golden Square 4 Golden Square, Floor 4, London, England, W1F 9HT",
@@ -4260,7 +4273,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CREDILEX LLP",
         "bods:idString": "OC370953",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -4321,7 +4334,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CROFTLINK EXPORT LLP",
         "bods:idString": "OC365095",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW",
@@ -4421,7 +4434,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CROSSPARK LINES LLP",
         "bods:idString": "OC381424",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4482,7 +4495,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DALLAS IMPORT LLP",
         "bods:idString": "OC362754",
         "bods:streetAddress": "8 Shepherd Market, Office 21, London, W1J 7JY",
@@ -4545,7 +4558,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DANBELL IMPORT LLP",
         "bods:idString": "OC371965",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4554,8 +4567,8 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "DANBELL IMPORT LLP",
         "lavie:aliases": [
-	    "DANBELL  IMPORT  LLP"
-	],
+            "DANBELL  IMPORT  LLP"
+        ],
         "bods:retrievedAt": "2026-09-16T02:51:17.479694+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -4608,7 +4621,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DARTLEY CAPITAL LLP",
         "bods:idString": "OC371557",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4669,7 +4682,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DATEMILE ALLIANCE LLP",
         "bods:idString": "OC379963",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -4728,7 +4741,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DATVILLE UNITED LLP",
         "bods:idString": "OC381414",
         "bods:streetAddress": "Suite 1, 5 Percy Street, London, W1T 1DG",
@@ -4832,8 +4845,8 @@
     },
     {
         "lavie:similar": 0.88,
-	"lavie:class": "operating",
-	"lavie:synopsis": "clothing retail/wholesale",
+        "lavie:class": "operating",
+        "lavie:synopsis": "clothing retail/wholesale",
         "bods:fullName": "DAVID KOMA LIMITED",
         "bods:idString": "06885638",
         "bods:streetAddress": "Unit 3 The Theater Courtyard, 1 New Inn Yard, London, EC2A 3EE",
@@ -4925,7 +4938,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DAYFORD SALES LLP",
         "bods:idString": "OC381830",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -4986,7 +4999,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DELFRONT IMPORT LLP",
         "bods:idString": "OC380736",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -5047,7 +5060,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DELLWOOD SALES LLP",
         "bods:idString": "OC365055",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, WD6 3EW",
@@ -5147,7 +5160,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DELMOORE EXPRESS LLP",
         "bods:idString": "OC373853",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -5208,8 +5221,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "dental equipment",
+        "lavie:class": "operating",
+        "lavie:synopsis": "dental equipment",
         "bods:fullName": "DENTSPLY LIMITED",
         "bods:idString": "FC013038",
         "bods:streetAddress": "Floor 4 Willow House, Cricket Square, Po Box 268, Ky1-1104, Cayman Islands",
@@ -5521,7 +5534,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DEXPORT UNIVERSAL LLP",
         "bods:idString": "OC371949",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -5530,8 +5543,8 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "DEXPORT UNIVERSAL LLP",
         "lavie:aliases": [
-	    "DEXPORT UNIVERSAL  LLP"
-	],
+            "DEXPORT UNIVERSAL  LLP"
+        ],
         "bods:retrievedAt": "2026-09-16T02:51:42.452637+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -5584,7 +5597,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DIGIMARK MERCHANTS LLP",
         "bods:idString": "OC371956",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -5593,8 +5606,8 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "DIGIMARK MERCHANTS LLP",
         "lavie:aliases": [
-	    "DIGIMARK MERCHANTS  LLP"
-	],
+            "DIGIMARK MERCHANTS  LLP"
+        ],
         "bods:retrievedAt": "2026-09-16T02:51:45.015422+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -5647,7 +5660,7 @@
     },
     {
         "lavie:similar": 0.88,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DIGIPOS STORE SOLUTIONS INTERNATIONAL LIMITED",
         "bods:idString": "05128694",
         "bods:streetAddress": "200 Cedarwood, Crockford Lane, Chineham Business Park, Basingstoke, England, RG24 8WD",
@@ -6115,7 +6128,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DOCKWOOD ALLIANCE LLP",
         "bods:idString": "OC365663",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW",
@@ -6172,7 +6185,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "DREAM CAPITAL INDUSTRIES LLP",
         "bods:idString": "OC371985",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -6229,7 +6242,7 @@
     },
     {
         "lavie:similar": 0.93,
-	"lavie:class": "operating",
+        "lavie:class": "operating",
         "bods:fullName": "ELECTROCOIN AUTOMATICS LIMITED",
         "bods:idString": "01256046",
         "bods:streetAddress": "122 St Pancras Way, London, NW1 9NB",
@@ -6310,7 +6323,7 @@
     },
     {
         "lavie:similar": 0.96,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "ENTERTOWN L.P.",
         "bods:idString": "SL008938",
         "bods:streetAddress": "Summit House, 4-5 Mitchell Street, Edinburgh, Scotland, EH6 7BD",
@@ -6329,7 +6342,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "EURAS BRIDGE LLP",
         "bods:idString": "OC387794",
         "bods:streetAddress": "Las Suite, 5 Percy Street, Fitzrovia, London, W1T 1DG",
@@ -6392,7 +6405,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "EUROEX COMMERCIAL LLP",
         "bods:idString": "OC383246",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -6453,7 +6466,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "EVERMAIR PROJECTS LP",
         "bods:idString": "SL011768",
         "bods:streetAddress": "Suite 4330 Mitchell House, 5 Mitchell Street, Edinburgh, Scotland, United Kingdom, EH6 7BD",
@@ -6470,7 +6483,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "EXTRAFIELD LLP",
         "bods:idString": "OC379332",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -6531,8 +6544,8 @@
     },
     {
         "lavie:similar": 0.93,
-	"lavie:class": "operating",
-	"lavie:synopsis": "freight transport by road",
+        "lavie:class": "operating",
+        "lavie:synopsis": "freight transport by road",
         "bods:fullName": "F.S. MACKENZIE INTERNATIONAL LIMITED",
         "bods:idString": "06596875",
         "bods:streetAddress": "Leytonstone House 3 Hanbury Drive, Leytonstone, London, England, E11 1GA",
@@ -6625,7 +6638,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "FC USSR LTD",
         "bods:idString": "05145471",
         "bods:streetAddress": "45 Trinity Avenue, Enfield, Middlesex, EN1 1HT",
@@ -6726,7 +6739,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "FEELGOOD PRODUCTION LLP",
         "bods:idString": "OC334605",
         "bods:streetAddress": "124 Baker Street, London, W1U 6TY",
@@ -6829,7 +6842,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "FERROTEC STEEL LLP",
         "bods:idString": "OC339081",
         "bods:streetAddress": "61 Bridge Street, Kington, Herefordshire, United Kingdom, HR5 3DJ",
@@ -6972,7 +6985,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "FESTIVAL SALES LLP",
         "bods:idString": "OC378268",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -7033,8 +7046,8 @@
     },
     {
         "lavie:similar": 0.93,
-	"lavie:class": "operating",
-	"lavie:synopsis": "manufacture of wallpaper",
+        "lavie:class": "operating",
+        "lavie:synopsis": "manufacture of wallpaper",
         "bods:fullName": "FINE DECOR WALLCOVERINGS LIMITED",
         "bods:idString": "04110906",
         "bods:streetAddress": "Varey Road, Eaton Bank Trading Estate, Congleton, United Kingdom, CW12 1UW",
@@ -7218,7 +7231,7 @@
     },
     {
         "lavie:similar": 0.94,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "FIRST IMPORTS/EXPORTS L.P.",
         "bods:idString": "SL011146",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, Scotland, EH7 5JA",
@@ -7237,7 +7250,7 @@
     },
     {
         "lavie:similar": 0.97,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "FIRST MARINE L.P.",
         "bods:idString": "SL012522",
         "bods:streetAddress": "44 Main Street, Douglas, South Lanarkshire, Scotland, ML11 0QW",
@@ -7256,7 +7269,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "FIRSTWOOD ALLIANCE LLP",
         "bods:idString": "OC357935",
         "bods:streetAddress": "Enterprise House, 82 Whitchurch Road, Cardiff, CF14 3LX",
@@ -7353,8 +7366,8 @@
     },
     {
         "lavie:similar": 0.85,
-	"lavie:class": "operating",
-	"lavie:synopsis": "real estate agency",
+        "lavie:class": "operating",
+        "lavie:synopsis": "real estate agency",
         "bods:fullName": "FOXTONS LIMITED",
         "bods:idString": "01680058",
         "bods:streetAddress": "Building 12 566 Chiswick High Road, London, United Kingdom, W4 5AN",
@@ -7660,7 +7673,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "FRONTWELL COMPANY LLP",
         "bods:idString": "OC355905",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, England, HA2 7SA",
@@ -7761,7 +7774,7 @@
     },
     {
         "lavie:similar": 0.85,
-	"lavie:class": "operating",
+        "lavie:class": "operating",
         "bods:fullName": "GAELIC INT'L HOLD LTD",
         "bods:idString": "06739202",
         "bods:streetAddress": "4 Princes Street, London, England, W1B 2LE",
@@ -7813,7 +7826,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GEBA INDUSTRIES LTD",
         "bods:idString": "SC375222",
         "bods:streetAddress": "18/2 Royston Mains Street, Edinburgh, EH5 1LB",
@@ -7894,7 +7907,7 @@
     },
     {
         "lavie:similar": 0.97,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "GENERAL TRADE L.P.",
         "bods:idString": "SL013329",
         "bods:streetAddress": "272 Bath Street, Glasgow, G2 4JR",
@@ -7902,7 +7915,7 @@
         "ukcoh:status": "active",
         "lavie:query": "GENERAL TRADE L.P",
         "lavie:aliases": [
-	    "General Trade L.P",
+            "General Trade L.P",
             "GENERAL TRADE L.P"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:51.407545+00:00",
@@ -7914,7 +7927,7 @@
     },
     {
         "lavie:similar": 0.89,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GENTLEMEN'S TONIC LIMITED",
         "bods:idString": "05000509",
         "bods:streetAddress": "C/O Libertas 3 Chandlers House, Hampton Mews 191-195 Sparrows Herne, Bushey, Hertfordshire, WD23 1FL",
@@ -8093,7 +8106,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GFG EXPORT LLP",
         "bods:idString": "OC372307",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -8154,7 +8167,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GILSON UNIVERSAL LLP",
         "bods:idString": "OC318294",
         "bods:streetAddress": "Suite B 11 Churchill Court 58 Station Road, North Harrow, Middlesex, HA2 7SA",
@@ -8296,7 +8309,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "GLOBECOM TRADE L.P.",
         "bods:idString": "SL009161",
         "bods:streetAddress": "1/2 35 Taits Lane, Dundee, DD2 1DZ",
@@ -8304,9 +8317,9 @@
         "ukcoh:status": "active",
         "lavie:query": "GLOBECOM TRADE L.P.",
         "lavie:aliases": [
-	    "GLOBECOM TRADE L P",
-	    "GLOBECOM TRADE L.P"
-	],
+            "GLOBECOM TRADE L P",
+            "GLOBECOM TRADE L.P"
+        ],
         "bods:retrievedAt": "2026-09-16T02:53:01.834043+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -8316,7 +8329,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GLOBETOWN LLP",
         "bods:idString": "OC332480",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, England, HA2 7SA",
@@ -8459,7 +8472,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GM LEADER LIMITED",
         "bods:idString": "09164637",
         "bods:streetAddress": "1st Floor 14 Bowling Green Lane, London, England, EC1R 0BD",
@@ -8518,7 +8531,7 @@
     },
     {
         "lavie:similar": 0.92,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GPEG INTERNATIONAL LIMITED",
         "bods:idString": "05355242",
         "bods:streetAddress": "Innocore House Kingfisher Way, Silverlink Business Park, Newcastle, Tyne And Wear, NE28 9NX",
@@ -8646,7 +8659,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GRANSTON SALES LLP",
         "bods:idString": "OC367024",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW",
@@ -8707,7 +8720,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "GRAY KENT INVESTMENTS LP",
         "bods:idString": "SL011758",
         "bods:streetAddress": "Suite 4319 Mitchell House, 5 Mitchell Street, Edinburgh, Scotland, United Kingdom, EH6 7BD",
@@ -8724,7 +8737,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GREENOUGH TRADE LLP",
         "bods:idString": "OC381686",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -8783,7 +8796,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "GTW EXPORT LLP",
         "bods:idString": "OC380730",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -8844,8 +8857,8 @@
     },
     {
         "lavie:similar": 0.98,
-	"lavie:class": "operating",
-	"lavie:synopsis": "luxury car dealership",
+        "lavie:class": "operating",
+        "lavie:synopsis": "luxury car dealership",
         "bods:fullName": "H.R. OWEN DEALERSHIPS LIMITED",
         "bods:idString": "02832555",
         "bods:streetAddress": "Melton Court, Old Brompton Road, London, SW7 3TD",
@@ -9208,7 +9221,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "HARDWARE SYSTEM LLP",
         "bods:idString": "OC381762",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -9267,7 +9280,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "HIGHCORP WORLDWIDE LLP",
         "bods:idString": "OC351187",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, England, HA2 7SA",
@@ -9411,7 +9424,7 @@
     },
     {
         "lavie:similar": 0.98,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "HILLSTAR COMPLEX LLP",
         "bods:idString": "OC371958",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -9474,7 +9487,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "INFOCAR TRADE LLP",
         "bods:idString": "OC363732",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -9535,7 +9548,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "INFOCREST LLP",
         "bods:idString": "OC363823",
         "bods:streetAddress": "Suite 1 The Studio, St. Nicholas Close, Elstree, Hertfordshire, WD6 3EW",
@@ -9636,7 +9649,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "INTERLINE EUROPE L.P.",
         "bods:idString": "SL014294",
         "bods:streetAddress": "45 Rosehaugh Road, Inverness, Scotland, IV2 8SW",
@@ -9653,7 +9666,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "INTERWEST L.P.",
         "bods:idString": "SL013313",
         "bods:streetAddress": "45 Rosehaugh Road, Inverness, Scotland, IV2 8SW",
@@ -9670,7 +9683,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "INTERWEST PROJECT LLP",
         "bods:idString": "SO301493",
         "bods:streetAddress": "The Centrum Business Centre Limited, 38 Queen Street, Glasgow, Scotland, G1 3DX",
@@ -9802,7 +9815,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "INTRAWAY ALLIANCE LLP",
         "bods:idString": "OC368550",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -9863,7 +9876,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "JENGATE LIMITED",
         "bods:idString": "03128992",
         "bods:streetAddress": "3 Castlegate, Grantham, Lincs, NG31 6SF",
@@ -10070,7 +10083,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "JETMAX CONTRACTS LLP",
         "bods:idString": "OC345090",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, England, HA2 7SA",
@@ -10171,7 +10184,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "JLS PRODUCTS LLP",
         "bods:idString": "OC361954",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Hertfordshire, WD6 3EW",
@@ -10272,7 +10285,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "KEYLORD INVESTMENTS L.P.",
         "bods:idString": "SL008100",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, EH7 5JA",
@@ -10289,7 +10302,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "LAKEMONT PROJECTS LLP",
         "bods:idString": "OC366180",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW",
@@ -10350,7 +10363,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "LATFORM INDUSTRIES LLP",
         "bods:idString": "OC336651",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, HA2 7SA",
@@ -10491,7 +10504,7 @@
     },
     {
         "lavie:similar": 0.93,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "LEWIS CORPORATION L.P.",
         "bods:idString": "SL007720",
         "bods:streetAddress": "Suite 1 78 Montgomery Street, Edinburgh, EH7 5JA",
@@ -10510,7 +10523,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "LEYBURN SYSTEMS LLP",
         "bods:idString": "OC374025",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -10571,7 +10584,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "LIGHTFOLD EXPERTS LLP",
         "bods:idString": "OC374029",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -10632,8 +10645,8 @@
     },
     {
         "lavie:similar": 0.94,
-	"lavie:class": "operating",
-	"lavie:synopsis": "coding and marking printers",
+        "lavie:class": "operating",
+        "lavie:synopsis": "coding and marking printers",
         "bods:fullName": "LINX PRINTING TECHNOLOGIES LIMITED",
         "bods:idString": "02066629",
         "bods:streetAddress": "Linx House 8 Stocks Bridge Way, Compass Point Business Park, St Ives, Cambridgeshire, PE27 5JL",
@@ -11036,7 +11049,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "LOGILUX LLP",
         "bods:idString": "OC362274",
         "bods:streetAddress": "Suite 1 The Studio, St. Nicholas Close, Elstree, Hertfordshire, WD6 3EW",
@@ -11137,7 +11150,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "LOTA SALES LLP",
         "bods:idString": "OC336653",
         "bods:streetAddress": "Enterprise House, 82 Whitchurch Road, Cardiff, South Glamorgan, CF14 3LX",
@@ -11237,7 +11250,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "LUXBORG L.P.",
         "bods:idString": "SL011661",
         "bods:streetAddress": "Office 1 145 Kilmarnock Road, Glasgow, Scotland, G41 3JA",
@@ -11245,8 +11258,8 @@
         "ukcoh:status": "active",
         "lavie:query": "LUXBORG L.P.",
         "lavie:aliases": [
-	    "LUXBORG L. P."
-	],
+            "LUXBORG L. P."
+        ],
         "bods:retrievedAt": "2026-09-16T02:54:41.142854+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -11256,7 +11269,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "LUXOR COMMUNICATION LLP",
         "bods:idString": "OC362371",
         "bods:streetAddress": "4th Floor 13 John Princes Street, London, W1G 0JR",
@@ -11329,7 +11342,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "LYSOFORM LIMITED",
         "bods:idString": "06506182",
         "bods:streetAddress": "13 John Prince's Street, 2nd Floor, London, England, W1G 0JR",
@@ -11432,7 +11445,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MALAMO CAPITAL LLP",
         "bods:idString": "OC353235",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -11495,7 +11508,7 @@
     },
     {
         "lavie:similar": 0.93,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MARINE SOURCING SERVICES LIMITED",
         "bods:idString": "05899296",
         "bods:streetAddress": "10 Cecil Road, Norwich, Norfolk, NR1 2QL",
@@ -11586,7 +11599,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MARTEX SALES LLP",
         "bods:idString": "OC385369",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -11647,7 +11660,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "MAXWISE TECHNOLOGY L.P.",
         "bods:idString": "SL007885",
         "bods:streetAddress": "44 Main Street, Douglas, South Lanarkshire, ML11 0QW",
@@ -11664,7 +11677,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "METREX PROJECTS LLP",
         "bods:idString": "OC375688",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -11725,7 +11738,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MOBILA LLP",
         "bods:idString": "OC370951",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -11786,7 +11799,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MOLONEY TRADE LLP",
         "bods:idString": "OC380013",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -11845,7 +11858,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MONDOTECH LLP",
         "bods:idString": "OC364075",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Hertfordshire, England, WD6 3EW",
@@ -11945,7 +11958,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MOYA ENGINEERING LLP",
         "bods:idString": "OC355521",
         "bods:streetAddress": "Office 11 43 Bedford Street, London, United Kingdom, WC2E 9HA",
@@ -12004,7 +12017,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MUROVA SYSTEMS LLP",
         "bods:idString": "OC339672",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -12067,7 +12080,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "MX TRADE LLP",
         "bods:idString": "OC382392",
         "bods:streetAddress": "43 Bedford Street, Office 11, London, WC2E 9HA",
@@ -12116,7 +12129,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "NEXTMARK SALES LLP",
         "bods:idString": "OC384548",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -12177,7 +12190,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "NORDLAND DEVELOPMENT LLP",
         "bods:idString": "OC377009",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -12238,7 +12251,7 @@
     },
     {
         "lavie:similar": 0.97,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "NORTHBURGH LIMITED",
         "bods:idString": "SC271444",
         "bods:streetAddress": "C/O Wri Associates Ltd Third Floor, Turnberry House, 175 West George Street, Glasgow, G2 2LB",
@@ -12383,8 +12396,8 @@
     },
     {
         "lavie:similar": 0.91,
-	"lavie:class": "operating",
-	"lavie:synopsis": "automotive parts",
+        "lavie:class": "operating",
+        "lavie:synopsis": "automotive parts",
         "bods:fullName": "ONLINE AUTOMOTIVE LIMITED",
         "bods:idString": "05826105",
         "bods:streetAddress": "Unit 6 Minton Business Centre, Main Road Far Cotton, Northampton, NN4 8HJ",
@@ -12460,7 +12473,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "ORDERVILLE LLP",
         "bods:idString": "OC348612",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, England, HA2 7SA",
@@ -12599,7 +12612,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "OVERMOND LLP",
         "bods:idString": "OC372260",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -12660,7 +12673,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "OVERTON SALES LLP",
         "bods:idString": "OC374243",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -12721,7 +12734,7 @@
     },
     {
         "lavie:similar": 0.94,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "PARKVIEW ESTATES MANAGEMENT LIMITED",
         "bods:idString": "06661308",
         "bods:streetAddress": "23 Savile Row, London, England, W1S 2ET",
@@ -12876,8 +12889,8 @@
     },
     {
         "lavie:similar": 0.87,
-	"lavie:class": "operating",
-	"lavie:class": "real estate agency",
+        "lavie:class": "operating",
+        "lavie:synopsis": "real estate agency",
         "bods:fullName": "PEERMAN INVESTMENTS LIMITED",
         "bods:idString": "01947282",
         "bods:streetAddress": "32 Beauchamp Place, London, England, SW3 1NU",
@@ -13108,8 +13121,8 @@
     },
     {
         "lavie:similar": 0.93,
-	"lavie:class": "operating",
-	"lavie:synopsis": "wholesale fuels",
+        "lavie:class": "operating",
+        "lavie:synopsis": "wholesale fuels",
         "bods:fullName": "PETRO-CANADA EUROPE LUBRICANTS LIMITED",
         "bods:idString": "05355307",
         "bods:streetAddress": "3rd Floor, 1 Ashley Road, Altrincham, Cheshire, WA14 2DT",
@@ -13117,7 +13130,7 @@
         "ukcoh:status": "active",
         "lavie:query": "PETRO-CANADA EUROPE LUBRICANTS LTD.",
         "lavie:aliases": [
-	    "PETRO-CANADA EUROPE LUBRICANTS LIMI",
+            "PETRO-CANADA EUROPE LUBRICANTS LIMI",
             "PETRO-CANADA EUROPE LUBRICANTS LTD."
         ],
         "bods:retrievedAt": "2026-09-16T02:56:00.740636+00:00",
@@ -13488,7 +13501,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "PILOTEX IMPORT LLP",
         "bods:idString": "OC364495",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Hertfordshire, England, WD6 3EW",
@@ -13588,7 +13601,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "PLASTEX PROJECTS LLP",
         "bods:idString": "OC369182",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -13649,8 +13662,8 @@
     },
     {
         "lavie:similar": 0.88,
-	"lavie:class": "operating",
-	"lavie:synopsis": "fur broker",
+        "lavie:class": "operating",
+        "lavie:synopsis": "fur broker",
         "bods:fullName": "POLAR FURS LIMITED",
         "bods:idString": "01107372",
         "bods:streetAddress": "1st Floor Arthur Stanley House, 40-50 Tottenham Street, London, United Kingdom, W1T 4RN",
@@ -13824,8 +13837,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "vinyl flooring manufacturer",
+        "lavie:class": "operating",
+        "lavie:synopsis": "vinyl flooring manufacturer",
         "bods:fullName": "POLYFLOR LIMITED",
         "bods:idString": "00743538",
         "bods:streetAddress": "Beechfield Hollinhurst Road, Radcliffe, Manchester, M26 1JN",
@@ -13833,8 +13846,8 @@
         "ukcoh:status": "active",
         "lavie:query": "POLYFLOR LIMITED",
         "lavie:aliases": [
-	    "POLYFLOR LTD"
-	],
+            "POLYFLOR LTD"
+        ],
         "bods:retrievedAt": "2026-09-16T02:56:13.124229+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -14303,7 +14316,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "POLYWIND TRADE LLP",
         "bods:idString": "OC369253",
         "bods:streetAddress": "Cornwall Buildings 45 Newhall Street Suite 211, Birmingham, United Kingdom, B3 3QR",
@@ -14362,7 +14375,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "RASMUS LP",
         "bods:idString": "SL012749",
         "bods:streetAddress": "4th Floor 115 George Street, Edinburgh, Scotland, EH2 4JN",
@@ -14379,7 +14392,7 @@
     },
     {
         "lavie:similar": 0.88,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "REK VALVES LIMITED",
         "bods:idString": "05614674",
         "bods:streetAddress": "7 St Pauls Yard, Silver Street, Newport Pagnell, Buckinghamshire, MK16 0EG",
@@ -14488,7 +14501,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "RESTCODE CAPITAL LLP",
         "bods:idString": "OC380109",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -14547,7 +14560,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "RICHBORO PROJECTS LLP",
         "bods:idString": "OC367031",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, England, WD6 3EW",
@@ -14608,7 +14621,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "RICHFIELD TRADING L.P.",
         "bods:idString": "SL014304",
         "bods:streetAddress": "1/2 35 Taits Lane, Dundee, DD2 1DZ",
@@ -14625,7 +14638,7 @@
     },
     {
         "lavie:similar": 0.91,
-	"lavie:class": "operating",
+        "lavie:class": "operating",
         "bods:fullName": "RICHMAR LOGISTIC AND CHARTERING UK LP",
         "bods:idString": "SL017142",
         "bods:streetAddress": "5 South Charlotte Street, Edinburgh, Scotland, EH2 4AN",
@@ -14633,7 +14646,7 @@
         "ukcoh:status": "active",
         "lavie:query": "RICHMAR LOGISTIC AND CHARTERING",
         "lavie:aliases": [
-	    "RICMAR LOGISTICS AND CHATERING",
+            "RICMAR LOGISTICS AND CHATERING",
             "RICHMAR LOGISTIC AND CHARTERING"
         ],
         "bods:retrievedAt": "2026-09-16T02:56:45.024131+00:00",
@@ -14645,7 +14658,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "RICHSTONE EXPERTS L.P.",
         "bods:idString": "SL009166",
         "bods:streetAddress": "Summit House, 4-5 Mitchell Street, Edinburgh, Scotland, EH6 7BD",
@@ -14662,7 +14675,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "RIDER IMPORT LLP",
         "bods:idString": "OC373851",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -14723,7 +14736,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "RIKAS EXPORT LLP",
         "bods:idString": "OC343392",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -14784,7 +14797,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "RONLEX MERCHANTS LLP",
         "bods:idString": "OC376578",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -14845,7 +14858,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "RUSMEDIZD TRADE LLP",
         "bods:idString": "OC376796",
         "bods:streetAddress": "Cornwall Buildings, 45 Newhall Street, Suite 211, Birmingham, B3 3QR",
@@ -14904,8 +14917,8 @@
     },
     {
         "lavie:similar": 0.9,
-	"lavie:class": "operating",
-	"lavie:synopsis": "automotive parts",
+        "lavie:class": "operating",
+        "lavie:synopsis": "automotive parts",
         "bods:fullName": "SAGE PARTS GSE LIMITED",
         "bods:idString": "06427895",
         "bods:streetAddress": "Unit 34 Stretford Motorway Estate, Stretford, Manchester, England, M32 0ZH",
@@ -15230,7 +15243,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SAMITEX TRADING LLP",
         "bods:idString": "OC367115",
         "bods:streetAddress": "Unit W17 Mk Two Business Centre Barton Road Water Eaton Bletchley, Milton Keynes, MK2 3HU",
@@ -15291,7 +15304,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "SANBERG EUROTRADE L.P.",
         "bods:idString": "SL014411",
         "bods:streetAddress": "45 Rosehaugh Road, Inverness, Scotland, IV2 8SW",
@@ -15308,7 +15321,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "SANTRAL ELEKTRIK LP",
         "bods:idString": "SL011078",
         "bods:streetAddress": "71 Brunswick Street, Edinburgh, United Kingdom, EH7 5HS",
@@ -15325,7 +15338,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SDT TRADE LLP",
         "bods:idString": "OC380307",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -15386,7 +15399,7 @@
     },
     {
         "lavie:similar": 0.89,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SEA SOTRA (LONDON) LIMITED",
         "bods:idString": "02890928",
         "bods:streetAddress": "64 Princes Court 88 Brompton Road, Knightsbridge, London, SW3 1ET",
@@ -15645,7 +15658,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SEABON LIMITED",
         "bods:idString": "06026625",
         "bods:streetAddress": "122-126 Tooley Street, London, SE1 2TU",
@@ -15739,7 +15752,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SECURO LIMITED",
         "bods:idString": "02979210",
         "bods:streetAddress": "33 Ludgate Hill, Birmingham, England, B3 1EH",
@@ -15813,8 +15826,8 @@
     },
     {
         "lavie:similar": 0.92,
-	"lavie:class": "operating",
-	"lavie:synopsis": "maritime freight",
+        "lavie:class": "operating",
+        "lavie:synopsis": "maritime freight",
         "bods:fullName": "SEVEN MILE SHIPPING LIMITED",
         "bods:idString": "06567091",
         "bods:streetAddress": "Level 5a, Maple House, 149 Tottenham Court Road, London, England, W1T 7NF",
@@ -16013,7 +16026,7 @@
     },
     {
         "lavie:similar": 0.87,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SHANDONG YONGSHENG RUBBER GROUP CO., LTD",
         "bods:idString": "09025416",
         "bods:streetAddress": "Churchill House, 142-146 Old Street, London, England, EC1V 9BW",
@@ -16022,7 +16035,7 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "SHANDONG YONGSHENG RUBBER GROUP",
         "lavie:aliases": [
-	    "SHANDONG YONGSHENG RUBBER GROUP CO",
+            "SHANDONG YONGSHENG RUBBER GROUP CO",
             "SHANDONG YONGSHENG RUBBER GROUP"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:29.654555+00:00",
@@ -16087,8 +16100,8 @@
     },
     {
         "lavie:similar": 0.85,
-	"lavie:class": "operating",
-	"lavie:synopsis": "clothing sales",
+        "lavie:class": "operating",
+        "lavie:synopsis": "clothing sales",
         "bods:fullName": "SIZEROY LIMITED",
         "bods:idString": "01827661",
         "bods:streetAddress": "74 London Road, Wollaston, Wellingborough, England, NN29 7QP",
@@ -16149,8 +16162,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "personnel placement for petrochemical",
+        "lavie:class": "operating",
+        "lavie:synopsis": "personnel placement for petrochemical",
         "bods:fullName": "SKN ELECTRICAL SERVICES LIMITED",
         "bods:idString": "05950064",
         "bods:streetAddress": "212a Red Bank Road, Bispham, Blackpool, Lancashire, FY2 0HJ",
@@ -16158,8 +16171,8 @@
         "ukcoh:status": "active",
         "lavie:query": "SKN ELECTRICAL SERVICES LIMITED",
         "lavie:aliases": [
-	    "SKN ELECTRICAL SERVICES LIMITEDACCO"
-	],
+            "SKN ELECTRICAL SERVICES LIMITEDACCO"
+        ],
         "bods:retrievedAt": "2026-09-16T02:57:36.490790+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -16257,7 +16270,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SOLIDSTAR WORLDWIDE LLP",
         "bods:idString": "OC365120",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, WD6 3EW",
@@ -16357,7 +16370,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SOLITEX SALES LLP",
         "bods:idString": "OC356255",
         "bods:streetAddress": "Enterprise House, 82 Whitchurch Road, Cardiff, CF14 3LX",
@@ -16459,8 +16472,8 @@
     },
     {
         "lavie:similar": 0.85,
-	"lavie:class": "shell",
-	"lavie:synopsis": "audio engineering",
+        "lavie:class": "shell",
+        "lavie:synopsis": "audio engineering",
         "bods:fullName": "SONIFEX LIMITED",
         "bods:idString": "01717864",
         "bods:streetAddress": "61 Station Road, Irthlingborough, Northants, NN9 5QE",
@@ -16646,7 +16659,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SOVER DEVELOPMENT LLP",
         "bods:idString": "OC338564",
         "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
@@ -16709,8 +16722,8 @@
     },
     {
         "lavie:similar": 0.93,
-	"lavie:class": "operating",
-	"lavie:synopsis": "diesel generators",
+        "lavie:class": "operating",
+        "lavie:synopsis": "diesel generators",
         "bods:fullName": "STAMFORD POWER SYSTEMS LIMITED",
         "bods:idString": "02844990",
         "bods:streetAddress": "14 All Saints Street, Stamford, Lincolnshire, PE9 2PA",
@@ -16837,7 +16850,7 @@
     },
     {
         "lavie:similar": 0.95,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "STAMPTONE SERVICES LP",
         "bods:idString": "SL009619",
         "bods:streetAddress": "101 Rose Street South Lane, Edinburgh, United Kingdom, EH2 3JG",
@@ -16856,7 +16869,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "STANDLINE SALES LLP",
         "bods:idString": "OC374026",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -16917,8 +16930,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "ecommerce sales",
+        "lavie:class": "operating",
+        "lavie:synopsis": "ecommerce sales",
         "bods:fullName": "STARGLOBE LIMITED",
         "bods:idString": "07943313",
         "bods:streetAddress": "38 Court Way, London, NW9 6JE",
@@ -16951,7 +16964,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "STARGOLD PROJECTS LLP",
         "bods:idString": "OC364496",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Hertfordshire, England, WD6 3EW",
@@ -17051,7 +17064,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "STREAMTRADE INDUSTRIES LLP",
         "bods:idString": "OC329416",
         "bods:streetAddress": "Suite B 11 Churchill Court 58 Station Road, North Harrow, Middlesex, HA2 7SA",
@@ -17146,7 +17159,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "STYLEMAX COMPANY LLP",
         "bods:idString": "OC331259",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, England, HA2 7SA",
@@ -17241,7 +17254,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "SUPRAMARK EXPORT LLP",
         "bods:idString": "OC374505",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -17302,8 +17315,8 @@
     },
     {
         "lavie:similar": 0.92,
-	"lavie:class": "operating",
-	"lavie:synopsis": "industrial spare parts",
+        "lavie:class": "operating",
+        "lavie:synopsis": "industrial spare parts",
         "bods:fullName": "SWIFT PLANT SPARES LIMITED",
         "bods:idString": "01504448",
         "bods:streetAddress": "19 Leigh Street, Sheffield, S9 2PR",
@@ -17373,7 +17386,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TABRIOL SALES LLP",
         "bods:idString": "OC368263",
         "bods:streetAddress": "Unit W17 Mk Two Business Centre Barton Road Water Eaton Bletchley, Milton Keynes, MK2 3HU",
@@ -17456,7 +17469,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "TAYLORD FIELD LP",
         "bods:idString": "SL010189",
         "bods:streetAddress": "Suite 4135 Mitchell House, 5 Mitchell Street, Edinburgh, Scotland, United Kingdom, EH6 7BD",
@@ -17473,7 +17486,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TECHNIKON LTD",
         "bods:idString": "06722330",
         "bods:streetAddress": "The Stables Old Forge Trading Est, Dudley Road, Stourbridge, West Midlands, England, DY9 8EL",
@@ -17507,7 +17520,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TEOLINE BUSINESS LLP",
         "bods:idString": "OC372455",
         "bods:streetAddress": "43 Bedford Street, Office 11, London, United Kingdom, WC2E 9HA",
@@ -17570,7 +17583,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TEREACH TRADING LLP",
         "bods:idString": "OC351904",
         "bods:streetAddress": "3rd Floor 120 Baker Street, London, England, W1U 6TU",
@@ -17579,8 +17592,8 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "TEREACH TRADING LLP",
         "lavie:aliases": [
-	    "Tereach Trading LLP"
-	],
+            "Tereach Trading LLP"
+        ],
         "bods:retrievedAt": "2026-09-16T02:58:25.617052+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -17657,8 +17670,8 @@
     },
     {
         "lavie:similar": 0.91,
-	"lavie:class": "operating",
-	"lavie:synopsis": "luxury fashion design",
+        "lavie:class": "operating",
+        "lavie:synopsis": "luxury fashion design",
         "bods:fullName": "THORNTON BREGAZZI LIMITED",
         "bods:idString": "04863962",
         "bods:streetAddress": "C/O BTG BEGBIES TRAYNOR (LONDON) LLP, Level 33 One Canada Square, London, E14 5AB",
@@ -17715,7 +17728,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TIM ENERGY LLP",
         "bods:idString": "OC360305",
         "bods:streetAddress": "1 Kings Avenue, London, England, N21 3NA",
@@ -17862,7 +17875,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TIM RESOURCES LLP",
         "bods:idString": "OC358881",
         "bods:streetAddress": "43 Bedford Street, Office 11, London, WC2E 9HA",
@@ -17925,7 +17938,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TOOLMARK PRODUCTS LLP",
         "bods:idString": "OC371962",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -17986,7 +17999,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TOWNMARK LOGISTICS LLP",
         "bods:idString": "OC393459",
         "bods:streetAddress": "Unit 5, Olympia Industrial Estate, Coburg Road, London, N22 6TZ",
@@ -18047,7 +18060,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "TRONLUX VENTURES LLP",
         "bods:idString": "OC380308",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -18108,8 +18121,8 @@
     },
     {
         "lavie:similar": 0.85,
-	"lavie:class": "operating",
-	"lavie:synopsis": "electric lighting equipment",
+        "lavie:class": "operating",
+        "lavie:synopsis": "electric lighting equipment",
         "bods:fullName": "TURNOCK LIMITED",
         "bods:idString": "00320293",
         "bods:streetAddress": "Reaymer Close,, Off, Leamore Lane,, Walsall,, West Midlands,, WS2 7QZ",
@@ -18367,7 +18380,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "UNICONT INDUSTRIAL LLP",
         "bods:idString": "OC368151",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -18426,7 +18439,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "UNIONSTAR TRADE LLP",
         "bods:idString": "OC365686",
         "bods:streetAddress": "Unit 5, Olympia Industrial Estate, Coburg Road, London, England, N22 6TZ",
@@ -18483,7 +18496,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "VASSA IMPEX LLP",
         "bods:idString": "OC372459",
         "bods:streetAddress": "43 Bedford Street, Office 11, London, United Kingdom, WC2E 9HA",
@@ -18546,7 +18559,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "WAYCONT UNITED LLP",
         "bods:idString": "OC377721",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
@@ -18607,7 +18620,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "WDC PROJECTS LLP",
         "bods:idString": "OC356258",
         "bods:streetAddress": "Suite B, 11 Churchill Court 58 Station Road, North Harrow, Middlesex, HA2 7SA",
@@ -18833,7 +18846,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "WESTBURN ENTERPRISES LIMITED",
         "bods:idString": "SC265387",
         "bods:streetAddress": "71 Brunswick Street, Edinburgh, Lothian, EH7 5HS",
@@ -18912,7 +18925,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "WIDEMARK CAPITAL LLP",
         "bods:idString": "OC368133",
         "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, England, EN6 1BW",
@@ -18987,7 +19000,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "WILLROCK UNITED LLP",
         "bods:idString": "OC365293",
         "bods:streetAddress": "Suite 1 The Studio, St Nicholas Close, Elstree, Herts, WD6 3EW",
@@ -19087,8 +19100,8 @@
     },
     {
         "lavie:similar": 0.95,
-	"lavie:class": "operating",
-	"lavie:synopsis": "data broker",
+        "lavie:class": "operating",
+        "lavie:synopsis": "data broker",
         "bods:fullName": "WORLD OF TATA-NAKA LTD",
         "bods:idString": "04137466",
         "bods:streetAddress": "Studio 2.21 Plaza, 535 Kings Road, London, Greater London, England, SW10 0SZ",
@@ -19204,8 +19217,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "pharmaceuticals wholesale",
+        "lavie:class": "operating",
+        "lavie:synopsis": "pharmaceuticals wholesale",
         "bods:fullName": "WORTHY TECHNOLOGIES LIMITED",
         "bods:idString": "02714019",
         "bods:streetAddress": "8b Accommodation Road, London, NW11 8ED",
@@ -19370,7 +19383,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "ZELMER PARTNERS LP",
         "bods:idString": "SL012733",
         "bods:streetAddress": "Suite 1291 111 West George Street, Glasgow, Scotland, G2 1QX",
@@ -19387,8 +19400,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "retail sportswear",
+        "lavie:class": "operating",
+        "lavie:synopsis": "retail sportswear",
         "bods:fullName": "WEST SPORT ALLIANCE LIMITED LIABILITY PARTNERSHIP",
         "bods:idString": "SO300935",
         "bods:streetAddress": {
@@ -19599,7 +19612,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "EXPA (UK) LIMITED",
         "bods:idString": "03858674",
         "bods:streetAddress": {
@@ -19897,7 +19910,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "PENSUM LIMITED",
         "bods:idString": "01125371",
         "bods:streetAddress": {
@@ -20014,8 +20027,8 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "operating",
-	"lavie:synopsis": "boarding school",
+        "lavie:class": "operating",
+        "lavie:synopsis": "boarding school",
         "bods:fullName": "QUEEN ETHELBURGA'S COLLEGE LIMITED",
         "bods:idString": "02573843",
         "bods:streetAddress": {
@@ -20175,7 +20188,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "ULTRA CORPORATION LLP",
         "bods:idString": "OC366899",
         "bods:streetAddress": {
@@ -20240,7 +20253,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "BONINVEST LLP",
         "bods:idString": "OC363814",
         "bods:streetAddress": {
@@ -20346,7 +20359,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "CARGOSTAR LLP",
         "bods:idString": "OC381681",
         "bods:streetAddress": {
@@ -20429,7 +20442,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "RIVERLANE LLP",
         "bods:idString": "OC376597",
         "bods:streetAddress": {
@@ -20444,8 +20457,8 @@
         "bods:foundingDate": "2012-07-03",
         "ukcoh:status": "dissolved",
         "lavie:aliases": [
-	    "RIVARLANE LLP"
-	],
+            "RIVARLANE LLP"
+        ],
         "bods:retrievedAt": "2026-09-16T18:58:50.858115+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -20498,7 +20511,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "KG COMMERCE LLP",
         "bods:idString": "OC372326",
         "bods:streetAddress": {
@@ -20564,7 +20577,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "PRESTIGE CAPITAL PROPERTIES LIMITED",
         "bods:idString": "07792400",
         "bods:streetAddress": {
@@ -20614,7 +20627,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "ADANA INVESTMENTS LTD",
         "bods:idString": "07105739",
         "bods:streetAddress": {
@@ -20626,9 +20639,9 @@
         "bods:foundingDate": "2009-12-15",
         "ukcoh:status": "active",
         "lavie:aliases": [
-	    "ADANA INVESTMENTS, LTD",
-	    "ADANA INVESTMENT,LTD"
-	],
+            "ADANA INVESTMENTS, LTD",
+            "ADANA INVESTMENT,LTD"
+        ],
         "bods:retrievedAt": "2026-09-16T22:43:33.751476+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -20654,7 +20667,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "shell",
+        "lavie:class": "shell",
         "bods:fullName": "EUROILGAS INDUSTRIES PLC",
         "bods:idString": "05716053",
         "bods:streetAddress": {
@@ -20864,7 +20877,7 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "dormant",
+        "lavie:class": "dormant",
         "bods:fullName": "SL012728 LP",
         "bods:idString": "SL012728",
         "bods:streetAddress": {
@@ -20875,8 +20888,8 @@
         "bods:foundingDate": "2013-03-26",
         "ukcoh:status": "active",
         "lavie:aliases": [
-	    "FABERLEX LP"
-	],
+            "FABERLEX LP"
+        ],
         "bods:retrievedAt": "2026-09-16T22:43:38.553971+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -20900,8 +20913,8 @@
         "bods:foundingDate": "1998-05-12",
         "ukcoh:status": "active",
         "lavie:aliases": [
-	    "TDC SYSTEMS LIMITED"
-	],
+            "TDC SYSTEMS LIMITED"
+        ],
         "bods:retrievedAt": "2026-09-17T02:56:33.111267+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -21126,12 +21139,12 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "bank",
-	"lavie:lei": {
+        "lavie:class": "bank",
+        "lavie:lei": {
             "bods:idString": "5493000SA3K24EQKA103",
             "bods:scheme": "XI-LEI",
             "bods:schemeName": "Global Legal Entity Identifier Index"
-	},
+        },
         "bods:fullName": "MASHREQBANK PSC",
         "bods:idString": "BR001223",
         "bods:streetAddress": "48-54 Moorgate, London, 3rd Floor, EC2R 6EJ",
@@ -21139,8 +21152,8 @@
         "ukcoh:status": "open",
         "lavie:query": "MASHREQBANK PSC",
         "lavie:aliases": [
-	    "MASHREQ BANK"
-	],
+            "MASHREQ BANK"
+        ],
         "bods:retrievedAt": "2026-09-16T02:54:57.783390+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -21151,18 +21164,18 @@
     {
         "lavie:similar": 1.0,
         "lavie:class": "bank",
-	"lavie:lei": {
+        "lavie:lei": {
             "bods:idString": "G5GSEF7VJP5I7OUK5573",
             "bods:scheme": "XI-LEI",
             "bods:schemeName": "Global Legal Entity Identifier Index"
-	},
-	"lavie:edd": [
-		"https://opencheck.world/?lei=2549003Q5J2G7ALNU316",
-		"https://search.openaleph.org/search?limit=30&q=BARCLAYS%20BANK%20PLC"
-	],
-	"lavie:sanction": [
-		"https://www.opensanctions.org/entities/NK-5XuAeTe3aJMe6HKbHA5Syj/"
-	],
+        },
+        "lavie:edd": [
+                "https://opencheck.world/?lei=2549003Q5J2G7ALNU316",
+                "https://search.openaleph.org/search?limit=30&q=BARCLAYS%20BANK%20PLC"
+        ],
+        "lavie:sanction": [
+                "https://www.opensanctions.org/entities/NK-5XuAeTe3aJMe6HKbHA5Syj/"
+        ],
         "bods:fullName": "BARCLAYS BANK PLC",
         "bods:idString": "01026167",
         "bods:streetAddress": {
@@ -21173,8 +21186,8 @@
         "bods:foundingDate": "1971-10-04",
         "ukcoh:status": "active",
         "lavie:aliases": [
-	    "BARCGB22"
-	],
+            "BARCGB22"
+        ],
         "bods:retrievedAt": "2026-09-17T02:56:35.519529+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -21185,17 +21198,17 @@
     {
         "lavie:similar": 1.0,
         "lavie:class": "bank",
-	"lavie:lei": {
+        "lavie:lei": {
             "bods:idString": "579100KKDIKDFIBKB034",
             "bods:scheme": "XI-LEI",
             "bods:schemeName": "Global Legal Entity Identifier Index"
-	},
-	"lavie:edd": [
-		"https://search.openaleph.org/search?limit=30&q=MUFG%20BANK%2C%20LTD."
-	],
-	"lavie:sanction": [
-		"https://www.opensanctions.org/search/?q=MUFG+BANK%2C+LTD."
-	],
+        },
+        "lavie:edd": [
+                "https://search.openaleph.org/search?limit=30&q=MUFG%20BANK%2C%20LTD."
+        ],
+        "lavie:sanction": [
+                "https://www.opensanctions.org/search/?q=MUFG+BANK%2C+LTD."
+        ],
         "bods:fullName": "MUFG BANK, LTD.",
         "bods:idString": "BR002013",
         "bods:streetAddress": {
@@ -21206,9 +21219,9 @@
         "bods:foundingDate": "1956-07-01",
         "ukcoh:status": "open",
         "lavie:aliases": [
-	    "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.",
-	    "BOTKGB2L"
-	],
+            "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.",
+            "BOTKGB2L"
+        ],
         "bods:retrievedAt": "2026-09-17T02:56:38.105866+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -21218,19 +21231,19 @@
     },
     {
         "lavie:similar": 1.0,
-	"lavie:class": "bank",
-	"lavie:lei": {
+        "lavie:class": "bank",
+        "lavie:lei": {
             "bods:idString": "MLU0ZO3ML4LN2LL2TL39",
             "bods:scheme": "XI-LEI",
             "bods:schemeName": "Global Legal Entity Identifier Index"
-	},
-	"lavie:edd": [
-	    "https://opencheck.world/?lei=MLU0ZO3ML4LN2LL2TL39",
-	    "https://search.openaleph.org/search?q=hsbc%20holdings%20plc"
-	],
-	"lavie:sanction": [
-	    "https://www.opensanctions.org/entities/NK-bkmkEMAYCkVh6Ba6oywveR/"
-	],
+        },
+        "lavie:edd": [
+            "https://opencheck.world/?lei=MLU0ZO3ML4LN2LL2TL39",
+            "https://search.openaleph.org/search?q=hsbc%20holdings%20plc"
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-bkmkEMAYCkVh6Ba6oywveR/"
+        ],
         "bods:fullName": "HSBC HOLDINGS PLC",
         "bods:idString": "00617987",
         "bods:streetAddress": {
@@ -21241,10 +21254,10 @@
         "bods:foundingDate": "1959-01-01",
         "ukcoh:status": "active",
         "lavie:aliases": [
-	    "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
-	    "HSBC",
-	    "HSBCHKHHHKH"
-	],
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+            "HSBC",
+            "HSBCHKHHHKH"
+        ],
         "bods:retrievedAt": "2026-09-18T22:49:33.445778+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
@@ -21384,7 +21397,9 @@
         "bods:idString": "11488826",
         "bods:streetAddress": "Narva mnt 11, 15015, Tallinn, Estonia",
         "bods:foundingDate": "2008-04-02",
-        "lavie:aliases": [],
+        "lavie:aliases": [
+	    "Danske Bank A/S Estonia branch"
+	],
         "bods:code": "codes:EE",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:retrievedAt": "2026-09-20T19:52:49.465123+00:00",
@@ -21866,13 +21881,41 @@
         "lavie:related": []
     },
     {
+        "lavie:class": "bank",
+        "bods:fullName": "SBERBANK OF RUSSIA",
+        "bods:idString": "1027700132195",
+        "bods:streetAddress": "19, Vavilova Street, Moscow, Moskva (RU-MOW), 117312",
+        "bods:foundingDate": "1991-06-19",
+        "lavie:aliases": [
+            "Сбербанк России",
+            "ПАО Сбербанк"
+        ],
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-20T20:13:23.595684+00:00",
+        "lavie:edd": [
+            [
+                "https://opencheck.world/?lei=549300WE6TAF5EEWQS81"
+            ]
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-gToaaA9V47RYhVzXFMUG74/"
+        ],
+        "lavie:related": [],
+        "lavie:lei": {
+            "bods:idString": "549300WE6TAF5EEWQS81",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        }
+    },
+    {
         "bods:fullName": "INN1325029808",
         "bods:streetAddress": "Mordovia, Russia",
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21883,7 +21926,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21894,7 +21937,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21905,7 +21948,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21916,7 +21959,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21927,7 +21970,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21938,7 +21981,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21949,7 +21992,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21960,7 +22003,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21971,7 +22014,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21982,7 +22025,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -21993,7 +22036,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22004,7 +22047,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22015,7 +22058,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22026,7 +22069,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22037,7 +22080,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22048,7 +22091,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22059,7 +22102,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22070,7 +22113,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22081,7 +22124,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22092,7 +22135,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22103,7 +22146,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22114,7 +22157,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22125,7 +22168,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22136,7 +22179,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22147,7 +22190,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22158,7 +22201,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22169,7 +22212,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22180,7 +22223,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22191,7 +22234,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22202,7 +22245,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22213,7 +22256,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22224,7 +22267,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22235,7 +22278,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22246,7 +22289,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22257,7 +22300,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22268,7 +22311,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22279,7 +22322,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22290,7 +22333,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22301,7 +22344,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, not an individual",
+        "lavie:synopsis": "an organization, not an individual",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22312,7 +22355,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, with location inferred from invalid format",
+        "lavie:synopsis": "an organization, with location inferred from invalid format",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     },
@@ -22323,7 +22366,7 @@
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
         "bods:scheme": "RU-FNS",
-        "lavie:note": "an organization, with location inferred from invalid format",
+        "lavie:synopsis": "an organization, with location inferred from invalid format",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
     }

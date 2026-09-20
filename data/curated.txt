@@ -1,64 +1,116 @@
-105	ELECTRON ENTERPRISES LTD
-		note: Companies House lists a firm, code 10307339, incorporated in 2016; not the same.
-		country: UK
-		"lavie:class": "unknown",
+0	MOSSACK FONSECA
+	Mossack Fonseca & Co. Billings, Ltd.
+	Mossack Fonseca & Co. (Panama), Ltd.
+		class: core
+		country: PA
+		reg: 2004-12-16
+		dis: 2018-03-14
+		code: 19206
+		addr: Mossack Fonseca & Co (PTY). Mossfon Building East 54th Street Panama, Rep. Of Panama
+		synopsis: core of "Panama Papers"
 
-
-177	INN3016043171
-		country: RU
-		addr: Astrakhan Oblast, Russia
-		note: an organization, not an individual
-		class: russian-org
-178	INN3016055642
-		country: RU
-		addr: Astrakhan Oblast, Russia
-		note: an organization, not an individual
-		class: russian-org
-179	INN3017030922
-		country: RU
-		addr: Astrakhan Oblast, Russia
-		note: an organization, not an individual
-		class: russian-org
-180	INN3018016381
-		country: RU
-		addr: Astrakhan Oblast, Russia
-		note: an organization, not an individual
-		class: russian-org
-181	INN4028023076
-		country: RU
-		addr: Kaluga Oblast, Russia
-		note: an organization, not an individual
-		class: russian-org
-182	INN5240004417.KPP524001001
-		country: RU
-		addr: Nizhny Novgorod Oblast, Russia
-		note: an organization, not an individual
-		class: russian-org
-183	INN5906109648
-		country: RU
-		addr: Perm Krai, Russia
-		note: an organization, not an individual
-		class: russian-org
-184	INN5918000980
-		country: RU
-		addr: Perm Krai, Russia
-		note: an organization, not an individual
-		class: russian-org
-185	INN6234018156
-		country: RU
-		addr: Ryazan Oblast, Russia
-		note: an organization, not an individual
-		class: russian-org
-
-139	Hamid KARIMOV
-	HAMID KARIMOV
-		class: person
-		country: CZ
-		edd: https://search.openaleph.org/search?q=HAMID%20KARIMOV
-10	Ruslan ALIYEV
-	ALIYEV RUSLAN
+0	SOCAR	Company	AZ
+	State Oil Company of the Republic of Azerbaijan
+		class: state
 		country: AZ
-		class: person
+		source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+		synopsis: AZ state oil company
+
+30	MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN
+	AZERB.REP.MINIST.EMERGENCY SITUA
+	AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI
+		country: AZ
+		addr: M. Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073
+		biz: public sector, emergency response
+		class: state
+34	BAKTELEKOM MMC
+		country: AZ
+		class: core
+		officer: Rasim ASADOV (AZ)
+		note: one letter off the legit `Baktelecom` with no evidence of any connection
+
+20	ARASH MEDICAL COMPANY CJSC
+	ARASH MEDICAL PRODUCTION LTD
+		biz: medical equipment
+		country: AZ
+		addr: 26 Salamzade St., Baku, AZ1078, Azerbaijan
+		reg: 1994-01-01
+		class: operating
+27	AVROMED COMPANY LLP
+	AVROMED COMPANY
+	AVROMED COMPANY CJSC
+		biz: pharmaceutical supplier
+		country: AZ
+		reg: 2002-04-01
+		addr: Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ
+		officer: Javanshir FEYZIYEV (AZ)
+		class: operating
+29	AZARBAYCAN METANOL KOMPANI MMC
+	AZERBAYCAN METANOL KOMPANI MMC
+	AZMECO
+	SOCAR METHANOL MMC
+	AZERBAIJAN METHANOL COMPANY
+	AZMECO INTERNATIONAL FINANCE
+		addr: 22nd km, Salyan Highway, Garadagh District, Baku, AZ1080, Azerbaijan
+		biz: petrochemical projects
+		officer: Sadig MAMEDOV (AZ)
+		country: AZ
+		reg: 2008-01-01		
+		class: state
+		related: SOCAR
+31	AZERBAIJAN CASPIAN SHIPPING COMPANY
+	ASCO
+	AZERBAIJAN STATE CASPIAN SHIPP CO
+	AZARB.XAZAR DANIZ GAMICILIYI QSC
+		country: AZ
+		addr: Mikayil Useynov kucasi 2, AZ 1003, Baku, Azerbaijan
+		biz: shipping fleets
+		code: 1701579951
+		reg: 2013-10-22
+		class: state
+32	AZERIPAMPSERVICES MMC
+		biz: energy
+		country: AZ
+		class: unknown
+63	CASPIAN MOBILE LTD.
+		addr: Karpich Street 14/1, Baku, Azerbaijan, AZ0022
+		reg: 1999-10-01
+		biz: mobile phone import
+		country: AZ
+		class: operating
+103	EKSPORT TAMPL MMC
+		country: AZ
+		class: unknown
+104	EKVITA LLC
+		country: AZ
+		reg: 2008-10-01
+		addr: Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku
+		biz: full-service legal, tax, and management consulting
+		class: operating
+106	ELEKTROMASH MMC
+		note: ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM
+		country: AZ
+		class: unknown
+132	GOKNUR BAKI LTD
+	GOKNUR BAKI LTD MMC
+		biz: manufacture and import/export of electrical equipment and industrial material
+		country: AZ
+		code: 1500023181
+		addr: Ziya Bunyadov Street 11, Quarter 2062, Buyuk-Shor Highway, Narimanov District, Baku AZ1029, Azerbaijan
+		class: operating
+		reg: 2003-01-01
+
+173	FIRST FREIGHT COMPANY PJSC
+	JSC FREIGHT ONE
+	In favour JSC Freight One
+		country: RU
+		code: 1137746982856
+		reg: 2013-10-22
+		addr: 24 Novoryazanskaya Street, Moscow, 105066, Russian Federation
+		sanction: https://www.opensanctions.org/entities/NK-368r3q7A6ZJ39zeBpjBJAZ/
+		officer: Oleg ROMANOV (RU)
+		note: rail freight logistics operator, affiliated with Russian military
+
 
 1	A. N. ROHE HOLDING LTD.
 		lei: 549300A7RPWGQP6R3N58
@@ -166,13 +218,6 @@
 		country: TR
 		code: 110891
 		class: operating
-20	ARASH MEDICAL COMPANY CJSC
-	ARASH MEDICAL PRODUCTION LTD
-		biz: medical equipment
-		country: AZ
-		addr: 26 Salamzade St., Baku, AZ1078, Azerbaijan
-		reg: 1994-01-01
-		class: operating
 22	ASAŞ ALÜMINYUM SANAYI VE TICARET A.Ş
 	ASAS ALUMINYUM SAN.VE TIC.A.S
 		biz: aluminum manufacturing
@@ -209,53 +254,6 @@
 		addr: Rechtenbacher Str. 17, 97816 Lohr am Main
 		officer: Peter GRAMPP (DE)
 		class: operating
-27	AVROMED COMPANY LLP
-	AVROMED COMPANY
-	AVROMED COMPANY CJSC
-		biz: pharmaceutical supplier
-		country: AZ
-		reg: 2002-04-01
-		addr: Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ
-		officer: Javanshir FEYZIYEV (AZ)
-		class: operating
-29	AZARBAYCAN METANOL KOMPANI MMC
-	AZERBAYCAN METANOL KOMPANI MMC
-	AZMECO
-	SOCAR METHANOL MMC
-	AZERBAIJAN METHANOL COMPANY
-	AZMECO INTERNATIONAL FINANCE
-		addr: 22nd km, Salyan Highway, Garadagh District, Baku, AZ1080, Azerbaijan
-		biz: petrochemical projects
-		officer: Sadig MAMEDOV (AZ)
-		country: AZ
-		reg: 2008-01-01		
-		class: operating
-30	MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN
-	AZERB.REP.MINIST.EMERGENCY SITUA
-	AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI
-		country: AZ
-		addr: M. Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073
-		biz: public sector, emergency response
-		class: agency
-31	AZERBAIJAN CASPIAN SHIPPING COMPANY
-	ASCO
-	AZERBAIJAN STATE CASPIAN SHIPP CO
-	AZARB.XAZAR DANIZ GAMICILIYI QSC
-		country: AZ
-		addr: Mikayil Useynov kucasi 2, AZ 1003, Baku, Azerbaijan
-		biz: shipping fleets
-		code: 1701579951
-		reg: 2013-10-22
-		class: operating
-32	AZERIPAMPSERVICES MMC
-		biz: energy
-		country: AZ
-		class: unknown
-34	BAKTELEKOM MMC
-		country: AZ
-		class: unknown
-		officer: Rasim ASADOV (AZ)
-		note: one letter off the legit `Baktelecom` with no evidence of any connection
 35	BALANKOS COMMERCIAL LTD.
 		country: VG
 		reg: 2008-09-04
@@ -328,12 +326,6 @@
 		country: VG
 		officer: STANDARD DIRECTORS LTD. (BV)
 		class: shell
-63	CASPIAN MOBILE LTD.
-		addr: Karpich Street 14/1, Baku, Azerbaijan, AZ0022
-		reg: 1999-10-01
-		biz: mobile phone import
-		country: AZ
-		class: operating
 70	CONATIO LIMITED
 		country: CY
 		code: HΕ270083
@@ -430,19 +422,6 @@
 		officer: Linzi ALCINDOR (SC)
 		officer: INTERNATIONAL ADMINISTRATORS LIMITED (CN)
 		class: shell
-103	EKSPORT TAMPL MMC
-		country: AZ
-		class: unknown
-104	EKVITA LLC
-		country: AZ
-		reg: 2008-10-01
-		addr: Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku
-		biz: full-service legal, tax, and management consulting
-		class: operating
-106	ELEKTROMASH MMC
-		note: ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM
-		country: AZ
-		class: unknown
 107	EMERGOMED
 		country: NL
 		biz: medical equipment wholesale
@@ -514,14 +493,6 @@
 		officer: Fuad ALIYEV (AZ)
 		officer: Peter Komives (RO)
 		note: liquidation date 2015-11-25
-132	GOKNUR BAKI LTD
-	GOKNUR BAKI LTD MMC
-		biz: manufacture and import/export of electrical equipment and industrial material
-		country: AZ
-		code: 1500023181
-		addr: Ziya Bunyadov Street 11, Quarter 2062, Buyuk-Shor Highway, Narimanov District, Baku AZ1029, Azerbaijan
-		class: operating
-		reg: 2003-01-01
 133	GOLDEN FIDES INTERNATIONAL LTD
 		country: CY
 		code: ΗΕ294820
@@ -531,13 +502,3 @@
 		officer: Margarita MARKOY (CY)
 		addr: Agiou Georgiou Makri, 42, K & C COURT 15, Floor 4, Flat 402, 6036, Larnaka, Cyprus
 		class: shell		
-173	FIRST FREIGHT COMPANY PJSC
-	JSC FREIGHT ONE
-	In favour JSC Freight One
-		country: RU
-		code: 1137746982856
-		reg: 2013-10-22
-		addr: 24 Novoryazanskaya Street, Moscow, 105066, Russian Federation
-		sanction: https://www.opensanctions.org/entities/NK-368r3q7A6ZJ39zeBpjBJAZ/
-		officer: Oleg ROMANOV (RU)
-		note: rail freight logistics operator, affiliated with Russian military
