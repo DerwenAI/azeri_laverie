@@ -1,6 +1,173 @@
 [
     {
         "lavie:similar": 1.0,
+	"lavie:class": "core",
+        "bods:fullName": "POLUX MANAGEMENT LP",
+        "bods:idString": "SL012725",
+        "bods:streetAddress": "Suite 1098 111 West George Street, Glasgow, G2 1QX",
+        "bods:foundingDate": "2013-03-26",
+        "ukcoh:status": "active",
+        "lavie:query": "POLUX MANAGEMENT LP",
+        "lavie:aliases": [
+	    "POLUX MANAGEMENT LLP"
+	],
+        "bods:retrievedAt": "2026-09-16T02:56:10.732759+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": []
+    },
+    {
+        "lavie:similar": 1.0,
+	"lavie:class": "core",
+        "bods:fullName": "HILUX SERVICES LP",	
+        "bods:idString": "SL012732",
+        "bods:streetAddress": {
+            "address_line_1": "Suite 1105 111 West George Street",
+            "locality": "Glasgow",
+            "postal_code": "G2 1QX"
+        },
+        "bods:foundingDate": "2013-03-26",
+        "ukcoh:status": "active",
+        "lavie:aliases": [
+	    "SL012732 LP"
+	],
+        "bods:retrievedAt": "2026-09-16T18:58:24.052069+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": []
+    },
+    {
+        "lavie:similar": 1.0,
+	"lavie:class": "core",
+        "bods:fullName": "LCM ALLIANCE LLP",
+        "bods:idString": "OC372263",
+        "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
+        "bods:dissolutionDate": "2015-09-22",
+        "bods:foundingDate": "2012-02-09",
+        "ukcoh:status": "dissolved",
+        "lavie:query": "LCM ALLIANCE LLP",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-16T02:54:18.293218+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Floor Dekk House",
+                    "address_line_2": "Zippora Street Providence Industrial Estate",
+                    "country": "Seychelles",
+                    "locality": "Mahe",
+                    "premises": "1st"
+                },
+                "appointed_on": "2012-02-09",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT, 1994",
+                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+                    "place_registered": "SEYCHELLES",
+                    "registration_number": "096479"
+                },
+                "name": "ASTROCOM AG",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "163669430001",
+                "lavie:query": "OC372263"
+            },
+            {
+                "address": {
+                    "address_line_1": "Floor Dekk House",
+                    "address_line_2": "Zippora Street Providence Industrial Estate",
+                    "country": "Seychelles",
+                    "locality": "Mahe",
+                    "premises": "1st"
+                },
+                "appointed_on": "2012-02-09",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT, 1994",
+                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
+                    "place_registered": "SEYCHELLES",
+                    "registration_number": "096480"
+                },
+                "name": "EXPONET GMBH",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "163669440001",
+                "lavie:query": "OC372263"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+	"lavie:class": "core",
+        "bods:fullName": "METASTAR INVEST LLP",
+        "bods:idString": "OC346224",
+        "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
+        "bods:dissolutionDate": "2016-01-19",
+        "bods:foundingDate": "2009-06-08",
+        "ukcoh:status": "dissolved",
+        "lavie:query": "METASTAR INVEST LLP",
+        "lavie:aliases": [
+	    "METASTAR INVEST LLP CORNWALL BUILD."
+	],
+        "bods:retrievedAt": "2026-09-16T02:55:02.694977+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Barrack Road",
+                    "address_line_2": "3rd Floor",
+                    "country": "Belize",
+                    "locality": "Belize City",
+                    "premises": "35",
+                    "region": "C A"
+                },
+                "appointed_on": "2009-06-08",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT 1990, BELIZE",
+                    "legal_form": "LIMITED",
+                    "place_registered": "REGISTRAR OF INTERNATIONAL BUSINESS COMPANIES",
+                    "registration_number": "36,265"
+                },
+                "name": "ADVANCE DEVELOPMENTS LIMITED",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "141561030001",
+                "lavie:query": "OC346224"
+            },
+            {
+                "address": {
+                    "address_line_1": "Barrack Road",
+                    "address_line_2": "3rd Floor",
+                    "country": "Belize",
+                    "locality": "Belize City",
+                    "premises": "35",
+                    "region": "C A"
+                },
+                "appointed_on": "2009-06-08",
+                "identification": {
+                    "identification_type": "non-eea",
+                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT 1990, BELIZE",
+                    "legal_form": "LIMITED",
+                    "place_registered": "REGISTRAR OF INTERNATIONAL BUSINESS COMPANIES",
+                    "registration_number": "36,269"
+                },
+                "name": "CORPORATE SOLUTIONS LIMITED",
+                "officer_role": "corporate-llp-designated-member",
+                "person_number": "141561040001",
+                "lavie:query": "OC346224"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
 	"lavie:class": "shell",
         "lavie:query": "EURO TELECOM LTD",
         "bods:fullName": "EURO TELECOM LTD",
@@ -10323,67 +10490,6 @@
         ]
     },
     {
-        "lavie:similar": 1.0,
-	"lavie:class": "shell",
-        "bods:fullName": "LCM ALLIANCE LLP",
-        "bods:idString": "OC372263",
-        "bods:streetAddress": "175 Darkes Lane, Suite B, 2nd Floor, Potters Bar, Hertfordshire, EN6 1BW",
-        "bods:dissolutionDate": "2015-09-22",
-        "bods:foundingDate": "2012-02-09",
-        "ukcoh:status": "dissolved",
-        "lavie:query": "LCM ALLIANCE LLP",
-        "lavie:aliases": [],
-        "bods:retrievedAt": "2026-09-16T02:54:18.293218+00:00",
-        "bods:code": "codes:UK",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:schemeName": "Companies House",
-        "bods:scheme": "GB-COH",
-        "ukcoh:officers": [
-            {
-                "address": {
-                    "address_line_1": "Floor Dekk House",
-                    "address_line_2": "Zippora Street Providence Industrial Estate",
-                    "country": "Seychelles",
-                    "locality": "Mahe",
-                    "premises": "1st"
-                },
-                "appointed_on": "2012-02-09",
-                "identification": {
-                    "identification_type": "non-eea",
-                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT, 1994",
-                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
-                    "place_registered": "SEYCHELLES",
-                    "registration_number": "096479"
-                },
-                "name": "ASTROCOM AG",
-                "officer_role": "corporate-llp-designated-member",
-                "person_number": "163669430001",
-                "lavie:query": "OC372263"
-            },
-            {
-                "address": {
-                    "address_line_1": "Floor Dekk House",
-                    "address_line_2": "Zippora Street Providence Industrial Estate",
-                    "country": "Seychelles",
-                    "locality": "Mahe",
-                    "premises": "1st"
-                },
-                "appointed_on": "2012-02-09",
-                "identification": {
-                    "identification_type": "non-eea",
-                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT, 1994",
-                    "legal_form": "INTERNATIONAL BUSINESS COMPANY",
-                    "place_registered": "SEYCHELLES",
-                    "registration_number": "096480"
-                },
-                "name": "EXPONET GMBH",
-                "officer_role": "corporate-llp-designated-member",
-                "person_number": "163669440001",
-                "lavie:query": "OC372263"
-            }
-        ]
-    },
-    {
         "lavie:similar": 0.93,
 	"lavie:class": "dormant",
         "bods:fullName": "LEWIS CORPORATION L.P.",
@@ -11555,71 +11661,6 @@
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
         "ukcoh:officers": []
-    },
-    {
-        "lavie:similar": 1.0,
-	"lavie:class": "shell",
-        "bods:fullName": "METASTAR INVEST LLP",
-        "bods:idString": "OC346224",
-        "bods:streetAddress": "Cornwall Buildings 45-51 Newhall Street Office 330, Birmingham, B3 3QR",
-        "bods:dissolutionDate": "2016-01-19",
-        "bods:foundingDate": "2009-06-08",
-        "ukcoh:status": "dissolved",
-        "lavie:query": "METASTAR INVEST LLP",
-        "lavie:aliases": [
-	    "METASTAR INVEST LLP CORNWALL BUILD."
-	],
-        "bods:retrievedAt": "2026-09-16T02:55:02.694977+00:00",
-        "bods:code": "codes:UK",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:schemeName": "Companies House",
-        "bods:scheme": "GB-COH",
-        "ukcoh:officers": [
-            {
-                "address": {
-                    "address_line_1": "Barrack Road",
-                    "address_line_2": "3rd Floor",
-                    "country": "Belize",
-                    "locality": "Belize City",
-                    "premises": "35",
-                    "region": "C A"
-                },
-                "appointed_on": "2009-06-08",
-                "identification": {
-                    "identification_type": "non-eea",
-                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT 1990, BELIZE",
-                    "legal_form": "LIMITED",
-                    "place_registered": "REGISTRAR OF INTERNATIONAL BUSINESS COMPANIES",
-                    "registration_number": "36,265"
-                },
-                "name": "ADVANCE DEVELOPMENTS LIMITED",
-                "officer_role": "corporate-llp-designated-member",
-                "person_number": "141561030001",
-                "lavie:query": "OC346224"
-            },
-            {
-                "address": {
-                    "address_line_1": "Barrack Road",
-                    "address_line_2": "3rd Floor",
-                    "country": "Belize",
-                    "locality": "Belize City",
-                    "premises": "35",
-                    "region": "C A"
-                },
-                "appointed_on": "2009-06-08",
-                "identification": {
-                    "identification_type": "non-eea",
-                    "legal_authority": "INTERNATIONAL BUSINESS COMPANIES ACT 1990, BELIZE",
-                    "legal_form": "LIMITED",
-                    "place_registered": "REGISTRAR OF INTERNATIONAL BUSINESS COMPANIES",
-                    "registration_number": "36,269"
-                },
-                "name": "CORPORATE SOLUTIONS LIMITED",
-                "officer_role": "corporate-llp-designated-member",
-                "person_number": "141561040001",
-                "lavie:query": "OC346224"
-            }
-        ]
     },
     {
         "lavie:similar": 1.0,
@@ -13780,25 +13821,6 @@
                 "lavie:query": "01107372"
             }
         ]
-    },
-    {
-        "lavie:similar": 1.0,
-	"lavie:class": "dormant",
-        "bods:fullName": "POLUX MANAGEMENT LP",
-        "bods:idString": "SL012725",
-        "bods:streetAddress": "Suite 1098 111 West George Street, Glasgow, G2 1QX",
-        "bods:foundingDate": "2013-03-26",
-        "ukcoh:status": "active",
-        "lavie:query": "POLUX MANAGEMENT LP",
-        "lavie:aliases": [
-	    "POLUX MANAGEMENT LLP"
-	],
-        "bods:retrievedAt": "2026-09-16T02:56:10.732759+00:00",
-        "bods:code": "codes:UK",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:schemeName": "Companies House",
-        "bods:scheme": "GB-COH",
-        "ukcoh:officers": []
     },
     {
         "lavie:similar": 1.0,
@@ -19357,28 +19379,6 @@
         "lavie:query": "ZELMER PARTNERS LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:24.670265+00:00",
-        "bods:code": "codes:UK",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:schemeName": "Companies House",
-        "bods:scheme": "GB-COH",
-        "ukcoh:officers": []
-    },
-    {
-        "lavie:similar": 1.0,
-	"lavie:class": "shell",
-        "bods:fullName": "HILUX SERVICES LP",	
-        "bods:idString": "SL012732",
-        "bods:streetAddress": {
-            "address_line_1": "Suite 1105 111 West George Street",
-            "locality": "Glasgow",
-            "postal_code": "G2 1QX"
-        },
-        "bods:foundingDate": "2013-03-26",
-        "ukcoh:status": "active",
-        "lavie:aliases": [
-	    "SL012732 LP"
-	],
-        "bods:retrievedAt": "2026-09-16T18:58:24.052069+00:00",
         "bods:code": "codes:UK",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",

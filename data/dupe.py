@@ -32,7 +32,7 @@ if __name__ == "__main__":
     names: set[ str ] = set()
     alias: set[ str ] = set()
 
-    json_path: pathlib.Path = pathlib.Path("resolved.json")
+    json_path: pathlib.Path = pathlib.Path("thesaurus.json")
 
     with open(json_path, "rb") as fp:
         dat: dict = json.load(fp)
