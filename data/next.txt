@@ -1,0 +1,107 @@
+34	BAKTELEKOM MMC
+		source: https://www.occrp.org/en/organizations/baktelekom/
+		country: AZ
+		class: core
+		officer: Rasim ASADOV (AZ)
+		synopsis: one letter off the legit `Baktelecom` with no evidence of any connection
+0	SOCAR	Company	AZ
+	State Oil Company of the Republic of Azerbaijan
+	Azərbaycan Dövlət Neft Şirkəti
+		class: state
+		code: 9900003871
+		reg: 1995-11-23
+		country: AZ
+		source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+		synopsis: AZ state oil company
+		addr: 121 Heydar Aliyev Avenue, SOCAR Tower, Narimanov District, Baku, AZ1029, AZ
+30	MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN
+	AZERB.REP.MINIST.EMERGENCY SITUA
+	AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI
+		source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+		country: AZ
+		addr: Mikayıl Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073
+		synopsis: public sector, emergency response
+		class: state
+		reg: 2005-12-16
+29	AZARBAYCAN METANOL KOMPANI MMC
+	AZERBAYCAN METANOL KOMPANI MMC
+	AZMECO
+	SOCAR METHANOL MMC
+	AZERBAIJAN METHANOL COMPANY
+	AZMECO INTERNATIONAL FINANCE
+		addr: 22nd km, Salyan Highway, Garadagh District, Baku, AZ1080, Azerbaijan
+		synopsis: petrochemical projects
+		officer: Sadig MAMEDOV (AZ)
+		country: AZ
+		reg: 2008-01-01
+		code: 1700711861
+		class: state
+		related: SOCAR
+31	AZERBAIJAN CASPIAN SHIPPING COMPANY
+	ASCO
+	AZERBAIJAN STATE CASPIAN SHIPP CO
+	AZARB.XAZAR DANIZ GAMICILIYI QSC
+		country: AZ
+		addr: Mikayil Useynov kucasi 2, AZ 1003, Baku, Azerbaijan
+		synopsis: shipping fleets
+		code: 1701579951
+		reg: 2013-10-22
+		class: state
+20	ARASH MEDICAL COMPANY CJSC
+	ARASH MEDICAL PRODUCTION LTD
+		synopsis: medical equipment
+		country: AZ
+		addr: 26 Salamzade St., Baku, AZ1078, Azerbaijan
+		reg: 1994-01-01
+		class: operating
+27	AVROMED COMPANY LLP
+	AVROMED COMPANY
+	AVROMED COMPANY CJSC
+		synopsis: pharmaceutical supplier
+		country: AZ
+		reg: 2002-04-01
+		addr: Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ
+		officer: Javanshir FEYZIYEV (AZ)
+		class: operating
+32	AZERIPAMPSERVICES MMC
+		synopsis: energy
+		country: AZ
+		class: unknown
+63	CASPIAN MOBILE LTD.
+		addr: Karpich Street 14/1, Baku, Azerbaijan, AZ0022
+		reg: 1999-10-01
+		synopsis: mobile phone import
+		country: AZ
+		class: operating
+103	EKSPORT TAMPL MMC
+		country: AZ
+		class: unknown
+104	EKVITA LLC
+		country: AZ
+		reg: 2008-10-01
+		addr: Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku
+		synopsis: full-service legal, tax, and management consulting
+		class: operating
+106	ELEKTROMASH MMC
+		synopsis: ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM
+		country: AZ
+		class: unknown
+132	GOKNUR BAKI LTD
+	GOKNUR BAKI LTD MMC
+		synopsis: manufacture and import/export of electrical equipment and industrial material
+		country: AZ
+		code: 1500023181
+		addr: Ziya Bunyadov Street 11, Quarter 2062, Buyuk-Shor Highway, Narimanov District, Baku AZ1029, Azerbaijan
+		class: operating
+		reg: 2003-01-01
+173	FIRST FREIGHT COMPANY PJSC
+	JSC FREIGHT ONE
+	In favour JSC Freight One
+		class: operating
+		country: RU
+		code: 1137746982856
+		reg: 2013-10-22
+		addr: 24 Novoryazanskaya Street, Moscow, 105066, Russian Federation
+		sanction: https://www.opensanctions.org/entities/NK-368r3q7A6ZJ39zeBpjBJAZ/
+		officer: Oleg ROMANOV (RU)
+		synopsis: rail freight logistics operator, affiliated with Russian military

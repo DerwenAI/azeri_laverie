@@ -1,154 +1,36 @@
-BUSINESS+LEISURE TRAVEL ADVISORS	Company	AU
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+BUSINESS+LEISURE TRAVEL ADVISORS
+	class: operating
+	country: AU
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
 	synopsis: received payments for Azer GASIMOV
 
-NORTHERN PHARMACY	Company	US
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+NORTHERN PHARMACY
+	class: operating
+	country: US
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
 	synopsis: received payments for "medication" for Emin EYYUBOV
 
-MERCEDES-BENZ VG GMBH	Company	DE
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+MERCEDES-BENZ VG GMBH
+	class: operating
+	country: DE
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
 	synopsis: received payments for Emin EYYUBOV
 
-JOHNS HOPKINS MEDICINE	Company	US
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
+JOHNS HOPKINS MEDICINE
+	class: operating
+	country: US
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
 	synopsis: arranged medical treatment for Eyyubov family
 
-VELASCO INTERNATIONAL INC.	Company	VG
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/velasco-international-inc
+VELASCO INTERNATIONAL INC.
+	class: operating
+	country: VG
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/velasco-international-inc
 	synopsis: money from Rosoboronexport flowed into the company
 	related: MOSSACK FONSECA
 
-PRIVATPRAXIS FUR IMPLANTOLOGIE	Company	DE
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+PRIVATPRAXIS FUR IMPLANTOLOGIE
+	class: operating
+	country: DE
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
 	synopsis: received medical payments for Farhad EYYUBOV
-
-
-Vladmir PUTIN	Person	RU
-	synopsis: RU President
-
-Ilham ALIYEV	Person	AZ
-	synopsis: AZ President
-
-Elkhan SULEYMANOV	Person	AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
-	synopsis: AZ parliament, PACE member, likely architect for influence campaign "Azerbaijan 2020: Smile Future"
-	related: Ilham ALIYEV
-
-Eduard LINTNER	Person	DE
-EDUARD LINTNER
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
-	synopsis: DE parliament, Christian Social Union party in Bavaria, led PACE observations of Azeri elections
-	related: Elkhan SULEYMANOV
-
-Irina BOKOVA	Person	BG
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
-	synopsis: UNESCO Director-General, spouse of Kalin MITREV
-	related: Kalin MITREV
-
-Kalin MITREV	Person	BG
-MITREV KALIN
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
-	synopsis: spouse of UNESCO Director-General Irina BOKOVA
-	related: Irina BOKOVA
-	related: AZERB.REP.MINIST.EMERGENCY SITUA
-
-Luca VOLONTE	Person	IT
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
-	synopsis: IT parliament, PACE chair, pro-AZ lobbying
-	related: NOVAE TERRAE
-	related: FONDAZIONE NOVAE TERRAE
-	related: LGV SRL
-	related: Elkhan SULEYMANOV
-
-Zmago Jelincic PLEMENITI	Person	SI
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
-	synopsis: president of the Slovenian National Party, PACE substitute
-	related: ZMAGO JELINCIC PLEMENITI
-
-Eckart SAGER	Person	US
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
-	synopsis: CNN producer, hit pieces on AZ critics
-	related: EBILAEAD
-
-Cinzia PALMONELLA	Person	IT
-CINZIA PALMONELLA
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/mario-cinzia-palmonella
-	synopsis: sister and business partner of Mario PALMONELLA
-	related: Mario PALMONELLA
-
-Mario PALMONELLA	Person	IT
-ARCHITETTO MARIO PALMONELLA	Person	RO
-MARIO PALMONELLA AND ARCHITETTI	Person	RO
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/mario-cinzia-palmonella
-	synopsis: authored open letter to rally Italian ex-pat support of AZ
-	related: Cinzia PALMONELLA
-
-Yaqub EYYUBOV	Person AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
-	synopsis: Azeri deputy PM, awarded RU Order of Friendship by Vladmir PUTIN
-	related: Emin EYYUBOV
-	related: Orkhan EYYUBOV
-	related: Vladmir PUTIN
-	related: Ilham ALIYEV
-
-Emin EYYUBOV	Person AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
-	synopsis: Azeri ambassador to Council of Europe
-	related: Yaqub EYYUBOV
-	related: NORTHERN PHARMACY
-	related: MERCEDES-BENZ VG GMBH
-
-Orkhan EYYUBOV	Person	AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: owner of Velasco 
-	related: Yaqub EYYUBOV
-	related: VELASCO INTERNATIONAL INC.
-
-Azer GASIMOV	Person	AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: press secretary of Ilham ALIYEV
-	related: Ilham ALIYEV
-	related: BUSINESS+LEISURE TRAVEL ADVISORS
-	edd: https://search.openaleph.org/search?q=Azer%20Gasimov
-
-Farhad EYYUBOV	Person	AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: second deputy chief of Baku’s road police
-	related: Yaqub EYYUBOV
-	related: PRIVATPRAXIS FUR IMPLANTOLOGIE
-
-ZIYA MAMMADOV	Person	TR
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: AZ former minister of Transportation
-
-Hamid KARIMOV	Person	CZ
-HAMID KARIMOV
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	related: SOCAR
-	related: Tural KARIMOV
-	edd: https://search.openaleph.org/search?q=HAMID%20KARIMOV
-
-Tural KARIMOV	Person	RO
-TURAL KARIMOV
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	related: SOCAR
-	related: Hamid KARIMOV
-
-Rashad GAFAROV	Person	CZ
-RASHAD GAFAROV
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: murdered businessman 
-
-Sadiyar ZEYLANOV	Person	LU
-ZEYNALOV SADIYAR
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: academic
-
-Ali NAGHIYEV	Person	AZ
-ALI NAGHIYEV
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: deputy chief AZ anti-corruption directorate
-
-Ruslan ALIYEV	Person AZ
-ALIYEV RUSLAN

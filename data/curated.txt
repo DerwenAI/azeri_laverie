@@ -1,117 +1,63 @@
-0	MOSSACK FONSECA
-	Mossack Fonseca & Co. Billings, Ltd.
-	Mossack Fonseca & Co. (Panama), Ltd.
-		class: core
-		country: PA
-		reg: 2004-12-16
-		dis: 2018-03-14
-		code: 19206
-		addr: Mossack Fonseca & Co (PTY). Mossfon Building East 54th Street Panama, Rep. Of Panama
-		synopsis: core of "Panama Papers"
-
-0	SOCAR	Company	AZ
-	State Oil Company of the Republic of Azerbaijan
-		class: state
-		country: AZ
-		source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-		synopsis: AZ state oil company
-
-30	MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN
-	AZERB.REP.MINIST.EMERGENCY SITUA
-	AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI
-		country: AZ
-		addr: M. Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073
-		biz: public sector, emergency response
-		class: state
-34	BAKTELEKOM MMC
-		country: AZ
-		class: core
-		officer: Rasim ASADOV (AZ)
-		note: one letter off the legit `Baktelecom` with no evidence of any connection
-
-20	ARASH MEDICAL COMPANY CJSC
-	ARASH MEDICAL PRODUCTION LTD
-		biz: medical equipment
-		country: AZ
-		addr: 26 Salamzade St., Baku, AZ1078, Azerbaijan
-		reg: 1994-01-01
-		class: operating
-27	AVROMED COMPANY LLP
-	AVROMED COMPANY
-	AVROMED COMPANY CJSC
-		biz: pharmaceutical supplier
-		country: AZ
-		reg: 2002-04-01
-		addr: Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ
-		officer: Javanshir FEYZIYEV (AZ)
-		class: operating
-29	AZARBAYCAN METANOL KOMPANI MMC
-	AZERBAYCAN METANOL KOMPANI MMC
-	AZMECO
-	SOCAR METHANOL MMC
-	AZERBAIJAN METHANOL COMPANY
-	AZMECO INTERNATIONAL FINANCE
-		addr: 22nd km, Salyan Highway, Garadagh District, Baku, AZ1080, Azerbaijan
-		biz: petrochemical projects
-		officer: Sadig MAMEDOV (AZ)
-		country: AZ
-		reg: 2008-01-01		
-		class: state
-		related: SOCAR
-31	AZERBAIJAN CASPIAN SHIPPING COMPANY
-	ASCO
-	AZERBAIJAN STATE CASPIAN SHIPP CO
-	AZARB.XAZAR DANIZ GAMICILIYI QSC
-		country: AZ
-		addr: Mikayil Useynov kucasi 2, AZ 1003, Baku, Azerbaijan
-		biz: shipping fleets
-		code: 1701579951
-		reg: 2013-10-22
-		class: state
-32	AZERIPAMPSERVICES MMC
-		biz: energy
-		country: AZ
+5	AKKOTEX LTD
+		code: 1678595
+		reg: 2011-11-02
+		country: VG
+		class: shell
+35	BALANKOS COMMERCIAL LTD.
+		country: VG
+		reg: 2008-09-04
+		officer: Dmitry SMIRNOV (RU)
+		class: shell
+45	BILOXI GLOBAL INC.
+		country: VG
+		code: 465020
+		reg: 2008-02-18
+		addr: Wickhams Cay 1, De Castro Street, 30, P.O.Box 4519, Road Town, Tortola, British Virgin Islands
+		class: shell
+54	BRADFIELD INVESTMENTS LTD.
+		country: VG
+		code: 137940
+		edd: https://search.openaleph.org/entities/icijol-20030717.c9175b6d3d57ae38abb7cf29b8654780c74222dc
+		reg: 1995-02-24
+		synopsis: possibly operating in Gibraltar and Bahamas
+		officer: MMG BAHAMAS LTD. (BS) 
+		class: shell
+61	CARTELORT PRODUCTS LTD
+		code: 1441038
+		reg: 2007-10-31
+		country: VG
+		officer: STANDARD DIRECTORS LTD. (BV)
+		class: shell
+100	EFFECTIVE TRADE LIMITED
+		synopsis: fishing equipment, allegedly
+		country: VG
 		class: unknown
-63	CASPIAN MOBILE LTD.
-		addr: Karpich Street 14/1, Baku, Azerbaijan, AZ0022
-		reg: 1999-10-01
-		biz: mobile phone import
-		country: AZ
-		class: operating
-103	EKSPORT TAMPL MMC
-		country: AZ
-		class: unknown
-104	EKVITA LLC
-		country: AZ
-		reg: 2008-10-01
-		addr: Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku
-		biz: full-service legal, tax, and management consulting
-		class: operating
-106	ELEKTROMASH MMC
-		note: ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM
-		country: AZ
-		class: unknown
-132	GOKNUR BAKI LTD
-	GOKNUR BAKI LTD MMC
-		biz: manufacture and import/export of electrical equipment and industrial material
-		country: AZ
-		code: 1500023181
-		addr: Ziya Bunyadov Street 11, Quarter 2062, Buyuk-Shor Highway, Narimanov District, Baku AZ1029, Azerbaijan
-		class: operating
-		reg: 2003-01-01
-
-173	FIRST FREIGHT COMPANY PJSC
-	JSC FREIGHT ONE
-	In favour JSC Freight One
-		country: RU
-		code: 1137746982856
-		reg: 2013-10-22
-		addr: 24 Novoryazanskaya Street, Moscow, 105066, Russian Federation
-		sanction: https://www.opensanctions.org/entities/NK-368r3q7A6ZJ39zeBpjBJAZ/
-		officer: Oleg ROMANOV (RU)
-		note: rail freight logistics operator, affiliated with Russian military
-
-
+101	EGERSON PRODUCTIONS CORP.
+		country: VG
+		code: 1587899
+		reg: 2010-06-02
+		officer: Veronique Claire SAVY (SC)
+		officer: Edward PETRE-MEARS (KN)
+		edd: https://search.openaleph.org/search?limit=30&q=EGERSON%20PRODUCTIONS
+		addr: Unitrust Consulting attn: Ludmila IVANOV, Teterinsky Pereulok dom 4 bldg. 1 office 215 Moscovskaya Oblast (Moscow) Russian Federation 109004
+		synopsis: typical structure for a BVI shell wrapping a Russia-linked beneficial owner who wants to stay off the company's face
+		class: shell
+102	EKLINGTON COMMERCIAL INC
+		edd: https://search.openaleph.org/search?limit=30&q=EKLINGTON%20COMMERCIAL%20INC
+		country: VG
+		code: 1403634
+		reg: 2007-05-08
+		addr: Amond & Smith Schipok Str. 9/26 Bldg. 1, Entrance 3., Office 1 Moscow, 115054 Russia
+		officer: Linzi ALCINDOR (SC)
+		officer: INTERNATIONAL ADMINISTRATORS LIMITED (CN)
+		class: shell
+116	FANEL DEVELOPMENT LIMITED
+		country: VG
+		code: 1691360
+		reg: 2012-01-13
+		addr: Road Town, Tortola, British Virgin Islands
+		class: shell
+		synopsis: building materials, allegedly
 1	A. N. ROHE HOLDING LTD.
 		lei: 549300A7RPWGQP6R3N58
 		addr: 2nd Floor, 35 Barrack Road, Belize City, BZ-BZ, Belize
@@ -119,30 +65,26 @@
 		edd: https://opencheck.world/?lei=549300A7RPWGQP6R3N58
 		reg: 2017-11-13
 		class: shell
+
 4	AGCOMPANY OÜ
 		reg: 2013-05-08
 		dis: 2017-06-29
 		country: EE
 		code: 12470099
-		board: Roman VNUKOV (EE)
+		officer: Roman VNUKOV (EE)
 		addr: Põhja-Tallinna linnaosa, Tallinn
-		biz: repair of motor vehicles
-		class: shell
-5	AKKOTEX LTD
-		code: 1678595
-		reg: 2011-11-02
-		country: VG
+		synopsis: repair of motor vehicles
 		class: shell
 7	ALFA DIS TICARET LIMITED SIRKETI
 		officer: Cuneyt IPEKLER (TR)
-		biz: wine and distilled alcoholic beverage merchant wholesalers
+		synopsis: wine and distilled alcoholic beverage merchant wholesalers
 		country: TR
 		addr: No:126 Ferhatpasa Mahallesi Maresal Fevzi Cakmak Caddesi Atasehir, Istanbul, Marmara 34888
 		reg: 2002-11-22
 		class: operating
 8	ALGAN METAL SANAYI VE TICARET ANO
 		country: TR
-		biz: welding supplies
+		synopsis: welding supplies
 		addr: Aydıntepe Mah. Sahil Blv. Özek İş Mrk. No:142/D5, 34947 Tuzla/İstanbul
 		class: operating
 9	MAHMOUD AL-GHARABALLY TRADING EST.
@@ -150,7 +92,7 @@
 	ALGHARABALLY NATIONAL TRADING
 		country: KW
 		addr: Khalifa Al-Jassim Street, Shuwiakh Industrial Area, Kuwait
-		biz: construction materials
+		synopsis: construction materials
 		class: operating
 11	ALOZIRIO HOLDINGS LIMITED
 	KAMAZONIA LIMITED
@@ -180,7 +122,7 @@
 		code: 200616206K
 		country: SG
 		reg: 2006-10-31
-		biz: wholesale trade
+		synopsis: wholesale trade
 		addr: 21 BUKIT BATOK CRESCENT, #03-76, WCEGA TOWER, Singapore 658065
 		dis: 2026-08-07
 		class: shell
@@ -199,13 +141,13 @@
 		reg: 2014-02-05
 		dis: 2020-07-08
 		officer: Lev POLISHCHUK (CY)
-		note: this appears to have been misspelled
+		synopsis: this appears to have been misspelled
 		class: shell
 18	APPOLLO (CHINA) CO., LTD
 	APOLLO(CHINA) CO.,LTD
 		country: CN
 		addr: 8th Floor, Canton-chip Building, No.18, Science Avenue, Huangpu District, Guangzhou, China
-		biz: manufacturing, wholesale import/export
+		synopsis: manufacturing, wholesale import/export
 		code: F0013918
 		reg: 1996-06-25
 		class: operating
@@ -213,14 +155,14 @@
 	ARAS GLOBAL TICARET VE LOJISTIK
 	ARAS GLOBAL TIC. VE LOJ.TUR.LTD.STI
 		reg: 2008-02-27
-		biz: global trade and international supply chains
+		synopsis: global trade and international supply chains
 		addr: No:61a Osman Yilmaz Mahallesi 648. Sokak Gebze Kocaeli, Marmara 41400
 		country: TR
 		code: 110891
 		class: operating
 22	ASAŞ ALÜMINYUM SANAYI VE TICARET A.Ş
 	ASAS ALUMINYUM SAN.VE TIC.A.S
-		biz: aluminum manufacturing
+		synopsis: aluminum manufacturing
 		country: TR
 		addr: Asas Ismerkezi No.2 Ruzgarlibahce Mahallesi Kumlu Sokak Beykoz Kavacik, Istanbul, Marmara 34805
 		lei: 78900067SCLSMMFJF687
@@ -232,7 +174,7 @@
 	ASEL DIS TICARET VE PAZARLAMA LTD S
 		country: TR
 		addr: B.blok/205- 207- 209 N:82 Iosb Mahallesi Haseyad 1.kis.cabani Is Mrk Basaksehir, Istanbul, Marmara 34306
-		biz: electronics wholesale
+		synopsis: electronics wholesale
 		reg: 1993-02-10
 		class: operating
 25	ATTICO LOGISTICS LIMITED
@@ -248,17 +190,12 @@
 	AUTOHAUS ANSAWI GMBH
 	PETER GRAMPP GMBH & CO. KG
 		country: DE
-		biz: automobile dealership
+		synopsis: automobile dealership
 		code: HRB908
 		reg: 1980-07-03
 		addr: Rechtenbacher Str. 17, 97816 Lohr am Main
 		officer: Peter GRAMPP (DE)
 		class: operating
-35	BALANKOS COMMERCIAL LTD.
-		country: VG
-		reg: 2008-09-04
-		officer: Dmitry SMIRNOV (RU)
-		class: shell
 36	BANCHER OÜ
 		country: EE
 		code: 12057318
@@ -269,7 +206,7 @@
 38	BAYBURT GROUP CONSTRUCTION LTD
 	BAYBURT GRUP INSAAT NAKLIYAT MADENCILIK ITHALAT IHRACAT SANAYI VE TICARET ANONIM SIRKETI
 		country: TR
-		biz: large-scale infrastructure construction
+		synopsis: large-scale infrastructure construction
 		addr: Ayisigi Sitesi D:38 No:18 Yukari Ovecler Mahallesi 1276 Caddesi Cankaya, Ankara, Central Anatolia, 06460
 		code: 16003746
 		reg: 1973-01-01
@@ -279,53 +216,33 @@
 	BERTEX HOLDING LIMITED
 		country: CY
 		code: HE119085
-		note: assuming this is the known shell company involved in RU-related fraud
+		synopsis: assuming this is the known shell company involved in RU-related fraud
 		reg: 2001-03-16
 		dis: 2021-08-06
 		addr: Akropoleos, 59-61, Floor 3, Flat 301, 2012, Levkosia, Cyprus
 		officer: Nikos AVRAAMIDIS (CY)
 		class: shell
-45	BILOXI GLOBAL INC.
-		country: VG
-		code: 465020
-		reg: 2008-02-18
-		addr: Wickhams Cay 1, De Castro Street, 30, P.O.Box 4519, Road Town, Tortola, British Virgin Islands
-		class: shell
 52	BORFIT BORU VE EK PARCALARI SANAYI TICARET LIMITED SIRKETI
 	BORFIT BORU VE EK PARCALARI SAN.TIC
 		country: TR
 		addr: No:6 Sanayi Mahallesi Adiguzel Sokak Pendik, Istanbul, Marmara, 34906
-		biz: building materials
+		synopsis: building materials
 		reg: 2007-06-20
 		code: 630242
 		class: operating
-54	BRADFIELD INVESTMENTS LTD.
-		country: VG
-		code: 137940
-		edd: https://search.openaleph.org/entities/icijol-20030717.c9175b6d3d57ae38abb7cf29b8654780c74222dc
-		reg: 1995-02-24
-		note: possibly operating in Gibraltar and Bahamas
-		officer: MMG BAHAMAS LTD. (BS) 
-		class: shell
 0.03	MMG BAHAMAS LTD.
 	MMG MANAGEMENT CORP.
 	MORGAN & MORGAN BAHAMAS
 		country: BS
 		code: 176696
 		reg: 2017-07-03
-		biz: legal services
+		synopsis: legal services
 		edd: https://search.openaleph.org/search?q=MMG%20BAHAMAS%20LTD.
 		edd: https://opencheck.world/?lei=254900ABHCZ12OFUCP06
 		officer: Laverne THOMPSON (BS)
 		addr: Suite 102, Saffrey Square Bay Street & Bank Lane NASSAU, New Providence, Bahamas
 		lei: 254900ABHCZ12OFUCP06
 		class: operating
-61	CARTELORT PRODUCTS LTD
-		code: 1441038
-		reg: 2007-10-31
-		country: VG
-		officer: STANDARD DIRECTORS LTD. (BV)
-		class: shell
 70	CONATIO LIMITED
 		country: CY
 		code: HΕ270083
@@ -347,7 +264,7 @@
 		lei: 54930087QLH0D6V7E833
 		reg: 1991-07-09
 		addr: 5 Carlisle Road, Westford, MA 01886
-		biz: laser hair removal equipment
+		synopsis: laser hair removal equipment
 		officer: Amy TANNENBAUM (US)
 		edd: https://opencheck.world/?lei=54930087QLH0D6V7E833
 		class: operating
@@ -363,7 +280,7 @@
 0.04	RMI PROXY & SECRETARY LTD
 		country: MH
 		addr: Trust Company Complex, Ajeltake Road, Ajeltake Island, Majuro, MH96960, Marshall Island
-		note: highlighted by financial crime researchers examining anonymous corporate networks and proxy ownership structures.
+		synopsis: highlighted by financial crime researchers examining anonymous corporate networks and proxy ownership structures.
 		class: operating
 87	DELOKALI LIMITED
 		officer: T.C SECRETARIAL LIMITED (CY)
@@ -391,7 +308,7 @@
 		addr: Äußere Oberaustraße 36/5, 83026 Rosenheim, Germany
 		class: operating
 98	EASTMAN CHEMICAL BV
-		biz: chemical manufacturing
+		synopsis: chemical manufacturing
 		country: NL
 		code: 27150948
 		addr: Watermanweg 70 3067 GG, Rotterdam, Zuid-Holland Netherlands
@@ -399,32 +316,9 @@
 		officer: Kuijpers JORIS (NL)
 		officer: Hamon YVES (NL)
 		class: operating
-100	EFFECTIVE TRADE LIMITED
-		biz: fishing equipment, allegedly
-		country: VG
-		class: unknown
-101	EGERSON PRODUCTIONS CORP.
-		country: VG
-		code: 1587899
-		reg: 2010-06-02
-		officer: Veronique Claire SAVY (SC)
-		officer: Edward PETRE-MEARS (KN)
-		edd: https://search.openaleph.org/search?limit=30&q=EGERSON%20PRODUCTIONS
-		addr: Unitrust Consulting attn: Ludmila IVANOV, Teterinsky Pereulok dom 4 bldg. 1 office 215 Moscovskaya Oblast (Moscow) Russian Federation 109004
-		note: typical structure for a BVI shell wrapping a Russia-linked beneficial owner who wants to stay off the company's face
-		class: shell
-102	EKLINGTON COMMERCIAL INC
-		edd: https://search.openaleph.org/search?limit=30&q=EKLINGTON%20COMMERCIAL%20INC
-		country: VG
-		code: 1403634
-		reg: 2007-05-08
-		addr: Amond & Smith Schipok Str. 9/26 Bldg. 1, Entrance 3., Office 1 Moscow, 115054 Russia
-		officer: Linzi ALCINDOR (SC)
-		officer: INTERNATIONAL ADMINISTRATORS LIMITED (CN)
-		class: shell
 107	EMERGOMED
 		country: NL
-		biz: medical equipment wholesale
+		synopsis: medical equipment wholesale
 		code: 08113758
 		reg: 2002-06-11
 		class: operating
@@ -438,17 +332,9 @@
 		officer: Andreas SPYRIDIS (CY)
 		officer: Dimitra STAVRINOU (CY)
 		class: shell
-116	FANEL DEVELOPMENT LIMITED
-		country: VG
-		code: 1691360
-		reg: 2012-01-13
-		addr: Road Town, Tortola, British Virgin Islands
-		class: shell
-		biz: building materials, allegedly
 121	FORAL GROUP
 		country: US
-		biz: construction materials
-		note: likely not "FORAL LP" SL015300, given the dates
+		synopsis: construction materials; likely not "FORAL LP" SL015300, given the dates
 		class: unknown
 122	FUTUREWARE S.A.
 		country: PA
@@ -461,7 +347,7 @@
 	GENERAL TURBO S.A
 		country: RO
 		code: J1992026498408
-		biz: heavy power generation equipment, nuclear energy
+		synopsis: heavy power generation equipment, nuclear energy
 		reg: 1992-10-21
 		class: operating
 		addr: 104 Berceni, Bucharest 4, 041919
@@ -471,7 +357,7 @@
 	GENTECH (FZE)
 		country: AE
 		addr: VUNE1303, Compass Building, Al Hulaila Industrial Zone-FZ, UAE
-		biz: coordinates product design, technology integration, production management, and international supply for GENTECH GROUP
+		synopsis: coordinates product design, technology integration, production management, and international supply for GENTECH GROUP
 		class: operating
 126	GEORGIA MEDIA EXCHANGE
 	GEORGIA MEDIA EXCHANGE' LLC
@@ -480,19 +366,19 @@
 		addr: Gudiashvili sq. 4, 0105, Tbilisi, Georgia
 		reg: 2009-10-21
 		class: operating
-		biz: advertising and media agency
+		synopsis: advertising and media agency
 130	GMH MEDIZINTECHNIK GMBH
 	GMH MEDIZINTECHNIK GMBH,
 		country: DE
 		code: HRB9546
 		reg: 2008-12-16
 		class: operating
-		biz: medical supply
+		synopsis: medical supply
 		addr: Robert-Bosch-Straße 18, Dreieich-Sprendlingen, Germany
 		officer: John KHWAJA (DE)
 		officer: Fuad ALIYEV (AZ)
 		officer: Peter Komives (RO)
-		note: liquidation date 2015-11-25
+		dis: 2015-11-25
 133	GOLDEN FIDES INTERNATIONAL LTD
 		country: CY
 		code: ΗΕ294820

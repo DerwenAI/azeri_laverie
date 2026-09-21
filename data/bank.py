@@ -27,7 +27,7 @@ logging.basicConfig(
 )
 
 
-TARGET_SOURCE: str = "bank.txt"
+TARGET_SOURCE: str = "next.txt"
 
 
 def reader (
@@ -70,11 +70,8 @@ Transform the given data into annotated JSON for generating RDF.
         ic(record)
 
     dat: dict = {
-	"lavie:class": "bank",
+	"lavie:class": record["class"],
         "bods:fullName": record["name"],
-        "bods:idString": record["code"],
-        "bods:streetAddress": record["addr"],
-        "bods:foundingDate": record["reg"],
         "lavie:aliases": record["alias"],
         "bods:code": "codes:" + record["country"],
         "bods:entityType": "codes:RegisteredEntity",
@@ -82,7 +79,26 @@ Transform the given data into annotated JSON for generating RDF.
 	"lavie:edd": [],
 	"lavie:sanction": [],
 	"lavie:related": [],
+        "lavie:officers": []
     }
+
+    if "code" in record:
+        dat["bods:idString"] = record["code"]
+
+    if "addr" in record:
+        dat["bods:streetAddress"] = record["addr"]
+
+    if "reg" in record:
+        dat["bods:foundingDate"] = record["reg"]
+
+    if "dis" in record:
+        dat["bods:dissolutionDate"] = record["dis"]
+
+    if "source" in record:
+        dat["bods:source"] = {
+            "bods:url": record["source"],
+            "bods:type": "bods:thirdParty",
+        }
 
     if "lei" in record:
         dat["lavie:lei"] = {
@@ -90,6 +106,9 @@ Transform the given data into annotated JSON for generating RDF.
             "bods:scheme": "XI-LEI",
             "bods:schemeName": "Global Legal Entity Identifier Index",
         }
+
+    if "officer" in record:
+        dat["lavie:officers"] = record["officer"]
 
     if "edd" in record:
         dat["lavie:edd"].append(record["edd"])
@@ -112,19 +131,24 @@ if __name__ == "__main__":
 
     out_data: list[ dict ] = []
     record: dict = {}
+
     start: bool = True
+    has_run: bool = False
+    debug: bool = False # True
 
     with open(target_path, mode = "r", encoding = "utf-8") as fp:
-        for start, dat in reader(fp):
+        for start, dat in reader(fp, debug = debug):
+            has_run = True
 
             if start:
                 if len(record) > 0:
-                    out_data.append(format_json(record))
+                    out_data.append(format_json(record, debug = debug))
 
                 record = {
                     "name": dat,
                     "alias": [],
                     "edd": [],
+                    "officer": [],
                 }
             elif isinstance(dat, str):
                 record["alias"].append(dat)
@@ -135,6 +159,12 @@ if __name__ == "__main__":
                     record[key].append(val)
                 else:
                     record[key] = val
+
+
+        # handle the last record in the input
+        if has_run and len(record) > 0:
+            out_data.append(format_json(record))
+
 
     # report
     out_path: pathlib.Path = pathlib.Path("out.json")

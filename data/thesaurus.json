@@ -1,5 +1,26 @@
 [
     {
+        "lavie:class": "core",
+        "bods:fullName": "MOSSACK FONSECA",
+        "bods:idString": "19206",
+        "bods:streetAddress": "Mossack Fonseca & Co (PTY). Mossfon Building East 54th Street Panama, Rep. Of Panama",
+        "bods:foundingDate": "2004-12-16",
+        "lavie:aliases": [
+            "Mossack Fonseca & Co. Billings, Ltd.",
+            "Mossack Fonseca & Co. (Panama), Ltd."
+        ],
+        "bods:code": "codes:PA",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:18:11.574253+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "bods:dissolutionDate": "2018-03-14",
+        "lavie:synopsis": "core of \"Panama Papers\""
+    },
+    {
         "lavie:similar": 1.0,
         "lavie:class": "core",
         "bods:fullName": "POLUX MANAGEMENT LP",
@@ -21139,6 +21160,459 @@
     },
     {
         "lavie:similar": 1.0,
+        "bods:fullName": "ALFRED DUNHILL LIMITED",
+        "bods:idString": "00191031",
+        "bods:streetAddress": {
+            "address_line_1": "15 Hill Street",
+            "address_line_2": "London",
+            "postal_code": "W1J 5QT"
+        },
+        "bods:foundingDate": "1923-07-02",
+        "ukcoh:status": "active",
+        "lavie:aliases": [],
+        "bods:retrievedAt": "2026-09-21T19:05:17.113042+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2026-03-12",
+                "name": "EMANUEL, Helen",
+                "officer_role": "secretary",
+                "person_number": "346325720001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2026-02-16",
+                "name": "IVES, Matthew James",
+                "officer_role": "director",
+                "person_number": "345443880001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2026-02-16",
+                "name": "PERCETTI, Olivier",
+                "officer_role": "director",
+                "person_number": "262841130001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2012-05-16",
+                "name": "STEVENSON, Gary John",
+                "officer_role": "director",
+                "person_number": "155965500002",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2012-12-31",
+                "name": "BROOKS, Rupert John",
+                "officer_role": "secretary",
+                "person_number": "174969000001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "1999-03-31",
+                "name": "LAWRENCE, William Sackville Gwynne",
+                "officer_role": "secretary",
+                "person_number": "32571030001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "2 Tufton Court",
+                    "address_line_2": "Tufton Street",
+                    "locality": "London",
+                    "postal_code": "SW1P 3QH"
+                },
+                "appointed_on": "1998-12-31",
+                "name": "PYE, James Edward Kinsey",
+                "officer_role": "secretary",
+                "person_number": "47091840001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "No.2 Albemarle",
+                    "address_line_2": "76 Wimbledon Parkside",
+                    "locality": "London",
+                    "postal_code": "SW19 5NP"
+                },
+                "name": "WATSON, Rita",
+                "officer_role": "secretary",
+                "person_number": "14978980002",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "162 East 74th Street",
+                    "country": "United States",
+                    "locality": "New York",
+                    "region": "Ny 10022"
+                },
+                "appointed_on": "1997-03-20",
+                "name": "BARTON, Kenneth Callum Orr",
+                "officer_role": "director",
+                "person_number": "46492800004",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2013-08-29",
+                "name": "CARDINALI, Fabrizio",
+                "officer_role": "director",
+                "person_number": "181380940001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "20 Walpole Street",
+                    "locality": "London",
+                    "postal_code": "SW3 4QP"
+                },
+                "appointed_on": "1997-09-09",
+                "name": "COLE, Richard Granville Scale",
+                "officer_role": "director",
+                "person_number": "55196790002",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2005-07-04",
+                "name": "COLFER, Christopher Michael",
+                "officer_role": "director",
+                "person_number": "101589210003",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "13 South Eaton Place",
+                    "locality": "London",
+                    "postal_code": "SW1W 9ES"
+                },
+                "appointed_on": "2001-07-31",
+                "name": "CRITCHELL, Simon James",
+                "officer_role": "director",
+                "person_number": "77623140001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "13 Milner Street",
+                    "locality": "London",
+                    "postal_code": "SW3 2QD"
+                },
+                "appointed_on": "1997-09-09",
+                "name": "DE QUERCIZE, Stanislas",
+                "officer_role": "director",
+                "person_number": "58641370001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "Blackbush Cottage Marsh Lane",
+                    "locality": "Higher Denham",
+                    "postal_code": "UB9 5DL",
+                    "region": "Buckinghamshire"
+                },
+                "name": "DUNHILL, Richard",
+                "officer_role": "director",
+                "person_number": "14979050002",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "5 Admiral Square",
+                    "address_line_2": "Chelsea Harbour",
+                    "locality": "London",
+                    "postal_code": "SW10 0UU"
+                },
+                "appointed_on": "1998-08-17",
+                "name": "DUNNETT, Paul Alexander",
+                "officer_role": "director",
+                "person_number": "61995680002",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "Osborne House",
+                    "address_line_2": "3 Lockestone Brookland",
+                    "locality": "Weybridge",
+                    "postal_code": "KT13 8EE",
+                    "region": "Surrey"
+                },
+                "appointed_on": "2007-05-11",
+                "name": "GAEDE, Sven Willi Swithin",
+                "officer_role": "director",
+                "person_number": "122640470001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "Tanglewood",
+                    "address_line_2": "Aldersey Road",
+                    "locality": "Guildford",
+                    "postal_code": "GU1 2ES",
+                    "region": "Surrey"
+                },
+                "appointed_on": "1991-12-10",
+                "name": "GREEN, Richard Paul",
+                "officer_role": "director",
+                "person_number": "7360690001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2019-10-15",
+                "name": "HOLMES, Andrew Scott",
+                "officer_role": "director",
+                "person_number": "207013010001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "3 Gleaners Close",
+                    "address_line_2": "Grove Green",
+                    "locality": "Maidstone",
+                    "postal_code": "ME14 5ST",
+                    "region": "Kent"
+                },
+                "name": "LEGG, Ronald James",
+                "officer_role": "director",
+                "person_number": "52562130001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "5 Belgrave Mews South",
+                    "locality": "London",
+                    "postal_code": "SW1X 8BT"
+                },
+                "appointed_on": "2000-02-01",
+                "name": "LEYMARIE, Guy Jeremie",
+                "officer_role": "director",
+                "person_number": "68730040002",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "22 Trafalgar Avenue",
+                    "locality": "London",
+                    "postal_code": "SE15 6NR"
+                },
+                "appointed_on": "2000-01-24",
+                "name": "LLOYD-JENNINGS, Henry Ashley",
+                "officer_role": "director",
+                "person_number": "35525350003",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2017-01-09",
+                "name": "MAAG, Andrew James",
+                "officer_role": "director",
+                "person_number": "223059840001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2022-02-15",
+                "name": "MALECAZE, Laurent Jean Georges",
+                "officer_role": "director",
+                "person_number": "292596390001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "25 Hazlewell Road",
+                    "address_line_2": "Putney",
+                    "locality": "London",
+                    "postal_code": "SW15 6LT"
+                },
+                "name": "MANNERS, John Peter",
+                "officer_role": "director",
+                "person_number": "14979010001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "Broadwater House",
+                    "address_line_2": "Glenmore Park",
+                    "locality": "Tunbridge Wells",
+                    "postal_code": "TN2 5NZ",
+                    "region": "Kent"
+                },
+                "appointed_on": "2001-02-26",
+                "name": "MERRIMAN, Andrew",
+                "officer_role": "director",
+                "person_number": "74743190001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "109 Woodsford Square",
+                    "locality": "London",
+                    "postal_code": "W14 8DT"
+                },
+                "name": "MOUFARRIGE, Mounir Toufic",
+                "officer_role": "director",
+                "person_number": "14978990001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "Dell Cottage",
+                    "address_line_2": "Up Nately",
+                    "locality": "Hook",
+                    "postal_code": "RG27 9PR",
+                    "region": "Hants"
+                },
+                "name": "NICHOLSON, Michael Alastair George",
+                "officer_role": "director",
+                "person_number": "15191680001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "1 Kings Quay",
+                    "address_line_2": "Chelsea Harbour",
+                    "locality": "London",
+                    "postal_code": "SW10 0UX"
+                },
+                "appointed_on": "1998-05-01",
+                "name": "NOLAN, James Peter",
+                "officer_role": "director",
+                "person_number": "64346920001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "23 Wilton Place",
+                    "locality": "London",
+                    "postal_code": "SW1X 8RL"
+                },
+                "appointed_on": "1999-12-01",
+                "name": "PEREL, Daniel Charles",
+                "officer_role": "director",
+                "person_number": "68260430004",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "Flat B The Old Dairy",
+                    "address_line_2": "46 Old Church Street Chelsea",
+                    "locality": "London",
+                    "postal_code": "SW3 5BY"
+                },
+                "appointed_on": "1993-06-28",
+                "name": "POIREL, Francois Paul Llewelyn",
+                "officer_role": "director",
+                "person_number": "35657160003",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Hill Street",
+                    "address_line_2": "London",
+                    "postal_code": "W1J 5QT"
+                },
+                "appointed_on": "2012-12-06",
+                "name": "POLETTO, Eraldo",
+                "officer_role": "director",
+                "person_number": "174510000001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "2 Tufton Court",
+                    "address_line_2": "Tufton Street",
+                    "locality": "London",
+                    "postal_code": "SW1P 3QH"
+                },
+                "appointed_on": "1993-07-21",
+                "name": "PYE, James Edward Kinsey",
+                "officer_role": "director",
+                "person_number": "47091840001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "16 Chargate Close",
+                    "locality": "Walton On Thames",
+                    "postal_code": "KT12 5DW",
+                    "region": "Surrey"
+                },
+                "appointed_on": "2001-07-31",
+                "name": "SAAGE, Gary Albert",
+                "officer_role": "director",
+                "person_number": "77623110001",
+                "lavie:query": "00191031"
+            },
+            {
+                "address": {
+                    "address_line_1": "15 Thurloe Place",
+                    "locality": "London",
+                    "postal_code": "SW7 2RZ"
+                },
+                "name": "SEARLE, Graham William",
+                "officer_role": "director",
+                "person_number": "7192420001",
+                "lavie:query": "00191031"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
         "lavie:class": "bank",
         "lavie:lei": {
             "bods:idString": "5493000SA3K24EQKA103",
@@ -21907,6 +22381,291 @@
             "bods:scheme": "XI-LEI",
             "bods:schemeName": "Global Legal Entity Identifier Index"
         }
+    },
+    {
+        "lavie:class": "core",
+        "bods:fullName": "BAKTELEKOM MMC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.988424+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [
+            "Rasim ASADOV (AZ)"
+        ],
+        "bods:source": {
+            "bods:url": "https://www.occrp.org/en/organizations/baktelekom/",
+            "bods:type": "bods:thirdParty"
+        },
+        "lavie:synopsis": "one letter off the legit `Baktelecom` with no evidence of any connection"
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "SOCAR",
+        "lavie:aliases": [
+            "State Oil Company of the Republic of Azerbaijan",
+            "Azərbaycan Dövlət Neft Şirkəti"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.989422+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:idString": "9900003871",
+        "bods:streetAddress": "121 Heydar Aliyev Avenue, SOCAR Tower, Narimanov District, Baku, AZ1029, AZ",
+        "bods:foundingDate": "1995-11-23",
+        "bods:source": {
+            "bods:url": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+            "bods:type": "bods:thirdParty"
+        },
+        "lavie:synopsis": "AZ state oil company"
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN",
+        "lavie:aliases": [
+            "AZERB.REP.MINIST.EMERGENCY SITUA",
+            "AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.990117+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Mikayıl Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073",
+        "bods:foundingDate": "2005-12-16",
+        "bods:source": {
+            "bods:url": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+            "bods:type": "bods:thirdParty"
+        },
+        "lavie:synopsis": "public sector, emergency response"
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "AZARBAYCAN METANOL KOMPANI MMC",
+        "lavie:aliases": [
+            "AZERBAYCAN METANOL KOMPANI MMC",
+            "AZMECO",
+            "SOCAR METHANOL MMC",
+            "AZERBAIJAN METHANOL COMPANY",
+            "AZMECO INTERNATIONAL FINANCE"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.991126+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [
+            "SOCAR"
+        ],
+        "lavie:officers": [
+            "Sadig MAMEDOV (AZ)"
+        ],
+        "bods:idString": "1700711861",
+        "bods:streetAddress": "22nd km, Salyan Highway, Garadagh District, Baku, AZ1080, Azerbaijan",
+        "bods:foundingDate": "2008-01-01",
+        "lavie:synopsis": "petrochemical projects"
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "AZERBAIJAN CASPIAN SHIPPING COMPANY",
+        "lavie:aliases": [
+            "ASCO",
+            "AZERBAIJAN STATE CASPIAN SHIPP CO",
+            "AZARB.XAZAR DANIZ GAMICILIYI QSC"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.991786+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:idString": "1701579951",
+        "bods:streetAddress": "Mikayil Useynov kucasi 2, AZ 1003, Baku, Azerbaijan",
+        "bods:foundingDate": "2013-10-22",
+        "lavie:synopsis": "shipping fleets"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "ARASH MEDICAL COMPANY CJSC",
+        "lavie:aliases": [
+            "ARASH MEDICAL PRODUCTION LTD"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.992310+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "26 Salamzade St., Baku, AZ1078, Azerbaijan",
+        "bods:foundingDate": "1994-01-01",
+        "lavie:synopsis": "medical equipment"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "AVROMED COMPANY CJSC",
+        "lavie:aliases": [
+            "AVROMED COMPANY"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.992903+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [
+	    "AVROMED COMPANY LLP"
+	],
+        "lavie:officers": [
+            "Javanshir FEYZIYEV (AZ)"
+        ],
+        "bods:streetAddress": "Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ",
+        "bods:foundingDate": "2002-04-01",
+        "lavie:synopsis": "pharmaceutical supplier"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "AZERIPAMPSERVICES MMC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.993231+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "energy"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "CASPIAN MOBILE LTD.",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.993699+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Karpich Street 14/1, Baku, Azerbaijan, AZ0022",
+        "bods:foundingDate": "1999-10-01",
+        "lavie:synopsis": "mobile phone import"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "EKSPORT TAMPL MMC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.993946+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": []
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "EKVITA LLC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.994454+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku",
+        "bods:foundingDate": "2008-10-01",
+        "lavie:synopsis": "full-service legal, tax, and management consulting"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "ELEKTROMASH MMC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.994804+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "GOKNUR BAKI LTD",
+        "lavie:aliases": [
+            "GOKNUR BAKI LTD MMC"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.995424+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:idString": "1500023181",
+        "bods:streetAddress": "Ziya Bunyadov Street 11, Quarter 2062, Buyuk-Shor Highway, Narimanov District, Baku AZ1029, Azerbaijan",
+        "bods:foundingDate": "2003-01-01",
+        "lavie:synopsis": "manufacture and import/export of electrical equipment and industrial material"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "FIRST FREIGHT COMPANY PJSC",
+        "lavie:aliases": [
+            "JSC FREIGHT ONE",
+            "In favour JSC Freight One"
+        ],
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.996229+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-368r3q7A6ZJ39zeBpjBJAZ/"
+        ],
+        "lavie:related": [],
+        "lavie:officers": [
+            "Oleg ROMANOV (RU)"
+        ],
+        "bods:idString": "1137746982856",
+        "bods:streetAddress": "24 Novoryazanskaya Street, Moscow, 105066, Russian Federation",
+        "bods:foundingDate": "2013-10-22",
+        "lavie:synopsis": "rail freight logistics operator, affiliated with Russian military"
     },
     {
         "bods:fullName": "INN1325029808",
