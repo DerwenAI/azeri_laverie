@@ -21613,6 +21613,137 @@
     },
     {
         "lavie:similar": 1.0,
+        "bods:fullName": "ROTRACK LIMITED",
+        "bods:idString": "04582919",
+        "bods:streetAddress": {
+            "address_line_1": "Brooklands",
+            "address_line_2": "Brook End",
+            "locality": "Chadlington",
+            "postal_code": "OX7 3NF",
+            "region": "Oxfordshire"
+        },
+        "bods:dissolutionDate": "2013-02-05",
+        "bods:foundingDate": "2002-11-06",
+        "ukcoh:status": "dissolved",
+        "lavie:aliases": [
+	    "LTD ROTACK",
+	    "LTD ROTRACK"
+	],
+        "bods:retrievedAt": "2026-09-22T12:22:53.892951+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": [
+            {
+                "address": {
+                    "address_line_1": "Brooklands",
+                    "address_line_2": "Brook End",
+                    "locality": "Chadlington",
+                    "postal_code": "OX7 3NF",
+                    "region": "Oxfordshire"
+                },
+                "appointed_on": "2002-11-06",
+                "name": "TURNER, Peter Leslie",
+                "officer_role": "secretary",
+                "person_number": "85568440001",
+                "lavie:query": "04582919"
+            },
+            {
+                "address": {
+                    "address_line_1": "Brooklands",
+                    "address_line_2": "Brook End",
+                    "locality": "Chadlington",
+                    "postal_code": "OX7 3NF",
+                    "region": "Oxfordshire"
+                },
+                "appointed_on": "2003-10-22",
+                "name": "TURNER, Peter Leslie",
+                "officer_role": "director",
+                "person_number": "85568440001",
+                "lavie:query": "04582919"
+            },
+            {
+                "address": {
+                    "address_line_1": "Fy Mwthin",
+                    "address_line_2": "22 Merthyr Road Tongwynlais",
+                    "locality": "Cardiff",
+                    "postal_code": "CF15 7LH",
+                    "region": "South Glamorgan"
+                },
+                "appointed_on": "2002-11-06",
+                "name": "HARRISON, Irene Lesley",
+                "officer_role": "nominee-secretary",
+                "person_number": "900003790001",
+                "lavie:query": "04582919"
+            },
+            {
+                "address": {
+                    "address_line_1": "83 Wroslyn Road",
+                    "address_line_2": "Freeland",
+                    "locality": "Witney",
+                    "postal_code": "OX29 8HL",
+                    "region": "Oxfordshire"
+                },
+                "appointed_on": "2003-10-22",
+                "name": "ATHERTON, Eric John",
+                "officer_role": "director",
+                "person_number": "5322880002",
+                "lavie:query": "04582919"
+            },
+            {
+                "address": {
+                    "address_line_1": "Brooklands",
+                    "address_line_2": "Brook End, Chadlington",
+                    "locality": "Chipping Norton",
+                    "postal_code": "OX7 3NF",
+                    "region": "Oxfordshire"
+                },
+                "appointed_on": "2002-11-06",
+                "name": "TURNER, Jane Melanie",
+                "officer_role": "director",
+                "person_number": "43900590006",
+                "lavie:query": "04582919"
+            },
+            {
+                "address": {
+                    "address_line_1": "Crown House",
+                    "address_line_2": "64 Whitchurch Road",
+                    "locality": "Cardiff",
+                    "postal_code": "CF14 3LX"
+                },
+                "appointed_on": "2002-11-06",
+                "name": "BUSINESS INFORMATION RESEARCH & REPORTING LIMITED",
+                "officer_role": "corporate-nominee-director",
+                "person_number": "900005500001",
+                "lavie:query": "04582919"
+            }
+        ]
+    },
+    {
+        "lavie:similar": 1.0,
+        "bods:fullName": "SL012842 LP",
+        "bods:idString": "SL012842",
+        "bods:streetAddress": {
+            "address_line_1": "Suite 1135 111 West George Street",
+            "locality": "Glasgow",
+            "postal_code": "G2 1QX"
+        },
+        "bods:foundingDate": "2013-04-08",
+        "ukcoh:status": "active",
+        "lavie:aliases": [
+	    "PAKARD LP",
+	    "PAKART LP"
+	],
+        "bods:retrievedAt": "2026-09-22T12:22:56.355251+00:00",
+        "bods:code": "codes:UK",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:schemeName": "Companies House",
+        "bods:scheme": "GB-COH",
+        "ukcoh:officers": []
+    },
+    {
+        "lavie:similar": 1.0,
         "lavie:class": "bank",
         "lavie:lei": {
             "bods:idString": "5493000SA3K24EQKA103",
@@ -22383,289 +22514,28 @@
         }
     },
     {
-        "lavie:class": "core",
-        "bods:fullName": "BAKTELEKOM MMC",
-        "lavie:aliases": [],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.988424+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [
-            "Rasim ASADOV (AZ)"
-        ],
-        "bods:source": {
-            "bods:url": "https://www.occrp.org/en/organizations/baktelekom/",
-            "bods:type": "bods:thirdParty"
-        },
-        "lavie:synopsis": "one letter off the legit `Baktelecom` with no evidence of any connection"
-    },
-    {
-        "lavie:class": "state",
-        "bods:fullName": "SOCAR",
+        "lavie:class": "bank",
+        "bods:fullName": "BANK TECHNIQUE OJSC",
         "lavie:aliases": [
-            "State Oil Company of the Republic of Azerbaijan",
-            "Azərbaycan Dövlət Neft Şirkəti"
+            "Rashadbank",
+            "Reshadbank",
+            "Technika Bank"
         ],
         "bods:code": "codes:AZ",
         "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.989422+00:00",
+        "bods:retrievedAt": "2026-09-23T20:53:08.321027+00:00",
         "lavie:edd": [
-            []
+            [
+                "https://search.openaleph.org/search?q=BANK%20TECHNIQUE%20OJSC"
+            ]
         ],
         "lavie:sanction": [],
         "lavie:related": [],
         "lavie:officers": [],
-        "bods:idString": "9900003871",
-        "bods:streetAddress": "121 Heydar Aliyev Avenue, SOCAR Tower, Narimanov District, Baku, AZ1029, AZ",
-        "bods:foundingDate": "1995-11-23",
-        "bods:source": {
-            "bods:url": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
-            "bods:type": "bods:thirdParty"
-        },
-        "lavie:synopsis": "AZ state oil company"
-    },
-    {
-        "lavie:class": "state",
-        "bods:fullName": "MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN",
-        "lavie:aliases": [
-            "AZERB.REP.MINIST.EMERGENCY SITUA",
-            "AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI"
-        ],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.990117+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [],
-        "bods:streetAddress": "Mikayıl Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073",
-        "bods:foundingDate": "2005-12-16",
-        "bods:source": {
-            "bods:url": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
-            "bods:type": "bods:thirdParty"
-        },
-        "lavie:synopsis": "public sector, emergency response"
-    },
-    {
-        "lavie:class": "state",
-        "bods:fullName": "AZARBAYCAN METANOL KOMPANI MMC",
-        "lavie:aliases": [
-            "AZERBAYCAN METANOL KOMPANI MMC",
-            "AZMECO",
-            "SOCAR METHANOL MMC",
-            "AZERBAIJAN METHANOL COMPANY",
-            "AZMECO INTERNATIONAL FINANCE"
-        ],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.991126+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [
-            "SOCAR"
-        ],
-        "lavie:officers": [
-            "Sadig MAMEDOV (AZ)"
-        ],
-        "bods:idString": "1700711861",
-        "bods:streetAddress": "22nd km, Salyan Highway, Garadagh District, Baku, AZ1080, Azerbaijan",
-        "bods:foundingDate": "2008-01-01",
-        "lavie:synopsis": "petrochemical projects"
-    },
-    {
-        "lavie:class": "state",
-        "bods:fullName": "AZERBAIJAN CASPIAN SHIPPING COMPANY",
-        "lavie:aliases": [
-            "ASCO",
-            "AZERBAIJAN STATE CASPIAN SHIPP CO",
-            "AZARB.XAZAR DANIZ GAMICILIYI QSC"
-        ],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.991786+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [],
-        "bods:idString": "1701579951",
-        "bods:streetAddress": "Mikayil Useynov kucasi 2, AZ 1003, Baku, Azerbaijan",
-        "bods:foundingDate": "2013-10-22",
-        "lavie:synopsis": "shipping fleets"
-    },
-    {
-        "lavie:class": "operating",
-        "bods:fullName": "ARASH MEDICAL COMPANY CJSC",
-        "lavie:aliases": [
-            "ARASH MEDICAL PRODUCTION LTD"
-        ],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.992310+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [],
-        "bods:streetAddress": "26 Salamzade St., Baku, AZ1078, Azerbaijan",
-        "bods:foundingDate": "1994-01-01",
-        "lavie:synopsis": "medical equipment"
-    },
-    {
-        "lavie:class": "operating",
-        "bods:fullName": "AVROMED COMPANY CJSC",
-        "lavie:aliases": [
-            "AVROMED COMPANY"
-        ],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.992903+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [
-	    "AVROMED COMPANY LLP"
-	],
-        "lavie:officers": [
-            "Javanshir FEYZIYEV (AZ)"
-        ],
-        "bods:streetAddress": "Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ",
-        "bods:foundingDate": "2002-04-01",
-        "lavie:synopsis": "pharmaceutical supplier"
-    },
-    {
-        "lavie:class": "unknown",
-        "bods:fullName": "AZERIPAMPSERVICES MMC",
-        "lavie:aliases": [],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.993231+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [],
-        "lavie:synopsis": "energy"
-    },
-    {
-        "lavie:class": "operating",
-        "bods:fullName": "CASPIAN MOBILE LTD.",
-        "lavie:aliases": [],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.993699+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [],
-        "bods:streetAddress": "Karpich Street 14/1, Baku, Azerbaijan, AZ0022",
-        "bods:foundingDate": "1999-10-01",
-        "lavie:synopsis": "mobile phone import"
-    },
-    {
-        "lavie:class": "unknown",
-        "bods:fullName": "EKSPORT TAMPL MMC",
-        "lavie:aliases": [],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.993946+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": []
-    },
-    {
-        "lavie:class": "operating",
-        "bods:fullName": "EKVITA LLC",
-        "lavie:aliases": [],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.994454+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [],
-        "bods:streetAddress": "Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku",
-        "bods:foundingDate": "2008-10-01",
-        "lavie:synopsis": "full-service legal, tax, and management consulting"
-    },
-    {
-        "lavie:class": "unknown",
-        "bods:fullName": "ELEKTROMASH MMC",
-        "lavie:aliases": [],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.994804+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [],
-        "lavie:synopsis": "ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM"
-    },
-    {
-        "lavie:class": "operating",
-        "bods:fullName": "GOKNUR BAKI LTD",
-        "lavie:aliases": [
-            "GOKNUR BAKI LTD MMC"
-        ],
-        "bods:code": "codes:AZ",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.995424+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [],
-        "lavie:related": [],
-        "lavie:officers": [],
-        "bods:idString": "1500023181",
-        "bods:streetAddress": "Ziya Bunyadov Street 11, Quarter 2062, Buyuk-Shor Highway, Narimanov District, Baku AZ1029, Azerbaijan",
-        "bods:foundingDate": "2003-01-01",
-        "lavie:synopsis": "manufacture and import/export of electrical equipment and industrial material"
-    },
-    {
-        "lavie:class": "operating",
-        "bods:fullName": "FIRST FREIGHT COMPANY PJSC",
-        "lavie:aliases": [
-            "JSC FREIGHT ONE",
-            "In favour JSC Freight One"
-        ],
-        "bods:code": "codes:RU",
-        "bods:entityType": "codes:RegisteredEntity",
-        "bods:retrievedAt": "2026-09-21T18:52:08.996229+00:00",
-        "lavie:edd": [
-            []
-        ],
-        "lavie:sanction": [
-            "https://www.opensanctions.org/entities/NK-368r3q7A6ZJ39zeBpjBJAZ/"
-        ],
-        "lavie:related": [],
-        "lavie:officers": [
-            "Oleg ROMANOV (RU)"
-        ],
-        "bods:idString": "1137746982856",
-        "bods:streetAddress": "24 Novoryazanskaya Street, Moscow, 105066, Russian Federation",
-        "bods:foundingDate": "2013-10-22",
-        "lavie:synopsis": "rail freight logistics operator, affiliated with Russian military"
+        "bods:idString": "198",
+        "bods:streetAddress": "Babek Avenue 16, Khatai District, Baku, Azerbaijan",
+        "bods:foundingDate": "1994-02-24",
+        "bods:dissolutionDate": "2025-12-10"
     },
     {
         "bods:fullName": "INN1325029808",
@@ -23128,5 +22998,295 @@
         "lavie:synopsis": "an organization, with location inferred from invalid format",
         "lavid:class": "russian-anon",
         "lavie:aliases": []
+    },
+    {
+        "lavie:class": "core",
+        "bods:fullName": "BAKTELEKOM MMC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-23T20:08:43.629355+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [
+            "Rasim ASADOV (AZ)"
+        ],
+        "bods:source": {
+            "bods:url": "https://www.occrp.org/en/organizations/baktelekom/",
+            "bods:type": "bods:thirdParty"
+        },
+        "lavie:synopsis": "one letter off the legit `Baktelecom` with no evidence of any connection"
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "SOCAR",
+        "lavie:aliases": [
+            "State Oil Company of the Republic of Azerbaijan",
+            "Azərbaycan Dövlət Neft Şirkəti"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:stateBody",
+        "bods:retrievedAt": "2026-09-23T20:08:43.630419+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:idString": "9900003871",
+        "bods:streetAddress": "121 Heydar Aliyev Avenue, SOCAR Tower, Narimanov District, Baku, AZ1029, AZ",
+        "bods:foundingDate": "1995-11-23",
+        "bods:source": {
+            "bods:url": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+            "bods:type": "bods:thirdParty"
+        },
+        "lavie:synopsis": "AZ state oil company"
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "MINISTRY OF EMERGENCY SITUATIONS OF THE REPUBLIC OF AZERBAIJAN",
+        "lavie:aliases": [
+            "AZERB.REP.MINIST.EMERGENCY SITUA",
+            "AZƏRBAYCAN RESPUBLIKASı FÖVQƏLADƏ HALLAR NAZIRLIYI"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:stateBody",
+        "bods:retrievedAt": "2026-09-23T20:08:43.631110+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Mikayıl Mushfig Street, 501 Quarter (or 53), Yasamal District, Baku, AZ1073",
+        "bods:foundingDate": "2005-12-16",
+        "bods:source": {
+            "bods:url": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+            "bods:type": "bods:thirdParty"
+        },
+        "lavie:synopsis": "public sector, emergency response"
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "AZARBAYCAN METANOL KOMPANI MMC",
+        "lavie:aliases": [
+            "AZERBAYCAN METANOL KOMPANI MMC",
+            "AZMECO",
+            "SOCAR METHANOL MMC",
+            "AZERBAIJAN METHANOL COMPANY",
+            "AZMECO INTERNATIONAL FINANCE"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:stateBody",
+        "bods:retrievedAt": "2026-09-23T20:08:43.632114+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [
+            "SOCAR"
+        ],
+        "lavie:officers": [
+            "Sadig MAMEDOV (AZ)"
+        ],
+        "bods:idString": "1700711861",
+        "bods:streetAddress": "22nd km, Salyan Highway, Garadagh District, Baku, AZ1080, Azerbaijan",
+        "bods:foundingDate": "2008-01-01",
+        "lavie:synopsis": "petrochemical projects"
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "AZERBAIJAN CASPIAN SHIPPING COMPANY",
+        "lavie:aliases": [
+            "ASCO",
+            "AZERBAIJAN STATE CASPIAN SHIPP CO",
+            "AZARB.XAZAR DANIZ GAMICILIYI QSC"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:stateBody",
+        "bods:retrievedAt": "2026-09-23T20:08:43.632770+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:idString": "1701579951",
+        "bods:streetAddress": "Mikayil Useynov kucasi 2, AZ 1003, Baku, Azerbaijan",
+        "bods:foundingDate": "2013-10-22",
+        "lavie:synopsis": "shipping fleets"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "ARASH MEDICAL COMPANY CJSC",
+        "lavie:aliases": [
+            "ARASH MEDICAL PRODUCTION LTD"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-23T20:08:43.633287+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "26 Salamzade St., Baku, AZ1078, Azerbaijan",
+        "bods:foundingDate": "1994-01-01",
+        "lavie:synopsis": "medical equipment"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "AVROMED COMPANY CJSC",
+        "lavie:aliases": [
+            "AVROMED COMPANY"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-21T18:52:08.992903+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [
+	    "AVROMED COMPANY LLP"
+	],
+        "lavie:officers": [
+            "Javanshir FEYZIYEV (AZ)"
+        ],
+        "bods:streetAddress": "Nizami Abdullayev Küçəsi 4/47, Baku, Bakı, AZ1031 AZ",
+        "bods:foundingDate": "2002-04-01",
+        "lavie:synopsis": "pharmaceutical supplier"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "CASPIAN MOBILE LTD.",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-23T20:08:43.634367+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Karpich Street 14/1, Baku, Azerbaijan, AZ0022",
+        "bods:foundingDate": "1999-10-01",
+        "lavie:synopsis": "mobile phone import"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "GOKNUR BAKI LTD",
+        "lavie:aliases": [
+            "GOKNUR BAKI LTD MMC"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-23T20:08:43.634952+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:idString": "1500023181",
+        "bods:streetAddress": "Ziya Bunyadov Street 11, Quarter 2062, Buyuk-Shor Highway, Narimanov District, Baku AZ1029, Azerbaijan",
+        "bods:foundingDate": "2003-01-01",
+        "lavie:synopsis": "manufacture and import/export of electrical equipment and industrial material"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "EKVITA LLC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-23T20:08:43.635442+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Yeni Hayat Plaza/ 8th Floor/ 55 Zarifa Aliyeva St. AZ1010, Azerbaijan/Baku",
+        "bods:foundingDate": "2008-10-01",
+        "lavie:synopsis": "full-service legal, tax, and management consulting"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "AZERIPAMPSERVICES MMC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:retrievedAt": "2026-09-23T20:08:43.635759+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "energy"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "EKSPORT TAMPL MMC",
+        "lavie:aliases": [
+	    "EKSPORT TAMPL LLC ",
+	    "Ооо Eksport Tampl"
+	],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-23T20:08:43.636153+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Baku, Nyazami District, 79/60 Jamshidnakhtsivansky St., Azerbaijan",
+        "lavie:synopsis": "shipping through Ukraine, Spain, etc., for oil drilling equipment and other infrasstructure"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "ELEKTROMASH MMC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:retrievedAt": "2026-09-23T20:08:43.636491+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "ATEF ELEKTROMASH PLANT in Baku manufactures transformers, though this name is slightly different; perhaps similar to BAKTELEKOM"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "FIRST FREIGHT COMPANY PJSC",
+        "lavie:aliases": [
+            "JSC FREIGHT ONE",
+            "In favour JSC Freight One"
+        ],
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-23T20:08:43.637274+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-368r3q7A6ZJ39zeBpjBJAZ/"
+        ],
+        "lavie:related": [],
+        "lavie:officers": [
+            "Oleg ROMANOV (RU)"
+        ],
+        "bods:idString": "1137746982856",
+        "bods:streetAddress": "24 Novoryazanskaya Street, Moscow, 105066, Russian Federation",
+        "bods:foundingDate": "2013-10-22",
+        "lavie:synopsis": "rail freight logistics operator, affiliated with Russian military"
     }
 ]

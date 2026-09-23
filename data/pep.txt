@@ -1,7 +1,31 @@
+Gunel ALAKBAROVA
+ALAKBAROVA GUNEL
+15985
+	addr: Baku, Šariv Zade 74/58, 1000
+	country: AZ
+	edd: https://opencheck.world/?person=GUNEL+ALAKBAROVA
+	synopsis: AZ unknown person, LI bank account
+Nigar ALAKBAROVA
+NIGAR ALAKBAROVA
+16025
+	country: AZ
+	synopsis: AZ unknown person, LI bank account
+Esmira JAMALKHANOVA
+ESMIRA JAMALKHANOVA
+16006
+	country: AZ
+	synopsis: AZ unknown person, LI bank account
+15747
+	country: AZ
+	synopsis: AZ unknown person, LI bank account
+16005
+	country: AZ
+	synopsis: AZ unknown person, LI bank account
 Vladimir PUTIN
 Владимир Владимирович Путин
 	country: RU
 	birth: 1952-10-07
+	addr: 103132, Moscow, Russia, The Kremlin
 	synopsis: RU President
 	wiki: Q7747
 	edd: https://opencheck.world/?person=vladimir+putin
@@ -11,6 +35,7 @@ Ilham Alijev
 İlham Əliyev
 	country: AZ
 	birth: 1961-12-24
+	addr: The Presidential Palace, 19 Istiqlaliyyat street, Republic of Azerbaijan, Baku, AZ1066
 	synopsis: AZ President
 	wiki: Q57371
 	edd: https://opencheck.world/?person=Ilham+ALIYEV
@@ -36,25 +61,33 @@ Elxan Süleymanov
 	sanction: https://www.opensanctions.org/entities/Q24350727/
 	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
 	related: Ilham ALIYEV
-
-Irina BOKOVA	Person	BG
+Irina BOKOVA
 	country: BG
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
+	birth: 1952-07-12
 	synopsis: UNESCO Director-General, spouse of Kalin MITREV
+	wiki: Q230850
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
+	edd: https://opencheck.world/?person=Irina+BOKOVA
+	sanction: https://www.opensanctions.org/entities/Q230850/
 	related: Kalin MITREV
-
-Kalin MITREV	Person	BG
+Kalin MITREV
 MITREV KALIN
 	country: BG
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
+	birth: 1952-02-22
 	synopsis: spouse of UNESCO Director-General Irina BOKOVA
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/kalin-mitrev
 	related: Irina BOKOVA
 	related: AZERB.REP.MINIST.EMERGENCY SITUA
-
-Luca VOLONTE	Person	IT
+Luca VOLONTÈ
+Luca VOLONTE
 	country: IT
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
+	birth: 1966-03-17
 	synopsis: IT parliament, PACE chair, pro-AZ lobbying
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
+	addr: 1518 Budapest, Pf. 155., Hungary
+	wiki: Q3838317
+	edd: https://opencheck.world/?person=Luca+Volont%C3%A8
+	sanction: https://www.opensanctions.org/entities/Q3838317/
 	related: NOVAE TERRAE
 	related: FONDAZIONE NOVAE TERRAE
 	related: LGV SRL

@@ -1,3 +1,10 @@
+core:
+https://www.occrp.org/en/project/the-fincen-files/rinse-profit-repeat-how-a-small-team-of-estonians-turned-a-danish-bank-into-a-laundromat
+BETA CONSULT CORP	Company	UNKNOWN
+INMAXO CAPITAL CORP	Company	VG
+INMAXO CAPITAL CORP.	Company	VG
+
+
 5	AKKOTEX LTD
 		code: 1678595
 		reg: 2011-11-02
