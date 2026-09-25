@@ -23120,6 +23120,419 @@
         "lavie:synopsis": "shipping fleets"
     },
     {
+        "lavie:class": "state",
+        "bods:fullName": "Special Medical Service of the President of the Republic of Azerbaijan",
+        "lavie:aliases": [
+            "SPECIAL MEDIKAL SERV OF THE PR AR"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207103+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": []
+    },
+    {
+        "lavie:class": "state",
+        "bods:fullName": "Special State Protection Service of Azerbaijan",
+        "lavie:aliases": [
+            "SPECIAL STATE PROTECTION SERVICE",
+            "Xüsusi Dövlət Mühafizə Xidməti",
+            "XDMX"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207264+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Abbasgulu Abbaszadeh, 108, Baku, Sabail, AZ1073",
+        "bods:foundingDate": "2002-05-06",
+        "lavie:synopsis": "a militarized institution that is under the direct command of the AZ president"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "AGRO WEST LLC",
+        "lavie:aliases": [
+            "AQRO-VEST MMM",
+            "AQRO-VEST DC LLC"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207276+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:idString": "1805918511",
+        "bods:streetAddress": "Azerbaijan, Baku city, Sabunchu district, Baku Khanov settlement, B. Bunyadov street 12",
+        "lavie:synopsis": "shipping and distribution; not the UK company 10736496"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "ALI SAID LLC,",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207281+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": []
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "MAMEDOVS COMPANY LTD",
+        "lavie:aliases": [
+            "MAMEDOVS COMPANY LTS"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207286+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "versions of this company name registered in Ohio and UK much later"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "AYKHAN TRANS LTD",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207290+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": []
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "BAKER + MCKENZIE CIS LTD BAKU",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207294+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "The Landmark Building, 96 Nizami Street, Baku AZ1010, Azerbaijan",
+        "lavie:synopsis": "international legal services firm"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "BAKU HAZELNUT PRODUCTION LLC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207300+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Baku, Bakıkhanov settlement, Sabunchu district, Bashir Bunyatov street, 12 AZ1040",
+        "lavie:synopsis": "agricultural production, expelled from UN sustainability program"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "CTS-AGRO LLC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207305+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "J. Jabbarli 44, Caspian Plasa, 4-Th Floor, Baku, Azerbaijan",
+        "bods:foundingDate": "2004-01-01",
+        "lavie:synopsis": "textiles production - cotton, silk"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "DAVASHI-DAYIRMAN LLC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207308+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "1 Nizami St, Baku, Azerbaijan"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "Eurocond Pro MMC",
+        "lavie:aliases": [
+            "EUROCOND MMC"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207313+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Ahmad Rajabli 40b, Baku, Azerbaijan, AZ1052",
+        "lavie:synopsis": "HVAC"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "Iltar LLC",
+        "lavie:aliases": [
+            "ILTAR LIMITED LIABILITY COMPANY"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207317+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "has a Facebook page"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "KARAT HOLDING LLC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207321+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "exporting AZ products; the company name registered in Texas in 2019"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "Baku Taxil JSC",
+        "lavie:aliases": [
+            "LLC BAKI-TAXIL NAMED NADIR QULIYEV"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207326+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Large 222, Narimanov, Baku, AZ1029",
+        "lavie:synopsis": "grain processing"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "MISR AZERBAIJAN OFFICE FOR TRADE",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207329+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "trade with Egypt"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "MKT PRODUCTION COMMERCIAL LTD",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207333+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Qafqaz Business Center, H.aliyev Ave. 95, Baku, Azerbaijan",
+        "bods:foundingDate": "1991-01-01",
+        "lavie:synopsis": "cotton processing, a top non-oil exporter"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "MM.Orbita-LTD MMC",
+        "lavie:aliases": [
+            "MM ORBITA LTD LLC"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207338+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Baku, 72/32 Aga Neymatulla St.",
+        "lavie:synopsis": "residential construction"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "NEOCOM SALES LTD",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207341+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:foundingDate": "2009-01-01",
+        "lavie:synopsis": "local branch of TR telecom firm?"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "NEON INTER S L",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207345+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "internet provider from AE or MA?"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "Osteosintez-Baki ETIB",
+        "lavie:aliases": [
+            "OSTEOSINTEZ BAKI ETIB"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207349+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Baku, Nasimi district, Azadlig prospect, 254 B AZ1000",
+        "lavie:synopsis": "medical equipment"
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "PANO ASC",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207353+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "042, Baku, Surakhani District, Amirjan Settlement, S. Aliyev St. 127",
+        "bods:foundingDate": "2005-01-01",
+        "lavie:synopsis": "aluminum manufacturing"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "RIMLS LTD",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207356+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": []
+    },
+    {
+        "lavie:class": "operating",
+        "bods:fullName": "Shinkar Holding LLC",
+        "lavie:aliases": [
+            "SHINKAR INSHAAT FIRM"
+        ],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207361+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Baku, Narimanov district, Ziya Bunyadov Avenue 114 C, Azerbaijan",
+        "lavie:synopsis": "construction, repair services, structural steelworks, and logistics/heavy cargo freight"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "SOLOLA GROUP LTD",
+        "lavie:aliases": [],
+        "bods:code": "codes:DM",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207365+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "C & H Towers, Cnr. Great Marlborough and Great Georges Streets, 3rd Floor Roseau, Saint George Dominica",
+        "lavie:synopsis": "holding company, also active in Anguilla"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:fullName": "VENTOLEX TRADE LTD",
+        "lavie:aliases": [],
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T17:28:00.207372+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "lavie:synopsis": "Ventex Trade PVT LTD is in Kolkata, IN"
+    },
+    {
         "lavie:class": "operating",
         "bods:fullName": "ARASH MEDICAL COMPANY CJSC",
         "lavie:aliases": [

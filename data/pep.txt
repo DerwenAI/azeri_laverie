@@ -120,6 +120,12 @@ MARIO PALMONELLA AND ARCHITETTI	Person	RO
 	synopsis: authored open letter to rally Italian ex-pat support of AZ
 	related: Cinzia PALMONELLA
 
+Baylar EYYUBOV	Person AZ
+	birth: 1951-03-10
+	country: AZ
+	related: Ilham ALIYEV
+	related: SPECIAL STATE PROTECTION SERVICE
+
 Yaqub EYYUBOV	Person AZ
 	https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
 	synopsis: Azeri deputy PM, awarded RU Order of Friendship by Vladmir PUTIN
