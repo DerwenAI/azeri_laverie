@@ -40,6 +40,12 @@ Ilham Alijev
 	wiki: Q57371
 	edd: https://opencheck.world/?person=Ilham+ALIYEV
 	sanction: https://www.opensanctions.org/entities/Q57371/
+	related: Heydar ALIYEV
+Heydar ALIYEV
+	country: AZ
+	birth: 1923-05-10
+	synopsis: former head of KGB in AZ; seized control of AZ after fall of Soviets
+	related: Vladimir PUTIN
 Eduard LINTNER
 EDUARD LINTNER
 	country: DE
@@ -50,6 +56,7 @@ EDUARD LINTNER
 	edd: https://opencheck.world/?person=EDUARD+LINTNER
 	sanction: https://www.opensanctions.org/entities/Q1289169/
 	related: Elkhan SULEYMANOV
+	related: Council of Europe
 Elkhan SULEYMANOV
 Elkhan Abdullaevich Suleymanov
 Elxan Süleymanov
@@ -61,6 +68,7 @@ Elxan Süleymanov
 	sanction: https://www.opensanctions.org/entities/Q24350727/
 	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
 	related: Ilham ALIYEV
+	related: Council of Europe
 Irina BOKOVA
 	country: BG
 	birth: 1952-07-12
@@ -92,105 +100,143 @@ Luca VOLONTE
 	related: FONDAZIONE NOVAE TERRAE
 	related: LGV SRL
 	related: Elkhan SULEYMANOV
-
-Zmago Jelincic PLEMENITI	Person	SI
+	related: Council of Europe
+Zmago Jelincic PLEMENITI
+Zmago Jelinčič Plemeniti
 	country: SI
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
+	birth: 1948-01-07
+	addr: Bleiweisova 13, 1000 Ljubljana
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
 	synopsis: president of the Slovenian National Party, PACE substitute
 	related: ZMAGO JELINCIC PLEMENITI
-
-Eckart SAGER	Person	US
+	related: Council of Europe
+Eckart SAGER
 	country: US
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
-	synopsis: CNN producer, hit pieces on AZ critics
+	addr: 12-16 Laystall Street, London, EC1R 4PF
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/eckart-sager
+	synopsis: CNN producer, hit pieces on AZ critics in PACE; later was implicated in Paul Manafort FBI case
 	related: EBILAEAD
-
-Cinzia PALMONELLA	Person	IT
+Cinzia PALMONELLA
 CINZIA PALMONELLA
 	country: IT
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/mario-cinzia-palmonella
+	birth: 1958-03-01
+	addr: Via Paolo Emilio 28, 00192 Rome (RM), Italy
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/mario-cinzia-palmonella
 	synopsis: sister and business partner of Mario PALMONELLA
 	related: Mario PALMONELLA
-
-Mario PALMONELLA	Person	IT
-ARCHITETTO MARIO PALMONELLA	Person	RO
-MARIO PALMONELLA AND ARCHITETTI	Person	RO
+Mario PALMONELLA
+ARCHITETTO MARIO PALMONELLA
+MARIO PALMONELLA AND ARCHITETTI
 	country: IT
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/mario-cinzia-palmonella
+	birth: 1963-02-01
+	addr: Via Paolo Emilio 28, 00192 Rome (RM), Italy
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/mario-cinzia-palmonella
 	synopsis: authored open letter to rally Italian ex-pat support of AZ
 	related: Cinzia PALMONELLA
-
-Baylar EYYUBOV	Person AZ
+Baylar EYYUBOV
 	birth: 1951-03-10
+	addr: Abbasgulu Abbaszadeh 108, Baku, Sabail, AZ1073, Azerbaijan
+	synopsis: Chief of the Security Service of the President of the Republic of Azerbaijan
 	country: AZ
 	related: Ilham ALIYEV
 	related: SPECIAL STATE PROTECTION SERVICE
-
-Yaqub EYYUBOV	Person AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
+Yaqub EYYUBOV
+	country: AZ
+	addr: Suite 20, 1/A Yusif Safarov Street, Baku, AZ1025 Azerbaijan
+	birth: 1945-10-24
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
 	synopsis: Azeri deputy PM, awarded RU Order of Friendship by Vladmir PUTIN
 	related: Emin EYYUBOV
 	related: Orkhan EYYUBOV
 	related: Vladmir PUTIN
 	related: Ilham ALIYEV
-
-Emin EYYUBOV	Person AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
+Emin EYYUBOV
+	country: AZ
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine
 	synopsis: Azeri ambassador to Council of Europe
 	related: Yaqub EYYUBOV
 	related: NORTHERN PHARMACY
 	related: MERCEDES-BENZ VG GMBH
-
-Orkhan EYYUBOV	Person	AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: owner of Velasco 
+	related: Council of Europe
+Orkhan EYYUBOV
+	country: AZ
+	birth: 1982-10-01
+	addr: Yusif Safarov Street 1A; flat 19; Baku; AZ1025; Azerbaijan
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+	synopsis: owner of Velasco; now a real estate agent in Coral Gables, FL ?
 	related: Yaqub EYYUBOV
 	related: VELASCO INTERNATIONAL INC.
-
-Azer GASIMOV	Person	AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: press secretary of Ilham ALIYEV
+Azer GASIMOV
+	country: AZ
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+	synopsis: press secretary of Ilham ALIYEV, dismissed in Feb, 2025; name transliterates into Russian as `Kasimov`
 	related: Ilham ALIYEV
 	related: BUSINESS+LEISURE TRAVEL ADVISORS
 	edd: https://search.openaleph.org/search?q=Azer%20Gasimov
-
-Farhad EYYUBOV	Person	AZ
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+Farhad EYYUBOV
+Farxad EYYUBOV
+	country: AZ
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
 	synopsis: second deputy chief of Baku’s road police
 	related: Yaqub EYYUBOV
 	related: PRIVATPRAXIS FUR IMPLANTOLOGIE
-
-ZIYA MAMMADOV	Person	TR
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: AZ former minister of Transportation
-
-Hamid KARIMOV	Person	CZ
+Ziya MAMMADOV
+ZIYA MAMMADOV
+	country: AZ
+	birth: 1952-04-28
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+	synopsis: AZ politician and billionaire, served as Minister of Transportation; considered notoriously corrupt even by AZ standards
+	related: Donald TRUMP
+	related: Ilham ALIYEV
+Hamid KARIMOV
 HAMID KARIMOV
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+	country: CZ
+	addr: 13000, 21768048, Prague, Žižkov, Orebitská, 101, 16, Orebitská 101/16, Žižkov, 13000 Prague 3
+	related: METASTAR INVEST LLP
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
 	related: SOCAR
+	related: Hamza KARIMOV
 	related: Tural KARIMOV
 	edd: https://search.openaleph.org/search?q=HAMID%20KARIMOV
-
-Tural KARIMOV	Person	RO
+Tural KARIMOV
 TURAL KARIMOV
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+	country: RO
+	addr: Bucharest, Romania
+	synopsis: previously worked with SOCAR Romania's economic department
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+	related: SOCAR
+	related: Hamza KARIMOV
+	related: Hamid KARIMOV
+Hamza KARIMOV
+	country: RO
+	addr: Bucharest, Romania
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/hamza-karimov
+	synopsis: general director of SOCAR Romania 
 	related: SOCAR
 	related: Hamid KARIMOV
-
-Rashad GAFAROV	Person	CZ
+	related: Tural KARIMOV
+Rashad GAFAROV
 RASHAD GAFAROV
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: murdered businessman 
-
-Sadiyar ZEYLANOV	Person	LU
+	country: CZ
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/rashad-gafarov
+	synopsis: murdered businessman
+	related: LCM ALLIANCE LLP
+	related: Ali NAGHIYEV
+Sadiyar ZEYLANOV
 ZEYNALOV SADIYAR
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: academic
-
-Ali NAGHIYEV	Person	AZ
+	country: AZ
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+	synopsis: academic, head Department of International Law and International Relations at Baku State Univ; cited in 1995 UNESCO report
+Ali NAGHIYEV
 ALI NAGHIYEV
-	https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
-	synopsis: deputy chief AZ anti-corruption directorate
-
-Ruslan ALIYEV	Person AZ
+	country: AZ
+	birth: 1958-11-08
+	source: https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries
+	synopsis: former deputy chief AZ anti-corruption directorate; chief of the State Security Service
+	related: Ilham ALIYEV
+Ruslan ALIYEV
 ALIYEV RUSLAN
+	country: AZ
+	birth: 1974-01-24
+	synopsis: first acting AZ trade representative in the RU Federation
+	related: SOCAR

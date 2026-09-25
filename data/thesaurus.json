@@ -23000,6 +23000,25 @@
         "lavie:aliases": []
     },
     {
+        "lavie:class": "state",
+        "bods:fullName": "Council of Europe",
+        "lavie:aliases": [
+            "Conseil de l'Europe"
+        ],
+        "bods:code": "codes:FR",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-09-25T21:53:17.445329+00:00",
+        "lavie:edd": [
+            []
+        ],
+        "lavie:sanction": [],
+        "lavie:related": [],
+        "lavie:officers": [],
+        "bods:streetAddress": "Avenue de l’Europe, 67075 Strasbourg Cedex, FRANCE",
+        "bods:foundingDate": "1949-05-05",
+        "lavie:synopsis": "an international organisation which aims to uphold human rights, democracy and the rule of law in Europe"
+    },
+    {
         "lavie:class": "core",
         "bods:fullName": "BAKTELEKOM MMC",
         "lavie:aliases": [],
