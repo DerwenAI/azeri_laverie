@@ -72,7 +72,7 @@ Iterator for lines read from file in a bizarre YAML-ish format.
                 if key in [ "lavie:edd", "lavie:sanction", "skos:related", ]:
                     record[key].append(val)
                 elif key in [ "bods:code", ]:
-                    record[key] = "bods:" + val
+                    record[key] = "codes:" + val
                 else:
                     record[key] = val
             else:
