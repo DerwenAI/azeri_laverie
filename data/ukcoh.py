@@ -115,7 +115,7 @@ Pouplate the officers, if any.
     """
     result["lavie:aliases"] = []
     result["bods:retrievedAt"] = f"{dt.datetime.now(dt.UTC).isoformat()}"
-    result["bods:code"] = "codes:UK"
+    result["bods:code"] = "codes:GB"
     result["bods:entityType"] = "codes:RegisteredEntity"
     result["bods:schemeName"] = "Companies House" 
     result["bods:scheme"] = "GB-COH"

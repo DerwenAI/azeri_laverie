@@ -50,7 +50,7 @@ if __name__ == "__main__":
             names.add(name)
 
         for name in item.get("lavie:aliases"):
-            if name in names:
+            if name in alias:
                 logger.info(f"DUPLICATE: {name}")
             else:
                 alias.add(name)

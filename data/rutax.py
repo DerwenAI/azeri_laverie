@@ -322,9 +322,9 @@ if __name__ == "__main__":
 	    "bods:code": "codes:RU",
             "bods:entityType": "codes:unknownEntity",
             "bods:schemeName": "Russian Federal Tax Service",
-            "bods:scheme": "RU-FNS",
+            "bods:scheme": "RU-INN",
 	    "lavie:note": "an organization, not an individual",
-	    "lavid:class": "russian-anon",
+	    "lavie:class": "russian-anon",
             "lavie:aliases": [],
         }
 

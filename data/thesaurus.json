@@ -33,7 +33,7 @@
             "POLUX MANAGEMENT LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:56:10.732759+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -55,7 +55,7 @@
             "SL012732 LP"
         ],
         "bods:retrievedAt": "2026-09-16T18:58:24.052069+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -73,7 +73,7 @@
         "lavie:query": "LCM ALLIANCE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:18.293218+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -136,7 +136,7 @@
             "METASTAR INVEST LLP CORNWALL BUILD."
         ],
         "bods:retrievedAt": "2026-09-16T02:55:02.694977+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -193,7 +193,7 @@
         "ukcoh:status": "unknown",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:33.393926+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:UnknownEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -214,7 +214,7 @@
             "EURO TELECOM LTD."
         ],
         "bods:retrievedAt": "2026-09-16T02:17:19.361410+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -314,7 +314,7 @@
             "ACCESS TECHNOLOGIES LTD."
         ],
         "bods:retrievedAt": "2026-09-16T02:48:44.089980+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -556,7 +556,7 @@
         "lavie:query": "ADANA TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:48:46.709323+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -619,7 +619,7 @@
             "AG GLOBAL LOGISTIC LTD."
         ],
         "bods:retrievedAt": "2026-09-16T02:48:49.383361+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -725,7 +725,7 @@
         "lavie:query": "ALENTER TRADING LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:48:53.719440+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -794,7 +794,7 @@
         "lavie:query": "ALLYSON SOLUTIONS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:48:56.348500+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -854,7 +854,7 @@
         "lavie:query": "ALPS VENTURES LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:48:58.932820+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -911,7 +911,7 @@
         "lavie:query": "ALSATEC LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:01.388094+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1085,7 +1085,7 @@
         "lavie:query": "AMBERLOT INVEST LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:04.038015+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1103,7 +1103,7 @@
         "lavie:query": "ARBA MANAGEMENT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:06.490442+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1166,7 +1166,7 @@
         "lavie:query": "ARIONA TRADING LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:09.008410+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1308,7 +1308,7 @@
         "lavie:query": "ARMA STEEL TRADING LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:11.580779+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1328,7 +1328,7 @@
             "ASTON GLOBAL L P"
         ],
         "bods:retrievedAt": "2026-09-16T02:49:14.255580+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1348,7 +1348,7 @@
             "ATROPATENA LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:49:16.721802+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1382,7 +1382,7 @@
         "lavie:query": "AVROMED COMPANY LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:19.416675+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1434,7 +1434,7 @@
     {
         "lavie:similar": 0.89,
         "lavie:class": "operating",
-        "lavid:biz": "petroleum development",
+        "lavie:biz": "petroleum development",
         "bods:fullName": "AZERBAIJAN INTERNATIONAL OPERATING COMPANY",
         "bods:idString": "FC018764",
         "bods:streetAddress": "Robert C Cumming, Bp Compass Point,, 79-87 Kingston Road,Knowle Green, Staines,Middlesex, TW18 1DY",
@@ -1445,7 +1445,7 @@
             "AZERBAIJAN INTERNATIONAL OPERATING"
         ],
         "bods:retrievedAt": "2026-09-16T02:49:22.138788+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1583,7 +1583,7 @@
             "BALLY SUNGLASS+OPTICAL COMPANY LTD."
         ],
         "bods:retrievedAt": "2026-09-16T02:49:24.768426+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1659,7 +1659,7 @@
         "lavie:query": "BENARDO SOLUTIONS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:29.287406+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1730,7 +1730,7 @@
         "lavie:query": "BENTCARD IMPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:33.427963+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1791,7 +1791,7 @@
         "lavie:query": "BERGFOX ALLIANCE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:35.846043+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1854,7 +1854,7 @@
             "BEWHHART LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:49:40.021580+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1922,7 +1922,7 @@
         "lavie:query": "BHW PROJECTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:42.676632+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -1981,7 +1981,7 @@
         "lavie:query": "BOLDCROSS LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:46.842364+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2116,7 +2116,7 @@
             "BONAS MACFARLANE TUITION LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:49:49.280527+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2231,7 +2231,7 @@
         "lavie:query": "BONDWEST LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:51.699015+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2294,7 +2294,7 @@
             "BONWEST INDUSTRIAL  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:49:56.696674+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2355,7 +2355,7 @@
         "lavie:query": "BONWILL PROJECTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:49:59.288896+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2416,7 +2416,7 @@
         "lavie:query": "BRANDHOLD ALLIANCE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:01.794959+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2478,7 +2478,7 @@
             "BRENTON BUSINESS LP"
         ],
         "bods:retrievedAt": "2026-09-16T02:50:04.410082+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2496,7 +2496,7 @@
         "lavie:query": "BRIGHT LINE MARITIME LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:06.994491+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2541,7 +2541,7 @@
         "lavie:query": "BSMAX LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:11.123375+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2638,7 +2638,7 @@
         "lavie:query": "BTS INT LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:13.572799+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2719,7 +2719,7 @@
         "lavie:query": "BUILDCO SUPPLIES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:16.025313+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2781,7 +2781,7 @@
             "CALOREX HEAT PUMPS LIMITED"
         ],
         "bods:retrievedAt": "2026-09-16T02:50:18.483042+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2848,7 +2848,7 @@
         "lavie:query": "CAMBELL UNIVERSAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:21.057344+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -2951,7 +2951,7 @@
             "Captron Merchants LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:50:23.477381+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3012,7 +3012,7 @@
         "lavie:query": "CARLEX TECHNOLOGY LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:28.326508+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3155,7 +3155,7 @@
         "lavie:query": "CARLPOOL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:30.762806+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3215,7 +3215,7 @@
         "lavie:query": "CARTFIELD TRADE L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:33.393926+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3233,7 +3233,7 @@
         "lavie:query": "CAYREST EXPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:38.259829+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3294,7 +3294,7 @@
         "lavie:query": "CENTROEXPERT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:40.688370+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3393,7 +3393,7 @@
         "lavie:query": "CITYPORT CONTRACTS L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:43.119060+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3414,7 +3414,7 @@
             "CLAMOSA LIMITED SUITE 2 23 24 GREAT"
         ],
         "bods:retrievedAt": "2026-09-16T02:50:45.553582+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3482,7 +3482,7 @@
         "lavie:query": "CLIMBFREE SOLUTIONS LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:48.014720+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3600,7 +3600,7 @@
         "lavie:query": "CLYDY LTD",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:50.470330+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3648,7 +3648,7 @@
         "lavie:query": "CNL UNIVERSAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:50:54.704203+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3710,7 +3710,7 @@
             "CONTINENTAL TRADING UK LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:50:57.351857+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3827,7 +3827,7 @@
             "CONTRATECH SALES  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:50:59.942306+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -3889,7 +3889,7 @@
             "COOPERS FIRE LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:02.386326+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4270,7 +4270,7 @@
             "CREATD SOFTWARE LTD."
         ],
         "bods:retrievedAt": "2026-09-16T02:51:04.984642+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4304,7 +4304,7 @@
         "lavie:query": "CREDILEX LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:07.412546+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4365,7 +4365,7 @@
         "lavie:query": "CROFTLINK EXPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:10.012832+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4465,7 +4465,7 @@
         "lavie:query": "CROSSPARK LINES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:12.619370+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4526,7 +4526,7 @@
         "lavie:query": "DALLAS IMPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:15.023619+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4591,7 +4591,7 @@
             "DANBELL  IMPORT  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:17.479694+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4652,7 +4652,7 @@
         "lavie:query": "DARTLEY CAPITAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:19.935873+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4713,7 +4713,7 @@
         "lavie:query": "DATEMILE ALLIANCE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:22.547003+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4772,7 +4772,7 @@
         "lavie:query": "DATVILLE UNITED LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:24.965350+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4878,7 +4878,7 @@
             "DAVID KOMA LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:27.422231+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -4969,7 +4969,7 @@
         "lavie:query": "DAYFORD SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:30.088060+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -5030,7 +5030,7 @@
         "lavie:query": "DELFRONT IMPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:32.546961+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -5091,7 +5091,7 @@
         "lavie:query": "DELLWOOD SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:35.140104+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -5191,7 +5191,7 @@
         "lavie:query": "DELMOORE EXPRESS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:37.576521+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -5252,7 +5252,7 @@
         "lavie:query": "DENTSPLY LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:40.012915+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -5567,7 +5567,7 @@
             "DEXPORT UNIVERSAL  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:42.452637+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -5630,7 +5630,7 @@
             "DIGIMARK MERCHANTS  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:45.015422+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -5693,7 +5693,7 @@
             "DIGIPOS STORE SOLUTIONS INTERNATION"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:47.649733+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6159,7 +6159,7 @@
         "lavie:query": "DOCKWOOD ALLIANCE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:50.239235+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6216,7 +6216,7 @@
         "lavie:query": "DREAM CAPITAL INDUSTRIES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:51:52.867531+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6274,7 +6274,7 @@
             "ELECTROCOIN AUTOMATICS LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:55.309932+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6355,7 +6355,7 @@
             "ENTERTOWN L.P"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:00.187098+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6373,7 +6373,7 @@
         "lavie:query": "EURAS BRIDGE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:02.621136+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6436,7 +6436,7 @@
         "lavie:query": "EUROEX COMMERCIAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:05.258747+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6496,7 +6496,7 @@
         "lavie:query": "EVERMAIR PROJECTS LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:07.887080+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6514,7 +6514,7 @@
         "lavie:query": "EXTRAFIELD LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:12.306114+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6577,7 +6577,7 @@
             "F.S.MACKENZIE INTERNATIONAL LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:14.765809+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6669,7 +6669,7 @@
         "lavie:query": "FC USSR LTD",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:19.078311+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6770,7 +6770,7 @@
         "lavie:query": "FEELGOOD PRODUCTION LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:21.509622+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -6873,7 +6873,7 @@
         "lavie:query": "FERROTEC STEEL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:24.098145+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7016,7 +7016,7 @@
         "lavie:query": "FESTIVAL SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:26.529500+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7079,7 +7079,7 @@
             "FINE DECOR WALLCOVERINGS LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:28.972241+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7263,7 +7263,7 @@
             "FIRST IMPORTS/EXPORTS L P"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:31.404842+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7282,7 +7282,7 @@
             "FIRST MARINE L.P"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:33.998134+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7300,7 +7300,7 @@
         "lavie:query": "FIRSTWOOD ALLIANCE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:36.562460+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7399,7 +7399,7 @@
             "FOXTONS LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:39.138105+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7704,7 +7704,7 @@
         "lavie:query": "FRONTWELL COMPANY LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:43.550171+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7806,7 +7806,7 @@
             "GAELIC INT L HOLDINGS LTD."
         ],
         "bods:retrievedAt": "2026-09-16T02:52:46.305732+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7857,7 +7857,7 @@
         "lavie:query": "GEBA INDUSTRIES LTD",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:48.897425+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7940,7 +7940,7 @@
             "GENERAL TRADE L.P"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:51.407545+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -7959,7 +7959,7 @@
             "GENTLEMENS TONIC LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:53.963329+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8137,7 +8137,7 @@
         "lavie:query": "GFG EXPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:56.551182+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8198,7 +8198,7 @@
         "lavie:query": "GILSON UNIVERSAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:52:59.135658+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8342,7 +8342,7 @@
             "GLOBECOM TRADE L.P"
         ],
         "bods:retrievedAt": "2026-09-16T02:53:01.834043+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8360,7 +8360,7 @@
         "lavie:query": "GLOBETOWN LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:04.260363+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8503,7 +8503,7 @@
         "lavie:query": "GM LEADER LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:06.722675+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8564,7 +8564,7 @@
             "GPEG INTERNATIONAL LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:53:09.344584+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8690,7 +8690,7 @@
         "lavie:query": "GRANSTON SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:11.971743+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8750,7 +8750,7 @@
         "lavie:query": "GRAY KENT INVESTMENTS LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:14.613593+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8768,7 +8768,7 @@
         "lavie:query": "GREENOUGH TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:17.206729+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8827,7 +8827,7 @@
         "lavie:query": "GTW EXPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:19.663626+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -8890,7 +8890,7 @@
             "H.R.OWEN DEALERSHIPS LIMITED"
         ],
         "bods:retrievedAt": "2026-09-16T02:53:22.096938+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9252,7 +9252,7 @@
         "lavie:query": "HARDWARE SYSTEM LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:24.863981+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9311,7 +9311,7 @@
         "lavie:query": "HIGHCORP WORLDWIDE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:31.782274+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9457,7 +9457,7 @@
             "HILLSTAR COMPLEX  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:53:34.364710+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9518,7 +9518,7 @@
         "lavie:query": "INFOCAR TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:38.963279+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9579,7 +9579,7 @@
         "lavie:query": "INFOCREST LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:41.379097+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9679,7 +9679,7 @@
         "lavie:query": "INTERLINE EUROPE L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:43.833307+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9696,7 +9696,7 @@
         "lavie:query": "INTERWEST L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:48.920875+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9714,7 +9714,7 @@
         "lavie:query": "INTERWEST PROJECT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:51.339420+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9846,7 +9846,7 @@
         "lavie:query": "INTRAWAY ALLIANCE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:53:53.938394+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -9907,7 +9907,7 @@
         "lavie:query": "JENGATE LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:00.761764+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10114,7 +10114,7 @@
         "lavie:query": "JETMAX CONTRACTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:03.183930+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10215,7 +10215,7 @@
         "lavie:query": "JLS PRODUCTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:05.654877+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10315,7 +10315,7 @@
         "lavie:query": "KEYLORD INVESTMENTS L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:08.144482+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10333,7 +10333,7 @@
         "lavie:query": "LAKEMONT PROJECTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:13.228057+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10394,7 +10394,7 @@
         "lavie:query": "LATFORM INDUSTRIES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:15.826621+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10536,7 +10536,7 @@
             "LEWIS CORPORATION L P"
         ],
         "bods:retrievedAt": "2026-09-16T02:54:20.761384+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10554,7 +10554,7 @@
         "lavie:query": "LEYBURN SYSTEMS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:23.342939+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10615,7 +10615,7 @@
         "lavie:query": "LIGHTFOLD EXPERTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:25.902903+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -10678,7 +10678,7 @@
             "LINX PRINTING TECHNOLOGIES LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:54:28.317440+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11080,7 +11080,7 @@
         "lavie:query": "LOGILUX LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:30.885362+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11181,7 +11181,7 @@
         "lavie:query": "LOTA SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:33.486560+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11282,7 +11282,7 @@
             "LUXBORG L. P."
         ],
         "bods:retrievedAt": "2026-09-16T02:54:41.142854+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11300,7 +11300,7 @@
         "lavie:query": "LUXOR COMMUNICATION LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:43.565375+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11373,7 +11373,7 @@
         "lavie:query": "LYSOFORM LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:45.990942+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11476,7 +11476,7 @@
         "lavie:query": "MALAMO CAPITAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:48.455177+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11541,7 +11541,7 @@
             "MARINE SOURCING SERVICES LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:54:52.764049+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11630,7 +11630,7 @@
         "lavie:query": "MARTEX SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:54:55.369930+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11690,7 +11690,7 @@
         "lavie:query": "MAXWISE TECHNOLOGY L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:00.210790+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11708,7 +11708,7 @@
         "lavie:query": "METREX PROJECTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:05.139196+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11769,7 +11769,7 @@
         "lavie:query": "MOBILA LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:10.212455+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11830,7 +11830,7 @@
         "lavie:query": "MOLONEY TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:15.150268+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11889,7 +11889,7 @@
         "lavie:query": "MONDOTECH LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:17.588883+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -11989,7 +11989,7 @@
         "lavie:query": "MOYA ENGINEERING LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:20.035083+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12048,7 +12048,7 @@
         "lavie:query": "MUROVA SYSTEMS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:22.453208+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12111,7 +12111,7 @@
         "lavie:query": "MX TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:24.873033+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12160,7 +12160,7 @@
         "lavie:query": "NEXTMARK SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:27.473655+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12221,7 +12221,7 @@
         "lavie:query": "NORDLAND DEVELOPMENT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:30.061189+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12284,7 +12284,7 @@
             "NORTHBURG LIMITED"
         ],
         "bods:retrievedAt": "2026-09-16T02:55:32.480004+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12429,7 +12429,7 @@
             "ONLINE AUTOMOTIVE LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:55:34.920377+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12504,7 +12504,7 @@
         "lavie:query": "ORDERVILLE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:37.361894+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12643,7 +12643,7 @@
         "lavie:query": "OVERMOND LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:39.832384+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12704,7 +12704,7 @@
         "lavie:query": "OVERTON SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:55:42.448922+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12767,7 +12767,7 @@
             "PARKVIEW ESTATES MANAGEMENT LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:55:52.218448+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -12922,7 +12922,7 @@
             "PEERMAN INVESTMENTS LIMITED PREMIER"
         ],
         "bods:retrievedAt": "2026-09-16T02:55:56.606744+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -13155,7 +13155,7 @@
             "PETRO-CANADA EUROPE LUBRICANTS LTD."
         ],
         "bods:retrievedAt": "2026-09-16T02:56:00.740636+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -13532,7 +13532,7 @@
         "lavie:query": "PILOTEX IMPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:03.367278+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -13632,7 +13632,7 @@
         "lavie:query": "PLASTEX PROJECTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:05.836172+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -13695,7 +13695,7 @@
             "POLAR FURS LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:56:08.272048+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -13870,7 +13870,7 @@
             "POLYFLOR LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:56:13.124229+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14347,7 +14347,7 @@
         "lavie:query": "POLYWIND TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:15.779822+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14405,7 +14405,7 @@
         "lavie:query": "RASMUS LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:24.772296+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14425,7 +14425,7 @@
             "REK VALVES LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:56:32.247060+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14532,7 +14532,7 @@
         "lavie:query": "RESTCODE CAPITAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:34.707842+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14591,7 +14591,7 @@
         "lavie:query": "RICHBORO PROJECTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:39.579508+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14651,7 +14651,7 @@
         "lavie:query": "RICHFIELD TRADING L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:42.238431+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14671,7 +14671,7 @@
             "RICHMAR LOGISTIC AND CHARTERING"
         ],
         "bods:retrievedAt": "2026-09-16T02:56:45.024131+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14688,7 +14688,7 @@
         "lavie:query": "RICHSTONE EXPERTS L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:47.639324+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14706,7 +14706,7 @@
         "lavie:query": "RIDER IMPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:50.257413+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14767,7 +14767,7 @@
         "lavie:query": "RIKAS EXPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:52.734196+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14828,7 +14828,7 @@
         "lavie:query": "RONLEX MERCHANTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:56:57.593453+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14889,7 +14889,7 @@
         "lavie:query": "RUSMEDIZD TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:04.382930+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -14950,7 +14950,7 @@
             "SAGE PARTS GSE LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:06.976713+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -15274,7 +15274,7 @@
         "lavie:query": "SAMITEX TRADING LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:09.744569+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -15334,7 +15334,7 @@
         "lavie:query": "SANBERG EUROTRADE L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:12.180820+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -15351,7 +15351,7 @@
         "lavie:query": "SANTRAL ELEKTRIK LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:14.578505+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -15369,7 +15369,7 @@
         "lavie:query": "SDT TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:17.028881+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -15432,7 +15432,7 @@
             "SEA SOTRA (LONDON)LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:19.485797+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -15689,7 +15689,7 @@
         "lavie:query": "SEABON LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:21.905707+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -15783,7 +15783,7 @@
         "lavie:query": "SECURO LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:24.351214+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -15859,7 +15859,7 @@
             "SEVEN MILE SHIPPING LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:26.983140+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16060,7 +16060,7 @@
             "SHANDONG YONGSHENG RUBBER GROUP"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:29.654555+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16133,7 +16133,7 @@
             "SIZEROY LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:33.986505+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16195,7 +16195,7 @@
             "SKN ELECTRICAL SERVICES LIMITEDACCO"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:36.490790+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16301,7 +16301,7 @@
         "lavie:query": "SOLIDSTAR WORLDWIDE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:40.846256+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16401,7 +16401,7 @@
         "lavie:query": "SOLITEX SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:43.294555+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16505,7 +16505,7 @@
             "SONIFEX LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:45.693054+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16690,7 +16690,7 @@
         "lavie:query": "SOVER DEVELOPMENT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:48.156522+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16755,7 +16755,7 @@
             "STAMFORD POWER SYSTEMS LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:57:50.780923+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16882,7 +16882,7 @@
             "STAMPTONE SERVICES L.P."
         ],
         "bods:retrievedAt": "2026-09-16T02:57:53.365873+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16900,7 +16900,7 @@
         "lavie:query": "STANDLINE SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:55.872810+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16961,7 +16961,7 @@
         "lavie:query": "STARGLOBE LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:57:58.289128+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -16995,7 +16995,7 @@
         "lavie:query": "STARGOLD PROJECTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:00.730015+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17095,7 +17095,7 @@
         "lavie:query": "STREAMTRADE INDUSTRIES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:03.149887+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17190,7 +17190,7 @@
         "lavie:query": "STYLEMAX COMPANY LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:05.751357+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17285,7 +17285,7 @@
         "lavie:query": "SUPRAMARK EXPORT LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:08.195404+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17348,7 +17348,7 @@
             "SWIFT PLANT SPARES LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:58:10.806205+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17417,7 +17417,7 @@
         "lavie:query": "TABRIOL SALES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:13.278516+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17499,7 +17499,7 @@
         "lavie:query": "TAYLORD FIELD LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:15.732502+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17517,7 +17517,7 @@
         "lavie:query": "TECHNIKON LTD",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:20.593282+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17551,7 +17551,7 @@
         "lavie:query": "TEOLINE BUSINESS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:23.096069+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17616,7 +17616,7 @@
             "Tereach Trading LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:58:25.617052+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17704,7 +17704,7 @@
             "THORNTON BREGAZZI LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:58:28.228740+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17759,7 +17759,7 @@
         "lavie:query": "TIM ENERGY LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:30.682778+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17906,7 +17906,7 @@
         "lavie:query": "TIM RESOURCES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:33.325907+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -17969,7 +17969,7 @@
         "lavie:query": "TOOLMARK PRODUCTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:35.763239+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18030,7 +18030,7 @@
         "lavie:query": "TOWNMARK LOGISTICS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:38.223418+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18091,7 +18091,7 @@
         "lavie:query": "TRONLUX VENTURES LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:40.839608+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18154,7 +18154,7 @@
             "TURNOCK LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:58:43.424322+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18411,7 +18411,7 @@
         "lavie:query": "UNICONT INDUSTRIAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:51.168610+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18470,7 +18470,7 @@
         "lavie:query": "UNIONSTAR TRADE LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:53.654043+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18527,7 +18527,7 @@
         "lavie:query": "VASSA IMPEX LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:58:56.083337+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18590,7 +18590,7 @@
         "lavie:query": "WAYCONT UNITED LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:00.341276+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18651,7 +18651,7 @@
         "lavie:query": "WDC PROJECTS LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:02.791382+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18877,7 +18877,7 @@
         "lavie:query": "WESTBURN ENTERPRISES LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:07.167078+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -18956,7 +18956,7 @@
         "lavie:query": "WIDEMARK CAPITAL LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:09.612563+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19013,7 +19013,7 @@
         "lavie:query": "WILDPARK SALES L.P.",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:12.066749+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19031,7 +19031,7 @@
         "lavie:query": "WILLROCK UNITED LLP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:14.496807+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19133,7 +19133,7 @@
             "WORLD OF TATA NAKA LTD"
         ],
         "bods:retrievedAt": "2026-09-16T02:59:19.771710+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19248,7 +19248,7 @@
         "lavie:query": "WORTHY TECHNOLOGIES LIMITED",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:22.214391+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19413,7 +19413,7 @@
         "lavie:query": "ZELMER PARTNERS LP",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T02:59:24.670265+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19435,7 +19435,7 @@
         "ukcoh:status": "active",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T18:58:26.447882+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19646,7 +19646,7 @@
         "ukcoh:status": "dissolved",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T18:58:28.922755+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19839,9 +19839,11 @@
         "bods:dissolutionDate": "2021-03-16",
         "bods:foundingDate": "2010-06-28",
         "ukcoh:status": "dissolved",
-        "lavie:aliases": [],
+        "lavie:aliases": [
+	    "PEDERSEN AND PARTNERS INTERNATIONAL"
+	],
         "bods:retrievedAt": "2026-09-16T18:58:31.358274+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -19946,7 +19948,7 @@
         "ukcoh:status": "dissolved",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T18:58:33.814300+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20062,7 +20064,7 @@
         "ukcoh:status": "active",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T18:58:36.286178+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20223,7 +20225,7 @@
         "ukcoh:status": "dissolved",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T18:58:43.573255+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20289,7 +20291,7 @@
         "ukcoh:status": "dissolved",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T18:58:46.028513+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20394,7 +20396,7 @@
         "ukcoh:status": "dissolved",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T18:58:48.430486+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20481,7 +20483,7 @@
             "RIVARLANE LLP"
         ],
         "bods:retrievedAt": "2026-09-16T18:58:50.858115+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20547,7 +20549,7 @@
         "ukcoh:status": "dissolved",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T18:58:53.263287+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20609,9 +20611,11 @@
         "bods:dissolutionDate": "2016-01-12",
         "bods:foundingDate": "2011-09-29",
         "ukcoh:status": "dissolved",
-        "lavie:aliases": [],
+        "lavie:aliases": [
+	    "PRESTIGE CAPITAL PROPERTIES LTD"
+	],
         "bods:retrievedAt": "2026-09-16T18:58:55.680283+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20664,7 +20668,7 @@
             "ADANA INVESTMENT,LTD"
         ],
         "bods:retrievedAt": "2026-09-16T22:43:33.751476+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20703,7 +20707,7 @@
         "ukcoh:status": "dissolved",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-16T22:43:36.149658+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20912,7 +20916,7 @@
             "FABERLEX LP"
         ],
         "bods:retrievedAt": "2026-09-16T22:43:38.553971+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -20937,7 +20941,7 @@
             "TDC SYSTEMS LIMITED"
         ],
         "bods:retrievedAt": "2026-09-17T02:56:33.111267+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -21171,7 +21175,7 @@
         "ukcoh:status": "active",
         "lavie:aliases": [],
         "bods:retrievedAt": "2026-09-21T19:05:17.113042+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -21626,11 +21630,12 @@
         "bods:foundingDate": "2002-11-06",
         "ukcoh:status": "dissolved",
         "lavie:aliases": [
+	    "ROTRACK LTD",
 	    "LTD ROTACK",
 	    "LTD ROTRACK"
 	],
         "bods:retrievedAt": "2026-09-22T12:22:53.892951+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -21736,7 +21741,7 @@
 	    "PAKART LP"
 	],
         "bods:retrievedAt": "2026-09-22T12:22:56.355251+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -21760,7 +21765,7 @@
             "MASHREQ BANK"
         ],
         "bods:retrievedAt": "2026-09-16T02:54:57.783390+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -21794,7 +21799,7 @@
             "BARCGB22"
         ],
         "bods:retrievedAt": "2026-09-17T02:56:35.519529+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -21828,7 +21833,7 @@
             "BOTKGB2L"
         ],
         "bods:retrievedAt": "2026-09-17T02:56:38.105866+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -21864,7 +21869,7 @@
             "HSBCHKHHHKH"
         ],
         "bods:retrievedAt": "2026-09-18T22:49:33.445778+00:00",
-        "bods:code": "codes:UK",
+        "bods:code": "codes:GB",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:schemeName": "Companies House",
         "bods:scheme": "GB-COH",
@@ -22543,9 +22548,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22554,9 +22559,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22565,9 +22570,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22576,9 +22581,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22587,9 +22592,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22598,9 +22603,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22609,9 +22614,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22620,9 +22625,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22631,9 +22636,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22642,9 +22647,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22653,9 +22658,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22664,9 +22669,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22675,9 +22680,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22686,9 +22691,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22697,9 +22702,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22708,9 +22713,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22719,9 +22724,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22730,9 +22735,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22741,9 +22746,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22752,9 +22757,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22763,9 +22768,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22774,9 +22779,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22785,9 +22790,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22796,9 +22801,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22807,9 +22812,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22818,9 +22823,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22829,9 +22834,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22840,9 +22845,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22851,9 +22856,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22862,9 +22867,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22873,9 +22878,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22884,9 +22889,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22895,9 +22900,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22906,9 +22911,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22917,9 +22922,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22928,9 +22933,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22939,9 +22944,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22950,9 +22955,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22961,9 +22966,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22972,9 +22977,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, not an individual",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22983,9 +22988,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, with location inferred from invalid format",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -22994,9 +22999,9 @@
         "bods:code": "codes:RU",
         "bods:entityType": "codes:unknownEntity",
         "bods:schemeName": "Russian Federal Tax Service",
-        "bods:scheme": "RU-FNS",
+        "bods:scheme": "RU-INN",
         "lavie:synopsis": "an organization, with location inferred from invalid format",
-        "lavid:class": "russian-anon",
+        "lavie:class": "russian-anon",
         "lavie:aliases": []
     },
     {
@@ -23035,7 +23040,7 @@
         ],
         "bods:source": {
             "bods:url": "https://www.occrp.org/en/organizations/baktelekom/",
-            "bods:type": "bods:thirdParty"
+            "bods:type": "codes:thirdParty"
         },
         "lavie:synopsis": "one letter off the legit `Baktelecom` with no evidence of any connection"
     },
@@ -23060,7 +23065,7 @@
         "bods:foundingDate": "1995-11-23",
         "bods:source": {
             "bods:url": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
-            "bods:type": "bods:thirdParty"
+            "bods:type": "codes:thirdParty"
         },
         "lavie:synopsis": "AZ state oil company"
     },
@@ -23084,7 +23089,7 @@
         "bods:foundingDate": "2005-12-16",
         "bods:source": {
             "bods:url": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
-            "bods:type": "bods:thirdParty"
+            "bods:type": "codes:thirdParty"
         },
         "lavie:synopsis": "public sector, emergency response"
     },
@@ -23667,6 +23672,7 @@
         "bods:fullName": "EKSPORT TAMPL MMC",
         "lavie:aliases": [
 	    "EKSPORT TAMPL LLC ",
+	    "EKSPORT TAMPL LLC",
 	    "Ооо Eksport Tampl"
 	],
         "bods:code": "codes:AZ",
@@ -23701,7 +23707,8 @@
         "bods:fullName": "FIRST FREIGHT COMPANY PJSC",
         "lavie:aliases": [
             "JSC FREIGHT ONE",
-            "In favour JSC Freight One"
+            "In favour JSC Freight One",
+	    "IN FAVOUR JSC FREIGHT ONE"
         ],
         "bods:code": "codes:RU",
         "bods:entityType": "codes:RegisteredEntity",
@@ -23720,5 +23727,526 @@
         "bods:streetAddress": "24 Novoryazanskaya Street, Moscow, 105066, Russian Federation",
         "bods:foundingDate": "2013-10-22",
         "lavie:synopsis": "rail freight logistics operator, affiliated with Russian military"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Gunel ALAKBAROVA",
+        "lavie:aliases": [
+            "ALAKBAROVA GUNEL",
+            "15985"
+        ],
+        "lavie:edd": [
+            "https://opencheck.world/?person=GUNEL+ALAKBAROVA"
+        ],
+        "lavie:sanction": [],
+        "skos:related": [],
+        "bods:streetAddress": "Baku, Šariv Zade 74/58, 1000",
+        "bods:code": "bods:AZ",
+        "lavie:synopsis": "AZ unknown person, LI bank account"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Nigar ALAKBAROVA",
+        "lavie:aliases": [
+            "NIGAR ALAKBAROVA",
+	    "ALAKBAROVA NIGAR",
+            "16025"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [],
+        "bods:code": "bods:AZ",
+        "lavie:synopsis": "AZ unknown person, LI bank account"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Esmira JAMALKHANOVA",
+        "lavie:aliases": [
+            "ESMIRA JAMALKHANOVA",
+            "16006"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [],
+        "bods:code": "bods:AZ",
+        "lavie:synopsis": "AZ unknown person, LI bank account"
+    },
+    {
+        "bods:personType": "codes:unknownPerson",
+        "bods:fullName": "15747",
+        "lavie:aliases": [],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [],
+        "bods:code": "bods:AZ",
+        "lavie:synopsis": "AZ unknown person, LI bank account"
+    },
+    {
+        "bods:personType": "codes:unknownPerson",
+        "bods:fullName": "16005",
+        "lavie:aliases": [],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [],
+        "bods:code": "bods:AZ",
+        "lavie:synopsis": "AZ unknown person, LI bank account"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Vladimir PUTIN",
+        "lavie:aliases": [
+            "Владимир Владимирович Путин"
+        ],
+        "lavie:edd": [
+            "https://opencheck.world/?person=vladimir+putin"
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/Q7747/"
+        ],
+        "skos:related": [],
+        "bods:code": "bods:RU",
+        "bods:birthDate": "1952-10-07",
+        "bods:streetAddress": "103132, Moscow, Russia, The Kremlin",
+        "lavie:synopsis": "RU President",
+        "lavie:wiki": "Q7747"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Ilham ALIYEV",
+        "lavie:aliases": [
+            "Ilham Alijev",
+            "İlham Əliyev"
+        ],
+        "lavie:edd": [
+            "https://opencheck.world/?person=Ilham+ALIYEV"
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/Q57371/"
+        ],
+        "skos:related": [
+            "Heydar ALIYEV"
+        ],
+        "bods:code": "bods:AZ",
+        "bods:birthDate": "1961-12-24",
+        "bods:streetAddress": "The Presidential Palace, 19 Istiqlaliyyat street, Republic of Azerbaijan, Baku, AZ1066",
+        "lavie:synopsis": "AZ President",
+        "lavie:wiki": "Q57371"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Heydar ALIYEV",
+        "lavie:aliases": [],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Vladimir PUTIN"
+        ],
+        "bods:code": "bods:AZ",
+        "bods:birthDate": "1923-05-10",
+        "lavie:synopsis": "former head of KGB in AZ; seized control of AZ after fall of Soviets"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Eduard LINTNER",
+        "lavie:aliases": [
+            "EDUARD LINTNER"
+        ],
+        "lavie:edd": [
+            "https://opencheck.world/?person=EDUARD+LINTNER"
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/Q1289169/"
+        ],
+        "skos:related": [
+            "Elkhan SULEYMANOV",
+            "Council of Europe"
+        ],
+        "bods:code": "bods:DE",
+        "bods:birthDate": "1944-11-04",
+        "lavie:synopsis": "DE parliament, Christian Social Union party in Bavaria, led PACE observations of Azeri elections",
+        "lavie:wiki": "Q1289169",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Elkhan SULEYMANOV",
+        "lavie:aliases": [
+            "Elkhan Abdullaevich Suleymanov",
+            "Elxan Süleymanov",
+            "Эльхан Абдуллаевич Сулейманов"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/Q24350727/"
+        ],
+        "skos:related": [
+            "Ilham ALIYEV",
+            "Council of Europe"
+        ],
+        "bods:code": "bods:AZ",
+        "bods:birthDate": "1974-07-15",
+        "lavie:synopsis": "AZ parliament, PACE member, likely architect for influence campaign \"Azerbaijan 2020: Smile Future\"",
+        "lavie:wiki": "Q24350727",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Irina BOKOVA",
+        "lavie:aliases": [],
+        "lavie:edd": [
+            "https://opencheck.world/?person=Irina+BOKOVA"
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/Q230850/"
+        ],
+        "skos:related": [
+            "Kalin MITREV"
+        ],
+        "bods:code": "bods:BG",
+        "bods:birthDate": "1952-07-12",
+        "lavie:synopsis": "UNESCO Director-General, spouse of Kalin MITREV",
+        "lavie:wiki": "Q230850",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Kalin MITREV",
+        "lavie:aliases": [
+            "MITREV KALIN"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Irina BOKOVA",
+            "AZERB.REP.MINIST.EMERGENCY SITUA"
+        ],
+        "bods:code": "bods:BG",
+        "bods:birthDate": "1952-02-22",
+        "lavie:synopsis": "spouse of UNESCO Director-General Irina BOKOVA",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/kalin-mitrev"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Luca VOLONTÈ",
+        "lavie:aliases": [
+            "Luca VOLONTE"
+        ],
+        "lavie:edd": [
+            "https://opencheck.world/?person=Luca+Volont%C3%A8"
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/Q3838317/"
+        ],
+        "skos:related": [
+            "NOVAE TERRAE",
+            "FONDAZIONE NOVAE TERRAE",
+            "LGV SRL",
+            "Elkhan SULEYMANOV",
+            "Council of Europe"
+        ],
+        "bods:code": "bods:IT",
+        "bods:birthDate": "1966-03-17",
+        "lavie:synopsis": "IT parliament, PACE chair, pro-AZ lobbying",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine",
+        "bods:streetAddress": "1518 Budapest, Pf. 155., Hungary",
+        "lavie:wiki": "Q3838317"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Zmago Jelincic PLEMENITI",
+        "lavie:aliases": [
+            "Zmago Jelinčič Plemeniti"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "ZMAGO JELINCIC PLEMENITI",
+            "Council of Europe"
+        ],
+        "bods:code": "bods:SI",
+        "bods:birthDate": "1948-01-07",
+        "bods:streetAddress": "Bleiweisova 13, 1000 Ljubljana",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine",
+        "lavie:synopsis": "president of the Slovenian National Party, PACE substitute"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Eckart SAGER",
+        "lavie:aliases": [],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "EBILAEAD"
+        ],
+        "bods:code": "bods:US",
+        "bods:streetAddress": "12-16 Laystall Street, London, EC1R 4PF",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/eckart-sager",
+        "lavie:synopsis": "CNN producer, hit pieces on AZ critics in PACE; later was implicated in Paul Manafort FBI case"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Cinzia PALMONELLA",
+        "lavie:aliases": [
+            "CINZIA PALMONELLA"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Mario PALMONELLA"
+        ],
+        "bods:code": "bods:IT",
+        "bods:birthDate": "1958-03-01",
+        "bods:streetAddress": "Via Paolo Emilio 28, 00192 Rome (RM), Italy",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/mario-cinzia-palmonella",
+        "lavie:synopsis": "sister and business partner of Mario PALMONELLA"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Mario PALMONELLA",
+        "lavie:aliases": [
+            "ARCHITETTO MARIO PALMONELLA",
+            "MARIO PALMONELLA AND ARCHITETTI"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Cinzia PALMONELLA"
+        ],
+        "bods:code": "bods:IT",
+        "bods:birthDate": "1963-02-01",
+        "bods:streetAddress": "Via Paolo Emilio 28, 00192 Rome (RM), Italy",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/mario-cinzia-palmonella",
+        "lavie:synopsis": "authored open letter to rally Italian ex-pat support of AZ"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Baylar EYYUBOV",
+        "lavie:aliases": [],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Ilham ALIYEV",
+            "SPECIAL STATE PROTECTION SERVICE"
+        ],
+        "bods:birthDate": "1951-03-10",
+        "bods:streetAddress": "Abbasgulu Abbaszadeh 108, Baku, Sabail, AZ1073, Azerbaijan",
+        "lavie:synopsis": "Chief of the Security Service of the President of the Republic of Azerbaijan",
+        "bods:code": "bods:AZ"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Yaqub EYYUBOV",
+        "lavie:aliases": [],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Emin EYYUBOV",
+            "Orkhan EYYUBOV",
+            "Vladmir PUTIN",
+            "Ilham ALIYEV"
+        ],
+        "bods:code": "bods:AZ",
+        "bods:streetAddress": "Suite 20, 1/A Yusif Safarov Street, Baku, AZ1025 Azerbaijan",
+        "bods:birthDate": "1945-10-24",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine",
+        "lavie:synopsis": "Azeri deputy PM, awarded RU Order of Friendship by Vladmir PUTIN"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Emin EYYUBOV",
+        "lavie:aliases": [],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Yaqub EYYUBOV",
+            "NORTHERN PHARMACY",
+            "MERCEDES-BENZ VG GMBH",
+            "Council of Europe"
+        ],
+        "bods:code": "bods:AZ",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine",
+        "lavie:synopsis": "Azeri ambassador to Council of Europe"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Orkhan EYYUBOV",
+        "lavie:aliases": [],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Yaqub EYYUBOV",
+            "VELASCO INTERNATIONAL INC."
+        ],
+        "bods:code": "bods:AZ",
+        "bods:birthDate": "1982-10-01",
+        "bods:streetAddress": "Yusif Safarov Street 1A; flat 19; Baku; AZ1025; Azerbaijan",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "owner of Velasco; now a real estate agent in Coral Gables, FL ?"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Azer GASIMOV",
+        "lavie:aliases": [],
+        "lavie:edd": [
+            "https://search.openaleph.org/search?q=Azer%20Gasimov"
+        ],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Ilham ALIYEV",
+            "BUSINESS+LEISURE TRAVEL ADVISORS"
+        ],
+        "bods:code": "bods:AZ",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "press secretary of Ilham ALIYEV, dismissed in Feb, 2025; name transliterates into Russian as `Kasimov`"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Farhad EYYUBOV",
+        "lavie:aliases": [
+            "Farxad EYYUBOV"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Yaqub EYYUBOV",
+            "PRIVATPRAXIS FUR IMPLANTOLOGIE"
+        ],
+        "bods:code": "bods:AZ",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "second deputy chief of Baku’s road police"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Ziya MAMMADOV",
+        "lavie:aliases": [
+            "ZIYA MAMMADOV"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Ilham ALIYEV"
+        ],
+        "bods:code": "bods:AZ",
+        "bods:birthDate": "1952-04-28",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "AZ politician and billionaire, served as Minister of Transportation; considered notoriously corrupt even by AZ standards"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Hamid KARIMOV",
+        "lavie:aliases": [
+            "HAMID KARIMOV"
+        ],
+        "lavie:edd": [
+            "https://search.openaleph.org/search?q=HAMID%20KARIMOV"
+        ],
+        "lavie:sanction": [],
+        "skos:related": [
+            "METASTAR INVEST LLP",
+            "SOCAR",
+            "Hamza KARIMOV",
+            "Tural KARIMOV"
+        ],
+        "bods:code": "bods:CZ",
+        "bods:streetAddress": "13000, 21768048, Prague, Žižkov, Orebitská, 101, 16, Orebitská 101/16, Žižkov, 13000 Prague 3",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Tural KARIMOV",
+        "lavie:aliases": [
+            "TURAL KARIMOV"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "SOCAR",
+            "Hamza KARIMOV",
+            "Hamid KARIMOV"
+        ],
+        "bods:code": "bods:RO",
+        "bods:streetAddress": "Bucharest, Romania",
+        "lavie:synopsis": "previously worked with SOCAR Romania's economic department",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Hamza KARIMOV",
+        "lavie:aliases": [
+	    "HAMZA KARIMOV",
+	    "Karimov Hamza"
+	],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "SOCAR",
+            "Hamid KARIMOV",
+            "Tural KARIMOV"
+        ],
+        "bods:code": "bods:RO",
+        "bods:streetAddress": "Bucharest, Romania",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/hamza-karimov",
+        "lavie:synopsis": "general director of SOCAR Romania"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Rashad GAFAROV",
+        "lavie:aliases": [
+            "RASHAD GAFAROV"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "LCM ALLIANCE LLP",
+            "Ali NAGHIYEV"
+        ],
+        "bods:code": "bods:CZ",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/rashad-gafarov",
+        "lavie:synopsis": "murdered businessman"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Sadiyar ZEYLANOV",
+        "lavie:aliases": [
+            "ZEYNALOV SADIYAR",
+	    "SADIYAR ZEYNALOV"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [],
+        "bods:code": "bods:AZ",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "academic, head Department of International Law and International Relations at Baku State Univ; cited in 1995 UNESCO report"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Ali NAGHIYEV",
+        "lavie:aliases": [
+            "ALI NAGHIYEV"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "Ilham ALIYEV"
+        ],
+        "bods:code": "bods:AZ",
+        "bods:birthDate": "1958-11-08",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "former deputy chief AZ anti-corruption directorate; chief of the State Security Service"
+    },
+    {
+        "bods:personType": "codes:knownPerson",
+        "bods:fullName": "Ruslan ALIYEV",
+        "lavie:aliases": [
+            "ALIYEV RUSLAN"
+        ],
+        "lavie:edd": [],
+        "lavie:sanction": [],
+        "skos:related": [
+            "SOCAR"
+        ],
+        "bods:code": "bods:AZ",
+        "bods:birthDate": "1974-01-24",
+        "lavie:synopsis": "first acting AZ trade representative in the RU Federation"
     }
 ]
