@@ -7,7 +7,6 @@ Construct a thesaurus from the data to use to build a KG.
 
 from collections import defaultdict
 import csv
-import io
 import json
 import logging
 import pathlib
@@ -44,26 +43,6 @@ Scrub the text for people/company names, to get stable lookup keys
     return name.replace("  ", " ").strip()
 
 
-def reader (
-    fp: io.TextIOWrapper,
-    *,
-    debug: bool = False,
-    ) -> typing.Iterator[tuple[ bool, typing.Any ]]:
-    """
-Iterator for lines read from file in a bizarre YAML-ish format.
-    """
-    for line in fp:
-        if debug:
-            ic(line)
-
-        if line.startswith("\t"):
-	    # aliases
-            yield False, line.strip()
-        else:
-	    # name @ beginning of a record
-            yield True, line.strip()
-
-
 def make_hash (
     mh_index: list,
     name: str,
@@ -87,9 +66,9 @@ if __name__ == "__main__":
     entities: dict[ str, dict ] = {}
     synonyms: dict[ str, str ] = {}
 
-    json_path: pathlib.Path = pathlib.Path("resolved.json")
+    resolved_path: pathlib.Path = pathlib.Path("resolved.json")
 
-    with open(json_path, "rb") as fp:
+    with open(resolved_path, "rb") as fp:
         dat: dict = json.load(fp)
 
     for record in dat:
@@ -112,31 +91,12 @@ if __name__ == "__main__":
                     synonyms[alias.lower()] = uid_
 
     # load the "guestimated" matches
-    guess_dat: dict[ str, dict ] = {}
-    guess_syn: dict[ str, str ] = {}
-    guess_path: pathlib.Path = pathlib.Path("guess.tsv")
+    guess_path: pathlib.Path = pathlib.Path("guess.json")
 
-    with open(guess_path, mode = "r", encoding = "utf-8") as fp:
-        record: dict = {}
-
-        for start, name in reader(fp, debug = False):
-            name = scrub_name(name)
-
-            if start:
-                if len(record) > 0:
-                    guess_dat[record["uuid"]] = record
-
-                uid_: str = str(uuid.uuid4())
-
-                record = {
-                    "name": name,
-                    "uuid": uid_,
-                    "alias": [],
-                }
-            else:
-                record["alias"].append(name)
-
-            guess_syn[name.lower()] = record["uuid"]
+    with open(guess_path, "rb") as fp:
+        dat: dict = json.load(fp)
+        guess_dat: dict[ str, dict ] = dat["records"]
+        guess_syn: dict[ str, str ] = dat["synonyms"]
 
     ic(len(guess_syn))
     ic(len(guess_dat))

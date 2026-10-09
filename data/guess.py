@@ -5,6 +5,7 @@
 Construct a thesaurus from the data to use to build a KG.
 """
 
+from collections import Counter
 import io
 import json
 import pathlib
@@ -52,6 +53,40 @@ Iterator for lines read from file in a bizarre YAML-ish format.
             yield True, line.strip()
 
 
+
+def get_uuid (
+    opencheck_subj: dict[ str, str ],
+    name: str,
+    ) -> str:
+    """
+Get a unique identifier for the record, either from OpenCheck or a generated UUID.
+    """
+    if name in opencheck_subj:
+        return opencheck_subj[name]
+    else:
+        return str(uuid.uuid4())
+
+
+def populate_record (
+    name: str,
+    uid_: str,
+    alias: list[ str ],
+    ) -> dict:
+    """
+Populate the entity record with initial values.
+    """
+    key: str = scrub_name(name).lower()
+
+    if key not in init_rec:
+        print("MISSING!", name)
+
+    return {
+        "name": name,
+        "uuid": uid_,
+        "alias": alias,
+    }
+
+
 def add_guess (
     guess_syn: dict[ str, str ],
     record: dict,
@@ -75,6 +110,39 @@ Attempt to collect another synonym.
 if __name__ == "__main__":
 
     ######################################################################
+    # load the OpenCheck "subjects.csv"
+    # columns: key,kind,lei,scheme,id,name,class,status,legal_name,jurisdiction,register_status,verdict,risk_codes,context_codes,statements,subsidiary_children,subsidiary_statements,subsidiaries_partial,subsidiaries_note,sources_with_data,degraded,degraded_checks,reason
+
+    df: pl.DataFrame = pl.read_csv("subjects.csv")
+    #ic(df.head())
+
+    keys: list = (
+        df
+        .select("key")
+        .to_series()
+        .to_list()
+    )
+
+    names: list = (
+        df
+        .select("name")
+        .to_series()
+        .to_list()
+    )
+
+    opencheck_subj: dict[ str, str ] = {}
+
+    for key, name in zip(keys, names):
+        name = scrub_name(name)
+
+        if name not in opencheck_subj:
+            opencheck_subj[name] = key
+
+    #ic(opencheck_subj)
+    ic(len(opencheck_subj), len(set(opencheck_subj.keys())))
+
+
+    ######################################################################
     # expand the "normalized names" from the base data
 
     df: pl.DataFrame = pl.read_csv("occrp_17k.csv")
@@ -86,6 +154,24 @@ if __name__ == "__main__":
 
         if name != norm:
             norm_names[name] = norm
+
+
+
+    ######################################################################
+    # load data to populate records with intial values
+
+    df: pl.DataFrame = pl.read_csv("entities.tsv", separator = "\t")
+    init_rec: dict[ str, dict ] = {}
+
+    for row in df.iter_rows(named = True):
+        name: str = scrub_name(row["name"])
+        key: str = name.lower()
+
+        init_rec[key] = {
+            "kind": row["kind"],
+            "country": row["country"],
+        }
+
 
 
     ######################################################################
@@ -102,26 +188,30 @@ if __name__ == "__main__":
         for start, name in reader(fp, debug = False):
             name = scrub_name(name)
 
-            if start:
-                if len(record) > 0:
-                    guess_dat[record["uuid"]] = record
-
-                uid_: str = str(uuid.uuid4())
-
-                record = {
-                    "name": name,
-                    "uuid": uid_,
-                    "alias": [],
-                }
+            if name.lower() == "caboose":
+                if start:
+                    if len(record) > 0:
+                        guess_dat[record["uuid"]] = record
             else:
-                record["alias"].append(name)
+                if start:
+                    record = populate_record(
+                        name,
+                        get_uuid(opencheck_subj, name),
+                        [],
+                    )
 
-            add_guess(guess_syn, record, name)
+                else:
+                    if name in opencheck_subj:
+                        print("SWAP!", record["uuid"], opencheck_subj[name])
 
-            if name in norm_names:
-                norm_found.add(name)
-                record["alias"].append(norm_names[name])
-                add_guess(guess_syn, record, norm_names[name])
+                    record["alias"].append(name)
+
+                add_guess(guess_syn, record, name)
+
+                if name in norm_names:
+                    norm_found.add(name)
+                    record["alias"].append(norm_names[name])
+                    add_guess(guess_syn, record, norm_names[name])
 
 
     ######################################################################
@@ -132,13 +222,12 @@ if __name__ == "__main__":
 
         if name not in norm_found and norm_key not in guess_syn:
             norm: str = norm_names[name]
-            uid_: str = str(uuid.uuid4())
 
-            record: dict = {
-                "name": name,
-                "uuid": uid_,
-                "alias": [ norm ],
-            }
+            record = populate_record(
+                name,
+                get_uuid(opencheck_subj, name),
+                [ norm ],
+            )
 
             add_guess(guess_syn, record, norm_names[name], report = False)
             guess_dat[record["uuid"]] = record
@@ -166,6 +255,33 @@ if __name__ == "__main__":
                     new_alias.append(alias)
 
         record["alias"] = new_alias
+
+
+    ######################################################################
+    # data quality check: populate any missing fields
+
+    for uid_, record in guess_dat.items():
+        keys: set[ str ] = { alias.lower() for alias in record["alias"] }
+        keys.add(record["name"].lower())
+
+        for key in keys:
+            if key in init_rec:
+                record["kind"] = init_rec[key]["kind"]
+                record["country"] = init_rec[key]["country"]
+                break
+
+
+    ######################################################################
+    # data quality check: reconstruct synonyms to avoid orphaned UUIDs
+
+    guess_syn = {}
+        
+    for uid_, record in guess_dat.items():
+        keys: set[ str ] = { alias.lower() for alias in record["alias"] }
+        keys.add(record["name"].lower())
+
+        for key in keys:
+            guess_syn[key] = uid_
 
 
     ######################################################################
