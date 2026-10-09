@@ -81,6 +81,6 @@ Bruun & Hjejle published internal Danske Bank "Report on the Non-Resident Portfo
 https://danskebank.com/-/media/danske-bank-com/file-cloud/2018/9/report-on-the-non-resident-portfolio-at-danske-banks-estonian-branch.pdf
 
 2020-09-20  
-ICIJ published FinCEN Files investigation: more than $2T money laundering
+FinCEN Files leaked: more than $2T money laundering
 https://www.icij.org/investigations/fincen-files/global-banks-defy-u-s-crackdowns-by-serving-oligarchs-criminals-and-terrorists/
 https://www.occrp.org/en/project/the-fincen-files/more-snapshots-from-the-fincen-files

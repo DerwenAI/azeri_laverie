@@ -9,6 +9,8 @@ This repo includes three main resources:
 
   * [`ABSTRACT.md`](https://github.com/DerwenAI/azeri_laverie/blob/main/ABSTRACT.md):
 an introduction to this material, descriptions of the processes involved, plus links to primary sources and other resources available online.
+  * [`TIMELINE.md`](https://github.com/DerwenAI/azeri_laverie/blob/main/TIMELINE.md):
+a reconstructed timeline for the events related to the Azerbaijani Laundromat and subsequent investigations.
   * [`TRADECRAFT.md`](https://github.com/DerwenAI/azeri_laverie/blob/main/TRADECRAFT.md):
 detailed descriptions of how money laundering gets performed, plus excerpts from industry experts analyzing the Azerbaijani Laundromat case.
   * [`occrp.ipynb`](https://github.com/DerwenAI/azeri_laverie/blob/main/occrp.ipynb):
