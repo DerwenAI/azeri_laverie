@@ -153,7 +153,7 @@ if __name__ == "__main__":
 
         if "country" in record:
             if record["country"] != "UNKNOWN":
-                newrec["bods:code"] = "bods:" + record["country"]
+                newrec["bods:code"] = "codes:" + record["country"]
 
         if "kind" not in record:
             name = record["name"].lower()
@@ -181,7 +181,7 @@ if __name__ == "__main__":
             indent = 4,
         )
 
-    # build a map for the thesaurus
+    # build a synonym map for the thesaurus
     syn_map: dict[ str, str ] = {}
 
     for name, uid_ in synonyms.items():
@@ -201,6 +201,7 @@ if __name__ == "__main__":
             fp,
             ensure_ascii = False,
             indent = 4,
+            sort_keys = True,
         )
 
     sys.exit(0)
