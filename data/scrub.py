@@ -87,7 +87,7 @@ if __name__ == "__main__":
     entities: dict[ str, dict ] = {}
     synonyms: dict[ str, str ] = {}
 
-    json_path: pathlib.Path = pathlib.Path("thesaurus.json")
+    json_path: pathlib.Path = pathlib.Path("resolved.json")
 
     with open(json_path, "rb") as fp:
         dat: dict = json.load(fp)
@@ -182,7 +182,7 @@ if __name__ == "__main__":
         )
 
     # transform unresolved entities using the same intermediate/temorary
-    # format as the thesaurus, stored as `backfill.json`
+    # format as the thesaurus, stored as `thesaurus.json`
     for uid_, record in guess_dat.items():
         #print(record)
 
@@ -211,9 +211,9 @@ if __name__ == "__main__":
         entities[uid_] = newrec
 
     # report
-    back_path: pathlib.Path = pathlib.Path("backfill.json")
+    thes_path: pathlib.Path = pathlib.Path("thesaurus.json")
 
-    with open(back_path, mode = "w", encoding = "utf-8") as fp:
+    with open(thes_path, mode = "w", encoding = "utf-8") as fp:
         json.dump(
             entities,
             fp,

@@ -1,0 +1,4331 @@
+{
+    "records": {
+        "9c042434-fbb3-4c5e-89f1-e6c080ff6ffd": {
+            "name": "OOO DREES + SOMMER",
+            "uuid": "9c042434-fbb3-4c5e-89f1-e6c080ff6ffd",
+            "alias": [
+                "000 DREES + SOMMER",
+                "OOO DREES + SOMMER"
+            ]
+        },
+        "fa6db3b5-d497-4c7e-aa57-801dd803ec7f": {
+            "name": "3M EAST AG",
+            "uuid": "fa6db3b5-d497-4c7e-aa57-801dd803ec7f",
+            "alias": [
+                "3M EAST",
+                "3M EAST AG",
+                "3M (EAST) AG"
+            ]
+        },
+        "6aa56d78-06f0-4b30-bf83-8a7af5aa4245": {
+            "name": "3S MADENCILIK SERAMIK INSAAT",
+            "uuid": "6aa56d78-06f0-4b30-bf83-8a7af5aa4245",
+            "alias": [
+                "3S MADENCILIK SERAMIK INSAAT NAKLI",
+                "3S MADENCILIK SERAMIK INSAAT"
+            ]
+        },
+        "282341ba-398f-4b54-b9b2-0dc565d7bb97": {
+            "name": "ECCO SKO A/S",
+            "uuid": "282341ba-398f-4b54-b9b2-0dc565d7bb97",
+            "alias": [
+                "A/S ECCO SKO",
+                "ECCO SKO A/S"
+            ]
+        },
+        "07c75e1c-6d62-4506-a6fd-7f35f8261adc": {
+            "name": "Kamran ABDULLAYEV",
+            "uuid": "07c75e1c-6d62-4506-a6fd-7f35f8261adc",
+            "alias": [
+                "KAMRAN ABDULLAYEV",
+                "ABDULLAYEV MARIF KAMRAN",
+                "ABDULLAYEV KAMRAN",
+                "KAMRAN MARIF ABDULLAYEV"
+            ]
+        },
+        "686378de-ea6c-491e-96e4-1864f3c9a674": {
+            "name": "ACER CIS INCORPORATED",
+            "uuid": "686378de-ea6c-491e-96e4-1864f3c9a674",
+            "alias": [
+                "Acer CIS Incorporated"
+            ]
+        },
+        "81aee408-0fb0-4bc3-9418-a38ab2a607cb": {
+            "name": "AKCELIK BORU SANAYI A.S",
+            "uuid": "81aee408-0fb0-4bc3-9418-a38ab2a607cb",
+            "alias": [
+                "AKCELIK BORU SANAYI A.S."
+            ]
+        },
+        "1b08d40c-11bd-4a28-bb7f-5498914770f1": {
+            "name": "Aleksandr JAGDZIJANC",
+            "uuid": "1b08d40c-11bd-4a28-bb7f-5498914770f1",
+            "alias": [
+                "ALEKSANDR JAGDZIJANC",
+                "JAGDZIJANC ALEKSANDR"
+            ]
+        },
+        "1775b3aa-2419-4cb3-ba35-91910077fdf1": {
+            "name": "ALGAN METAL SANAYI VE TICARET A.S.",
+            "uuid": "1775b3aa-2419-4cb3-ba35-91910077fdf1",
+            "alias": [
+                "ALGAN METAL SANAYI VE TICARET ANO"
+            ]
+        },
+        "295e47f5-458f-40f8-8bdf-73979baed645": {
+            "name": "ALI ARTIS",
+            "uuid": "295e47f5-458f-40f8-8bdf-73979baed645",
+            "alias": [
+                "ULUDAG HALAT ALI ARTIS"
+            ]
+        },
+        "8228a884-cf41-4105-8b67-8356dbfcebbc": {
+            "name": "ALTINTAS ISI ITH.IHR.MAD.INS.SAN.",
+            "uuid": "8228a884-cf41-4105-8b67-8356dbfcebbc",
+            "alias": [
+                "Altintas Isi Ith.Ihr.Mad.Ins.San."
+            ]
+        },
+        "5ca635b5-59ab-4c18-b997-7f505a4edae3": {
+            "name": "ALVO SPOLKA Z OGRANICZONA",
+            "uuid": "5ca635b5-59ab-4c18-b997-7f505a4edae3",
+            "alias": [
+                "POLON ALFA SPOLKA Z OGRANICZONA"
+            ]
+        },
+        "cd7f4e66-5564-4cda-ad46-2c17791d89d3": {
+            "name": "ANTON SPAARGAREN",
+            "uuid": "cd7f4e66-5564-4cda-ad46-2c17791d89d3",
+            "alias": [
+                "ANTON SPAARGAREN BV"
+            ]
+        },
+        "7db6cd8a-64ba-4e96-af37-5cdd044a77ee": {
+            "name": "ARGON KIMYA SANAYI VE TICARET A.S",
+            "uuid": "7db6cd8a-64ba-4e96-af37-5cdd044a77ee",
+            "alias": [
+                "ARGON KIMYA SANAYI VE TICARET",
+                "ARGON KIMYA SANAYI VE TICARET A.S",
+                "ARGON KIMYA SANAYI VE TICARET ANONI"
+            ]
+        },
+        "efc587aa-a221-4f4d-ac5e-f98c4b35fedf": {
+            "name": "ARKEM KIMYA SAN.VE TIC.A.S.",
+            "uuid": "efc587aa-a221-4f4d-ac5e-f98c4b35fedf",
+            "alias": [
+                "AGAKIM KIMYA SAN.VE TIC.A.S.",
+                "AGAKIM KIMYA SAN VE TIC. A.S"
+            ]
+        },
+        "050bc69b-a80b-4dac-a9c2-c4f365993942": {
+            "name": "ART DE SUISSE S.R.O.",
+            "uuid": "050bc69b-a80b-4dac-a9c2-c4f365993942",
+            "alias": [
+                "ART DE SUISSE S.R.O",
+                "ART DE SUISSE S.R.O."
+            ]
+        },
+        "a769f781-6c8a-4565-9d2c-a5ce392ba299": {
+            "name": "ASTRA SPA TRAVEL LTD",
+            "uuid": "a769f781-6c8a-4565-9d2c-a5ce392ba299",
+            "alias": [
+                "ASTRA SPA TRAVEL LTD."
+            ]
+        },
+        "db442ce7-1f0d-44dd-9166-28b76ee800e4": {
+            "name": "AUTO PARTS CO.,LTD.",
+            "uuid": "db442ce7-1f0d-44dd-9166-28b76ee800e4",
+            "alias": [
+                "AUTO PARTS CO., LTD",
+                "AUTO PARTS CO.,LTD"
+            ]
+        },
+        "5b46eb70-c992-4a5d-a7b7-45482dc1603d": {
+            "name": "AUTO1000 GMBH",
+            "uuid": "5b46eb70-c992-4a5d-a7b7-45482dc1603d",
+            "alias": [
+                "Auto1000 GmbH"
+            ]
+        },
+        "33505825-a98c-43d4-b4a7-cd1fd30320f3": {
+            "name": "AUTOHAUS GRAMPP GMBH",
+            "uuid": "33505825-a98c-43d4-b4a7-cd1fd30320f3",
+            "alias": [
+                "AUTOHAUS GRAMPP GMBH MB",
+                "AUTOHAUS GRAMPP GMBH"
+            ]
+        },
+        "207898a0-43da-4374-a78e-bd913007a6e9": {
+            "name": "BAOFENG STEEL GROUP CO LTD",
+            "uuid": "207898a0-43da-4374-a78e-bd913007a6e9",
+            "alias": [
+                "BAOFENG STEEL GROUP CO., LTD",
+                "BAOFENG STEEL GROUP CO, LTD"
+            ]
+        },
+        "ca4dd0d7-ec81-406f-8811-f9f179fe90b1": {
+            "name": "BAUER GMBH",
+            "uuid": "ca4dd0d7-ec81-406f-8811-f9f179fe90b1",
+            "alias": [
+                "BAUER GmbH"
+            ]
+        },
+        "7ebef463-e4b9-4ce4-83fd-42813067312e": {
+            "name": "BAUMANN GUVENLIK SISTEMLERI ALARM",
+            "uuid": "7ebef463-e4b9-4ce4-83fd-42813067312e",
+            "alias": [
+                "BAUMANN GUVENLIK SISTEMLERI ALARM.",
+                "BAUMANN GUVENLIK SISTEMLERI ALARM"
+            ]
+        },
+        "bca101a4-f63f-451e-b7c7-b6cdc05f0cf4": {
+            "name": "Bernhard RAAB",
+            "uuid": "bca101a4-f63f-451e-b7c7-b6cdc05f0cf4",
+            "alias": [
+                "BERNHARD RAAB",
+                "RAAB BERNHARD"
+            ]
+        },
+        "3e9c501e-600a-44ec-a872-5e8ff4e2a0d0": {
+            "name": "BN INTERNATIONAL",
+            "uuid": "3e9c501e-600a-44ec-a872-5e8ff4e2a0d0",
+            "alias": [
+                "BN INTERNATIONAL B.V.",
+                "BN INTERNATIONAL BV"
+            ]
+        },
+        "92c22c6a-5a7a-4c7f-b17c-9a0466e953ad": {
+            "name": "BLATNA A.S.",
+            "uuid": "92c22c6a-5a7a-4c7f-b17c-9a0466e953ad",
+            "alias": [
+                "TESLA BLATNA A.S."
+            ]
+        },
+        "ff683efc-bd7a-4a54-9ce3-1d8a388216a8": {
+            "name": "BORTEK BORU VE TES.TEK.DIS",
+            "uuid": "ff683efc-bd7a-4a54-9ce3-1d8a388216a8",
+            "alias": [
+                "BORTEK BORU VE TESISAT TEKNO. DIS",
+                "BORTEK BORU VE TESISAT TEKNO.DIS"
+            ]
+        },
+        "0ceddf15-fc8e-484f-85e1-5e9fe6d7797a": {
+            "name": "BOSCH TERMOTEKNIK ISITMA VE KLIMA",
+            "uuid": "0ceddf15-fc8e-484f-85e1-5e9fe6d7797a",
+            "alias": [
+                "Bosch Termoteknik Isitma ve Klima"
+            ]
+        },
+        "5afca1e2-8176-494e-8a33-2804146b67b2": {
+            "name": "BRABUS GMBH",
+            "uuid": "5afca1e2-8176-494e-8a33-2804146b67b2",
+            "alias": [
+                "Brabus GmbH"
+            ]
+        },
+        "1f6798b8-282b-405d-8eeb-d1870423e089": {
+            "name": "CAKIRLAR MATBAACILIK AMBALAJ SAN",
+            "uuid": "1f6798b8-282b-405d-8eeb-d1870423e089",
+            "alias": [
+                "CAKIRLAR MATBAACILIK AMBALAJ SAN VE",
+                "CAKIRLAR MATBAACILIK AMBALAJ SAN."
+            ]
+        },
+        "59edb3f9-17d0-4780-8cef-2dc92e13d905": {
+            "name": "CANDY HOOVER EUROASIA",
+            "uuid": "59edb3f9-17d0-4780-8cef-2dc92e13d905",
+            "alias": [
+                "CANDY HOOVER EUROASIA A.S"
+            ]
+        },
+        "e041ee4a-5e75-40db-bffb-a4e04b13631f": {
+            "name": "CHONGQING LIFAN",
+            "uuid": "e041ee4a-5e75-40db-bffb-a4e04b13631f",
+            "alias": [
+                "CHONGQING LIFAN INDUSTRY"
+            ]
+        },
+        "81bc75d3-9b71-4d89-a49b-7eb64af8ddca": {
+            "name": "CHONGQING LONGFAR INDUSTRIAL CO.,LT",
+            "uuid": "81bc75d3-9b71-4d89-a49b-7eb64af8ddca",
+            "alias": [
+                "CHONGQING LONGFAR INDUSTRIAL CO., LTD",
+                "CHONGQING LONGFAR INDUSTRIAL CO.LTD"
+            ]
+        },
+        "b7e27925-cac7-41dc-9333-13a4e4c39ccb": {
+            "name": "CONCORD STEEL GENERAL TRADING",
+            "uuid": "b7e27925-cac7-41dc-9333-13a4e4c39ccb",
+            "alias": [
+                "CONCORD STEEL GENERAL TRADING FZC"
+            ]
+        },
+        "3cba84fe-323e-45af-b761-60eaa54a8006": {
+            "name": "CUHADAROGLU METAL SANAYI VE",
+            "uuid": "3cba84fe-323e-45af-b761-60eaa54a8006",
+            "alias": [
+                "CHUNADAROGLU METAL SANAYI VE"
+            ]
+        },
+        "72a3743b-bd0e-4ed6-bb50-bca67d389987": {
+            "name": "CVS HAVALANDIRMA SISTEMLERI SAN.",
+            "uuid": "72a3743b-bd0e-4ed6-bb50-bca67d389987",
+            "alias": [
+                "CVS HAVALANDIRMA SISTEMLERI SAN. VE",
+                "CVS HAVALANDIRMA SISTEMLERI"
+            ]
+        },
+        "9f7b08ec-62d0-4fb2-aa0d-5ce8d1abf4fb": {
+            "name": "Dan VOICU",
+            "uuid": "9f7b08ec-62d0-4fb2-aa0d-5ce8d1abf4fb",
+            "alias": [
+                "DAN ANDREI VOICU",
+                "DAN VOICU"
+            ]
+        },
+        "6ed79669-a0cc-4a20-9136-84fda3f246d8": {
+            "name": "DESJARDINS TRUST INC",
+            "uuid": "6ed79669-a0cc-4a20-9136-84fda3f246d8",
+            "alias": [
+                "DESJARDINS TRUST INC., IN TRUST",
+                "DESJARDINS TRUST INC"
+            ]
+        },
+        "56998981-4749-42f2-9e2c-3eab896ae5a6": {
+            "name": "DEVECIOGLU METAL MADENI ESYA VE",
+            "uuid": "56998981-4749-42f2-9e2c-3eab896ae5a6",
+            "alias": [
+                "DEVECIOGLU METAL MADENI ESYA VE DAY"
+            ]
+        },
+        "6c15dbd3-4b0c-4b46-9ae8-b9e2a018c85b": {
+            "name": "DORTDIVAN CERCEVE + MACUN SAN.",
+            "uuid": "6c15dbd3-4b0c-4b46-9ae8-b9e2a018c85b",
+            "alias": [
+                "DORTDIVAN CERCEVE + MACUN SAN. TIC."
+            ]
+        },
+        "96bf0d19-bf2a-417e-888e-719a5d8de990": {
+            "name": "Doru Ioan IORGULESCU",
+            "uuid": "96bf0d19-bf2a-417e-888e-719a5d8de990",
+            "alias": [
+                "DORU IOAN IORGULESCU",
+                "IORGULESCU DORU IOAN"
+            ]
+        },
+        "fdd4f32f-cff8-46b4-bac5-23c931474fcc": {
+            "name": "EGE KIMYA SANAYI VE TICARET A.S.",
+            "uuid": "fdd4f32f-cff8-46b4-bac5-23c931474fcc",
+            "alias": [
+                "EGE KIMYA SANAYI VE TICARET A.S",
+                "EGE KIMYA SANAYI VE TICARET A.S."
+            ]
+        },
+        "ee8de0b5-25d5-46e9-a21c-1936b157a296": {
+            "name": "EKOM ECZACIBASI DIS TICARET A.S",
+            "uuid": "ee8de0b5-25d5-46e9-a21c-1936b157a296",
+            "alias": [
+                "EKOM ECZACIBASI DIS TICARET A.S."
+            ]
+        },
+        "7fa98fd1-32a9-4831-aad1-2e6bbc7b716a": {
+            "name": "EKSEN BANT IZOLASYON VE YAPI",
+            "uuid": "7fa98fd1-32a9-4831-aad1-2e6bbc7b716a",
+            "alias": [
+                "EKSEN BANT IZOLASYON VE YAPI MALZ."
+            ]
+        },
+        "0278b26b-1c4a-4c03-8e25-51445160f523": {
+            "name": "EMAKS MOBILYA AKSESUARLARI",
+            "uuid": "0278b26b-1c4a-4c03-8e25-51445160f523",
+            "alias": [
+                "EMAKS MOBILYA AKSESUARLARI ITH. IHR"
+            ]
+        },
+        "e7030c7b-948e-4794-997f-a61dbd236190": {
+            "name": "EMER GROUP",
+            "uuid": "e7030c7b-948e-4794-997f-a61dbd236190",
+            "alias": [
+                "EMER GROUP SRL"
+            ]
+        },
+        "d8e30cd0-40cd-4a4f-9303-ac13553b6a92": {
+            "name": "ENERTECH GMBH",
+            "uuid": "d8e30cd0-40cd-4a4f-9303-ac13553b6a92",
+            "alias": [
+                "Enertech GmbH"
+            ]
+        },
+        "50b6f9c3-330d-4ecc-a721-6e27f5062467": {
+            "name": "ERGINO ELEKTRIK VE AYDINLATMA",
+            "uuid": "50b6f9c3-330d-4ecc-a721-6e27f5062467",
+            "alias": [
+                "ERGINO ELEKTRIK VE AYDINLATMA SAN"
+            ]
+        },
+        "28dfde63-fa26-44d2-952b-aa28a6d40f5b": {
+            "name": "ESKO GAYRIMENKUL VE MADENCILIK",
+            "uuid": "28dfde63-fa26-44d2-952b-aa28a6d40f5b",
+            "alias": [
+                "ESKO GAYRIMRNKUL VE MADENCILIK",
+                "ESKO GAYRIMENKUL VE MADENCILIK"
+            ]
+        },
+        "37cb2fd3-1128-429e-95c1-998d44ae3835": {
+            "name": "EVS EREN VANA SANAYI VE TICARET",
+            "uuid": "37cb2fd3-1128-429e-95c1-998d44ae3835",
+            "alias": [
+                "EVS EREN VANA SANAYI VE TICARET LTD"
+            ]
+        },
+        "183dce51-13c5-4f1a-aacb-1fdd9da262a7": {
+            "name": "EXPEDITORS INTERNATIONAL",
+            "uuid": "183dce51-13c5-4f1a-aacb-1fdd9da262a7",
+            "alias": [
+                "EXPEDITORS INTERNATIONAL SWITZERLAND",
+                "EXPEDITORS INTERNATIONAL SWITZERLAN",
+                "EXPEDITORS INTERNATIONAL E.I."
+            ]
+        },
+        "fc588506-9461-4d8e-af3c-e28a8c39c371": {
+            "name": "FACTIS S.A.",
+            "uuid": "fc588506-9461-4d8e-af3c-e28a8c39c371",
+            "alias": [
+                "FACTIS S.A. S.P.A."
+            ]
+        },
+        "b7ce0df5-cee2-4609-a474-e0456baada73": {
+            "name": "FAF VANA SANAYI VE TICARET A.S",
+            "uuid": "b7ce0df5-cee2-4609-a474-e0456baada73",
+            "alias": [
+                "FAF VANA SANAYI VE TICARET A.S."
+            ]
+        },
+        "caa84e3c-d65e-4973-94f5-94aa5edee436": {
+            "name": "FENSTER YAPI + CEPHE ELEMANLARI",
+            "uuid": "caa84e3c-d65e-4973-94f5-94aa5edee436",
+            "alias": [
+                "FENSTER YAPI ELEMANLARI",
+                "FENSTER YAPI + CEPHE ELEMANLARI"
+            ]
+        },
+        "32849c3c-95a3-47dd-9b45-f1be04744830": {
+            "name": "FIRAT PLASTIK KAUCUK SAN. VE TIC.",
+            "uuid": "32849c3c-95a3-47dd-9b45-f1be04744830",
+            "alias": [
+                "FIRAT PLASTIK,KAUCUK SAN. VE TIC.",
+                "FIRAT PLASTIK KAUCUK SAN. VE TIC."
+            ]
+        },
+        "814c4f04-12fb-4e33-b621-82fec48a1630": {
+            "name": "FIRM TRANSRAIL UKRAINE",
+            "uuid": "814c4f04-12fb-4e33-b621-82fec48a1630",
+            "alias": [
+                "TRANSRAIL UKRAINE",
+                "FIRM TRANSRAIL UKRAINE"
+            ]
+        },
+        "c08ca4d2-04ad-445b-987f-a849f29b94f9": {
+            "name": "FONDAZIONE NOVAE TERRAE",
+            "uuid": "c08ca4d2-04ad-445b-987f-a849f29b94f9",
+            "alias": [
+                "NOVAE TERRAE",
+                "FONDAZIONE NOVAE TERRAE"
+            ]
+        },
+        "4371bcaf-e296-4aed-b73e-5953f5ca4328": {
+            "name": "FUYUAN EAST TRADING CO., LIMITED",
+            "uuid": "4371bcaf-e296-4aed-b73e-5953f5ca4328",
+            "alias": [
+                "FUYUAN EAST TRADING CO.,LIMITED",
+                "FUYUAN EAST TRADING CO., LIMITED"
+            ]
+        },
+        "8fcd0ee8-85f4-4513-9c88-305230b148d1": {
+            "name": "GEDIK DOKUM VE VANA SAN.",
+            "uuid": "8fcd0ee8-85f4-4513-9c88-305230b148d1",
+            "alias": [
+                "GEDIK DOKUM VE VANA SANAYI A.S.",
+                "GEDIK DOKUM VE VANA SANAYI",
+                "GEDIK DOKUM VE VANA SAN. A.S."
+            ]
+        },
+        "46e93169-101a-4972-b957-146198a493c2": {
+            "name": "GEISTLICH PHARMA",
+            "uuid": "46e93169-101a-4972-b957-146198a493c2",
+            "alias": [
+                "Geistlich Pharma"
+            ]
+        },
+        "814209d5-da2d-4339-9404-456a673c3ee3": {
+            "name": "GENTECH (FZE)",
+            "uuid": "814209d5-da2d-4339-9404-456a673c3ee3",
+            "alias": [
+                "GENTECH FZE"
+            ]
+        },
+        "6b70cb9e-37f2-43fc-a774-85602a5cedbe": {
+            "name": "GS GLOBAL CORP",
+            "uuid": "6b70cb9e-37f2-43fc-a774-85602a5cedbe",
+            "alias": [
+                "GS GLOBAL CORP."
+            ]
+        },
+        "7dc96cd2-4e97-4bb5-a468-0e6aa6303873": {
+            "name": "GUNKEM GUNDUZ KIMYEVI MADDELER",
+            "uuid": "7dc96cd2-4e97-4bb5-a468-0e6aa6303873",
+            "alias": [
+                "GUNKEM GUNGUZ KIMYEVI MADDELER"
+            ]
+        },
+        "daa4ffae-6cb4-4a90-960c-220744c2d377": {
+            "name": "HANSE TRADEING CO LIMITED",
+            "uuid": "daa4ffae-6cb4-4a90-960c-220744c2d377",
+            "alias": [
+                "HANSE TRADING CO LIMITED"
+            ]
+        },
+        "2eccb885-a854-4bdd-9488-56ccb7ac3b8c": {
+            "name": "HAWO GMBH",
+            "uuid": "2eccb885-a854-4bdd-9488-56ccb7ac3b8c",
+            "alias": [
+                "Hawo GmbH"
+            ]
+        },
+        "9b0ba3a0-74d7-4c2e-83e2-b206fac7c6e0": {
+            "name": "HDM DIS TICARET LTD STI",
+            "uuid": "9b0ba3a0-74d7-4c2e-83e2-b206fac7c6e0",
+            "alias": [
+                "HDM DIS TICARET A.S.",
+                "HDM DIS TICARET LTD STI"
+            ]
+        },
+        "099845b0-5e81-4270-8229-29e34fd1c76c": {
+            "name": "HEKTOR INVEST LIMITED",
+            "uuid": "099845b0-5e81-4270-8229-29e34fd1c76c",
+            "alias": [
+                "Hektor Invest Limited"
+            ]
+        },
+        "304970f9-e6c7-402e-bbca-6b7777e68d25": {
+            "name": "HEWLETT-PACKARD EUROPE B.V",
+            "uuid": "304970f9-e6c7-402e-bbca-6b7777e68d25",
+            "alias": [
+                "HEWLETT-PACKARD EUROPE BV"
+            ]
+        },
+        "2d680e92-df23-40cf-a7a5-f9a4396846d6": {
+            "name": "HISENSE INTERNATIONAL (HK) CO",
+            "uuid": "2d680e92-df23-40cf-a7a5-f9a4396846d6",
+            "alias": [
+                "HISENSE INTERNATIONAL (HK) CO LTD"
+            ]
+        },
+        "fffee76e-8ced-4582-a32a-9ba5b55e0164": {
+            "name": "HONGKONG JAFZA SANITARY WARE",
+            "uuid": "fffee76e-8ced-4582-a32a-9ba5b55e0164",
+            "alias": [
+                "HONGKONG JAFZA SANITARY WARE INDUST",
+                "HONGKONG JAFZA SANITARY WARE"
+            ]
+        },
+        "618691d6-5179-4e6e-8f6a-b156b3b4b25b": {
+            "name": "HUA HE TRADE CO LIMITED",
+            "uuid": "618691d6-5179-4e6e-8f6a-b156b3b4b25b",
+            "alias": [
+                "HUA HE TRADE CO LIMITED RM289 14/F",
+                "HUAHE TRADE CO LIMITED",
+                "HUAHE TRADE CO LIMITED RM28914/F GO",
+                "HUAHE TRADE CO LIMITED RM289 14/F G"
+            ]
+        },
+        "4f83e323-9af7-43ad-89cf-00dd4b401271": {
+            "name": "Huseynli HUSEYN",
+            "uuid": "4f83e323-9af7-43ad-89cf-00dd4b401271",
+            "alias": [
+                "HUSEYNLI HUSEYN"
+            ]
+        },
+        "1e7a1af9-ab1a-408d-93ad-3975f18a9642": {
+            "name": "Igbal GASANOV",
+            "uuid": "1e7a1af9-ab1a-408d-93ad-3975f18a9642",
+            "alias": [
+                "IGBAL GASANOV"
+            ]
+        },
+        "462a5de0-1cef-4be0-8f40-4a2e97f0f7c7": {
+            "name": "IL GIOIELLO CREAZIONI SNC",
+            "uuid": "462a5de0-1cef-4be0-8f40-4a2e97f0f7c7",
+            "alias": [
+                "IL GIOIELLO CREAZIONI SRL"
+            ]
+        },
+        "e2e687b8-3828-4ef1-87f4-f46d327346c4": {
+            "name": "IMEX MOTORS L.L.C.",
+            "uuid": "e2e687b8-3828-4ef1-87f4-f46d327346c4",
+            "alias": [
+                "IMEX Motors L.L.C."
+            ]
+        },
+        "b6577622-39b7-4e31-a5ee-62a1f8656575": {
+            "name": "IMMERGAS EUROPE S.R.O",
+            "uuid": "b6577622-39b7-4e31-a5ee-62a1f8656575",
+            "alias": [
+                "IMMERGAS EUROPE S.R.O."
+            ]
+        },
+        "ea45d107-5437-4fc9-b25d-ebe2da93d0b0": {
+            "name": "IMPULSE RM INC DBA MAJOR PARTS",
+            "uuid": "ea45d107-5437-4fc9-b25d-ebe2da93d0b0",
+            "alias": [
+                "IMPULSE RM INC",
+                "IMPULSE RM INC DBA MAJOR PARTS NY"
+            ]
+        },
+        "06b8f0a4-5669-4573-ad5f-748833ffb36a": {
+            "name": "INTERPIPE UKRAINE",
+            "uuid": "06b8f0a4-5669-4573-ad5f-748833ffb36a",
+            "alias": [
+                "OOO INTERPAYP UKRAINA",
+                "INTERPIPE UKRAINE LLC"
+            ]
+        },
+        "754c67fc-de77-4824-91b5-8bd8e23e21e1": {
+            "name": "INVERNESS MEDICAL INNOVATION",
+            "uuid": "754c67fc-de77-4824-91b5-8bd8e23e21e1",
+            "alias": [
+                "INVERNESS MEDICAL INNOVATIONS"
+            ]
+        },
+        "5e34b8de-da49-4223-9d69-99459e7e7f72": {
+            "name": "ISITES ISI INS.SAN.VE TIC.LTD. STI",
+            "uuid": "5e34b8de-da49-4223-9d69-99459e7e7f72",
+            "alias": [
+                "ISITES ISI INS.SAN.VE TIC.LTD.STI",
+                "ISITES ISI INS.SAN.VE TIC.LTD. STI"
+            ]
+        },
+        "600b76fd-88c0-4185-9734-e940e27dca4f": {
+            "name": "JIANGSU UNBEATABLE RADIATOR CO.",
+            "uuid": "600b76fd-88c0-4185-9734-e940e27dca4f",
+            "alias": [
+                "JIANGSU UNBEATABLE RADIATOR CO., LTD",
+                "JIANGSU UNBEATABLE RADIATOR CO.,LTD"
+            ]
+        },
+        "533f5c48-9e9f-476a-bebd-5d82c97a558e": {
+            "name": "JIANGYIN ZHONGJIANG PREPAINTED",
+            "uuid": "533f5c48-9e9f-476a-bebd-5d82c97a558e",
+            "alias": [
+                "JIANGYIN ZHONGJIANG PREPAINTED STEEL",
+                "JIANGYIN ZHONGJIANG PREPAINTED STEE"
+            ]
+        },
+        "66f8abe5-4d4c-4817-a6ea-e5abb34c0ea3": {
+            "name": "JX NIPPON OIL AND ENERGY (RUS) LLC",
+            "uuid": "66f8abe5-4d4c-4817-a6ea-e5abb34c0ea3",
+            "alias": [
+                "JX NIPPON OIL AND ENERJY (RUS) LLC",
+                "JX NIPPON OIL AND ENERGY (RUS) LLC",
+                "JX NIPPON OIL AND ENERGY(RUS)LLC"
+            ]
+        },
+        "3574541d-c5f5-4d84-9a0c-dd893e77093b": {
+            "name": "KAI YUAN TRADING CO LIMITED RM289 1",
+            "uuid": "3574541d-c5f5-4d84-9a0c-dd893e77093b",
+            "alias": [
+                "KAI YUAN TRADING CO LTD",
+                "KAI YUAN TRADING CO LIMITED"
+            ]
+        },
+        "91a4be0e-8f9f-4846-b7e8-40c0dd558b16": {
+            "name": "KAIDA SHIPPING (HONG KONG) CO.,",
+            "uuid": "91a4be0e-8f9f-4846-b7e8-40c0dd558b16",
+            "alias": [
+                "KAIDA SHIPPING (HONG KONG) CO., LTD"
+            ]
+        },
+        "b19e1b28-aea9-4948-9846-25953c213404": {
+            "name": "Yuliya KAZLOUSKAYA",
+            "uuid": "b19e1b28-aea9-4948-9846-25953c213404",
+            "alias": [
+                "KAZLOUSKAYA YULIYA",
+                "Yuliya Kazlouskaya"
+            ]
+        },
+        "0f9287f2-ceba-42f9-94f6-353fbaebd6a7": {
+            "name": "KUNT MADENCILIK",
+            "uuid": "0f9287f2-ceba-42f9-94f6-353fbaebd6a7",
+            "alias": [
+                "KUNT MADENCILIK SAN.TIC.LTD.STI"
+            ]
+        },
+        "59231428-927c-42f1-bfb6-ff32e7acbf04": {
+            "name": "LANBIAO HONGKONG TRADING CO.",
+            "uuid": "59231428-927c-42f1-bfb6-ff32e7acbf04",
+            "alias": [
+                "LANBIAO HONGKONG TRADING CO.,",
+                "LANBIAO HONGKONG TRADING CO."
+            ]
+        },
+        "dd4dc572-d40a-4914-9cfc-33d72dde231f": {
+            "name": "LAPLAINE MANAGEMENT LIMITED",
+            "uuid": "dd4dc572-d40a-4914-9cfc-33d72dde231f",
+            "alias": [
+                "LAPLAINE MANAGEMENT LIMITED AKARA B"
+            ]
+        },
+        "678c6474-8bfb-46b3-acbf-b0eaea770438": {
+            "name": "LCI TR KIMYA ITH. IHR. TICARET",
+            "uuid": "678c6474-8bfb-46b3-acbf-b0eaea770438",
+            "alias": [
+                "LCI TR KIMYA ITH. IHR. TICARET LIMITED",
+                "LCI TR KIMYA ITH. IHR. TICARET LIMI"
+            ]
+        },
+        "ea91443e-1b10-4183-a57b-db5da6bdd678": {
+            "name": "LORO PIANA",
+            "uuid": "ea91443e-1b10-4183-a57b-db5da6bdd678",
+            "alias": [
+                "LORO PIANA S.P.A",
+                "LORO PIANA SPA"
+            ]
+        },
+        "56749c23-ef4f-4ce9-9e19-9587a57b1cc7": {
+            "name": "LOUIS ERARD",
+            "uuid": "56749c23-ef4f-4ce9-9e19-9587a57b1cc7",
+            "alias": [
+                "LOUIS ERARD SA"
+            ]
+        },
+        "de634831-7dea-44fe-9fef-e667f7ba9650": {
+            "name": "LTD GEOFERROMETAL",
+            "uuid": "de634831-7dea-44fe-9fef-e667f7ba9650",
+            "alias": [
+                "GEOFERROMETAL LTD"
+            ]
+        },
+        "5e175c09-0f32-4fe7-a7f5-76be6d6241f4": {
+            "name": "LTD. PLASTKOM",
+            "uuid": "5e175c09-0f32-4fe7-a7f5-76be6d6241f4",
+            "alias": [
+                "Ltd. PLASTKOM"
+            ]
+        },
+        "8fffd658-f976-4135-b552-f276c15f1423": {
+            "name": "LUCK SHOES INTL CO., LIMITED",
+            "uuid": "8fffd658-f976-4135-b552-f276c15f1423",
+            "alias": [
+                "LUCK SHOES INTL CO., LIMITED."
+            ]
+        },
+        "bbfc1c98-db25-4cdb-91a2-6fade428456e": {
+            "name": "LUXURY GOODS INTERNATIONAL (LGI)SA",
+            "uuid": "bbfc1c98-db25-4cdb-91a2-6fade428456e",
+            "alias": [
+                "LUXURY GOODS INTERNATIONAL (LGI) S.A.",
+                "LUXURY GOODS INTERNATIONAL S.A",
+                "LUXURY GOODS INTERNATIONAL S.A."
+            ]
+        },
+        "3fe10661-8da5-4912-880b-f3ed892d00d8": {
+            "name": "MAJOR AUTOMOTIVE GROUP INC",
+            "uuid": "3fe10661-8da5-4912-880b-f3ed892d00d8",
+            "alias": [
+                "MAJOR AUTOMOTIVE GROUP INC."
+            ]
+        },
+        "f7fd8973-536c-4a54-bb33-5f01212cbf91": {
+            "name": "MAKSGRUP PLASTIK SAGLIK",
+            "uuid": "f7fd8973-536c-4a54-bb33-5f01212cbf91",
+            "alias": [
+                "MAKSGRUP PLASTIK SAGLIK GERECLERI"
+            ]
+        },
+        "b3109d05-3357-4dd6-a058-c32e120a2454": {
+            "name": "Rasim MAMMADOV",
+            "uuid": "b3109d05-3357-4dd6-a058-c32e120a2454",
+            "alias": [
+                "MAMMADOV RASIM",
+                "RASIM MAMMADOV"
+            ]
+        },
+        "c4612243-f9f4-44d1-b7d4-8f6985a9bcf2": {
+            "name": "MEGA DANISMANLIK TEMSILCILIK",
+            "uuid": "c4612243-f9f4-44d1-b7d4-8f6985a9bcf2",
+            "alias": [
+                "MEGA DANISMANLIK TEMSILCILIK DIS"
+            ]
+        },
+        "5cea33fb-4a94-45bb-9426-77d0974fa8a3": {
+            "name": "MS. H.TREVOR",
+            "uuid": "5cea33fb-4a94-45bb-9426-77d0974fa8a3",
+            "alias": [
+                "Ms. H. Trevor",
+                "Ms. H.Trevor"
+            ]
+        },
+        "04c67a7b-7ab1-429e-877a-25bdce37c843": {
+            "name": "MULTIPLAN YALITIM SISTEMLERI SAN.",
+            "uuid": "04c67a7b-7ab1-429e-877a-25bdce37c843",
+            "alias": [
+                "MULTIPLAN YALITIM SIS. TIC. A.S.",
+                "Multiplan Yalitim Sistemleri San."
+            ]
+        },
+        "26fb6c1c-82b7-4e5e-82ff-7fcc197a2076": {
+            "name": "Naghi NAGIEV",
+            "uuid": "26fb6c1c-82b7-4e5e-82ff-7fcc197a2076",
+            "alias": [
+                "NAGHI NAGIEV",
+                "NAGIEV NAGHI"
+            ]
+        },
+        "1c08ab69-e36b-4fee-b660-9e94ba2a1e40": {
+            "name": "NAZTUR SEYAHAT TICARAT TURIZM LTD",
+            "uuid": "1c08ab69-e36b-4fee-b660-9e94ba2a1e40",
+            "alias": [
+                "NAZTUR SEYAHAT TICARET TURIZM LTD"
+            ]
+        },
+        "b84a934f-bf61-43be-98fa-eb4d9cf085ff": {
+            "name": "NEWMATIC INTERNATIONAL FZCO",
+            "uuid": "b84a934f-bf61-43be-98fa-eb4d9cf085ff",
+            "alias": [
+                "Newmatic International FZCO"
+            ]
+        },
+        "39d17e11-1546-4926-9970-2a5d7bdb13bd": {
+            "name": "NOTA ISI VE YAPI SISTEMLERI SAN.TIC",
+            "uuid": "39d17e11-1546-4926-9970-2a5d7bdb13bd",
+            "alias": [
+                "NOTA ISI VE YAPI SISTEMLERI SANAYI TIC",
+                "NOTA ISI VE YAPI SISTEMLERI SANAYI"
+            ]
+        },
+        "5d00d69d-20b1-4eab-bc03-94c5b27cb5fe": {
+            "name": "NOVA VERTA INTERNATIONAL S.P.A.",
+            "uuid": "5d00d69d-20b1-4eab-bc03-94c5b27cb5fe",
+            "alias": [
+                "NOVA VERTA INTERNATIONAL S.P.A",
+                "NOVA VERTA INTERNATIONAL S.P.A.",
+                "NOVA VERTA INTERNATIONAL SPA"
+            ]
+        },
+        "f5654353-cd6f-45d7-b621-c6b3fe609760": {
+            "name": "PAJUNK Gmbh Medizintechnologie.",
+            "uuid": "f5654353-cd6f-45d7-b621-c6b3fe609760",
+            "alias": [
+                "PAJUNK GmbH"
+            ]
+        },
+        "771e826c-0b3d-46b2-9d82-be42aa62aabc": {
+            "name": "PARK TASARIM PEYZAJ",
+            "uuid": "771e826c-0b3d-46b2-9d82-be42aa62aabc",
+            "alias": [
+                "PARK TASARIM PEYZAJ ENERJI MADENCIL"
+            ]
+        },
+        "24b8b808-ef72-436f-8561-af37f2ea39c2": {
+            "name": "PARY INTERNATIONAL",
+            "uuid": "24b8b808-ef72-436f-8561-af37f2ea39c2",
+            "alias": [
+                "PARY INTERNATIONAL INC."
+            ]
+        },
+        "8c5f2ea6-2861-4e1b-a8d4-9c32c319efaf": {
+            "name": "PILSAN DIS TICARET LDT.STI.",
+            "uuid": "8c5f2ea6-2861-4e1b-a8d4-9c32c319efaf",
+            "alias": [
+                "PILSAN DIS TICARET LTD. STI.",
+                "PILSAN DIS TICARET LTD.STI."
+            ]
+        },
+        "903e9d98-0926-4879-bd18-4d1e6b30ca8b": {
+            "name": "PINGCHUAN TRADE CO., LIMITED ADD:RM",
+            "uuid": "903e9d98-0926-4879-bd18-4d1e6b30ca8b",
+            "alias": [
+                "PINGCHUAN TRADE CO., LIMITED",
+                "PINGCHUAN TRADE CO LIMITED ADD:RM",
+                "PINGHENG TRADE CO LIMITED RM289 14/"
+            ]
+        },
+        "2156cb93-8af7-4a9f-8cbe-9029e105a82d": {
+            "name": "PJSC ARCELORMITTAL KRYVYI RIH",
+            "uuid": "2156cb93-8af7-4a9f-8cbe-9029e105a82d",
+            "alias": [
+                "OJSC ARCELORMITTAL KRYVIY RIH",
+                "PJSC ARCELORMITTAL KRYVIY RIH",
+                "PJSC ARCELORMITTAL KRYVYI RIH,"
+            ]
+        },
+        "678bff5d-f59a-44a5-877b-d060051dcd1d": {
+            "name": "POLISPORTIVA DILETTANTISTICA",
+            "uuid": "678bff5d-f59a-44a5-877b-d060051dcd1d",
+            "alias": [
+                "POLISPORTIVA DILETTANTISTICA LENTIG"
+            ]
+        },
+        "f5f952ea-54f9-44f1-b150-524115fc94f6": {
+            "name": "PRJSC PENTOPAK",
+            "uuid": "f5f952ea-54f9-44f1-b150-524115fc94f6",
+            "alias": [
+                "PrJSC PentoPak"
+            ]
+        },
+        "0d225af0-649b-4e91-9521-e2bd7689d7b4": {
+            "name": "PS KFZ VERTRIED GMBH",
+            "uuid": "0d225af0-649b-4e91-9521-e2bd7689d7b4",
+            "alias": [
+                "PS KFZ-VERTRIEB GMBH"
+            ]
+        },
+        "4961ec59-cd6c-44ec-acd4-83b302cf7f31": {
+            "name": "REGAL FUR AND FASHION CO.,LTD",
+            "uuid": "4961ec59-cd6c-44ec-acd4-83b302cf7f31",
+            "alias": [
+                "REGAL FUR AND FASHION CO., LTD."
+            ]
+        },
+        "ac2fcfbd-d022-49a2-8df7-bfa5e0203dc2": {
+            "name": "ROBELLO (SHANGHAI) THERMAL",
+            "uuid": "ac2fcfbd-d022-49a2-8df7-bfa5e0203dc2",
+            "alias": [
+                "ROBELLO (SHANGHAI) THERMAL TECHNOLOGY",
+                "ROBELLO (SHANGHAI) THERMAL TECHNOLO"
+            ]
+        },
+        "d4297482-4bf3-4da8-8dcc-17d6e37f8f0b": {
+            "name": "Roman RAWINSKI",
+            "uuid": "d4297482-4bf3-4da8-8dcc-17d6e37f8f0b",
+            "alias": [
+                "ROMAN RAWINSKI"
+            ]
+        },
+        "06ed0094-01e7-43e6-b569-229d01deaeb9": {
+            "name": "SABA CARS GERMANY GMBH",
+            "uuid": "06ed0094-01e7-43e6-b569-229d01deaeb9",
+            "alias": [
+                "SABA CARS Germany GmbH"
+            ]
+        },
+        "b7f06997-72fb-4090-a2a0-eaac123f1368": {
+            "name": "SANDRO BRUSCHI",
+            "uuid": "b7f06997-72fb-4090-a2a0-eaac123f1368",
+            "alias": [
+                "VIVAI SANDRO BRUSCHI"
+            ]
+        },
+        "1fa21318-d061-430a-8617-fbda5580588f": {
+            "name": "SAS ATELIERS MODELES BABY DIOR",
+            "uuid": "1fa21318-d061-430a-8617-fbda5580588f",
+            "alias": [
+                "SAS ATELIERS MODELES",
+                "SAS ATELIERS MODELES BABY DIOR",
+                "ATELIERS MODELES",
+                "BABY DIOR - SAS ATELIERS MODELES"
+            ]
+        },
+        "e75841f6-6bde-4887-aefb-7550474da708": {
+            "name": "SAYGIN HIDROFOR VE POMPA SIS.SAN.",
+            "uuid": "e75841f6-6bde-4887-aefb-7550474da708",
+            "alias": [
+                "SAYGIN HIDROFOR VE POMPA SIS. SAN.",
+                "SAYGIN HIDROFOR VE POMPA SISTEMLERI"
+            ]
+        },
+        "06143885-855e-4ed4-837c-2bb84e5b2f85": {
+            "name": "SEL DIS TICARET VE KIMYA SAN AS.",
+            "uuid": "06143885-855e-4ed4-837c-2bb84e5b2f85",
+            "alias": [
+                "SEL. DIS TICARET VE KIMYA SANAYI A.S",
+                "SEL DIS TICARET VE KIMYA SANAYI",
+                "SEL.DIS TICARET VE KIMYA SANAYI A.S"
+            ]
+        },
+        "be6d83f6-dc7e-4b4a-a1c1-ab99dbb93155": {
+            "name": "SERANIT GRANIT SERAMIK SANAYI",
+            "uuid": "be6d83f6-dc7e-4b4a-a1c1-ab99dbb93155",
+            "alias": [
+                "SERANIT GRANIT SERAMIK SANAYI VE"
+            ]
+        },
+        "215b2605-b382-4483-a662-92786bfb72ea": {
+            "name": "SGS LIBERIA INC",
+            "uuid": "215b2605-b382-4483-a662-92786bfb72ea",
+            "alias": [
+                "SGS Liberia Inc"
+            ]
+        },
+        "c33fc5b2-28b8-49d1-872a-975cf96bf956": {
+            "name": "SHANDONG LONGCHENG EXPORTING CO.,",
+            "uuid": "c33fc5b2-28b8-49d1-872a-975cf96bf956",
+            "alias": [
+                "SHANDONG LONGCHENG EXPORTING CO., LTD",
+                "SHANDONG LONGCHENG EXPORTING CO.LTD"
+            ]
+        },
+        "287683d0-9e6f-4ae9-a206-fe70f2a621b8": {
+            "name": "SHANDONG ZHONGKAI MACHINERY",
+            "uuid": "287683d0-9e6f-4ae9-a206-fe70f2a621b8",
+            "alias": [
+                "SHANDONG ZHONGKAI MACHINERY +",
+                "SHANDONG ZHONGKAI MACHINERY",
+                "SHANDONG ZHONGKAI MACHINERY &"
+            ]
+        },
+        "ef8c3dbc-0669-4f3a-b71c-f977bf25b15d": {
+            "name": "SHAOXING COUNTY HUAZHUO TEXTILE CO.",
+            "uuid": "ef8c3dbc-0669-4f3a-b71c-f977bf25b15d",
+            "alias": [
+                "SHAOXING HUAZHUO TEXTILE CO.,"
+            ]
+        },
+        "975bf47a-3666-40e1-80ae-bd7186c2edbf": {
+            "name": "SHUNDE LIGHT INDUSTRIAL PRODUCTS",
+            "uuid": "975bf47a-3666-40e1-80ae-bd7186c2edbf",
+            "alias": [
+                "SHUNDE LIGHT INDUSTRIAL PRODUCTS IM"
+            ]
+        },
+        "55261046-7f84-4737-ab51-d2550807f516": {
+            "name": "SISCON MEDICAL GMBH",
+            "uuid": "55261046-7f84-4737-ab51-d2550807f516",
+            "alias": [
+                "SISCON MEDICAL Gmbh"
+            ]
+        },
+        "73bda704-afe0-41f0-91a8-1d2ba3526873": {
+            "name": "SOCIETA ITALIA S.R.L",
+            "uuid": "73bda704-afe0-41f0-91a8-1d2ba3526873",
+            "alias": [
+                "SOCIETA ITALIA SRL",
+                "SOCIETA ITALIA S.R.L"
+            ]
+        },
+        "536a7ff9-395a-4a22-9fcc-e25b580719f8": {
+            "name": "SOGUT PLASTIK VE KALIP SANAYI",
+            "uuid": "536a7ff9-395a-4a22-9fcc-e25b580719f8",
+            "alias": [
+                "SOGUT PLASTIK VE KALIP SANAYI VE"
+            ]
+        },
+        "0b0e9e17-73d3-48fb-9e20-dce163970d7c": {
+            "name": "SOYTAS DIS TICARET LTD",
+            "uuid": "0b0e9e17-73d3-48fb-9e20-dce163970d7c",
+            "alias": [
+                "SOYTAS DIS TICARET LTD STI"
+            ]
+        },
+        "29b6ddb5-37a9-4656-8da4-da66598c8f14": {
+            "name": "SPARKLING OIL STAR",
+            "uuid": "29b6ddb5-37a9-4656-8da4-da66598c8f14",
+            "alias": [
+                "SPARKLING OIL STAR LTD.",
+                "SPARKLING OIL STAR LTD",
+                "SPARKLING OIL STAR LTD. G11"
+            ]
+        },
+        "dc53b92d-38ac-45d4-ba2e-443be8276196": {
+            "name": "STANDART IZOLASYON VE YAPI",
+            "uuid": "dc53b92d-38ac-45d4-ba2e-443be8276196",
+            "alias": [
+                "STANDART IZOLASYON VE YAPI MATER"
+            ]
+        },
+        "29b93e39-71af-422a-8f94-88f7e349ba47": {
+            "name": "STARPOOL S.R.L.",
+            "uuid": "29b93e39-71af-422a-8f94-88f7e349ba47",
+            "alias": [
+                "STARPOOL SRL",
+                "STARPOOL S.R.L."
+            ]
+        },
+        "9cb2e254-941b-4ad1-9779-0a60325d264c": {
+            "name": "STARWOOD ORMAN URUNLERI SANAYI",
+            "uuid": "9cb2e254-941b-4ad1-9779-0a60325d264c",
+            "alias": [
+                "STARWOOD ORMAN URUNLERI SANAYI A.S"
+            ]
+        },
+        "3b087be8-e909-4e84-88aa-ce4f7bfc70de": {
+            "name": "STILL HAIR ACCESSORY CO LIMITED",
+            "uuid": "3b087be8-e909-4e84-88aa-ce4f7bfc70de",
+            "alias": [
+                "STILL HAIRA ACCESSORY CO LIMITED",
+                "STILL HAIR ACCESSORY CO LIMTIED",
+                "STILL HAIR ACCESSORY CO.,LTD AIL",
+                "STILL HAIR ACCESSORY CO., LIMITED"
+            ]
+        },
+        "577719f4-4cfd-4aed-93d2-b89b3c6d91a8": {
+            "name": "SULZER POMPA COZUMLERI LTD.STI",
+            "uuid": "577719f4-4cfd-4aed-93d2-b89b3c6d91a8",
+            "alias": [
+                "SULZER POMPA COZUMLERI LTD.STI."
+            ]
+        },
+        "ba13e81c-16b2-4400-8a57-4ddc8e1e9cb9": {
+            "name": "TAMSA FAYANS SERAMIK URETIM DAG.SAN",
+            "uuid": "ba13e81c-16b2-4400-8a57-4ddc8e1e9cb9",
+            "alias": [
+                "TAMSA FAYANS SERAMIK URETIM DAGITIM SAN",
+                "TAMSA FAYANS SERAMIK URETIM DAGITIM"
+            ]
+        },
+        "d9650873-d846-446e-b4b8-0292cd9147c8": {
+            "name": "TARAS AND K",
+            "uuid": "d9650873-d846-446e-b4b8-0292cd9147c8",
+            "alias": [
+                "TARAS AND K KRASODARSKIY EDGE G"
+            ]
+        },
+        "bb832a06-0e75-4ce4-9b80-50f072d68847": {
+            "name": "TASA OTOMOTIV PETROL NAKLIYAT",
+            "uuid": "bb832a06-0e75-4ce4-9b80-50f072d68847",
+            "alias": [
+                "TASA OTOMOTIV PETROL NAKLIYAT GIDA"
+            ]
+        },
+        "51f75cab-46bd-4389-8961-76f0ed77f101": {
+            "name": "TEMSER CELIK IMALAT,ISI,MAKINA",
+            "uuid": "51f75cab-46bd-4389-8961-76f0ed77f101",
+            "alias": [
+                "TEMSER CELIK IMALAT, ISI, MAKINA",
+                "TEMSER CELIK IMALAT,ISI,MAKINA SAN."
+            ]
+        },
+        "75b3c787-7042-424e-8b0c-b2a10fcf1cee": {
+            "name": "THE JIANG YIWU YING RUI FREIGHT",
+            "uuid": "75b3c787-7042-424e-8b0c-b2a10fcf1cee",
+            "alias": [
+                "ZHEJIANG YIWU YING RUI FREIGHT FORWARDING",
+                "ZHE JIANG YIWU YING RUI FREIGHT"
+            ]
+        },
+        "0d3ed7e7-ff30-4be5-aab0-11802775a022": {
+            "name": "THIERRY MUGLER",
+            "uuid": "0d3ed7e7-ff30-4be5-aab0-11802775a022",
+            "alias": [
+                "THIERRY MUGLER SAS"
+            ]
+        },
+        "1b57554d-3c20-4f02-aa37-3d0a3e6db138": {
+            "name": "Thomas GRABBE",
+            "uuid": "1b57554d-3c20-4f02-aa37-3d0a3e6db138",
+            "alias": [
+                "THOMAS GRABBE"
+            ]
+        },
+        "a58518b4-a582-4091-ad49-55139399a32e": {
+            "name": "TOLWORTH TRADE INVESTMENTS S.A",
+            "uuid": "a58518b4-a582-4091-ad49-55139399a32e",
+            "alias": [
+                "TOLWORTH TRADE INVESTMENTS S.A.",
+                "TOLWORTH TRADE INVESTMENTS S.A"
+            ]
+        },
+        "266a0899-598a-4993-9bc2-dbdb946eed9e": {
+            "name": "TRADE HOUSE TMK",
+            "uuid": "266a0899-598a-4993-9bc2-dbdb946eed9e",
+            "alias": [
+                "CJSC TRADE HOUSE TMK"
+            ]
+        },
+        "18e04fb6-e527-4d26-b2e2-736d9dca512d": {
+            "name": "TURSAN SERAMIK SAN VE TIC LTD STI",
+            "uuid": "18e04fb6-e527-4d26-b2e2-736d9dca512d",
+            "alias": [
+                "TURSAN SERAMIK SAN VE TIC LTD STL",
+                "TURSAN SERAMIK SAN VE TIC LTD STI"
+            ]
+        },
+        "30039167-cdaf-483f-b7aa-addd98adf1ae": {
+            "name": "TUV AUSTRIA BBS BELGELENDIRME",
+            "uuid": "30039167-cdaf-483f-b7aa-addd98adf1ae",
+            "alias": [
+                "TUV AUSTRIA TURK BELGELENDIRME"
+            ]
+        },
+        "9fbd312a-6f69-4ac8-8afc-ca626b5e808f": {
+            "name": "VELASCO INTERNATIONAL INC.",
+            "uuid": "9fbd312a-6f69-4ac8-8afc-ca626b5e808f",
+            "alias": [
+                "Velasco International Inc."
+            ]
+        },
+        "43bc7324-0d61-405b-ba04-d62a72053a2c": {
+            "name": "VELI AKGUN INSAAT SERAMIK",
+            "uuid": "43bc7324-0d61-405b-ba04-d62a72053a2c",
+            "alias": [
+                "VELI AKGUN SERAMIK"
+            ]
+        },
+        "7a5b3ac3-61e7-4a22-8c75-2bf0def2b9ab": {
+            "name": "VELUTSAN TROSTER SYSTEME UND",
+            "uuid": "7a5b3ac3-61e7-4a22-8c75-2bf0def2b9ab",
+            "alias": [
+                "VELUTSAN TROSTER SYSTEME UND KOM"
+            ]
+        },
+        "d4635fda-345e-4d11-9021-2a6e11a6fc42": {
+            "name": "VESNA METAL VE PROFIL SAN. DIS TIC.",
+            "uuid": "d4635fda-345e-4d11-9021-2a6e11a6fc42",
+            "alias": [
+                "VESNA METAL VE PROFIL SAN.DIS TIC.",
+                "VESNA METAL VE PROFIL SAN. DIS TIC."
+            ]
+        },
+        "3db889a5-3192-4195-81f7-27624781ba4b": {
+            "name": "VESTEL TICARET A.S.",
+            "uuid": "3db889a5-3192-4195-81f7-27624781ba4b",
+            "alias": [
+                "VESTEL DIS TICARET A.S."
+            ]
+        },
+        "d054af3c-f72a-4dba-9f80-9f2b7f935537": {
+            "name": "VOSTOK MEDIA ECHANGE LTD",
+            "uuid": "d054af3c-f72a-4dba-9f80-9f2b7f935537",
+            "alias": [
+                "VOSTOK MEDIA EXCHANGE LTD"
+            ]
+        },
+        "92125a9a-3b39-4959-b976-733feff08225": {
+            "name": "WENLING FUXIN FURNITURE",
+            "uuid": "92125a9a-3b39-4959-b976-733feff08225",
+            "alias": [
+                "WENLING FUXIN FURNITURE CO., LTD",
+                "WENLING FUXIN FURNITURE CO.,LTD"
+            ]
+        },
+        "38976034-bfd3-4d96-83df-61e49f51d352": {
+            "name": "WOLF GMBH",
+            "uuid": "38976034-bfd3-4d96-83df-61e49f51d352",
+            "alias": [
+                "Wolf GmbH"
+            ]
+        },
+        "5c5901da-7a8f-4469-87df-93ee49a9f3c7": {
+            "name": "YAKAMOZ GENERAL TRADING LLC",
+            "uuid": "5c5901da-7a8f-4469-87df-93ee49a9f3c7",
+            "alias": [
+                "YOKAMOZ GENERAL TRADING LLC",
+                "YAKAMOZ GENERAL TRADING LLC"
+            ]
+        },
+        "b5f6f978-fce8-4d54-a189-74535e649828": {
+            "name": "YIWU HOLDING IMPORT AND",
+            "uuid": "b5f6f978-fce8-4d54-a189-74535e649828",
+            "alias": [
+                "YIWU HOLDING IMPORT AND EXPORT",
+                "YIWU HENGDA IMPORT AND EXPORT",
+                "YIWU LEICHUAN IMPORT AND EXPORT"
+            ]
+        },
+        "e4135f35-58bd-4c8b-87b1-a689e18aa5f4": {
+            "name": "ZEWI BERLIN HANDELS GMBH",
+            "uuid": "e4135f35-58bd-4c8b-87b1-a689e18aa5f4",
+            "alias": [
+                "ZEWI BERLIN HANDELS GmbH",
+                "ZEWI JUWELEN HANDELS GMBH"
+            ]
+        },
+        "551b9ed1-912c-4721-9a09-4fb919c983da": {
+            "name": "ZHEJIANG MENGRUN KNITTING",
+            "uuid": "551b9ed1-912c-4721-9a09-4fb919c983da",
+            "alias": [
+                "ZHEJIANG MENGRUN KNITTING CO., LTD",
+                "ZHEJIANG MENGRUN KNITTING CO.,LTD"
+            ]
+        },
+        "fc7a1f92-e638-4f59-b826-fe1907fd6ea6": {
+            "name": "ZHUHAI STAR WIN PIPE CO.,LTD",
+            "uuid": "fc7a1f92-e638-4f59-b826-fe1907fd6ea6",
+            "alias": [
+                "ZHUHAI STARWIN PIPE CO., LTD",
+                "ZHUHAI STARWIN PIPE CO.,LTD"
+            ]
+        },
+        "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147": {
+            "name": "ZIWU TRADING CO LIMITED",
+            "uuid": "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147",
+            "alias": [
+                "ZI WU TRADING CO LIMITED RM289 14/F",
+                "ZI WU TRADING CO LIMITED RM289 B14/",
+                "ZI YI TRADING CO LIMITED RM289 14/F",
+                "ZIWU TRADING CO LIMITED NO285 LO",
+                "ZIWU TRADING CO LIMITED RM289 14/F",
+                "ZIYI TRADING CO LIMITED"
+            ]
+        },
+        "e19631ea-17f9-4c84-a204-b0327439d68e": {
+            "name": "ZUMBOTEL LIGHTING GMBH",
+            "uuid": "e19631ea-17f9-4c84-a204-b0327439d68e",
+            "alias": [
+                "ZUMTOBEL LIGHTING GMBH"
+            ]
+        },
+        "aeef03b7-66de-48e9-9442-670536e94ee4": {
+            "name": "INMAXO CAPITAL CORP",
+            "uuid": "aeef03b7-66de-48e9-9442-670536e94ee4",
+            "alias": [
+                "INMAXO CAPITAL CORP."
+            ]
+        },
+        "1e366d97-f5a1-40d2-a853-ae35f55b02b1": {
+            "name": "UNIVAR",
+            "uuid": "1e366d97-f5a1-40d2-a853-ae35f55b02b1",
+            "alias": [
+                "UNIVAR KIMYA SANAYI VE DIS TIC LTD."
+            ]
+        },
+        "40d5550b-9112-42c6-963e-57e96de4f50b": {
+            "name": "MERTIK MAXITROL GMBH&CO KG",
+            "uuid": "40d5550b-9112-42c6-963e-57e96de4f50b",
+            "alias": [
+                "MERTIK MAXITROL GMBH & CO.KG"
+            ]
+        },
+        "5a8e39d5-c797-4c9d-8629-6a71c0324f70": {
+            "name": "CHRISTEL HEILMANN GMBH&CO.KG",
+            "uuid": "5a8e39d5-c797-4c9d-8629-6a71c0324f70",
+            "alias": [
+                "CHRISTEL HEILMANN GMBH & CO.KG"
+            ]
+        },
+        "ea51a0fc-bac7-4f8a-ac9d-270127f68f2f": {
+            "name": "IMMERGAS S.P.A",
+            "uuid": "ea51a0fc-bac7-4f8a-ac9d-270127f68f2f",
+            "alias": [
+                "IMMERGAS S.P.A."
+            ]
+        },
+        "2c5aee25-3c57-4b3b-b7a0-669fd559cd2a": {
+            "name": "EMMA SRL",
+            "uuid": "2c5aee25-3c57-4b3b-b7a0-669fd559cd2a",
+            "alias": [
+                "EMMA S.R.L"
+            ]
+        },
+        "20b2eb4d-19e5-4a4c-a767-0b61f9474279": {
+            "name": "KONURAY KIMYA SAN.VE TIC.LTD.STI.",
+            "uuid": "20b2eb4d-19e5-4a4c-a767-0b61f9474279",
+            "alias": [
+                "KONURAY KIMYA SANAYI VE TICARET LTD"
+            ]
+        },
+        "e5d04fe8-322a-4404-947c-97fe0641cf7f": {
+            "name": "INKA AMBALAJ SAN.VE INS.LTD.STI",
+            "uuid": "e5d04fe8-322a-4404-947c-97fe0641cf7f",
+            "alias": [
+                "INKA AMBALAJ SANAYI VE INSAAT. LTD. STI."
+            ]
+        },
+        "5860a091-4a27-4b13-9ce2-22f74a10b992": {
+            "name": "ALAKBAROVA NIGAR",
+            "uuid": "5860a091-4a27-4b13-9ce2-22f74a10b992",
+            "alias": [
+                "NIGAR ALAKBAROVA"
+            ]
+        },
+        "8d15feae-61ac-4551-a2b8-4a42dd002a6d": {
+            "name": "TEKNOS SP.Z.O.O",
+            "uuid": "8d15feae-61ac-4551-a2b8-4a42dd002a6d",
+            "alias": [
+                "TEKNOS SP. Z.O.O."
+            ]
+        },
+        "8738c0c6-faea-4881-8422-1be8baee6d97": {
+            "name": "YONGKANG SANGHE RADIATOR CO.,LTD",
+            "uuid": "8738c0c6-faea-4881-8422-1be8baee6d97",
+            "alias": [
+                "YONGKANG SANGHE RADIATOR CO., LTD"
+            ]
+        },
+        "31e6ed81-7143-4bbd-8543-7f8cd165cee7": {
+            "name": "SAFAR SAFAROV",
+            "uuid": "31e6ed81-7143-4bbd-8543-7f8cd165cee7",
+            "alias": [
+                "SAFAR A SAFAROV"
+            ]
+        },
+        "4a86c451-f411-4dbb-ab8d-fb8a6701f470": {
+            "name": "BELINKA PERKEMIJA,D.O.O.",
+            "uuid": "4a86c451-f411-4dbb-ab8d-fb8a6701f470",
+            "alias": [
+                "BELINKA PERKEMIJA, D.O.O."
+            ]
+        },
+        "a70610fa-e0ef-47b6-acd8-ec14a5430dfd": {
+            "name": "INTERNATIONAL BUSINESS UNIT",
+            "uuid": "a70610fa-e0ef-47b6-acd8-ec14a5430dfd",
+            "alias": [
+                "EVER CHAMPION TRADING LIMITED"
+            ]
+        },
+        "3f961af9-69a5-40eb-9cc0-e73079df697e": {
+            "name": "HK BOSFA IND BATTERY INT CO.,LTD",
+            "uuid": "3f961af9-69a5-40eb-9cc0-e73079df697e",
+            "alias": [
+                "HK BOSFA IND BATTERY INT CO., LTD"
+            ]
+        },
+        "262d1190-67a7-4b3a-a4a1-f9c724e81118": {
+            "name": "KPX FINE CHEMICAL CO.,LTD",
+            "uuid": "262d1190-67a7-4b3a-a4a1-f9c724e81118",
+            "alias": [
+                "KPX FINE CHEMICAL CO., LTD"
+            ]
+        },
+        "328da066-299c-4866-9318-aecf6789ad1f": {
+            "name": "INN905281886",
+            "uuid": "328da066-299c-4866-9318-aecf6789ad1f",
+            "alias": [
+                "INN5905281886"
+            ]
+        },
+        "1876b96d-c086-4f65-88e6-119b5993a1f2": {
+            "name": "GDG L.T.D.",
+            "uuid": "1876b96d-c086-4f65-88e6-119b5993a1f2",
+            "alias": [
+                "G.D.G. LTD."
+            ]
+        },
+        "f3c040e2-1602-42b4-8ad9-7bb33b1cb8ae": {
+            "name": "KAI CHENG TRADING CO.,LTD",
+            "uuid": "f3c040e2-1602-42b4-8ad9-7bb33b1cb8ae",
+            "alias": [
+                "KAI CHENG TRADING CO., LIMITED"
+            ]
+        },
+        "6a44ba04-7a5b-4515-8fe5-31a126e5e0bf": {
+            "name": "METINVEST UKRAINE",
+            "uuid": "6a44ba04-7a5b-4515-8fe5-31a126e5e0bf",
+            "alias": [
+                "OOO METINVEST-UKRAINE"
+            ]
+        },
+        "74033b64-1938-48cd-ad56-f695dd980c4c": {
+            "name": "TITANTUBING HYDRAULICS CO.,LIMITED",
+            "uuid": "74033b64-1938-48cd-ad56-f695dd980c4c",
+            "alias": [
+                "TITANTUBING HYDRAULICS CO., LIMITED"
+            ]
+        },
+        "159e4736-3158-4a55-88ad-baa69794e18f": {
+            "name": "CHENG ZHANG TRADING CO.,LTD",
+            "uuid": "159e4736-3158-4a55-88ad-baa69794e18f",
+            "alias": [
+                "CHENG ZHANG TRADING CO., LTD"
+            ]
+        },
+        "c84523ea-7d8c-4179-9fc5-dbfe239c777b": {
+            "name": "WENLING HUANLI ELECTRIC CO.,LTD",
+            "uuid": "c84523ea-7d8c-4179-9fc5-dbfe239c777b",
+            "alias": [
+                "WENLING HUANLI ELECTRIC CO., LTD"
+            ]
+        },
+        "4d64168f-04e7-446b-91af-2e0991d1499a": {
+            "name": "BURHANATTIN UCAR",
+            "uuid": "4d64168f-04e7-446b-91af-2e0991d1499a",
+            "alias": [
+                "BURHANATIN UCAR"
+            ]
+        },
+        "77f83b21-2a5a-43cf-ba16-3cbd431f154c": {
+            "name": "GILLER GROUP,S.A",
+            "uuid": "77f83b21-2a5a-43cf-ba16-3cbd431f154c",
+            "alias": [
+                "GILLER GROUP, S.A"
+            ]
+        },
+        "d7335a17-36b3-41e1-ab88-caaaeae07409": {
+            "name": "MARTINA BORNSCHEIN,PROMED",
+            "uuid": "d7335a17-36b3-41e1-ab88-caaaeae07409",
+            "alias": [
+                "MARTINA BORNSCHEIN"
+            ]
+        },
+        "304fac68-2bf4-4f16-9634-e3af1d5d41f5": {
+            "name": "ZEYNALOV SADIYAR",
+            "uuid": "304fac68-2bf4-4f16-9634-e3af1d5d41f5",
+            "alias": [
+                "SADIYAR ZEYNALOV"
+            ]
+        },
+        "7d90cf91-784a-49c9-8464-a785a4f137df": {
+            "name": "RIZHAO HUGE DENTAL INDESTRY CO.,LTD",
+            "uuid": "7d90cf91-784a-49c9-8464-a785a4f137df",
+            "alias": [
+                "RIZHAO HUGE DENTAL INDESTRY CO., LTD"
+            ]
+        },
+        "1cc19283-4d2d-4a54-9d8b-97adcd881853": {
+            "name": "F.F.D.M.PNEUMAT",
+            "uuid": "1cc19283-4d2d-4a54-9d8b-97adcd881853",
+            "alias": [
+                "FFDM PNEUMAT THOMAS DENTAL"
+            ]
+        },
+        "6b2ecfd6-75ea-44e9-b8cd-9f03247d6fdf": {
+            "name": "DESUNHO INDUSTRIAL CO.,LIMITED",
+            "uuid": "6b2ecfd6-75ea-44e9-b8cd-9f03247d6fdf",
+            "alias": [
+                "DESUNHO INDUSTRIAL CO., LIMITED"
+            ]
+        },
+        "246f5185-9940-4990-8744-0193af6461d8": {
+            "name": "ZHU GE WU YING CO.,LTD",
+            "uuid": "246f5185-9940-4990-8744-0193af6461d8",
+            "alias": [
+                "ZHU GE WU YING CO., LTD"
+            ]
+        },
+        "00bc69e0-0da5-4124-b1ca-a94a0ac24824": {
+            "name": "DEQING TONGCHEM CO.,LTD",
+            "uuid": "00bc69e0-0da5-4124-b1ca-a94a0ac24824",
+            "alias": [
+                "DEQING TONGCHEM CO., LTD"
+            ]
+        },
+        "b345a56d-0d13-409d-aa96-09bf4aea48fc": {
+            "name": "RENAISSANCE ASSOCIATES S.A",
+            "uuid": "b345a56d-0d13-409d-aa96-09bf4aea48fc",
+            "alias": [
+                "RENAISSANCE ASSOCIATES S.A."
+            ]
+        },
+        "93f04726-1908-4873-b3e6-91904efff190": {
+            "name": "HONG KONG PERFECT JEWELLERY CO.,LTD",
+            "uuid": "93f04726-1908-4873-b3e6-91904efff190",
+            "alias": [
+                "HONG KONG PERFECT JEWELLERY CO., LTD"
+            ]
+        },
+        "298d3dad-866e-4668-a1c3-7d3809224462": {
+            "name": "FENG SHUANG TRADING CO.,LTD",
+            "uuid": "298d3dad-866e-4668-a1c3-7d3809224462",
+            "alias": [
+                "FENG SHUANG TRADING CO., LTD"
+            ]
+        },
+        "3ea1d239-9dc0-425a-8290-83c6a6bed465": {
+            "name": "WONDERLAND S.R.L",
+            "uuid": "3ea1d239-9dc0-425a-8290-83c6a6bed465",
+            "alias": [
+                "WONDERLAND S.R.L."
+            ]
+        },
+        "e1ddccb8-8e58-47f6-a441-ec28744c0d58": {
+            "name": "HK OCEAN XIN TRADING CO.,LIMITED",
+            "uuid": "e1ddccb8-8e58-47f6-a441-ec28744c0d58",
+            "alias": [
+                "HK OCEAN XIN TRADING CO., LIMITED"
+            ]
+        },
+        "3b59d452-fc63-4668-ad22-3a1b32898eab": {
+            "name": "ARCELORMITTAL TEMIRTAU,JSC",
+            "uuid": "3b59d452-fc63-4668-ad22-3a1b32898eab",
+            "alias": [
+                "JSC ArcelorMittal Temirtau"
+            ]
+        },
+        "334ce52d-1798-43f3-a6d0-f45c35acd323": {
+            "name": "VITAP OLYMERSP OLANDS P.Z O.O.",
+            "uuid": "334ce52d-1798-43f3-a6d0-f45c35acd323",
+            "alias": [
+                "VITA POLYMERS POLAND SP. Z.O.O"
+            ]
+        },
+        "1f882247-54f2-4006-b207-9e28fe5b2bf4": {
+            "name": "YING-HAI(HONG KONG)CO.,LTD",
+            "uuid": "1f882247-54f2-4006-b207-9e28fe5b2bf4",
+            "alias": [
+                "YING-HAI(HONG KONG)CO., LTD"
+            ]
+        },
+        "b8870062-c075-432f-9c81-dc293a7c3849": {
+            "name": "VESTEL",
+            "uuid": "b8870062-c075-432f-9c81-dc293a7c3849",
+            "alias": [
+                "VESTEL CIS LTD"
+            ]
+        },
+        "0d5e08e7-1de1-4465-9a26-088e726aadbf": {
+            "name": "AUTO SAXE NL DER WELLER GMBH&CO.KG",
+            "uuid": "0d5e08e7-1de1-4465-9a26-088e726aadbf",
+            "alias": [
+                "AUTO SAXE NL DER WELLER GMBH & CO.KG"
+            ]
+        },
+        "c5344534-d6fc-49f5-9cbb-0e18d48a9c78": {
+            "name": "SPAZIO ITALIA SRI",
+            "uuid": "c5344534-d6fc-49f5-9cbb-0e18d48a9c78",
+            "alias": [
+                "SPAZIO ITALIA SRL"
+            ]
+        },
+        "90c62d46-4fc0-4fee-99f9-b407d286aa6f": {
+            "name": "COMMEXI FZE RAS AL KHAIMAH FREE",
+            "uuid": "90c62d46-4fc0-4fee-99f9-b407d286aa6f",
+            "alias": [
+                "COMMEXI FZE"
+            ]
+        },
+        "aff3e4f7-e49c-4add-b2f0-0b99e998544c": {
+            "name": "AISG,INC.",
+            "uuid": "aff3e4f7-e49c-4add-b2f0-0b99e998544c",
+            "alias": [
+                "AISG, INC."
+            ]
+        },
+        "f80d6b78-eb1b-4472-bf56-9ccf188a90f8": {
+            "name": "TOMASINI FRANCIA SRL",
+            "uuid": "f80d6b78-eb1b-4472-bf56-9ccf188a90f8",
+            "alias": [
+                "TOMASINI FRANCIA S.R.L."
+            ]
+        },
+        "f01eb27d-1141-41e0-bc50-b6c8d352eba7": {
+            "name": "QINGDAO DEVELOP MULTI,INC",
+            "uuid": "f01eb27d-1141-41e0-bc50-b6c8d352eba7",
+            "alias": [
+                "QINGDAO DEVELOP MULTI, INC"
+            ]
+        },
+        "ee0af7b4-b70b-4032-87fc-4d6c429a5866": {
+            "name": "MANHATTAN LANGUAGE TRAINING,INC.",
+            "uuid": "ee0af7b4-b70b-4032-87fc-4d6c429a5866",
+            "alias": [
+                "MANHATTAN LANGUAGE TRAINING, INC."
+            ]
+        },
+        "1e1f6258-e484-4f28-8597-4c36ea0fa4bc": {
+            "name": "AAT HOLDING SP.O.O.",
+            "uuid": "1e1f6258-e484-4f28-8597-4c36ea0fa4bc",
+            "alias": [
+                "AAT HOLDING SP. Z.O.O."
+            ]
+        },
+        "0af25245-9995-4d72-9792-9aa4a8fbad9b": {
+            "name": "VATAN PLASTIK SAN.VE TIC.A.S.",
+            "uuid": "0af25245-9995-4d72-9792-9aa4a8fbad9b",
+            "alias": [
+                "VATAN PLASTIK SAN. VE TIC. A.S."
+            ]
+        },
+        "d0761778-1e4d-40c6-bde2-873c13e63613": {
+            "name": "JCS MAGNITOGORSK IRON AND STEEL",
+            "uuid": "d0761778-1e4d-40c6-bde2-873c13e63613",
+            "alias": [
+                "JSC MAGNITOGORSK IRON AND STEEL / OAO MMK"
+            ]
+        },
+        "c1076cb2-797f-4fe1-bd25-3ab613cb67ad": {
+            "name": "ZHUJI FENGFAN PIPING CO.,LTD",
+            "uuid": "c1076cb2-797f-4fe1-bd25-3ab613cb67ad",
+            "alias": [
+                "ZHUJI FENGFAN PIPING CO., LTD"
+            ]
+        },
+        "9008ada4-ebfb-45a3-ac37-cd63837abd52": {
+            "name": "Manufacturin Company TESEY,Limited",
+            "uuid": "9008ada4-ebfb-45a3-ac37-cd63837abd52",
+            "alias": [
+                "Manufacturin Company TESEY, Limited"
+            ]
+        },
+        "e1ffeade-2ce7-40bc-8b26-f39bbd01b720": {
+            "name": "CHINA EVERLASTING PARTS CO.,LIMITED",
+            "uuid": "e1ffeade-2ce7-40bc-8b26-f39bbd01b720",
+            "alias": [
+                "CHINA EVERLASTING PARTS CO., LIMITED"
+            ]
+        },
+        "502ab8a7-da6b-45d2-b1c7-767dee48eb9c": {
+            "name": "GLOBECOM TRADE L.P",
+            "uuid": "502ab8a7-da6b-45d2-b1c7-767dee48eb9c",
+            "alias": [
+                "GLOBECOM TRADE L.P."
+            ]
+        },
+        "570ef9ad-e447-4638-95b0-152fc3a33e14": {
+            "name": "TORGTRANSSERVIS CO.,LTD",
+            "uuid": "570ef9ad-e447-4638-95b0-152fc3a33e14",
+            "alias": [
+                "OOO KOMPANIYA TORGTRANSSERVIS"
+            ]
+        },
+        "8743b3be-6f6f-4a8e-9a03-232942ca2881": {
+            "name": "YORK",
+            "uuid": "8743b3be-6f6f-4a8e-9a03-232942ca2881",
+            "alias": [
+                "YORK WALLCOVERINGS INC"
+            ]
+        },
+        "0e2e0b4c-e7f9-46a8-a639-4cb5d00047f0": {
+            "name": "YONTAR KALIP MAK.IST LTD",
+            "uuid": "0e2e0b4c-e7f9-46a8-a639-4cb5d00047f0",
+            "alias": [
+                "YONTAR KALIP MAKINA VE INS. SAN. TIC."
+            ]
+        },
+        "8ceadc0c-6ee3-478f-bf9e-521d4c680e48": {
+            "name": "A.S.D.LENTIGIONE CALCIO",
+            "uuid": "8ceadc0c-6ee3-478f-bf9e-521d4c680e48",
+            "alias": [
+                "A.S.D. LENTIGIONE CALCIO"
+            ]
+        },
+        "082dc486-5ddb-406a-bf93-fb4759e8f679": {
+            "name": "FAKRO SP.Z.O.O",
+            "uuid": "082dc486-5ddb-406a-bf93-fb4759e8f679",
+            "alias": [
+                "FAKRO SP Z.O.O."
+            ]
+        },
+        "8b8a97f4-90c0-4ab1-b957-639b0011f181": {
+            "name": "P.V.Z.S.R.L.",
+            "uuid": "8b8a97f4-90c0-4ab1-b957-639b0011f181",
+            "alias": [
+                "P.V.Z. S.R.L."
+            ]
+        },
+        "d8052b26-7454-4bd4-a2a4-c6faea1e0884": {
+            "name": "GALION SYSTEMS CORP.",
+            "uuid": "d8052b26-7454-4bd4-a2a4-c6faea1e0884",
+            "alias": [
+                "GALION SYSTEMS CORP"
+            ]
+        },
+        "9c1ea9ff-d379-4ec9-b8b5-80bd007f9850": {
+            "name": "MARKET UNION CO.,LTD.",
+            "uuid": "9c1ea9ff-d379-4ec9-b8b5-80bd007f9850",
+            "alias": [
+                "MARKET UNION CO., LTD."
+            ]
+        },
+        "f7545d7d-0dd7-4987-9c29-ea03b6340c2f": {
+            "name": "QINDAO TAIFA GROUP IMP.+ EXP.CO.,",
+            "uuid": "f7545d7d-0dd7-4987-9c29-ea03b6340c2f",
+            "alias": [
+                "QINDAO TAIFA GROUP IMP. + EXP. CO.,"
+            ]
+        },
+        "9c13ee61-238b-4a88-896a-7a88867e5f27": {
+            "name": "ADVANTECH CO.,LTD",
+            "uuid": "9c13ee61-238b-4a88-896a-7a88867e5f27",
+            "alias": [
+                "ADVANTECH CO., LTD"
+            ]
+        },
+        "bc596f84-90c6-4167-9b47-d6157f8af159": {
+            "name": "BAARDSE",
+            "uuid": "bc596f84-90c6-4167-9b47-d6157f8af159",
+            "alias": [
+                "BAARDSE BV"
+            ]
+        },
+        "43be0747-3182-42cc-a3e1-9e16ce90dde5": {
+            "name": "POWERBUCKS GLOBAL CO.,LIMITED",
+            "uuid": "43be0747-3182-42cc-a3e1-9e16ce90dde5",
+            "alias": [
+                "POWERBUCKS GLOBAL CO., LIMITED"
+            ]
+        },
+        "47c339a7-8363-45db-b4d5-ccf6ee4d00ff": {
+            "name": "TEKSER AKIRYAKIT ISTASYONLARI",
+            "uuid": "47c339a7-8363-45db-b4d5-ccf6ee4d00ff",
+            "alias": [
+                "Tekser Akaryakıt İstasyonları Org. San. ve Tic. A.Ş."
+            ]
+        },
+        "2aaaecf9-6ad3-4db1-afd9-434c7d4151d8": {
+            "name": "OZER PLASTIK GIDA SAN VE DIS TIC",
+            "uuid": "2aaaecf9-6ad3-4db1-afd9-434c7d4151d8",
+            "alias": [
+                "OZER PLASTIK GIDA SAN. VE DIS TIC."
+            ]
+        },
+        "e18405ec-b1a8-40c1-bb54-499f608ac510": {
+            "name": "DAEHEUNG IND. CO.,LTD",
+            "uuid": "e18405ec-b1a8-40c1-bb54-499f608ac510",
+            "alias": [
+                "DAEHEUNG IND. CO., LTD"
+            ]
+        },
+        "2a0446d6-1ace-4a71-984d-9e4dec55bb28": {
+            "name": "SERVER BOYA,MATBAA MUREKKEPLERI VE",
+            "uuid": "2a0446d6-1ace-4a71-984d-9e4dec55bb28",
+            "alias": [
+                "SERVER BOYA, MATBAA MUREKKEPLERI VE"
+            ]
+        },
+        "73955276-d87f-4de8-b792-1128495c0c28": {
+            "name": "F.I.R. FABBRICA ITALIANA RADIATORI",
+            "uuid": "73955276-d87f-4de8-b792-1128495c0c28",
+            "alias": [
+                "F.I.R. FABBRICA ITALIANA RADIATORI S.R.L."
+            ]
+        },
+        "d52fc4f4-bd0d-4e67-bb91-84b6dc50c6aa": {
+            "name": "SUNG KWANG BEND CO.,LTD",
+            "uuid": "d52fc4f4-bd0d-4e67-bb91-84b6dc50c6aa",
+            "alias": [
+                "SUNG KWANG BEND CO., LTD"
+            ]
+        },
+        "6ca1d44c-ae8f-42b6-bb0f-39e7b387456f": {
+            "name": "PETLAS LASTIK SAN.VE TIC.A.S",
+            "uuid": "6ca1d44c-ae8f-42b6-bb0f-39e7b387456f",
+            "alias": [
+                "PETALS LASTIK SAN. VE TIC. A.S."
+            ]
+        },
+        "9f04f3dc-a855-4fd8-bf79-93e16a490fa3": {
+            "name": "TIRH TECHNOLOGY CO.,LTD",
+            "uuid": "9f04f3dc-a855-4fd8-bf79-93e16a490fa3",
+            "alias": [
+                "TIRH TECHNOLOGY CO., LTD"
+            ]
+        },
+        "d2523d78-cd56-43c9-9392-35faaad2bd65": {
+            "name": "SHENZHEN PANELS ELECTRONICS CO.,LTD",
+            "uuid": "d2523d78-cd56-43c9-9392-35faaad2bd65",
+            "alias": [
+                "SHENZHEN PANELS ELECTRONICS CO., LTD"
+            ]
+        },
+        "b938875d-1bd3-4842-8643-d3b5299c1a46": {
+            "name": "SPIDENT CO.,LTD",
+            "uuid": "b938875d-1bd3-4842-8643-d3b5299c1a46",
+            "alias": [
+                "SPIDENT CO., LTD"
+            ]
+        },
+        "cdd1c75b-5e1a-4b2c-a1db-0bdf3d34186c": {
+            "name": "REGULUS SYSTEM",
+            "uuid": "cdd1c75b-5e1a-4b2c-a1db-0bdf3d34186c",
+            "alias": [
+                "REGULUS SYSTEM S.J."
+            ]
+        },
+        "ed28eafe-5603-4510-86e6-4ab8186b3065": {
+            "name": "LUCKY HOME APPLIANCE CO .,LTD",
+            "uuid": "ed28eafe-5603-4510-86e6-4ab8186b3065",
+            "alias": [
+                "LUCKY HOME APPLIANCE CO ., LTD"
+            ]
+        },
+        "912b2f62-2fe4-4ab1-bb2e-545f7a9e4076": {
+            "name": "TAIZHOU OUE FURNITURE CO.,LTD",
+            "uuid": "912b2f62-2fe4-4ab1-bb2e-545f7a9e4076",
+            "alias": [
+                "TAIZHOU OUE FURNITURE CO., LTD"
+            ]
+        },
+        "1e8ff0ab-2e6e-4961-bb53-46747b4fdf5f": {
+            "name": "TIANJIN ELECMOTOR CO.,LTD",
+            "uuid": "1e8ff0ab-2e6e-4961-bb53-46747b4fdf5f",
+            "alias": [
+                "TIANJIN ELECMOTOR CO., LTD"
+            ]
+        },
+        "aa21cb8f-483b-4060-847d-9c1fa6b29a19": {
+            "name": "SLAVYANSKIE WALLPAPER-KFTP",
+            "uuid": "aa21cb8f-483b-4060-847d-9c1fa6b29a19",
+            "alias": [
+                "PJSK SLAVYANSKIE WALPAPER KFTP"
+            ]
+        },
+        "15a1454c-ee92-4853-9e08-3abfe79ddec6": {
+            "name": "UNITED CHLORO-PARAFFINS PRIVATE",
+            "uuid": "15a1454c-ee92-4853-9e08-3abfe79ddec6",
+            "alias": [
+                "UNITED CHLORO PARAFFINS PVT.LTD"
+            ]
+        },
+        "473610ec-d8db-464a-bdc0-9bf198b40df1": {
+            "name": "GROHE WATER TEHNOLOGY",
+            "uuid": "473610ec-d8db-464a-bdc0-9bf198b40df1",
+            "alias": [
+                "GROHE AG"
+            ]
+        },
+        "e0d6086c-1a6e-45a6-ad10-ffcda52fe524": {
+            "name": "CP S.N.C DI POMI CLAUDIO + C.",
+            "uuid": "e0d6086c-1a6e-45a6-ad10-ffcda52fe524",
+            "alias": [
+                "CP S.N.C. DI POMI CLAUDIO AND C"
+            ]
+        },
+        "6231ae4e-8578-4952-9e94-8078e910693f": {
+            "name": "ROMANA BOHIN S.P",
+            "uuid": "6231ae4e-8578-4952-9e94-8078e910693f",
+            "alias": [
+                "Bo.Consulting Romana Bohinc S.P."
+            ]
+        },
+        "f978e392-da89-49e0-a39d-6a6f7dbf1f1b": {
+            "name": "HFS LIMITED",
+            "uuid": "f978e392-da89-49e0-a39d-6a6f7dbf1f1b",
+            "alias": [
+                "HFS INTL. LIMITED"
+            ]
+        },
+        "ea04f5b4-4ec0-4f0f-b4c5-d4f768e9a9f4": {
+            "name": "ZHEJIANG ZHUXIN MACHINERY CO.,LTD",
+            "uuid": "ea04f5b4-4ec0-4f0f-b4c5-d4f768e9a9f4",
+            "alias": [
+                "ZHEJIANG ZHUXIN MACHINERY CO., LTD"
+            ]
+        },
+        "41a254b5-08e2-4778-8450-a885935fd5bf": {
+            "name": "JIANGSU A.P STEEL CO.,LIMITED",
+            "uuid": "41a254b5-08e2-4778-8450-a885935fd5bf",
+            "alias": [
+                "JIANGSU A.P STEEL CO., LIMITED"
+            ]
+        },
+        "c7c2c555-fc44-4e38-a481-a73f06a8732f": {
+            "name": "MAXDURA INTERNATIONAL CO.,LTD",
+            "uuid": "c7c2c555-fc44-4e38-a481-a73f06a8732f",
+            "alias": [
+                "MAXDURA INTERNATIONAL CO., LTD"
+            ]
+        },
+        "d3f771c3-e59d-40c0-9b3f-2dd9e0eb9a39": {
+            "name": "N.R.G.RESEARCH AND ADVISING FZE",
+            "uuid": "d3f771c3-e59d-40c0-9b3f-2dd9e0eb9a39",
+            "alias": [
+                "N.R.G. RESEARCH AND ADVISING FZE"
+            ]
+        },
+        "17fee13f-d380-4271-b3c6-02b2f3f458aa": {
+            "name": "GSC L.T.D",
+            "uuid": "17fee13f-d380-4271-b3c6-02b2f3f458aa",
+            "alias": [
+                "GSC L.T.D."
+            ]
+        },
+        "8a58d660-4452-4f8b-8660-469f55a9d9c4": {
+            "name": "SHANGHAI YIPIN PIGMENTS CO.,LTD",
+            "uuid": "8a58d660-4452-4f8b-8660-469f55a9d9c4",
+            "alias": [
+                "SHANGHAI YIPIN PIGMENTS CO., LTD"
+            ]
+        },
+        "3bdb87c8-5a41-44d8-b00c-93dac6b02773": {
+            "name": "RISHANG OPTOELECTRONICS CO.,LTD",
+            "uuid": "3bdb87c8-5a41-44d8-b00c-93dac6b02773",
+            "alias": [
+                "RISHANG OPTOELECTRONICS CO., LTD"
+            ]
+        },
+        "839718bc-7e6e-46df-93e5-683151b790e6": {
+            "name": "QIDI ELECTRIC GROUP CO.,LTD",
+            "uuid": "839718bc-7e6e-46df-93e5-683151b790e6",
+            "alias": [
+                "QIDI ELECTRIC GROUP CO., LTD"
+            ]
+        },
+        "7bd0345f-ac52-4321-a2ca-02d0616cfbac": {
+            "name": "QIN YI TRADING CO.,LIMITED",
+            "uuid": "7bd0345f-ac52-4321-a2ca-02d0616cfbac",
+            "alias": [
+                "QIN YI TRADING CO., LIMITED"
+            ]
+        },
+        "77109cbf-2b64-40c3-828f-e38af3d325fd": {
+            "name": "RECK TECHNIK GMBH & CO.,KG",
+            "uuid": "77109cbf-2b64-40c3-828f-e38af3d325fd",
+            "alias": [
+                "RECK TECHNIK GMBH & CO., KG"
+            ]
+        },
+        "0c011a80-11d2-4a0b-b8f6-d1f25e1a6793": {
+            "name": "GALFAN TECHNOLOGY CENTRE,INC.",
+            "uuid": "0c011a80-11d2-4a0b-b8f6-d1f25e1a6793",
+            "alias": [
+                "GALFAN TECHNOLOGY CENTRE, INC."
+            ]
+        },
+        "6e84ea47-c569-492c-80fc-e5bab2a820af": {
+            "name": "WENZHOU HONKIN INDUSTRIAL CO.,LTD",
+            "uuid": "6e84ea47-c569-492c-80fc-e5bab2a820af",
+            "alias": [
+                "WENZHOU HONKIN INDUSTRIAL CO., LTD"
+            ]
+        },
+        "9e8b589b-80e7-4afb-8a93-f0f1faf33350": {
+            "name": "ZHEJIANG NOBLE FURNITURE CO.,LTD",
+            "uuid": "9e8b589b-80e7-4afb-8a93-f0f1faf33350",
+            "alias": [
+                "ZHEJIANG NOBLE FURNITURE CO., LTD"
+            ]
+        },
+        "0b88c468-b480-4265-b005-2441e2e40c15": {
+            "name": "TAIZHOU ZENGSHI FURNITURE CO.,LTD",
+            "uuid": "0b88c468-b480-4265-b005-2441e2e40c15",
+            "alias": [
+                "TAIZHOU ZENGSHI FURNITURE CO., LTD"
+            ]
+        },
+        "963c2f19-009b-4c42-a251-13a18f9998c2": {
+            "name": "SOLE TRADER VOROBYEV ALEXANDER",
+            "uuid": "963c2f19-009b-4c42-a251-13a18f9998c2",
+            "alias": [
+                "VOROBYEV ALEXANDER"
+            ]
+        },
+        "7912eae0-7fbb-41a2-aa71-6878851100d1": {
+            "name": "LORENZO UNGARI S.R.L",
+            "uuid": "7912eae0-7fbb-41a2-aa71-6878851100d1",
+            "alias": [
+                "LORENZO UNGARI S.R.L."
+            ]
+        },
+        "9decbeac-1e56-46ce-9272-1b40fffe7d50": {
+            "name": "NEMESI SRL",
+            "uuid": "9decbeac-1e56-46ce-9272-1b40fffe7d50",
+            "alias": [
+                "NEMESI S.R.L."
+            ]
+        },
+        "6973a088-9d6f-4f28-8081-04dfe7718584": {
+            "name": "FERRO TECHNOLOGIES,INC",
+            "uuid": "6973a088-9d6f-4f28-8081-04dfe7718584",
+            "alias": [
+                "FERRO TECHNOLOGIES, INC"
+            ]
+        },
+        "63672ecd-357d-489b-a7ab-24fb88003f90": {
+            "name": "KOLEKSIYON MOBILYA SAN,A.S.",
+            "uuid": "63672ecd-357d-489b-a7ab-24fb88003f90",
+            "alias": [
+                "KOLEKSIYON MOBILYA SAN. A.S."
+            ]
+        },
+        "2307ab47-7a24-4a80-bad2-14f1bad43f66": {
+            "name": "ZHEJIANG BERKAM RAIMENT CO.LTD",
+            "uuid": "2307ab47-7a24-4a80-bad2-14f1bad43f66",
+            "alias": [
+                "ZHEJIANG BERKAM GARMENT CO.LTD"
+            ]
+        },
+        "63ad1784-9050-4edd-a378-1ecfa685d5dc": {
+            "name": "AUX ELECTRIC HONG KONG COMPANY LTD",
+            "uuid": "63ad1784-9050-4edd-a378-1ecfa685d5dc",
+            "alias": [
+                "AUX ELECTRIC (HONG KONG) COMPANY, LTD"
+            ]
+        },
+        "778b00c1-7fe5-41a2-88e2-78435c913f61": {
+            "name": "APEX DYNAMICS.,INC.",
+            "uuid": "778b00c1-7fe5-41a2-88e2-78435c913f61",
+            "alias": [
+                "APEX DYNAMICS., INC."
+            ]
+        },
+        "f61558be-8094-40c0-ba76-8caccd164bfb": {
+            "name": "DAMIANI INTERNATIO0NAL BV",
+            "uuid": "f61558be-8094-40c0-ba76-8caccd164bfb",
+            "alias": [
+                "DAMIANI INTERNATIONAL BV"
+            ]
+        },
+        "c82f2779-c903-44ed-906c-c3258b1c391e": {
+            "name": "GENCO INDUSTRIAL GROUP CO.,LIMITED",
+            "uuid": "c82f2779-c903-44ed-906c-c3258b1c391e",
+            "alias": [
+                "GENCO INDUSTRIAL GROUP CO., LIMITED"
+            ]
+        },
+        "e82a0554-283b-4262-ab96-a20670590879": {
+            "name": "P.P.H.CERKAMED",
+            "uuid": "e82a0554-283b-4262-ab96-a20670590879",
+            "alias": [
+                "P.P.H. CERKAMED"
+            ]
+        },
+        "3c3bd90e-65d9-4c38-97df-fda62897c1af": {
+            "name": "Karimov Hamza",
+            "uuid": "3c3bd90e-65d9-4c38-97df-fda62897c1af",
+            "alias": [
+                "HAMZA KARIMOV"
+            ]
+        },
+        "5e49b7b5-7ea4-4d01-9e78-11d3f6a2f39c": {
+            "name": "TIANBO TRADE CO.,LIMITED",
+            "uuid": "5e49b7b5-7ea4-4d01-9e78-11d3f6a2f39c",
+            "alias": [
+                "TIANBO TRADE CO., LIMITED"
+            ]
+        },
+        "510e37fd-384c-4274-a622-0bc352d16981": {
+            "name": "RICMAR LOGISTICS AND CHATERING",
+            "uuid": "510e37fd-384c-4274-a622-0bc352d16981",
+            "alias": [
+                "RICHMAR LOGISTIC AND CHARTERING"
+            ]
+        },
+        "856e89c5-6aa3-4257-9ed1-ec72564f1cec": {
+            "name": "SHAOXING CSHBELT CO,LTD",
+            "uuid": "856e89c5-6aa3-4257-9ed1-ec72564f1cec",
+            "alias": [
+                "SHAOXING CSHBELT CO, LTD"
+            ]
+        },
+        "a0ce437c-f960-480a-bc18-6a286d2de1f4": {
+            "name": "BIR ASANSOR SAN.TIC.LTD.STI",
+            "uuid": "a0ce437c-f960-480a-bc18-6a286d2de1f4",
+            "alias": [
+                "BIR ASANSOR SAN. TIC. LTD. STI."
+            ]
+        },
+        "46996c09-192d-4af9-a5af-913fa9e20581": {
+            "name": "DATACOM SYSTEMS,S.R.O.",
+            "uuid": "46996c09-192d-4af9-a5af-913fa9e20581",
+            "alias": [
+                "DATACOM Systems, s.r.o."
+            ]
+        },
+        "8785b5a2-6c1f-4304-a184-e37c1b886a00": {
+            "name": "HEBEI DONGXING PLASTIC CO.,LTD",
+            "uuid": "8785b5a2-6c1f-4304-a184-e37c1b886a00",
+            "alias": [
+                "HEBEI DONGXING PLASTIC CO., LTD"
+            ]
+        },
+        "1b2f8ad8-67d2-4889-9587-84a8994f503b": {
+            "name": "REFLEX",
+            "uuid": "1b2f8ad8-67d2-4889-9587-84a8994f503b",
+            "alias": [
+                "REFLEX GORNJA RADGONA D.O.O."
+            ]
+        },
+        "e9d59de1-a35b-4996-b4f1-cf0b5a6d9e40": {
+            "name": "PINGHU AOXIN SANITARY WARE CO.,LTD",
+            "uuid": "e9d59de1-a35b-4996-b4f1-cf0b5a6d9e40",
+            "alias": [
+                "PINGHU AOXIN SANITARY WARE CO., LTD"
+            ]
+        },
+        "dcdd0fb6-08be-40f9-9fd8-486c57ec720d": {
+            "name": "IML S.A.U.",
+            "uuid": "dcdd0fb6-08be-40f9-9fd8-486c57ec720d",
+            "alias": [
+                "INDUSTRIAS MECANICAS LAGO S.A.U."
+            ]
+        },
+        "ef793b76-df62-43fd-bb55-b781a948e2e6": {
+            "name": "BLU ORO S.N.C.",
+            "uuid": "ef793b76-df62-43fd-bb55-b781a948e2e6",
+            "alias": [
+                "BLU ORO S.N.C"
+            ]
+        },
+        "dc0bd4ef-322c-4c89-bacd-8cb9300555a6": {
+            "name": "MARIA DE TONI SRL",
+            "uuid": "dc0bd4ef-322c-4c89-bacd-8cb9300555a6",
+            "alias": [
+                "MARIA DE TONI S.R.L"
+            ]
+        },
+        "12b6b0d0-bb98-42ce-b7a2-c0d736511a33": {
+            "name": "YUHUAN FUYUAN FURNITURE CO.,LTD",
+            "uuid": "12b6b0d0-bb98-42ce-b7a2-c0d736511a33",
+            "alias": [
+                "YUHUAN FUYUAN FURNITURE CO., LTD"
+            ]
+        },
+        "6af300e1-77ba-44c8-8fe2-ff09c6e9483b": {
+            "name": "EKSPORT TAMPL LLC",
+            "uuid": "6af300e1-77ba-44c8-8fe2-ff09c6e9483b",
+            "alias": [
+                "EKSPORT TAMPL MMC"
+            ]
+        },
+        "42a1c8ad-e9c3-4213-937c-9e11043b8d07": {
+            "name": "DAB PUMPS S.P.A",
+            "uuid": "42a1c8ad-e9c3-4213-937c-9e11043b8d07",
+            "alias": [
+                "DAB PUMPS S.P.A."
+            ]
+        },
+        "f0ce3905-5dc5-4555-b5ea-433abbe9ab2b": {
+            "name": "SELMODELS,S.L.",
+            "uuid": "f0ce3905-5dc5-4555-b5ea-433abbe9ab2b",
+            "alias": [
+                "SELMODELS, S.L."
+            ]
+        },
+        "87ce901e-5f58-4c35-8087-650962adf2c6": {
+            "name": "BANKVERBINDUNG TG AUTOHANDEL",
+            "uuid": "87ce901e-5f58-4c35-8087-650962adf2c6",
+            "alias": [
+                "TG - AUTOHANDELSGESELLSCHAF T MBH"
+            ]
+        },
+        "a17ff2e0-3c5a-4ca2-9d1c-0af15636d544": {
+            "name": "XIHAI PAN INDUSTRY CO.,LTD",
+            "uuid": "a17ff2e0-3c5a-4ca2-9d1c-0af15636d544",
+            "alias": [
+                "XIHAI PAN INDUSTRY CO., LTD"
+            ]
+        },
+        "b4f8c3c2-ee23-48a9-a6d1-56001c60fe34": {
+            "name": "BEHRUZ VATANDOST.",
+            "uuid": "b4f8c3c2-ee23-48a9-a6d1-56001c60fe34",
+            "alias": [
+                "BEHRUZ VATANDOST"
+            ]
+        },
+        "f7932871-ab95-4ae8-a8c2-2264c872f2bb": {
+            "name": "NIKKYO CO.,LTD",
+            "uuid": "f7932871-ab95-4ae8-a8c2-2264c872f2bb",
+            "alias": [
+                "NIKKYO CO., LTD"
+            ]
+        },
+        "b535db90-ff58-458d-bffc-27051abb355f": {
+            "name": "PUSH CLEAN TOWELETTES",
+            "uuid": "b535db90-ff58-458d-bffc-27051abb355f",
+            "alias": [
+                "OZSOY ORGANIK TEMIZLIK URN.PAZ. (PUSH CLEAN TOWELETTES)"
+            ]
+        },
+        "3ab584ee-5532-407a-83ed-4ba1f2fcc479": {
+            "name": "SCHNEIDER ELECTRIC SAN.VE TIC.A.S.",
+            "uuid": "3ab584ee-5532-407a-83ed-4ba1f2fcc479",
+            "alias": [
+                "SCHNEIDER ELEKTRIK SAN VE TIC AS"
+            ]
+        },
+        "baf1e21b-db85-46b6-8e21-60736cae8685": {
+            "name": "SAMI PLASTIC SPA",
+            "uuid": "baf1e21b-db85-46b6-8e21-60736cae8685",
+            "alias": [
+                "SA.MI PLASTIC S.P.A."
+            ]
+        },
+        "d6afd481-b28b-4a4a-8983-576333905266": {
+            "name": "WAYUP GROUP CO.,LTD",
+            "uuid": "d6afd481-b28b-4a4a-8983-576333905266",
+            "alias": [
+                "WAYUP GROUP CO., LTD"
+            ]
+        },
+        "a8f17fe5-c45a-4aee-9f8a-bf3405b772cb": {
+            "name": "INTCO INTERNATIONAL(HK) CO.,LIMITED",
+            "uuid": "a8f17fe5-c45a-4aee-9f8a-bf3405b772cb",
+            "alias": [
+                "INTCO INTERNATIONAL(HK) CO., LIMITED"
+            ]
+        },
+        "ea7da700-4e0f-4dd8-8e75-252702e085e2": {
+            "name": "CHARTHOLM SALES INC",
+            "uuid": "ea7da700-4e0f-4dd8-8e75-252702e085e2",
+            "alias": [
+                "CHARTHOLM SALES INC."
+            ]
+        },
+        "36198a4c-a6cb-42fb-b545-9b43f834566a": {
+            "name": "YUYAO HAOSHENG IMP.AND EXP.CO.,LTD",
+            "uuid": "36198a4c-a6cb-42fb-b545-9b43f834566a",
+            "alias": [
+                "YUYAO HAOSHENG IMP.AND EXP.CO., LTD"
+            ]
+        },
+        "0021af6d-58bf-4db4-8b33-ddaf1ab8ea97": {
+            "name": "SUZHOU INNOVAC ELECTRIC CO.,LTD",
+            "uuid": "0021af6d-58bf-4db4-8b33-ddaf1ab8ea97",
+            "alias": [
+                "SUZHOU INNOVAC ELECTRIC CO., LTD"
+            ]
+        },
+        "dbdc8d34-7b48-4da2-960b-0ed46e51eb72": {
+            "name": "MICRO-NX CO.,LTD.",
+            "uuid": "dbdc8d34-7b48-4da2-960b-0ed46e51eb72",
+            "alias": [
+                "MICRO-NX CO., LTD."
+            ]
+        },
+        "0edc77b5-0ac9-4365-96b4-85af94833a13": {
+            "name": "ZHEJIANG TIANYUAN FURNITURE CO.,LTD",
+            "uuid": "0edc77b5-0ac9-4365-96b4-85af94833a13",
+            "alias": [
+                "ZHEJIANG TIANYUAN FURNITURE CO., LTD"
+            ]
+        },
+        "8f4967c4-3e59-455f-b7bf-de32f0a21313": {
+            "name": "ZHEJIANG HUANLI ELECTRIC CO.,LTD",
+            "uuid": "8f4967c4-3e59-455f-b7bf-de32f0a21313",
+            "alias": [
+                "ZHEJIANG HUANLI ELECTRIC CO., LTD"
+            ]
+        },
+        "3e80b8a2-6f01-4621-acfa-e6a9a6ebbad5": {
+            "name": "EUROCOND DIS.TIC.LTD.STI.",
+            "uuid": "3e80b8a2-6f01-4621-acfa-e6a9a6ebbad5",
+            "alias": [
+                "EUROCOND DIS. TIC. LTD. STI"
+            ]
+        },
+        "880156e0-db2e-43bf-bd7b-95546bae8ec3": {
+            "name": "A.S.T.DIAMONDS LTD",
+            "uuid": "880156e0-db2e-43bf-bd7b-95546bae8ec3",
+            "alias": [
+                "A.S.T. DIAMONDS LTD"
+            ]
+        },
+        "faf22d67-0138-4d0d-915e-3d4cd8dfebc2": {
+            "name": "SHENZHEN SHENGTAILI TRADING CO.,LTD",
+            "uuid": "faf22d67-0138-4d0d-915e-3d4cd8dfebc2",
+            "alias": [
+                "SHENZHEN SHENGTAILI TRADING CO., LTD"
+            ]
+        },
+        "971b52a0-cd62-42b0-89fc-68b03cbe682d": {
+            "name": "PROUSEK-EXKLUSIVE LIGHTING,S.R.O.",
+            "uuid": "971b52a0-cd62-42b0-89fc-68b03cbe682d",
+            "alias": [
+                "PROUSEK-EXKLUSIVE LIGHTING, S.R.O."
+            ]
+        },
+        "fe7f66eb-4273-43af-8c64-c0ebfc1c0f3d": {
+            "name": "ZHEJIANG GUOZHEN FURNITURE CO.,LTD",
+            "uuid": "fe7f66eb-4273-43af-8c64-c0ebfc1c0f3d",
+            "alias": [
+                "ZHEJIANG GUOZHEN FURNITURE CO., LTD"
+            ]
+        },
+        "8238be10-fa2c-4c4b-a733-d3e37fd3f289": {
+            "name": "CETINKAYA PANO A.S",
+            "uuid": "8238be10-fa2c-4c4b-a733-d3e37fd3f289",
+            "alias": [
+                "CETINKAYA PANO A.S."
+            ]
+        },
+        "746d3c30-972f-4243-bf9a-171a83f22543": {
+            "name": "HAO MING CHUN CO.,LTD",
+            "uuid": "746d3c30-972f-4243-bf9a-171a83f22543",
+            "alias": [
+                "HAO MING CHUN CO., LTD"
+            ]
+        },
+        "f2714cdc-484b-4936-b81e-bc2e8a95958f": {
+            "name": "CPI,C.P INTERTRADE CO.LTD",
+            "uuid": "f2714cdc-484b-4936-b81e-bc2e8a95958f",
+            "alias": [
+                "CPI, C.P INTERTRADE CO.LTD"
+            ]
+        },
+        "df93aa22-4cc7-4ae8-9390-517761302b83": {
+            "name": "WENZHOU LOFULL IMP. & EXP. CO.,LTD.",
+            "uuid": "df93aa22-4cc7-4ae8-9390-517761302b83",
+            "alias": [
+                "WENZHOU LOFULL IMP. & EXP. CO., LTD."
+            ]
+        },
+        "198e3a4d-389f-4e52-b0da-c7e57740dcbc": {
+            "name": "HONGSHENGXING TRADING CO.,LIMITED",
+            "uuid": "198e3a4d-389f-4e52-b0da-c7e57740dcbc",
+            "alias": [
+                "HONGSHENGXING TRADING CO., LIMITED"
+            ]
+        },
+        "87f66f4b-f9e2-41a4-a9f4-108d504c4ab0": {
+            "name": "DERE CO.,LIMITED",
+            "uuid": "87f66f4b-f9e2-41a4-a9f4-108d504c4ab0",
+            "alias": [
+                "DERE CO., LIMITED"
+            ]
+        },
+        "ab3ffa5a-7736-451c-a982-175cf5a7fc27": {
+            "name": "NEWTECH BRUSH CO.,LTD",
+            "uuid": "ab3ffa5a-7736-451c-a982-175cf5a7fc27",
+            "alias": [
+                "NEWTECH BRUSH CO., LTD"
+            ]
+        },
+        "b7d4f83c-5085-4c08-bc07-7f61b8b12197": {
+            "name": "GUO YANXIA CO.,LDT",
+            "uuid": "b7d4f83c-5085-4c08-bc07-7f61b8b12197",
+            "alias": [
+                "GUO YANXIA CO., LTD"
+            ]
+        },
+        "9e896593-701a-4c55-9cb3-e844b19c7ddf": {
+            "name": "HONGKONG YIXIA NG IMPORTS +",
+            "uuid": "9e896593-701a-4c55-9cb3-e844b19c7ddf",
+            "alias": [
+                "HONGKONG YIXIA NG IMPORTS AND EXPORTS"
+            ]
+        },
+        "4b32f208-b612-4a9a-960a-b9113a05324f": {
+            "name": "CHINA TOBACCO SHANGHAI I/E CO.,LTD",
+            "uuid": "4b32f208-b612-4a9a-960a-b9113a05324f",
+            "alias": [
+                "CHINA TOBACCO SHANGHAI I/E CO., LTD"
+            ]
+        },
+        "7359a5f9-bb83-44ca-b37e-02787ddbeeb1": {
+            "name": "MR.MORAKIS CHRISTOS",
+            "uuid": "7359a5f9-bb83-44ca-b37e-02787ddbeeb1",
+            "alias": [
+                "MORAKIS CHRISTOS"
+            ]
+        },
+        "fe442350-6b77-4a25-a808-45e8d8eac79f": {
+            "name": "YIWU HONGCHENG TRADING CO.,LTD",
+            "uuid": "fe442350-6b77-4a25-a808-45e8d8eac79f",
+            "alias": [
+                "YIWU HONGCHENG TRADING CO., LTD"
+            ]
+        },
+        "11314f9e-b6bc-4e27-b654-beb5f347d6e4": {
+            "name": "MAMEDOVS COMPANY LTS",
+            "uuid": "11314f9e-b6bc-4e27-b654-beb5f347d6e4",
+            "alias": [
+                "MAMEDOVS COMPANY LTD"
+            ]
+        },
+        "1c8f668b-3ff0-4dde-b5db-c786b4e5c85c": {
+            "name": "SUNBANGINDUSTRIAL CO.,LIMITED",
+            "uuid": "1c8f668b-3ff0-4dde-b5db-c786b4e5c85c",
+            "alias": [
+                "SUNBANGINDUSTRIAL CO., LIMITED"
+            ]
+        },
+        "c0c491a4-b2bb-41d5-8df6-9174dc2d364c": {
+            "name": "MOBEL KIMYA SAN.VE TIC.LTD.STI",
+            "uuid": "c0c491a4-b2bb-41d5-8df6-9174dc2d364c",
+            "alias": [
+                "MOBEL KIMYA SANAYI VE TICARET LTD."
+            ]
+        },
+        "ccbb5ea2-44b4-423c-a344-07cb11395efc": {
+            "name": "YIWU YAPENG CLOTHS MAKING CO.,LTD",
+            "uuid": "ccbb5ea2-44b4-423c-a344-07cb11395efc",
+            "alias": [
+                "YIWU YAPENG CLOTHS MAKING CO., LTD"
+            ]
+        },
+        "f02b8cc0-99ba-4b27-9547-b2ee5b665b87": {
+            "name": "15985",
+            "uuid": "f02b8cc0-99ba-4b27-9547-b2ee5b665b87",
+            "alias": [
+                "ALAKBAROVA GUNEL"
+            ]
+        },
+        "a46c2f97-5649-4ce6-9821-d0d6fc500b57": {
+            "name": "NEW ZHONG YUAN CERAMICS IMPORT+",
+            "uuid": "a46c2f97-5649-4ce6-9821-d0d6fc500b57",
+            "alias": [
+                "NEW ZHONG YUAN CERAMICS IMPORT AND EXPORT"
+            ]
+        },
+        "130c5bb0-5235-47ef-8613-a5966e2900f8": {
+            "name": "16006",
+            "uuid": "130c5bb0-5235-47ef-8613-a5966e2900f8",
+            "alias": [
+                "ESMIRA JAMALKHANOVA"
+            ]
+        },
+        "0ddd4e45-2676-4c36-ab81-b7a79d9085e3": {
+            "name": "ZEN TRAX INC",
+            "uuid": "0ddd4e45-2676-4c36-ab81-b7a79d9085e3",
+            "alias": [
+                "ZEN TRAX INC."
+            ]
+        },
+        "1d8376df-ef90-4a19-b41f-1759756cd87f": {
+            "name": "DOGUS VANA VE DOKUM SANAYI TICARET",
+            "uuid": "1d8376df-ef90-4a19-b41f-1759756cd87f",
+            "alias": [
+                "DOGUS VANA VE DOKUM SAN. TIC."
+            ]
+        },
+        "67f9708c-ee1b-4e24-9103-cfbe493932d9": {
+            "name": "SAMSUNG FINE CHEMICALS CO.,LTD",
+            "uuid": "67f9708c-ee1b-4e24-9103-cfbe493932d9",
+            "alias": [
+                "SAMSUNG FINE CHEMICALS CO., LTD"
+            ]
+        },
+        "8d54b88a-020b-4e6d-a56f-3e9f1ab21f3e": {
+            "name": "HAZAR INSAAT DIS TIC LTD STI",
+            "uuid": "8d54b88a-020b-4e6d-a56f-3e9f1ab21f3e",
+            "alias": [
+                "HAZAR INSAAT DIS.TIC. LTD. STI"
+            ]
+        },
+        "55d825c8-b3e8-4b69-be7f-f585ecda1bc6": {
+            "name": "YAZICI INSAAT VE ENDUSTRI",
+            "uuid": "55d825c8-b3e8-4b69-be7f-f585ecda1bc6",
+            "alias": [
+                "YAZICI INSAAT VE ENDUSTRI SIHHI TESISAT"
+            ]
+        },
+        "b1ee8fe5-eb15-4ed7-bf63-a5faea94769f": {
+            "name": "IZOBIL YAPI KIMYASALLARI TIC.LTD",
+            "uuid": "b1ee8fe5-eb15-4ed7-bf63-a5faea94769f",
+            "alias": [
+                "IZOBIL YAPI KIMYASALLARI TIC. LTD"
+            ]
+        },
+        "c803fd13-bf3b-4b7d-b819-f2287cf9af02": {
+            "name": "SHANGAI ZHONGJI MACHINERY",
+            "uuid": "c803fd13-bf3b-4b7d-b819-f2287cf9af02",
+            "alias": [
+                "SHANGHAI ZHONGJI MACHINERY MANUFACT"
+            ]
+        },
+        "07e70aec-141c-429d-9f2c-a85b74c69511": {
+            "name": "In favour JSC Freight One",
+            "uuid": "07e70aec-141c-429d-9f2c-a85b74c69511",
+            "alias": [
+                "JSC Freight One"
+            ]
+        },
+        "8443fdee-0f27-4888-bf1b-78620728af91": {
+            "name": "ZHEJIANG BOTAI TOOLS CO.,LTD",
+            "uuid": "8443fdee-0f27-4888-bf1b-78620728af91",
+            "alias": [
+                "ZHEJIANG BOTAI TOOLS CO., LTD"
+            ]
+        },
+        "c17d77cc-960f-47fe-898b-ec80d3b4d86e": {
+            "name": "SELALE DUS YAPI URUN.SAN.TIC.VE PAZ",
+            "uuid": "c17d77cc-960f-47fe-898b-ec80d3b4d86e",
+            "alias": [
+                "SELALE DUS YAPI URUNLERI SAN.TIC.VE"
+            ]
+        },
+        "be5c3455-fc07-4877-91d4-8732b238e9b8": {
+            "name": "POLUX MANAGEMENT LLP",
+            "uuid": "be5c3455-fc07-4877-91d4-8732b238e9b8",
+            "alias": [
+                "POLUX MANAGEMENT LP"
+            ]
+        },
+        "1ef0a4ce-e579-4f64-a34b-d10c367b5250": {
+            "name": "UFUKBORU",
+            "uuid": "1ef0a4ce-e579-4f64-a34b-d10c367b5250",
+            "alias": [
+                "UFUK BORU"
+            ]
+        },
+        "9fdb5f69-a438-4650-a3aa-0382b3f2366e": {
+            "name": "EAE ELEKTRIK ASANSOR END.INSAAT SAN",
+            "uuid": "9fdb5f69-a438-4650-a3aa-0382b3f2366e",
+            "alias": [
+                "EAE ELEKTRIK ASANSOR END. INSAAT SAN"
+            ]
+        },
+        "344a4dc6-1ba3-4967-99ef-3d8c9efa875a": {
+            "name": "RIVARLANE LLP",
+            "uuid": "344a4dc6-1ba3-4967-99ef-3d8c9efa875a",
+            "alias": [
+                "RIVERLANE LLP"
+            ]
+        },
+        "849cd085-3916-4f92-9bcf-403c5ab3cbc7": {
+            "name": "ENZA ZADEN EXPORT B.V",
+            "uuid": "849cd085-3916-4f92-9bcf-403c5ab3cbc7",
+            "alias": [
+                "ENZA ZADEN EXPORT B.V."
+            ]
+        },
+        "35279655-1fe7-4d05-80c1-c36e8028d33e": {
+            "name": "JH GLOBAL SERVICES,INC.",
+            "uuid": "35279655-1fe7-4d05-80c1-c36e8028d33e",
+            "alias": [
+                "JH GLOBAL SERVICES, INC."
+            ]
+        },
+        "96c6c678-59f6-4f26-b70d-f8e94f18c703": {
+            "name": "SHANDONG YONGSHENG RUBBER GROUP",
+            "uuid": "96c6c678-59f6-4f26-b70d-f8e94f18c703",
+            "alias": [
+                "SHANDONG YONGSHENG RUBBER GROUP CO"
+            ]
+        },
+        "ba815969-424b-4713-98e2-8ea622a53f92": {
+            "name": "YI TAI TRADING CO.,LIMITED",
+            "uuid": "ba815969-424b-4713-98e2-8ea622a53f92",
+            "alias": [
+                "YI TAI TRADING CO., LIMITED"
+            ]
+        },
+        "3f040d58-15ac-4503-b880-79faa7ad1d41": {
+            "name": "WELFULL GROUP CO.,LTD",
+            "uuid": "3f040d58-15ac-4503-b880-79faa7ad1d41",
+            "alias": [
+                "WELFULL GROUP CO., LTD"
+            ]
+        },
+        "a06a09ee-602d-485f-875d-c5f868939557": {
+            "name": "NORDIN DENTAL",
+            "uuid": "a06a09ee-602d-485f-875d-c5f868939557",
+            "alias": [
+                "HARALD NORDIN SA"
+            ]
+        },
+        "b999dc71-692f-49d0-8976-e283fe7ffa71": {
+            "name": "DIZAYN GROUP",
+            "uuid": "b999dc71-692f-49d0-8976-e283fe7ffa71",
+            "alias": [
+                "DIZAYN TEKNIK BORU VE ELEMANLARI"
+            ]
+        },
+        "596ea5bc-e602-46c8-82d7-d45ede174762": {
+            "name": "MESOESTETIC,SL",
+            "uuid": "596ea5bc-e602-46c8-82d7-d45ede174762",
+            "alias": [
+                "MESOESTETIC, SL"
+            ]
+        },
+        "f05d4d89-db87-4593-83cc-d89ecac97c64": {
+            "name": "ALGHARABALLY NATIONAL TRADING",
+            "uuid": "f05d4d89-db87-4593-83cc-d89ecac97c64",
+            "alias": [
+                "AL GHARABALLY NATIONAL TRADING"
+            ]
+        },
+        "6813a183-5202-42c3-ae58-ee82fe2f5505": {
+            "name": "APPOLLA (CHINA)CO LTD",
+            "uuid": "6813a183-5202-42c3-ae58-ee82fe2f5505",
+            "alias": [
+                "APPOLLO (CHINA) CO., LTD"
+            ]
+        },
+        "8c6a4938-face-4398-8cbd-b2ed0563e942": {
+            "name": "ZAGLIANI S.P.A. DAL 1947",
+            "uuid": "8c6a4938-face-4398-8cbd-b2ed0563e942",
+            "alias": [
+                "ZAGLIANI S.R.L."
+            ]
+        },
+        "de8fac3a-598f-4fd2-88c5-dacd0d076dbf": {
+            "name": "ZHEJIANG WEIDA INDUSTRY AND INVESTM",
+            "uuid": "de8fac3a-598f-4fd2-88c5-dacd0d076dbf",
+            "alias": [
+                "ZHEJIANG WEIDA INDUSTRY AND INVESTMENT"
+            ]
+        },
+        "16e84a86-4621-4c35-8a8a-00718e66d3ea": {
+            "name": "CYNOSURE INC",
+            "uuid": "16e84a86-4621-4c35-8a8a-00718e66d3ea",
+            "alias": [
+                "CYNOSURE INC."
+            ]
+        },
+        "0e2eaf1d-5594-4a14-979b-305afe994bfd": {
+            "name": "AKPEN PLS PENC AKS LTD STI",
+            "uuid": "0e2eaf1d-5594-4a14-979b-305afe994bfd",
+            "alias": [
+                "AKPEN PLASTIK PEN.AKS.NAK.SAN.IC VE"
+            ]
+        },
+        "51db8c78-bd5e-4b0c-9633-5397113ce5f5": {
+            "name": "GUNEY EKSPORT NAK,PET.SAN.",
+            "uuid": "51db8c78-bd5e-4b0c-9633-5397113ce5f5",
+            "alias": [
+                "GUNEY EKSPORT NAK, PET.SAN."
+            ]
+        },
+        "56d43f0a-6641-41f1-b40e-14216fd76a9c": {
+            "name": "KALE KIMYA KIMYEVI MAD.SAN.VE TIC.",
+            "uuid": "56d43f0a-6641-41f1-b40e-14216fd76a9c",
+            "alias": [
+                "KALEKIM KIMYEVI MADDELER SANAYI VE TIC"
+            ]
+        },
+        "dec02ac3-908e-46a4-91df-f405d70228c0": {
+            "name": "LLC TRADITION FOR QUALITY",
+            "uuid": "dec02ac3-908e-46a4-91df-f405d70228c0",
+            "alias": [
+                "OOO TRADICHII KACHESTVA"
+            ]
+        },
+        "bf7fee41-3c92-40cb-b5d7-24cfcb0db232": {
+            "name": "Captron Merchants LLP",
+            "uuid": "bf7fee41-3c92-40cb-b5d7-24cfcb0db232",
+            "alias": [
+                "CAPTRON MERCHANTS LLP"
+            ]
+        },
+        "6d590b40-a15e-4453-be46-6562d4748ff3": {
+            "name": "SCHMID FEUERUNGSTECHNIK GMBH&CO.,KG",
+            "uuid": "6d590b40-a15e-4453-be46-6562d4748ff3",
+            "alias": [
+                "SCHMID FEUERUNGSTECHNIK GMBH&CO., KG"
+            ]
+        },
+        "84b05041-aefd-4b3b-93bd-c2c3e416cf1b": {
+            "name": "ABC KERAMIK BERENTELG GMBH&CO.,KG",
+            "uuid": "84b05041-aefd-4b3b-93bd-c2c3e416cf1b",
+            "alias": [
+                "ABC KERAMIK BERENTELG GMBH & CO., KG"
+            ]
+        },
+        "e3740ed9-d1db-4601-8ea1-c2229da7c410": {
+            "name": "NOVELLO SRL",
+            "uuid": "e3740ed9-d1db-4601-8ea1-c2229da7c410",
+            "alias": [
+                "NOVELLO S.R.L."
+            ]
+        },
+        "d645b2c9-6090-46a0-ad52-90bf05fbc9ba": {
+            "name": "MEISTER INC.",
+            "uuid": "d645b2c9-6090-46a0-ad52-90bf05fbc9ba",
+            "alias": [
+                "HALLA MEISTER LTD."
+            ]
+        },
+        "1b476e37-818c-4522-83fb-279ceadf0b7c": {
+            "name": "MAKTEK KAZAN,RADYATOR VE",
+            "uuid": "1b476e37-818c-4522-83fb-279ceadf0b7c",
+            "alias": [
+                "MAKTEK KAZAN, RADYATOR VE KLIMA SAN"
+            ]
+        },
+        "0b05bf84-0819-441b-84cd-cf8e7fd305a7": {
+            "name": "ARAS GLOBAL TIC. VE LOJ.TUR.LTD.STI",
+            "uuid": "0b05bf84-0819-441b-84cd-cf8e7fd305a7",
+            "alias": [
+                "ARAS GLOBAL TICARET VE LOJISTIK TUR. LTD. STI"
+            ]
+        },
+        "4c46a87c-bb2b-4aca-bbc3-014cf605b1f3": {
+            "name": "PETRO-CANADA EUROPE LUBRICANTS LIMI",
+            "uuid": "4c46a87c-bb2b-4aca-bbc3-014cf605b1f3",
+            "alias": [
+                "PETRO-CANADA EUROPE LUBRICANTS LTD."
+            ]
+        },
+        "265accac-41a2-4265-9699-807ffb6b0a95": {
+            "name": "OVERLAND CERAMICS CO.,LTD",
+            "uuid": "265accac-41a2-4265-9699-807ffb6b0a95",
+            "alias": [
+                "OVERLAND CERAMICS CO., LTD"
+            ]
+        },
+        "198c5a14-5416-4650-b45d-2634f9683595": {
+            "name": "MEKAN DUZENLEME SAN.TIC.LTD.STI",
+            "uuid": "198c5a14-5416-4650-b45d-2634f9683595",
+            "alias": [
+                "MEKAN DUZENLEME SAN. TIC. LTD. STI"
+            ]
+        },
+        "a549415e-340c-42c4-af95-227398a4b9a2": {
+            "name": "CHANGXING SHENGYAN IMPORT AND EXPO",
+            "uuid": "a549415e-340c-42c4-af95-227398a4b9a2",
+            "alias": [
+                "CHANGXING SHENGYAN IMPORT AND EXPORT"
+            ]
+        },
+        "1f17967f-d78b-4160-b83a-e96de2d142aa": {
+            "name": "CHAOZHOU COCO SANITARY WARE CO.,LTD",
+            "uuid": "1f17967f-d78b-4160-b83a-e96de2d142aa",
+            "alias": [
+                "CHAOZHOU COCO SANITARY WARE CO., LTD"
+            ]
+        },
+        "34f3ab2e-4ba7-47cc-9f08-a3efea15fe3c": {
+            "name": "SHANDONG WANDA BOTO TYRE CO.,LTD",
+            "uuid": "34f3ab2e-4ba7-47cc-9f08-a3efea15fe3c",
+            "alias": [
+                "SHANDONG WANDA BOTO TYRE CO., LTD"
+            ]
+        },
+        "cc8a451c-8247-4772-8968-0b4bd889bdac": {
+            "name": "TANCO HOLDING CO.,LTD",
+            "uuid": "cc8a451c-8247-4772-8968-0b4bd889bdac",
+            "alias": [
+                "TANCO HOLDING CO., LTD"
+            ]
+        },
+        "af052d73-2e83-4c34-a9e9-0971a7bfeaaa": {
+            "name": "ARTE BROTTO MOBILI S.R.L.",
+            "uuid": "af052d73-2e83-4c34-a9e9-0971a7bfeaaa",
+            "alias": [
+                "Arte Brotto Mobili S.r.l."
+            ]
+        },
+        "aed286fb-c340-4cca-adca-987ca617af46": {
+            "name": "MATTER PITCH,THE RECEIVER",
+            "uuid": "aed286fb-c340-4cca-adca-987ca617af46",
+            "alias": [
+                "MATTER PITCH, THE RECEIVER"
+            ]
+        },
+        "d25c3206-d82d-492b-86cf-37f11c4214f1": {
+            "name": "AKSA JENERATOR SANAYI A. S.",
+            "uuid": "d25c3206-d82d-492b-86cf-37f11c4214f1",
+            "alias": [
+                "AKSA JENERATOR SANAYI A.S."
+            ]
+        },
+        "cab73edb-1206-4263-b795-08b0ed2b8477": {
+            "name": "ZHONGSHAN ZHENGDE COMMERCIAL CO.,LT",
+            "uuid": "cab73edb-1206-4263-b795-08b0ed2b8477",
+            "alias": [
+                "ZHONGSHAN ZHENGDE COMMERCIAL CO., LT"
+            ]
+        },
+        "ef38247b-c3fb-4a20-b34e-8ffe623df7e5": {
+            "name": "POR METAL URUNLERI INSHAAT TUR. SAN",
+            "uuid": "ef38247b-c3fb-4a20-b34e-8ffe623df7e5",
+            "alias": [
+                "POR METAL URUNLERI INSAAT TURIZM"
+            ]
+        },
+        "8e706218-739e-48ce-bebf-8ce76fb88eb3": {
+            "name": "MARTINI GROUP",
+            "uuid": "8e706218-739e-48ce-bebf-8ce76fb88eb3",
+            "alias": [
+                "MARTINI SPA"
+            ]
+        },
+        "36608e9b-6d12-408c-a8b4-9cc9fc08f797": {
+            "name": "POINT S.L.",
+            "uuid": "36608e9b-6d12-408c-a8b4-9cc9fc08f797",
+            "alias": [
+                "POINT S.L"
+            ]
+        },
+        "bdffd3bd-2d64-42e3-84d6-cc42a02152d4": {
+            "name": "LOYAL GROUP TRADING CO.,LTD",
+            "uuid": "bdffd3bd-2d64-42e3-84d6-cc42a02152d4",
+            "alias": [
+                "LOYAL GROUP TRADING CO., LTD"
+            ]
+        },
+        "b4276fda-5f8f-4503-b941-a50f55abc050": {
+            "name": "CETIN MUHENDISLIK LTD STI.",
+            "uuid": "b4276fda-5f8f-4503-b941-a50f55abc050",
+            "alias": [
+                "CETIN MUHENDISLIK LTD. STI."
+            ]
+        },
+        "0935736b-e416-48b2-8b35-c976758d4cb6": {
+            "name": "HEILONGJIANG LAIKEDA IMPORT AND EXP",
+            "uuid": "0935736b-e416-48b2-8b35-c976758d4cb6",
+            "alias": [
+                "HEILONGJIANG LAIKEDA IMPORT AND EXPORT"
+            ]
+        },
+        "98b24b3a-8bc0-4c07-8491-c6b69b37949a": {
+            "name": "COMPLETE PHARMA CO.,LTD",
+            "uuid": "98b24b3a-8bc0-4c07-8491-c6b69b37949a",
+            "alias": [
+                "COMPLETE PHARMA CO., LTD"
+            ]
+        },
+        "c7f5eb8c-5c24-40eb-abb1-7019e2dfd57c": {
+            "name": "IMCD TIC.PAZ VE DAN.LTD. STI",
+            "uuid": "c7f5eb8c-5c24-40eb-abb1-7019e2dfd57c",
+            "alias": [
+                "IMCD TICARET PAZARLAMA VE DANISMA LTD. STI"
+            ]
+        },
+        "7bb12e18-c26d-4bcf-969c-794773a62241": {
+            "name": "O+O SRL",
+            "uuid": "7bb12e18-c26d-4bcf-969c-794773a62241",
+            "alias": [
+                "O AND O S.R.L."
+            ]
+        },
+        "23435f73-0cee-478c-aacd-505ceecfac66": {
+            "name": "CAFULONG APPLIANCE CO.,LIMITED",
+            "uuid": "23435f73-0cee-478c-aacd-505ceecfac66",
+            "alias": [
+                "CAFULONG APPLIANCE CO., LIMITED"
+            ]
+        },
+        "b78da017-454a-4bee-bf9e-8f4b08f6c296": {
+            "name": "HONGKONG SINOMASH CO.,LIMITED",
+            "uuid": "b78da017-454a-4bee-bf9e-8f4b08f6c296",
+            "alias": [
+                "HONGKONG SINOMASH CO., LIMITED"
+            ]
+        },
+        "99782613-bb07-4fcf-8a2c-64f92be1a4da": {
+            "name": "GO OCEAN TRAVEL+MARKETING CO.,LTD",
+            "uuid": "99782613-bb07-4fcf-8a2c-64f92be1a4da",
+            "alias": [
+                "GO OCEAN TRAVEL+MARKETING CO., LTD"
+            ]
+        },
+        "94f44d36-04f0-476d-b521-ef7d26b4425d": {
+            "name": "CHANGYI LEIXIANG TEXTILES CO.,LTD",
+            "uuid": "94f44d36-04f0-476d-b521-ef7d26b4425d",
+            "alias": [
+                "CHANGYI LEIXIANG TEXTILES CO., LTD"
+            ]
+        },
+        "07187e90-7280-4f35-ace5-ec37157f5b62": {
+            "name": "SAHIN ZAYIL GENERAL TRADING (L.L.C)",
+            "uuid": "07187e90-7280-4f35-ace5-ec37157f5b62",
+            "alias": [
+                "SAHIN ZAYIL GENERAL TRADING LLC"
+            ]
+        },
+        "422ebe2f-fd50-4295-8806-77fd0bc3c7ff": {
+            "name": "JSC EVRAZ NTMK,",
+            "uuid": "422ebe2f-fd50-4295-8806-77fd0bc3c7ff",
+            "alias": [
+                "JSC EVRAZ NTMK"
+            ]
+        },
+        "9472c809-77ed-4b98-bc42-f8198e609453": {
+            "name": "XTREME MOTORCYCLE OF CAMBRIDGE",
+            "uuid": "9472c809-77ed-4b98-bc42-f8198e609453",
+            "alias": [
+                "XTREME MOTORCYCLE OUTLET, LLC"
+            ]
+        },
+        "1ffccc88-e09e-4760-bc9e-7df0b3fcfa2b": {
+            "name": "DRG INTERNATIONAL,INC",
+            "uuid": "1ffccc88-e09e-4760-bc9e-7df0b3fcfa2b",
+            "alias": [
+                "DRG INTERNATIONAL, INC"
+            ]
+        },
+        "0a7721f7-f557-41c3-885f-389124633ce8": {
+            "name": "PAKARD LP",
+            "uuid": "0a7721f7-f557-41c3-885f-389124633ce8",
+            "alias": [
+                "PAKART LP"
+            ]
+        },
+        "0f03f106-2c94-44fe-8f6c-5ef1109b8b7a": {
+            "name": "CHONGQING JORCEN IMP+EXP.CO.,LTD",
+            "uuid": "0f03f106-2c94-44fe-8f6c-5ef1109b8b7a",
+            "alias": [
+                "CHONGQING JORCEN IMP+EXP.CO., LTD"
+            ]
+        },
+        "58beb3c2-d664-46d4-9bde-00c99b88ef44": {
+            "name": "AGRO WEST LLC",
+            "uuid": "58beb3c2-d664-46d4-9bde-00c99b88ef44",
+            "alias": [
+                "AGRO WEST LLC / AQRO-VEST MMM"
+            ]
+        },
+        "82a8d114-7412-46d2-8e39-5d2561ae70ca": {
+            "name": "PRONEO SPORTS,S.C.P.",
+            "uuid": "82a8d114-7412-46d2-8e39-5d2561ae70ca",
+            "alias": [
+                "PRONEO SPORTS, S.C.P."
+            ]
+        },
+        "9eeff488-87b8-427c-9816-d143f5ec5f51": {
+            "name": "THE GREAT WALL GROUP HOLDING CO.,LT",
+            "uuid": "9eeff488-87b8-427c-9816-d143f5ec5f51",
+            "alias": [
+                "THE GREAT WALL GROUP HOLDING CO., LT"
+            ]
+        },
+        "844601af-517a-4f2d-bd5f-848745428267": {
+            "name": "INCI AKU SAN.VE TIC. A.S.",
+            "uuid": "844601af-517a-4f2d-bd5f-848745428267",
+            "alias": [
+                "INCI AKU SAN. VE TIC. A.S."
+            ]
+        },
+        "51c91446-714a-4bd5-aa4f-22a80b3d876b": {
+            "name": "MEGA TURIZM TASIMACILIK ,TARIM ORMA",
+            "uuid": "51c91446-714a-4bd5-aa4f-22a80b3d876b",
+            "alias": [
+                "MEGA TURIZM TASIMACILIK , TARIM ORMA"
+            ]
+        },
+        "dc7b0eae-813b-4c75-9cab-267b54b58ac7": {
+            "name": "TENG YING TRADE CO.,LIMITED",
+            "uuid": "dc7b0eae-813b-4c75-9cab-267b54b58ac7",
+            "alias": [
+                "TENG YING TRADE CO., LIMITED"
+            ]
+        },
+        "73bc67fd-2fe7-4aef-99ee-46b641df4861": {
+            "name": "YONGKANG KINON IMP + EXP CO.,LTD",
+            "uuid": "73bc67fd-2fe7-4aef-99ee-46b641df4861",
+            "alias": [
+                "YONGKANG KINON IMP + EXP CO., LTD"
+            ]
+        },
+        "3554626f-6a1b-436f-a70c-f5a2fad52fdc": {
+            "name": "L + G LTD",
+            "uuid": "3554626f-6a1b-436f-a70c-f5a2fad52fdc",
+            "alias": [
+                "L+G LTD"
+            ]
+        },
+        "a1aaf86f-b6e8-4400-b433-903510c84235": {
+            "name": "YIWU HENG YUE IMPORT+EXPORT CO.,LTD",
+            "uuid": "a1aaf86f-b6e8-4400-b433-903510c84235",
+            "alias": [
+                "YIWU HENG YUE IMPORT+EXPORT CO., LTD"
+            ]
+        },
+        "56777fa1-2700-49f5-a696-c8f579c37d9b": {
+            "name": "PEKPAN INS.TAAH.TUR.SAN.VE TIC.LTD",
+            "uuid": "56777fa1-2700-49f5-a696-c8f579c37d9b",
+            "alias": [
+                "PEKPAN INS.TAAH.TUR.SAN VE TIC.LTD"
+            ]
+        },
+        "46d81de9-f1a8-4deb-a16e-3291480eb8b6": {
+            "name": "Miss Aruna Dackeviciene",
+            "uuid": "46d81de9-f1a8-4deb-a16e-3291480eb8b6",
+            "alias": [
+                "Aruna Dackeviciene"
+            ]
+        },
+        "c5864dc3-8da6-466f-8e22-58158089acae": {
+            "name": "INNOVATIVE MATERIAL AND DEVICES,INC",
+            "uuid": "c5864dc3-8da6-466f-8e22-58158089acae",
+            "alias": [
+                "INNOVATIVE MATERIAL AND DEVICES, INC"
+            ]
+        },
+        "9d32e616-b0bc-42c1-8568-c7b0b9f823dc": {
+            "name": "GLASKUNST",
+            "uuid": "9d32e616-b0bc-42c1-8568-c7b0b9f823dc",
+            "alias": [
+                "GLASKUNST VOLKER KRANICH"
+            ]
+        },
+        "307dd902-e934-4461-bf07-2fbb31ae022e": {
+            "name": "KOSPEL S.A",
+            "uuid": "307dd902-e934-4461-bf07-2fbb31ae022e",
+            "alias": [
+                "KOSPEL S.A."
+            ]
+        },
+        "994b90e3-62f0-491a-b8ec-6a77d38981f6": {
+            "name": "EASTEXPERT GMBH",
+            "uuid": "994b90e3-62f0-491a-b8ec-6a77d38981f6",
+            "alias": [
+                "EAST EXPERT GMBH"
+            ]
+        },
+        "7570ae30-1c9d-4c24-b2aa-aba238e12531": {
+            "name": "SHANGHAI QINZHITANG DISPLAY AND MAN",
+            "uuid": "7570ae30-1c9d-4c24-b2aa-aba238e12531",
+            "alias": [
+                "SHANGHAI QINZHITANG DISPLAY AND MANNEQUIN"
+            ]
+        },
+        "082eceb3-358d-4bc4-ae66-660125607cb7": {
+            "name": "BLESES KRAFTFAHRZEUGE GMBH+CO.,KG",
+            "uuid": "082eceb3-358d-4bc4-ae66-660125607cb7",
+            "alias": [
+                "BLESES KRAFTFAHRZEUGE GMBH+CO., KG"
+            ]
+        },
+        "2dc2d414-16a4-4f0b-a566-ba5ac271af25": {
+            "name": "BALMAIN MAN SS 14",
+            "uuid": "2dc2d414-16a4-4f0b-a566-ba5ac271af25",
+            "alias": [
+                "PIERRE BALMAIN SA"
+            ]
+        },
+        "bfe4ea3c-ffd3-4432-b6f2-3a3e9329c19b": {
+            "name": "REDPARK SALES CORP",
+            "uuid": "bfe4ea3c-ffd3-4432-b6f2-3a3e9329c19b",
+            "alias": [
+                "REDPARK SALES CORP."
+            ]
+        },
+        "c540efef-1149-42e3-80ba-c50f7574bb2f": {
+            "name": "HANGZHOU KANG AO TECHNOLOGY CO.,LTD",
+            "uuid": "c540efef-1149-42e3-80ba-c50f7574bb2f",
+            "alias": [
+                "HANGZHOU KANG AO TECHNOLOGY CO., LTD"
+            ]
+        },
+        "79dac0dd-a204-432d-a2b2-ded27de03449": {
+            "name": "MR JOVDAT GULIYEV",
+            "uuid": "79dac0dd-a204-432d-a2b2-ded27de03449",
+            "alias": [
+                "MR. JOVDAT GULIYEV"
+            ]
+        },
+        "b627cba2-6c0b-4f88-9e67-9524b5c48300": {
+            "name": "SPARKLE COMPUTER CO.,LTD",
+            "uuid": "b627cba2-6c0b-4f88-9e67-9524b5c48300",
+            "alias": [
+                "SPARKLE COMPUTER CO., LTD"
+            ]
+        },
+        "a375dfea-d7f5-488e-b5f2-b311bfd60ad5": {
+            "name": "KYOUNG DONG IND.,CO",
+            "uuid": "a375dfea-d7f5-488e-b5f2-b311bfd60ad5",
+            "alias": [
+                "KYOUNG DONG IND., CO"
+            ]
+        },
+        "6f1c8b10-c9eb-4e93-afc4-0dce8ba85b86": {
+            "name": "VEKA KIMYA VE PETROL CO LTD",
+            "uuid": "6f1c8b10-c9eb-4e93-afc4-0dce8ba85b86",
+            "alias": [
+                "VEKA KIMYA PETROL VE TAS.SAN.TIC."
+            ]
+        },
+        "38d05724-bdd5-4bde-a192-d7e448b6c085": {
+            "name": "MAXXIS INTERNATIONAL CO.,LTD",
+            "uuid": "38d05724-bdd5-4bde-a192-d7e448b6c085",
+            "alias": [
+                "MAXXIS INTERNATIONAL CO., LTD"
+            ]
+        },
+        "2edfbb6c-ec4e-4fd5-88b9-8c2e621702c7": {
+            "name": "YISHANGYI MANNEQUINS CO.,LIMITED",
+            "uuid": "2edfbb6c-ec4e-4fd5-88b9-8c2e621702c7",
+            "alias": [
+                "YISHANGYI MANNEQUINS CO., LIMITED"
+            ]
+        },
+        "628a7fd0-9b3b-4e26-b80a-36f691ebd272": {
+            "name": "YUNTONG HANGER INTERNATIONAL CO.,LI",
+            "uuid": "628a7fd0-9b3b-4e26-b80a-36f691ebd272",
+            "alias": [
+                "YUNTONG HANGER INTERNATIONAL CO., LI"
+            ]
+        },
+        "9b361924-51e7-41e3-975e-3a3346d17dc3": {
+            "name": "GUANGZHOU DONGHENG CO.,LTD",
+            "uuid": "9b361924-51e7-41e3-975e-3a3346d17dc3",
+            "alias": [
+                "GUANGZHOU DONGHENG CO., LTD"
+            ]
+        },
+        "4579218f-bf6e-49b8-8fa7-ed31b8d6614b": {
+            "name": "CARDIFF MAKINA SANAYI TIC.LTD STI",
+            "uuid": "4579218f-bf6e-49b8-8fa7-ed31b8d6614b",
+            "alias": [
+                "CARDIFF MAKINA SANAYI TIC.LTD.STI"
+            ]
+        },
+        "87132b25-ba38-4e97-b709-67993513e000": {
+            "name": "SJ. HK INDUSTRY CO.,LTD",
+            "uuid": "87132b25-ba38-4e97-b709-67993513e000",
+            "alias": [
+                "SJ. HK INDUSTRY CO., LTD"
+            ]
+        },
+        "9084d159-f710-4be7-9b57-9a31444b8674": {
+            "name": "GF+ GEORG FISHER PIPING SYSTEMS",
+            "uuid": "9084d159-f710-4be7-9b57-9a31444b8674",
+            "alias": [
+                "GF + GEORG FISHER PIPING SYSTEMS"
+            ]
+        },
+        "b12a7e75-55c4-4509-8f8f-ed42926dead1": {
+            "name": "DEKOR PANEL ISI SISTEMLERI PAZ.",
+            "uuid": "b12a7e75-55c4-4509-8f8f-ed42926dead1",
+            "alias": [
+                "DEKORPANEL ISI SISTEMLERI PAZ. SAN."
+            ]
+        },
+        "429ccda1-57ca-4210-9163-7b15d308d793": {
+            "name": "ZHEJIANG RONGRONG INDUSTRIAL CO.,LT",
+            "uuid": "429ccda1-57ca-4210-9163-7b15d308d793",
+            "alias": [
+                "ZHEJIANG RONGRONG INDUSTRIAL CO., LT"
+            ]
+        },
+        "8b04e3c4-57aa-44f3-a94d-df0add355738": {
+            "name": "WENZHOU YABIYA SANITARY WARE CO.,LT",
+            "uuid": "8b04e3c4-57aa-44f3-a94d-df0add355738",
+            "alias": [
+                "WENZHOU YABIYA SANITARY WARE CO., LT"
+            ]
+        },
+        "5671475f-fece-418d-842e-6ffe61d29edf": {
+            "name": "NEO CTR CO.,LTD",
+            "uuid": "5671475f-fece-418d-842e-6ffe61d29edf",
+            "alias": [
+                "NEO CTR CO., LTD."
+            ]
+        },
+        "75419ce8-d8ef-4cf5-880d-3844e40c4cb6": {
+            "name": "NINGBO BEITONG IMP.& EXP. CO.,LTD",
+            "uuid": "75419ce8-d8ef-4cf5-880d-3844e40c4cb6",
+            "alias": [
+                "NINGBO BEITONG IMP.& EXP. CO., LTD"
+            ]
+        },
+        "16d332ff-e5fd-45a1-b92d-dc3b07696b9e": {
+            "name": "NINGFENG ELECTRIC INDUSTRY CO.,LTD",
+            "uuid": "16d332ff-e5fd-45a1-b92d-dc3b07696b9e",
+            "alias": [
+                "NINGFENG ELECTRIC INDUSTRY CO., LTD"
+            ]
+        },
+        "40897458-b034-4678-a76c-c2a30f24ab2d": {
+            "name": "LIZA DANISMANLIK DIS TIC. A.S.",
+            "uuid": "40897458-b034-4678-a76c-c2a30f24ab2d",
+            "alias": [
+                "LIZA DANISMANLIK DIS TICARET A.S."
+            ]
+        },
+        "b2b35894-2aba-4c8b-a30e-06e3c2994c92": {
+            "name": "SHUNDE HUANRUN IMP.+ EXP.CO.,LTD.",
+            "uuid": "b2b35894-2aba-4c8b-a30e-06e3c2994c92",
+            "alias": [
+                "SHUNDE HUANRUN IMP.+ EXP.CO., LTD."
+            ]
+        },
+        "11c86867-1c8c-4f9f-bcc3-00bf8470e003": {
+            "name": "INTICOM SPA",
+            "uuid": "11c86867-1c8c-4f9f-bcc3-00bf8470e003",
+            "alias": [
+                "INTICOM S.P.A."
+            ]
+        },
+        "ebe1bc11-8906-4cda-9b02-12603fae7bbe": {
+            "name": "BOTHEVEN MACHINERY INDUSTRIAL CO.,L",
+            "uuid": "ebe1bc11-8906-4cda-9b02-12603fae7bbe",
+            "alias": [
+                "BOTHEVEN MACHINERY INDUSTRIAL CO., L"
+            ]
+        },
+        "e49c1abb-db03-424c-b72e-5a8b5a8ac816": {
+            "name": "LTD ROTACK",
+            "uuid": "e49c1abb-db03-424c-b72e-5a8b5a8ac816",
+            "alias": [
+                "ROTRACK LTD"
+            ]
+        },
+        "81a960c5-112a-4028-99ee-9420c5340e81": {
+            "name": "KINTOWE INTERNATIONAL CO.,LIMITED",
+            "uuid": "81a960c5-112a-4028-99ee-9420c5340e81",
+            "alias": [
+                "KINTOWE INTERNATIONAL CO., LIMITED"
+            ]
+        },
+        "c26f14f6-d942-41a3-a8b4-9947b5d1b92a": {
+            "name": "SHANDONG WEIDA MACHINERY CO,LTD",
+            "uuid": "c26f14f6-d942-41a3-a8b4-9947b5d1b92a",
+            "alias": [
+                "SHANDONG WEIDA MACHINERY CO, LTD"
+            ]
+        },
+        "b35327aa-3cf9-42c1-a3a1-3b8940fa92a8": {
+            "name": "PERA SERAMIK SAN. VE TIC. A.S.",
+            "uuid": "b35327aa-3cf9-42c1-a3a1-3b8940fa92a8",
+            "alias": [
+                "PERA SERAMIK SANAYI VE TICARET A.S."
+            ]
+        },
+        "ada0f50a-fab3-41f5-b85b-44dfbc288ee0": {
+            "name": "ALEKSANDER SPIES",
+            "uuid": "ada0f50a-fab3-41f5-b85b-44dfbc288ee0",
+            "alias": [
+                "ALEXANDER SPIES"
+            ]
+        },
+        "6f843364-7f23-4c53-94b7-547e3fc67fb4": {
+            "name": "DERYA LASTIK,PLASTIK VE KALIP SANAY",
+            "uuid": "6f843364-7f23-4c53-94b7-547e3fc67fb4",
+            "alias": [
+                "DERYA LASTIK, PLASTIK VE KALIP SANAY"
+            ]
+        },
+        "dc7d9912-6926-49cf-98eb-26ae0c40cf42": {
+            "name": "ENKI IC VE DIS TICARET PAZ.SAN.TIC.",
+            "uuid": "dc7d9912-6926-49cf-98eb-26ae0c40cf42",
+            "alias": [
+                "ENKI IC VE DIS TICARET PAZ. SAN. TIC."
+            ]
+        },
+        "37dcba4f-56f0-40a1-a4d4-f91dc4a8cf83": {
+            "name": "ZHEJIANG HAIZHU PIPE CO.,LTD",
+            "uuid": "37dcba4f-56f0-40a1-a4d4-f91dc4a8cf83",
+            "alias": [
+                "ZHEJIANG HAIZHU PIPE CO., LTD"
+            ]
+        },
+        "3e5f61db-9985-480f-bb52-156b5fe476ae": {
+            "name": "HANGZHOU JOYKIE IND. AND TRAD. CO.,",
+            "uuid": "3e5f61db-9985-480f-bb52-156b5fe476ae",
+            "alias": [
+                "HANGZHOU JOYKIE IND AND TRAD CO."
+            ]
+        },
+        "6429cbf2-d6c1-4973-aa76-ab3f03c0e737": {
+            "name": "ALEXANDRA GOLD KUYUMCULUK SANAYI",
+            "uuid": "6429cbf2-d6c1-4973-aa76-ab3f03c0e737",
+            "alias": [
+                "ALEXANDRA GOLD KUYUMCULUK SANAYI VE"
+            ]
+        },
+        "7639932c-86d4-4562-abc4-fe9e68de5453": {
+            "name": "Tereach Trading LLP",
+            "uuid": "7639932c-86d4-4562-abc4-fe9e68de5453",
+            "alias": [
+                "TEREACH TRADING LLP"
+            ]
+        },
+        "b7c01c2f-4c69-4deb-84ca-d6fb32418aa1": {
+            "name": "SIAM SANITARY WARE INDUSTRY CO.,LTD",
+            "uuid": "b7c01c2f-4c69-4deb-84ca-d6fb32418aa1",
+            "alias": [
+                "SIAM SANITARY WARE INDUSTRY CO., LTD"
+            ]
+        },
+        "958aceef-1b6f-4f97-b9a1-ffdc389f22df": {
+            "name": "YOTO IMPORT AND EXPORT CO.,LTD",
+            "uuid": "958aceef-1b6f-4f97-b9a1-ffdc389f22df",
+            "alias": [
+                "YOTO IMPORT AND EXPORT CO., LTD"
+            ]
+        },
+        "e10c0b8b-a415-4739-ad73-dd32842bfdbf": {
+            "name": "GAOMI YICHEN LABOR PRODUCTS CO.,LTD",
+            "uuid": "e10c0b8b-a415-4739-ad73-dd32842bfdbf",
+            "alias": [
+                "GAOMI YICHEN LABOR PRODUCTS CO., LTD"
+            ]
+        },
+        "da32da6f-0a55-40d5-904c-2073e41b07f4": {
+            "name": "SAYAN - UUL CO.,LTD",
+            "uuid": "da32da6f-0a55-40d5-904c-2073e41b07f4",
+            "alias": [
+                "SAYAN - UUL CO., LTD"
+            ]
+        },
+        "7ca0917a-2136-4da9-ba4b-a891c5ed3fbf": {
+            "name": "VICO VATION CORP",
+            "uuid": "7ca0917a-2136-4da9-ba4b-a891c5ed3fbf",
+            "alias": [
+                "VICOVATION CORP."
+            ]
+        },
+        "5448f277-043e-4412-a3ac-c47adcdebac1": {
+            "name": "ELAFLEX GUMMI EHTERS GMBH",
+            "uuid": "5448f277-043e-4412-a3ac-c47adcdebac1",
+            "alias": [
+                "ELAFLEX-GUMMI EHTERS GMBH"
+            ]
+        },
+        "917c5ea9-2f57-40ab-97a4-ee5e56023bb2": {
+            "name": "BERDAN CIVATA,BERDAN CIVATA SOMUN",
+            "uuid": "917c5ea9-2f57-40ab-97a4-ee5e56023bb2",
+            "alias": [
+                "BERDAN CIVATA, BERDAN CIVATA SOMUN"
+            ]
+        },
+        "f24b995f-62b1-45f4-bdaa-d806a5dbf049": {
+            "name": "FOSHAN ENSHAN IMPORT+EXPORT CO.,LTD",
+            "uuid": "f24b995f-62b1-45f4-bdaa-d806a5dbf049",
+            "alias": [
+                "FOSHAN ENSHAN IMPORT AND EXPORT CO"
+            ]
+        },
+        "13e70416-509e-4d06-b613-140b60c13ea7": {
+            "name": "EASY INTERNATIONAL",
+            "uuid": "13e70416-509e-4d06-b613-140b60c13ea7",
+            "alias": [
+                "EASY INTERNATIONAL LOGISTICS (HONG"
+            ]
+        },
+        "b402254f-9beb-401f-b7fc-71565a2776e1": {
+            "name": "YAKUT HALI TEKSTIL SAN.VE TIC.",
+            "uuid": "b402254f-9beb-401f-b7fc-71565a2776e1",
+            "alias": [
+                "YAKUT HALI TEKSTIL SANAYI VE TICARE"
+            ]
+        },
+        "fa61654d-e4f9-41e9-ada8-a8fe512e7905": {
+            "name": "DACHEN SHIRT INDUSTRY CO.,LTD",
+            "uuid": "fa61654d-e4f9-41e9-ada8-a8fe512e7905",
+            "alias": [
+                "DACHEN SHIRT INDUSTRY CO., LTD"
+            ]
+        },
+        "db2cce12-8d7d-4e2a-8fa4-611bcba8346a": {
+            "name": "JUREN DOO",
+            "uuid": "db2cce12-8d7d-4e2a-8fa4-611bcba8346a",
+            "alias": [
+                "JUREN D.O.O."
+            ]
+        },
+        "09e3149b-8641-4bc6-9fcc-9ec5c4bdab88": {
+            "name": "POLYFLOR LTD",
+            "uuid": "09e3149b-8641-4bc6-9fcc-9ec5c4bdab88",
+            "alias": [
+                "POLYFLOR LIMITED"
+            ]
+        },
+        "82af8a39-7140-42e9-81de-2e9393952bd0": {
+            "name": "CESARE ATTOLINI SPA.",
+            "uuid": "82af8a39-7140-42e9-81de-2e9393952bd0",
+            "alias": [
+                "CESARE ATTOLINI S.P.A."
+            ]
+        },
+        "33dcc6af-bf8c-4756-8e27-40a9d3e7e928": {
+            "name": "ORKA AHSAP URUNLERI SANVE TIC.",
+            "uuid": "33dcc6af-bf8c-4756-8e27-40a9d3e7e928",
+            "alias": [
+                "ORKA AHSAP URUNLERI SAN.VE TIC.LTD"
+            ]
+        },
+        "2431df50-3963-4e36-9f8f-6f607052faf1": {
+            "name": "GENERAL TRADE L.P",
+            "uuid": "2431df50-3963-4e36-9f8f-6f607052faf1",
+            "alias": [
+                "General Trade L.P"
+            ]
+        },
+        "d84c3b75-b49d-43f8-9d67-1eef6558794e": {
+            "name": "CHRISTIAN DIOR",
+            "uuid": "d84c3b75-b49d-43f8-9d67-1eef6558794e",
+            "alias": [
+                "CHRISTIAN DIOR COUTURE"
+            ]
+        },
+        "aea4d6fc-758e-4084-a0fb-0af59c88dac2": {
+            "name": "MAYOLICA AZULEJOS SL",
+            "uuid": "aea4d6fc-758e-4084-a0fb-0af59c88dac2",
+            "alias": [
+                "MAYOLICA AZULEJOS S.L."
+            ]
+        },
+        "7d269ce1-19ea-4ab8-9d36-e2e489d86bbf": {
+            "name": "SWAROVSKI AG",
+            "uuid": "7d269ce1-19ea-4ab8-9d36-e2e489d86bbf",
+            "alias": [
+                "SWAROVSKI INTERNATIONAL DISTRIBUTION AG"
+            ]
+        },
+        "62131866-46f9-480b-be97-25223e7559a3": {
+            "name": "ISA S.P.A. SOCIETA A SOCIO UNICO",
+            "uuid": "62131866-46f9-480b-be97-25223e7559a3",
+            "alias": [
+                "ISA S.P.A."
+            ]
+        },
+        "271fb095-3860-4b32-a565-895d8054619f": {
+            "name": "SALAR MILANO SRLS",
+            "uuid": "271fb095-3860-4b32-a565-895d8054619f",
+            "alias": [
+                "SALAR MILANO S.R.L.S."
+            ]
+        },
+        "805ee5f5-40ce-42d4-bb98-6b4b2d836fe1": {
+            "name": "DALGAKIRAN KOMPRESOR DIS TICARET",
+            "uuid": "805ee5f5-40ce-42d4-bb98-6b4b2d836fe1",
+            "alias": [
+                "DALGAKIRAN KOMPRESOR SAN.VE TIC."
+            ]
+        },
+        "f449ba0f-d867-40a6-991a-a7ea256a3f1c": {
+            "name": "LF USA",
+            "uuid": "f449ba0f-d867-40a6-991a-a7ea256a3f1c",
+            "alias": [
+                "LF USA INC."
+            ]
+        },
+        "1312fd9c-9eda-4822-acbe-27f77b6c7d45": {
+            "name": "GIMTEKS MAKINA SANAYI VE TIC A.S",
+            "uuid": "1312fd9c-9eda-4822-acbe-27f77b6c7d45",
+            "alias": [
+                "GIMTEKS MAKINA SANAYI VE TICARET AS"
+            ]
+        },
+        "64bfcc52-36b1-4b77-8001-98cdbf713c3d": {
+            "name": "ROBERTA C.G.CAPELETTI",
+            "uuid": "64bfcc52-36b1-4b77-8001-98cdbf713c3d",
+            "alias": [
+                "C.G. CAPELLETTI SRL"
+            ]
+        },
+        "c5eb1a38-ea21-4ec1-b1be-fcead89219b4": {
+            "name": "YALCIN SUBASI TARIM MARKET LTD STI",
+            "uuid": "c5eb1a38-ea21-4ec1-b1be-fcead89219b4",
+            "alias": [
+                "YALCIN SUBASI TARIM MARKET TIC. SAN. LTD STI"
+            ]
+        },
+        "f81fd90d-f6bb-46de-ad83-09dfd4def1cb": {
+            "name": "SENNHEISER",
+            "uuid": "f81fd90d-f6bb-46de-ad83-09dfd4def1cb",
+            "alias": [
+                "SENNHEISER MIDDLE EAST BRANCH"
+            ]
+        },
+        "90131221-ca75-4f73-936a-d7bfd5ba89e3": {
+            "name": "CELLEBRITE MOBILE SYNCHRONIZATION L",
+            "uuid": "90131221-ca75-4f73-936a-d7bfd5ba89e3",
+            "alias": [
+                "CELLEBRITE MOBILE SYNCHRONIZATION LTD"
+            ]
+        },
+        "03ab23de-6432-4bfa-ac56-499bdf96f675": {
+            "name": "SCHIATTI+C.SRL",
+            "uuid": "03ab23de-6432-4bfa-ac56-499bdf96f675",
+            "alias": [
+                "SILVEA SCHIATTI+C.SRL"
+            ]
+        },
+        "681ac68c-b3a3-4791-8667-942539d77676": {
+            "name": "STARKEY LABORATORIES,INC.",
+            "uuid": "681ac68c-b3a3-4791-8667-942539d77676",
+            "alias": [
+                "STARKEY LABORATORIES, INC."
+            ]
+        },
+        "e16ffa72-6172-45c2-9672-b506cd556e2e": {
+            "name": "SHANDONG SANTAI RUBBER CO.,LTD",
+            "uuid": "e16ffa72-6172-45c2-9672-b506cd556e2e",
+            "alias": [
+                "SHANDONG SANTAI RUBBER CO., LTD"
+            ]
+        },
+        "2556718c-26cf-4250-a266-4161137f4a0b": {
+            "name": "JATO S.R.L.",
+            "uuid": "2556718c-26cf-4250-a266-4161137f4a0b",
+            "alias": [
+                "JATO S.P.A."
+            ]
+        },
+        "68b13212-0a32-4e88-9a4d-e4d66484087a": {
+            "name": "EMP END.MAM.PAZ.SAN.TIC.LTD.",
+            "uuid": "68b13212-0a32-4e88-9a4d-e4d66484087a",
+            "alias": [
+                "EMP END. MAM. PAZ. SAN. TIC. LTD."
+            ]
+        },
+        "07f30380-0207-4711-af65-f168bd520e11": {
+            "name": "CANNY ELEVATOR CO.,LTD",
+            "uuid": "07f30380-0207-4711-af65-f168bd520e11",
+            "alias": [
+                "CANNY ELEVATOR CO., LTD"
+            ]
+        },
+        "34f372a3-d2b0-4c98-8c32-fddfe8057675": {
+            "name": "LEPOW INTERNATIONAL CO.,LTD",
+            "uuid": "34f372a3-d2b0-4c98-8c32-fddfe8057675",
+            "alias": [
+                "LEPOW INTERNATIONAL CO., LTD"
+            ]
+        },
+        "c82bf419-2507-4d0a-a419-34b7fc7a99ef": {
+            "name": "WANG,HUI",
+            "uuid": "c82bf419-2507-4d0a-a419-34b7fc7a99ef",
+            "alias": [
+                "WANG, HUI"
+            ]
+        },
+        "85b6ad64-6b56-4ea1-9d5e-cabe9eacf639": {
+            "name": "LINK PLUS HONG KONG LIMITED",
+            "uuid": "85b6ad64-6b56-4ea1-9d5e-cabe9eacf639",
+            "alias": [
+                "LINK-PLUS HONG KONG LIMITED"
+            ]
+        },
+        "f49ba9bf-0e70-4e72-a483-9f95914b66fa": {
+            "name": "AUX EXPRESS ELEVATOR(SUZHOU)CO.,LTD",
+            "uuid": "f49ba9bf-0e70-4e72-a483-9f95914b66fa",
+            "alias": [
+                "AUX EXPRESS ELEVATOR (SUZHOU) CO., LTD"
+            ]
+        },
+        "98bf736c-5b40-442f-b28b-b96f791761e9": {
+            "name": "NORINCO SHANGHAI CO.,LTD",
+            "uuid": "98bf736c-5b40-442f-b28b-b96f791761e9",
+            "alias": [
+                "NORINCO SHANGHAI CO., LTD"
+            ]
+        },
+        "d1f439b6-0b1d-4bfe-93c9-2240e2ec7acf": {
+            "name": "MARIO PALMONELLA AND ARCHITETTI",
+            "uuid": "d1f439b6-0b1d-4bfe-93c9-2240e2ec7acf",
+            "alias": [
+                "MARIO PALMONELLA"
+            ]
+        },
+        "1e3700ab-deed-42fc-85a1-b3a2232ee441": {
+            "name": "GTE LOGISTIK LP",
+            "uuid": "1e3700ab-deed-42fc-85a1-b3a2232ee441",
+            "alias": [
+                "TOO QTE LOQISTIK"
+            ]
+        },
+        "2489708b-4fd3-47fa-a6a0-1060135c4721": {
+            "name": "TONGXIANG SONGYUAN TEXTILE CO.,LTD",
+            "uuid": "2489708b-4fd3-47fa-a6a0-1060135c4721",
+            "alias": [
+                "TONGXIANG SONGYUAN TEXTILE CO., LTD"
+            ]
+        },
+        "37382abd-0bcf-4c8e-8399-a4d3e71590d3": {
+            "name": "PRANA INVESTMENTS MANAGEMENT INC",
+            "uuid": "37382abd-0bcf-4c8e-8399-a4d3e71590d3",
+            "alias": [
+                "PRANA INVESTMENTS MANAGEMENT INC."
+            ]
+        },
+        "3127061b-25ed-4531-b0ff-97901c1fac1d": {
+            "name": "HEMERA KUYUMCULUK SAN.VE TIC.LTD.",
+            "uuid": "3127061b-25ed-4531-b0ff-97901c1fac1d",
+            "alias": [
+                "HEMERA KUYUMCULUK SAN. VE TIC. LTD"
+            ]
+        },
+        "f0bcf0a3-f7a8-4025-be3d-d77cb2c57aa7": {
+            "name": "ROBERT THOMAS",
+            "uuid": "f0bcf0a3-f7a8-4025-be3d-d77cb2c57aa7",
+            "alias": [
+                "ROBERT THOMAS Metall und Elektrowerke GmbH"
+            ]
+        },
+        "74d855b2-500f-421b-b320-09a602996cb1": {
+            "name": "FOSHAN SKY STONE IMP.EXP.CO.,LTD",
+            "uuid": "74d855b2-500f-421b-b320-09a602996cb1",
+            "alias": [
+                "FOSHAN SKY STONE IMP.EXP.CO., LTD"
+            ]
+        },
+        "8b1bb201-56e2-4124-bb79-91b9fc4177b6": {
+            "name": "ADOPEN PLASTIK VE INS. SAN. AS.",
+            "uuid": "8b1bb201-56e2-4124-bb79-91b9fc4177b6",
+            "alias": [
+                "ADOPEN PLASTIK VE INSAAT SAN. A.S"
+            ]
+        },
+        "98b69437-3971-41ed-9631-8f4f11d1634a": {
+            "name": "ANTCH INDUSTRIES CO.,LTD",
+            "uuid": "98b69437-3971-41ed-9631-8f4f11d1634a",
+            "alias": [
+                "ANTCH INDUSTRIES CO., LTD"
+            ]
+        },
+        "8c1e7abf-ca59-441e-94b6-4333a24bbcf8": {
+            "name": "AEOLUS TYRE CO.,LTD.",
+            "uuid": "8c1e7abf-ca59-441e-94b6-4333a24bbcf8",
+            "alias": [
+                "AEOLUS TYRE CO., LTD."
+            ]
+        }
+    },
+    "synonyms": {
+        "ooo drees + sommer": "9c042434-fbb3-4c5e-89f1-e6c080ff6ffd",
+        "000 drees + sommer": "9c042434-fbb3-4c5e-89f1-e6c080ff6ffd",
+        "3m east ag": "fa6db3b5-d497-4c7e-aa57-801dd803ec7f",
+        "3m east": "fa6db3b5-d497-4c7e-aa57-801dd803ec7f",
+        "3m (east) ag": "fa6db3b5-d497-4c7e-aa57-801dd803ec7f",
+        "3s madencilik seramik insaat": "6aa56d78-06f0-4b30-bf83-8a7af5aa4245",
+        "3s madencilik seramik insaat nakli": "6aa56d78-06f0-4b30-bf83-8a7af5aa4245",
+        "ecco sko a/s": "282341ba-398f-4b54-b9b2-0dc565d7bb97",
+        "a/s ecco sko": "282341ba-398f-4b54-b9b2-0dc565d7bb97",
+        "kamran abdullayev": "07c75e1c-6d62-4506-a6fd-7f35f8261adc",
+        "abdullayev marif kamran": "07c75e1c-6d62-4506-a6fd-7f35f8261adc",
+        "abdullayev kamran": "07c75e1c-6d62-4506-a6fd-7f35f8261adc",
+        "kamran marif abdullayev": "07c75e1c-6d62-4506-a6fd-7f35f8261adc",
+        "acer cis incorporated": "686378de-ea6c-491e-96e4-1864f3c9a674",
+        "akcelik boru sanayi a.s": "81aee408-0fb0-4bc3-9418-a38ab2a607cb",
+        "akcelik boru sanayi a.s.": "81aee408-0fb0-4bc3-9418-a38ab2a607cb",
+        "aleksandr jagdzijanc": "1b08d40c-11bd-4a28-bb7f-5498914770f1",
+        "jagdzijanc aleksandr": "1b08d40c-11bd-4a28-bb7f-5498914770f1",
+        "algan metal sanayi ve ticaret a.s.": "1775b3aa-2419-4cb3-ba35-91910077fdf1",
+        "algan metal sanayi ve ticaret ano": "1775b3aa-2419-4cb3-ba35-91910077fdf1",
+        "ali artis": "295e47f5-458f-40f8-8bdf-73979baed645",
+        "uludag halat ali artis": "295e47f5-458f-40f8-8bdf-73979baed645",
+        "altintas isi ith.ihr.mad.ins.san.": "8228a884-cf41-4105-8b67-8356dbfcebbc",
+        "alvo spolka z ograniczona": "5ca635b5-59ab-4c18-b997-7f505a4edae3",
+        "polon alfa spolka z ograniczona": "5ca635b5-59ab-4c18-b997-7f505a4edae3",
+        "anton spaargaren": "cd7f4e66-5564-4cda-ad46-2c17791d89d3",
+        "anton spaargaren bv": "cd7f4e66-5564-4cda-ad46-2c17791d89d3",
+        "argon kimya sanayi ve ticaret a.s": "7db6cd8a-64ba-4e96-af37-5cdd044a77ee",
+        "argon kimya sanayi ve ticaret": "7db6cd8a-64ba-4e96-af37-5cdd044a77ee",
+        "argon kimya sanayi ve ticaret anoni": "7db6cd8a-64ba-4e96-af37-5cdd044a77ee",
+        "arkem kimya san.ve tic.a.s.": "efc587aa-a221-4f4d-ac5e-f98c4b35fedf",
+        "agakim kimya san.ve tic.a.s.": "efc587aa-a221-4f4d-ac5e-f98c4b35fedf",
+        "agakim kimya san ve tic. a.s": "efc587aa-a221-4f4d-ac5e-f98c4b35fedf",
+        "art de suisse s.r.o.": "050bc69b-a80b-4dac-a9c2-c4f365993942",
+        "art de suisse s.r.o": "050bc69b-a80b-4dac-a9c2-c4f365993942",
+        "astra spa travel ltd": "a769f781-6c8a-4565-9d2c-a5ce392ba299",
+        "astra spa travel ltd.": "a769f781-6c8a-4565-9d2c-a5ce392ba299",
+        "auto parts co.,ltd.": "db442ce7-1f0d-44dd-9166-28b76ee800e4",
+        "auto parts co., ltd": "db442ce7-1f0d-44dd-9166-28b76ee800e4",
+        "auto parts co.,ltd": "db442ce7-1f0d-44dd-9166-28b76ee800e4",
+        "auto1000 gmbh": "5b46eb70-c992-4a5d-a7b7-45482dc1603d",
+        "autohaus grampp gmbh": "33505825-a98c-43d4-b4a7-cd1fd30320f3",
+        "autohaus grampp gmbh mb": "33505825-a98c-43d4-b4a7-cd1fd30320f3",
+        "baofeng steel group co ltd": "207898a0-43da-4374-a78e-bd913007a6e9",
+        "baofeng steel group co., ltd": "207898a0-43da-4374-a78e-bd913007a6e9",
+        "baofeng steel group co, ltd": "207898a0-43da-4374-a78e-bd913007a6e9",
+        "bauer gmbh": "ca4dd0d7-ec81-406f-8811-f9f179fe90b1",
+        "baumann guvenlik sistemleri alarm": "7ebef463-e4b9-4ce4-83fd-42813067312e",
+        "baumann guvenlik sistemleri alarm.": "7ebef463-e4b9-4ce4-83fd-42813067312e",
+        "bernhard raab": "bca101a4-f63f-451e-b7c7-b6cdc05f0cf4",
+        "raab bernhard": "bca101a4-f63f-451e-b7c7-b6cdc05f0cf4",
+        "bn international": "3e9c501e-600a-44ec-a872-5e8ff4e2a0d0",
+        "bn international b.v.": "3e9c501e-600a-44ec-a872-5e8ff4e2a0d0",
+        "bn international bv": "3e9c501e-600a-44ec-a872-5e8ff4e2a0d0",
+        "blatna a.s.": "92c22c6a-5a7a-4c7f-b17c-9a0466e953ad",
+        "tesla blatna a.s.": "92c22c6a-5a7a-4c7f-b17c-9a0466e953ad",
+        "bortek boru ve tes.tek.dis": "ff683efc-bd7a-4a54-9ce3-1d8a388216a8",
+        "bortek boru ve tesisat tekno. dis": "ff683efc-bd7a-4a54-9ce3-1d8a388216a8",
+        "bortek boru ve tesisat tekno.dis": "ff683efc-bd7a-4a54-9ce3-1d8a388216a8",
+        "bosch termoteknik isitma ve klima": "0ceddf15-fc8e-484f-85e1-5e9fe6d7797a",
+        "brabus gmbh": "5afca1e2-8176-494e-8a33-2804146b67b2",
+        "cakirlar matbaacilik ambalaj san": "1f6798b8-282b-405d-8eeb-d1870423e089",
+        "cakirlar matbaacilik ambalaj san ve": "1f6798b8-282b-405d-8eeb-d1870423e089",
+        "cakirlar matbaacilik ambalaj san.": "1f6798b8-282b-405d-8eeb-d1870423e089",
+        "candy hoover euroasia": "59edb3f9-17d0-4780-8cef-2dc92e13d905",
+        "candy hoover euroasia a.s": "59edb3f9-17d0-4780-8cef-2dc92e13d905",
+        "chongqing lifan": "e041ee4a-5e75-40db-bffb-a4e04b13631f",
+        "chongqing lifan industry": "e041ee4a-5e75-40db-bffb-a4e04b13631f",
+        "chongqing longfar industrial co.,lt": "81bc75d3-9b71-4d89-a49b-7eb64af8ddca",
+        "chongqing longfar industrial co., ltd": "81bc75d3-9b71-4d89-a49b-7eb64af8ddca",
+        "chongqing longfar industrial co.ltd": "81bc75d3-9b71-4d89-a49b-7eb64af8ddca",
+        "concord steel general trading": "b7e27925-cac7-41dc-9333-13a4e4c39ccb",
+        "concord steel general trading fzc": "b7e27925-cac7-41dc-9333-13a4e4c39ccb",
+        "cuhadaroglu metal sanayi ve": "3cba84fe-323e-45af-b761-60eaa54a8006",
+        "chunadaroglu metal sanayi ve": "3cba84fe-323e-45af-b761-60eaa54a8006",
+        "cvs havalandirma sistemleri san.": "72a3743b-bd0e-4ed6-bb50-bca67d389987",
+        "cvs havalandirma sistemleri san. ve": "72a3743b-bd0e-4ed6-bb50-bca67d389987",
+        "cvs havalandirma sistemleri": "72a3743b-bd0e-4ed6-bb50-bca67d389987",
+        "dan voicu": "9f7b08ec-62d0-4fb2-aa0d-5ce8d1abf4fb",
+        "dan andrei voicu": "9f7b08ec-62d0-4fb2-aa0d-5ce8d1abf4fb",
+        "desjardins trust inc": "6ed79669-a0cc-4a20-9136-84fda3f246d8",
+        "desjardins trust inc., in trust": "6ed79669-a0cc-4a20-9136-84fda3f246d8",
+        "devecioglu metal madeni esya ve": "56998981-4749-42f2-9e2c-3eab896ae5a6",
+        "devecioglu metal madeni esya ve day": "56998981-4749-42f2-9e2c-3eab896ae5a6",
+        "dortdivan cerceve + macun san.": "6c15dbd3-4b0c-4b46-9ae8-b9e2a018c85b",
+        "dortdivan cerceve + macun san. tic.": "6c15dbd3-4b0c-4b46-9ae8-b9e2a018c85b",
+        "doru ioan iorgulescu": "96bf0d19-bf2a-417e-888e-719a5d8de990",
+        "iorgulescu doru ioan": "96bf0d19-bf2a-417e-888e-719a5d8de990",
+        "ege kimya sanayi ve ticaret a.s.": "fdd4f32f-cff8-46b4-bac5-23c931474fcc",
+        "ege kimya sanayi ve ticaret a.s": "fdd4f32f-cff8-46b4-bac5-23c931474fcc",
+        "ekom eczacibasi dis ticaret a.s": "ee8de0b5-25d5-46e9-a21c-1936b157a296",
+        "ekom eczacibasi dis ticaret a.s.": "ee8de0b5-25d5-46e9-a21c-1936b157a296",
+        "eksen bant izolasyon ve yapi": "7fa98fd1-32a9-4831-aad1-2e6bbc7b716a",
+        "eksen bant izolasyon ve yapi malz.": "7fa98fd1-32a9-4831-aad1-2e6bbc7b716a",
+        "emaks mobilya aksesuarlari": "0278b26b-1c4a-4c03-8e25-51445160f523",
+        "emaks mobilya aksesuarlari ith. ihr": "0278b26b-1c4a-4c03-8e25-51445160f523",
+        "emer group": "e7030c7b-948e-4794-997f-a61dbd236190",
+        "emer group srl": "e7030c7b-948e-4794-997f-a61dbd236190",
+        "enertech gmbh": "d8e30cd0-40cd-4a4f-9303-ac13553b6a92",
+        "ergino elektrik ve aydinlatma": "50b6f9c3-330d-4ecc-a721-6e27f5062467",
+        "ergino elektrik ve aydinlatma san": "50b6f9c3-330d-4ecc-a721-6e27f5062467",
+        "esko gayrimenkul ve madencilik": "28dfde63-fa26-44d2-952b-aa28a6d40f5b",
+        "esko gayrimrnkul ve madencilik": "28dfde63-fa26-44d2-952b-aa28a6d40f5b",
+        "evs eren vana sanayi ve ticaret": "37cb2fd3-1128-429e-95c1-998d44ae3835",
+        "evs eren vana sanayi ve ticaret ltd": "37cb2fd3-1128-429e-95c1-998d44ae3835",
+        "expeditors international": "183dce51-13c5-4f1a-aacb-1fdd9da262a7",
+        "expeditors international switzerland": "183dce51-13c5-4f1a-aacb-1fdd9da262a7",
+        "expeditors international switzerlan": "183dce51-13c5-4f1a-aacb-1fdd9da262a7",
+        "expeditors international e.i.": "183dce51-13c5-4f1a-aacb-1fdd9da262a7",
+        "factis s.a.": "fc588506-9461-4d8e-af3c-e28a8c39c371",
+        "factis s.a. s.p.a.": "fc588506-9461-4d8e-af3c-e28a8c39c371",
+        "faf vana sanayi ve ticaret a.s": "b7ce0df5-cee2-4609-a474-e0456baada73",
+        "faf vana sanayi ve ticaret a.s.": "b7ce0df5-cee2-4609-a474-e0456baada73",
+        "fenster yapi + cephe elemanlari": "caa84e3c-d65e-4973-94f5-94aa5edee436",
+        "fenster yapi elemanlari": "caa84e3c-d65e-4973-94f5-94aa5edee436",
+        "firat plastik kaucuk san. ve tic.": "32849c3c-95a3-47dd-9b45-f1be04744830",
+        "firat plastik,kaucuk san. ve tic.": "32849c3c-95a3-47dd-9b45-f1be04744830",
+        "firm transrail ukraine": "814c4f04-12fb-4e33-b621-82fec48a1630",
+        "transrail ukraine": "814c4f04-12fb-4e33-b621-82fec48a1630",
+        "fondazione novae terrae": "c08ca4d2-04ad-445b-987f-a849f29b94f9",
+        "novae terrae": "c08ca4d2-04ad-445b-987f-a849f29b94f9",
+        "fuyuan east trading co., limited": "4371bcaf-e296-4aed-b73e-5953f5ca4328",
+        "fuyuan east trading co.,limited": "4371bcaf-e296-4aed-b73e-5953f5ca4328",
+        "gedik dokum ve vana san.": "8fcd0ee8-85f4-4513-9c88-305230b148d1",
+        "gedik dokum ve vana sanayi a.s.": "8fcd0ee8-85f4-4513-9c88-305230b148d1",
+        "gedik dokum ve vana sanayi": "8fcd0ee8-85f4-4513-9c88-305230b148d1",
+        "gedik dokum ve vana san. a.s.": "8fcd0ee8-85f4-4513-9c88-305230b148d1",
+        "geistlich pharma": "46e93169-101a-4972-b957-146198a493c2",
+        "gentech (fze)": "814209d5-da2d-4339-9404-456a673c3ee3",
+        "gentech fze": "814209d5-da2d-4339-9404-456a673c3ee3",
+        "gs global corp": "6b70cb9e-37f2-43fc-a774-85602a5cedbe",
+        "gs global corp.": "6b70cb9e-37f2-43fc-a774-85602a5cedbe",
+        "gunkem gunduz kimyevi maddeler": "7dc96cd2-4e97-4bb5-a468-0e6aa6303873",
+        "gunkem gunguz kimyevi maddeler": "7dc96cd2-4e97-4bb5-a468-0e6aa6303873",
+        "hanse tradeing co limited": "daa4ffae-6cb4-4a90-960c-220744c2d377",
+        "hanse trading co limited": "daa4ffae-6cb4-4a90-960c-220744c2d377",
+        "hawo gmbh": "2eccb885-a854-4bdd-9488-56ccb7ac3b8c",
+        "hdm dis ticaret ltd sti": "9b0ba3a0-74d7-4c2e-83e2-b206fac7c6e0",
+        "hdm dis ticaret a.s.": "9b0ba3a0-74d7-4c2e-83e2-b206fac7c6e0",
+        "hektor invest limited": "099845b0-5e81-4270-8229-29e34fd1c76c",
+        "hewlett-packard europe b.v": "304970f9-e6c7-402e-bbca-6b7777e68d25",
+        "hewlett-packard europe bv": "304970f9-e6c7-402e-bbca-6b7777e68d25",
+        "hisense international (hk) co": "2d680e92-df23-40cf-a7a5-f9a4396846d6",
+        "hisense international (hk) co ltd": "2d680e92-df23-40cf-a7a5-f9a4396846d6",
+        "hongkong jafza sanitary ware": "fffee76e-8ced-4582-a32a-9ba5b55e0164",
+        "hongkong jafza sanitary ware indust": "fffee76e-8ced-4582-a32a-9ba5b55e0164",
+        "hua he trade co limited": "618691d6-5179-4e6e-8f6a-b156b3b4b25b",
+        "hua he trade co limited rm289 14/f": "618691d6-5179-4e6e-8f6a-b156b3b4b25b",
+        "huahe trade co limited": "618691d6-5179-4e6e-8f6a-b156b3b4b25b",
+        "huahe trade co limited rm28914/f go": "618691d6-5179-4e6e-8f6a-b156b3b4b25b",
+        "huahe trade co limited rm289 14/f g": "618691d6-5179-4e6e-8f6a-b156b3b4b25b",
+        "huseynli huseyn": "4f83e323-9af7-43ad-89cf-00dd4b401271",
+        "igbal gasanov": "1e7a1af9-ab1a-408d-93ad-3975f18a9642",
+        "il gioiello creazioni snc": "462a5de0-1cef-4be0-8f40-4a2e97f0f7c7",
+        "il gioiello creazioni srl": "462a5de0-1cef-4be0-8f40-4a2e97f0f7c7",
+        "imex motors l.l.c.": "e2e687b8-3828-4ef1-87f4-f46d327346c4",
+        "immergas europe s.r.o": "b6577622-39b7-4e31-a5ee-62a1f8656575",
+        "immergas europe s.r.o.": "b6577622-39b7-4e31-a5ee-62a1f8656575",
+        "impulse rm inc dba major parts": "ea45d107-5437-4fc9-b25d-ebe2da93d0b0",
+        "impulse rm inc": "ea45d107-5437-4fc9-b25d-ebe2da93d0b0",
+        "impulse rm inc dba major parts ny": "ea45d107-5437-4fc9-b25d-ebe2da93d0b0",
+        "interpipe ukraine": "06b8f0a4-5669-4573-ad5f-748833ffb36a",
+        "ooo interpayp ukraina": "06b8f0a4-5669-4573-ad5f-748833ffb36a",
+        "interpipe ukraine llc": "06b8f0a4-5669-4573-ad5f-748833ffb36a",
+        "inverness medical innovation": "754c67fc-de77-4824-91b5-8bd8e23e21e1",
+        "inverness medical innovations": "754c67fc-de77-4824-91b5-8bd8e23e21e1",
+        "isites isi ins.san.ve tic.ltd. sti": "5e34b8de-da49-4223-9d69-99459e7e7f72",
+        "isites isi ins.san.ve tic.ltd.sti": "5e34b8de-da49-4223-9d69-99459e7e7f72",
+        "jiangsu unbeatable radiator co.": "600b76fd-88c0-4185-9734-e940e27dca4f",
+        "jiangsu unbeatable radiator co., ltd": "600b76fd-88c0-4185-9734-e940e27dca4f",
+        "jiangsu unbeatable radiator co.,ltd": "600b76fd-88c0-4185-9734-e940e27dca4f",
+        "jiangyin zhongjiang prepainted": "533f5c48-9e9f-476a-bebd-5d82c97a558e",
+        "jiangyin zhongjiang prepainted steel": "533f5c48-9e9f-476a-bebd-5d82c97a558e",
+        "jiangyin zhongjiang prepainted stee": "533f5c48-9e9f-476a-bebd-5d82c97a558e",
+        "jx nippon oil and energy (rus) llc": "66f8abe5-4d4c-4817-a6ea-e5abb34c0ea3",
+        "jx nippon oil and enerjy (rus) llc": "66f8abe5-4d4c-4817-a6ea-e5abb34c0ea3",
+        "jx nippon oil and energy(rus)llc": "66f8abe5-4d4c-4817-a6ea-e5abb34c0ea3",
+        "kai yuan trading co limited rm289 1": "3574541d-c5f5-4d84-9a0c-dd893e77093b",
+        "kai yuan trading co ltd": "3574541d-c5f5-4d84-9a0c-dd893e77093b",
+        "kai yuan trading co limited": "3574541d-c5f5-4d84-9a0c-dd893e77093b",
+        "kaida shipping (hong kong) co.,": "91a4be0e-8f9f-4846-b7e8-40c0dd558b16",
+        "kaida shipping (hong kong) co., ltd": "91a4be0e-8f9f-4846-b7e8-40c0dd558b16",
+        "yuliya kazlouskaya": "b19e1b28-aea9-4948-9846-25953c213404",
+        "kazlouskaya yuliya": "b19e1b28-aea9-4948-9846-25953c213404",
+        "kunt madencilik": "0f9287f2-ceba-42f9-94f6-353fbaebd6a7",
+        "kunt madencilik san.tic.ltd.sti": "0f9287f2-ceba-42f9-94f6-353fbaebd6a7",
+        "lanbiao hongkong trading co.": "59231428-927c-42f1-bfb6-ff32e7acbf04",
+        "lanbiao hongkong trading co.,": "59231428-927c-42f1-bfb6-ff32e7acbf04",
+        "laplaine management limited": "dd4dc572-d40a-4914-9cfc-33d72dde231f",
+        "laplaine management limited akara b": "dd4dc572-d40a-4914-9cfc-33d72dde231f",
+        "lci tr kimya ith. ihr. ticaret": "678c6474-8bfb-46b3-acbf-b0eaea770438",
+        "lci tr kimya ith. ihr. ticaret limited": "678c6474-8bfb-46b3-acbf-b0eaea770438",
+        "lci tr kimya ith. ihr. ticaret limi": "678c6474-8bfb-46b3-acbf-b0eaea770438",
+        "loro piana": "ea91443e-1b10-4183-a57b-db5da6bdd678",
+        "loro piana s.p.a": "ea91443e-1b10-4183-a57b-db5da6bdd678",
+        "loro piana spa": "ea91443e-1b10-4183-a57b-db5da6bdd678",
+        "louis erard": "56749c23-ef4f-4ce9-9e19-9587a57b1cc7",
+        "louis erard sa": "56749c23-ef4f-4ce9-9e19-9587a57b1cc7",
+        "ltd geoferrometal": "de634831-7dea-44fe-9fef-e667f7ba9650",
+        "geoferrometal ltd": "de634831-7dea-44fe-9fef-e667f7ba9650",
+        "ltd. plastkom": "5e175c09-0f32-4fe7-a7f5-76be6d6241f4",
+        "luck shoes intl co., limited": "8fffd658-f976-4135-b552-f276c15f1423",
+        "luck shoes intl co., limited.": "8fffd658-f976-4135-b552-f276c15f1423",
+        "luxury goods international (lgi)sa": "bbfc1c98-db25-4cdb-91a2-6fade428456e",
+        "luxury goods international (lgi) s.a.": "bbfc1c98-db25-4cdb-91a2-6fade428456e",
+        "luxury goods international s.a": "bbfc1c98-db25-4cdb-91a2-6fade428456e",
+        "luxury goods international s.a.": "bbfc1c98-db25-4cdb-91a2-6fade428456e",
+        "major automotive group inc": "3fe10661-8da5-4912-880b-f3ed892d00d8",
+        "major automotive group inc.": "3fe10661-8da5-4912-880b-f3ed892d00d8",
+        "maksgrup plastik saglik": "f7fd8973-536c-4a54-bb33-5f01212cbf91",
+        "maksgrup plastik saglik gerecleri": "f7fd8973-536c-4a54-bb33-5f01212cbf91",
+        "rasim mammadov": "b3109d05-3357-4dd6-a058-c32e120a2454",
+        "mammadov rasim": "b3109d05-3357-4dd6-a058-c32e120a2454",
+        "mega danismanlik temsilcilik": "c4612243-f9f4-44d1-b7d4-8f6985a9bcf2",
+        "mega danismanlik temsilcilik dis": "c4612243-f9f4-44d1-b7d4-8f6985a9bcf2",
+        "ms. h.trevor": "5cea33fb-4a94-45bb-9426-77d0974fa8a3",
+        "ms. h. trevor": "5cea33fb-4a94-45bb-9426-77d0974fa8a3",
+        "multiplan yalitim sistemleri san.": "04c67a7b-7ab1-429e-877a-25bdce37c843",
+        "multiplan yalitim sis. tic. a.s.": "04c67a7b-7ab1-429e-877a-25bdce37c843",
+        "naghi nagiev": "26fb6c1c-82b7-4e5e-82ff-7fcc197a2076",
+        "nagiev naghi": "26fb6c1c-82b7-4e5e-82ff-7fcc197a2076",
+        "naztur seyahat ticarat turizm ltd": "1c08ab69-e36b-4fee-b660-9e94ba2a1e40",
+        "naztur seyahat ticaret turizm ltd": "1c08ab69-e36b-4fee-b660-9e94ba2a1e40",
+        "newmatic international fzco": "b84a934f-bf61-43be-98fa-eb4d9cf085ff",
+        "nota isi ve yapi sistemleri san.tic": "39d17e11-1546-4926-9970-2a5d7bdb13bd",
+        "nota isi ve yapi sistemleri sanayi tic": "39d17e11-1546-4926-9970-2a5d7bdb13bd",
+        "nota isi ve yapi sistemleri sanayi": "39d17e11-1546-4926-9970-2a5d7bdb13bd",
+        "nova verta international s.p.a.": "5d00d69d-20b1-4eab-bc03-94c5b27cb5fe",
+        "nova verta international s.p.a": "5d00d69d-20b1-4eab-bc03-94c5b27cb5fe",
+        "nova verta international spa": "5d00d69d-20b1-4eab-bc03-94c5b27cb5fe",
+        "pajunk gmbh medizintechnologie.": "f5654353-cd6f-45d7-b621-c6b3fe609760",
+        "pajunk gmbh": "f5654353-cd6f-45d7-b621-c6b3fe609760",
+        "park tasarim peyzaj": "771e826c-0b3d-46b2-9d82-be42aa62aabc",
+        "park tasarim peyzaj enerji madencil": "771e826c-0b3d-46b2-9d82-be42aa62aabc",
+        "pary international": "24b8b808-ef72-436f-8561-af37f2ea39c2",
+        "pary international inc.": "24b8b808-ef72-436f-8561-af37f2ea39c2",
+        "pilsan dis ticaret ldt.sti.": "8c5f2ea6-2861-4e1b-a8d4-9c32c319efaf",
+        "pilsan dis ticaret ltd. sti.": "8c5f2ea6-2861-4e1b-a8d4-9c32c319efaf",
+        "pilsan dis ticaret ltd.sti.": "8c5f2ea6-2861-4e1b-a8d4-9c32c319efaf",
+        "pingchuan trade co., limited add:rm": "903e9d98-0926-4879-bd18-4d1e6b30ca8b",
+        "pingchuan trade co., limited": "903e9d98-0926-4879-bd18-4d1e6b30ca8b",
+        "pingchuan trade co limited add:rm": "903e9d98-0926-4879-bd18-4d1e6b30ca8b",
+        "pingheng trade co limited rm289 14/": "903e9d98-0926-4879-bd18-4d1e6b30ca8b",
+        "pjsc arcelormittal kryvyi rih": "2156cb93-8af7-4a9f-8cbe-9029e105a82d",
+        "ojsc arcelormittal kryviy rih": "2156cb93-8af7-4a9f-8cbe-9029e105a82d",
+        "pjsc arcelormittal kryviy rih": "2156cb93-8af7-4a9f-8cbe-9029e105a82d",
+        "pjsc arcelormittal kryvyi rih,": "2156cb93-8af7-4a9f-8cbe-9029e105a82d",
+        "polisportiva dilettantistica": "678bff5d-f59a-44a5-877b-d060051dcd1d",
+        "polisportiva dilettantistica lentig": "678bff5d-f59a-44a5-877b-d060051dcd1d",
+        "prjsc pentopak": "f5f952ea-54f9-44f1-b150-524115fc94f6",
+        "ps kfz vertried gmbh": "0d225af0-649b-4e91-9521-e2bd7689d7b4",
+        "ps kfz-vertrieb gmbh": "0d225af0-649b-4e91-9521-e2bd7689d7b4",
+        "regal fur and fashion co.,ltd": "4961ec59-cd6c-44ec-acd4-83b302cf7f31",
+        "regal fur and fashion co., ltd.": "4961ec59-cd6c-44ec-acd4-83b302cf7f31",
+        "robello (shanghai) thermal": "ac2fcfbd-d022-49a2-8df7-bfa5e0203dc2",
+        "robello (shanghai) thermal technology": "ac2fcfbd-d022-49a2-8df7-bfa5e0203dc2",
+        "robello (shanghai) thermal technolo": "ac2fcfbd-d022-49a2-8df7-bfa5e0203dc2",
+        "roman rawinski": "d4297482-4bf3-4da8-8dcc-17d6e37f8f0b",
+        "saba cars germany gmbh": "06ed0094-01e7-43e6-b569-229d01deaeb9",
+        "sandro bruschi": "b7f06997-72fb-4090-a2a0-eaac123f1368",
+        "vivai sandro bruschi": "b7f06997-72fb-4090-a2a0-eaac123f1368",
+        "sas ateliers modeles baby dior": "1fa21318-d061-430a-8617-fbda5580588f",
+        "sas ateliers modeles": "1fa21318-d061-430a-8617-fbda5580588f",
+        "ateliers modeles": "1fa21318-d061-430a-8617-fbda5580588f",
+        "baby dior - sas ateliers modeles": "1fa21318-d061-430a-8617-fbda5580588f",
+        "saygin hidrofor ve pompa sis.san.": "e75841f6-6bde-4887-aefb-7550474da708",
+        "saygin hidrofor ve pompa sis. san.": "e75841f6-6bde-4887-aefb-7550474da708",
+        "saygin hidrofor ve pompa sistemleri": "e75841f6-6bde-4887-aefb-7550474da708",
+        "sel dis ticaret ve kimya san as.": "06143885-855e-4ed4-837c-2bb84e5b2f85",
+        "sel. dis ticaret ve kimya sanayi a.s": "06143885-855e-4ed4-837c-2bb84e5b2f85",
+        "sel dis ticaret ve kimya sanayi": "06143885-855e-4ed4-837c-2bb84e5b2f85",
+        "sel.dis ticaret ve kimya sanayi a.s": "06143885-855e-4ed4-837c-2bb84e5b2f85",
+        "seranit granit seramik sanayi": "be6d83f6-dc7e-4b4a-a1c1-ab99dbb93155",
+        "seranit granit seramik sanayi ve": "be6d83f6-dc7e-4b4a-a1c1-ab99dbb93155",
+        "sgs liberia inc": "215b2605-b382-4483-a662-92786bfb72ea",
+        "shandong longcheng exporting co.,": "c33fc5b2-28b8-49d1-872a-975cf96bf956",
+        "shandong longcheng exporting co., ltd": "c33fc5b2-28b8-49d1-872a-975cf96bf956",
+        "shandong longcheng exporting co.ltd": "c33fc5b2-28b8-49d1-872a-975cf96bf956",
+        "shandong zhongkai machinery": "287683d0-9e6f-4ae9-a206-fe70f2a621b8",
+        "shandong zhongkai machinery +": "287683d0-9e6f-4ae9-a206-fe70f2a621b8",
+        "shandong zhongkai machinery &": "287683d0-9e6f-4ae9-a206-fe70f2a621b8",
+        "shaoxing county huazhuo textile co.": "ef8c3dbc-0669-4f3a-b71c-f977bf25b15d",
+        "shaoxing huazhuo textile co.,": "ef8c3dbc-0669-4f3a-b71c-f977bf25b15d",
+        "shunde light industrial products": "975bf47a-3666-40e1-80ae-bd7186c2edbf",
+        "shunde light industrial products im": "975bf47a-3666-40e1-80ae-bd7186c2edbf",
+        "siscon medical gmbh": "55261046-7f84-4737-ab51-d2550807f516",
+        "societa italia s.r.l": "73bda704-afe0-41f0-91a8-1d2ba3526873",
+        "societa italia srl": "73bda704-afe0-41f0-91a8-1d2ba3526873",
+        "sogut plastik ve kalip sanayi": "536a7ff9-395a-4a22-9fcc-e25b580719f8",
+        "sogut plastik ve kalip sanayi ve": "536a7ff9-395a-4a22-9fcc-e25b580719f8",
+        "soytas dis ticaret ltd": "0b0e9e17-73d3-48fb-9e20-dce163970d7c",
+        "soytas dis ticaret ltd sti": "0b0e9e17-73d3-48fb-9e20-dce163970d7c",
+        "sparkling oil star": "29b6ddb5-37a9-4656-8da4-da66598c8f14",
+        "sparkling oil star ltd.": "29b6ddb5-37a9-4656-8da4-da66598c8f14",
+        "sparkling oil star ltd": "29b6ddb5-37a9-4656-8da4-da66598c8f14",
+        "sparkling oil star ltd. g11": "29b6ddb5-37a9-4656-8da4-da66598c8f14",
+        "standart izolasyon ve yapi": "dc53b92d-38ac-45d4-ba2e-443be8276196",
+        "standart izolasyon ve yapi mater": "dc53b92d-38ac-45d4-ba2e-443be8276196",
+        "starpool s.r.l.": "29b93e39-71af-422a-8f94-88f7e349ba47",
+        "starpool srl": "29b93e39-71af-422a-8f94-88f7e349ba47",
+        "starwood orman urunleri sanayi": "9cb2e254-941b-4ad1-9779-0a60325d264c",
+        "starwood orman urunleri sanayi a.s": "9cb2e254-941b-4ad1-9779-0a60325d264c",
+        "still hair accessory co limited": "3b087be8-e909-4e84-88aa-ce4f7bfc70de",
+        "still haira accessory co limited": "3b087be8-e909-4e84-88aa-ce4f7bfc70de",
+        "still hair accessory co limtied": "3b087be8-e909-4e84-88aa-ce4f7bfc70de",
+        "still hair accessory co.,ltd ail": "3b087be8-e909-4e84-88aa-ce4f7bfc70de",
+        "still hair accessory co., limited": "3b087be8-e909-4e84-88aa-ce4f7bfc70de",
+        "sulzer pompa cozumleri ltd.sti": "577719f4-4cfd-4aed-93d2-b89b3c6d91a8",
+        "sulzer pompa cozumleri ltd.sti.": "577719f4-4cfd-4aed-93d2-b89b3c6d91a8",
+        "tamsa fayans seramik uretim dag.san": "ba13e81c-16b2-4400-8a57-4ddc8e1e9cb9",
+        "tamsa fayans seramik uretim dagitim san": "ba13e81c-16b2-4400-8a57-4ddc8e1e9cb9",
+        "tamsa fayans seramik uretim dagitim": "ba13e81c-16b2-4400-8a57-4ddc8e1e9cb9",
+        "taras and k": "d9650873-d846-446e-b4b8-0292cd9147c8",
+        "taras and k krasodarskiy edge g": "d9650873-d846-446e-b4b8-0292cd9147c8",
+        "tasa otomotiv petrol nakliyat": "bb832a06-0e75-4ce4-9b80-50f072d68847",
+        "tasa otomotiv petrol nakliyat gida": "bb832a06-0e75-4ce4-9b80-50f072d68847",
+        "temser celik imalat,isi,makina": "51f75cab-46bd-4389-8961-76f0ed77f101",
+        "temser celik imalat, isi, makina": "51f75cab-46bd-4389-8961-76f0ed77f101",
+        "temser celik imalat,isi,makina san.": "51f75cab-46bd-4389-8961-76f0ed77f101",
+        "the jiang yiwu ying rui freight": "75b3c787-7042-424e-8b0c-b2a10fcf1cee",
+        "zhejiang yiwu ying rui freight forwarding": "75b3c787-7042-424e-8b0c-b2a10fcf1cee",
+        "zhe jiang yiwu ying rui freight": "75b3c787-7042-424e-8b0c-b2a10fcf1cee",
+        "thierry mugler": "0d3ed7e7-ff30-4be5-aab0-11802775a022",
+        "thierry mugler sas": "0d3ed7e7-ff30-4be5-aab0-11802775a022",
+        "thomas grabbe": "1b57554d-3c20-4f02-aa37-3d0a3e6db138",
+        "tolworth trade investments s.a": "a58518b4-a582-4091-ad49-55139399a32e",
+        "tolworth trade investments s.a.": "a58518b4-a582-4091-ad49-55139399a32e",
+        "trade house tmk": "266a0899-598a-4993-9bc2-dbdb946eed9e",
+        "cjsc trade house tmk": "266a0899-598a-4993-9bc2-dbdb946eed9e",
+        "tursan seramik san ve tic ltd sti": "18e04fb6-e527-4d26-b2e2-736d9dca512d",
+        "tursan seramik san ve tic ltd stl": "18e04fb6-e527-4d26-b2e2-736d9dca512d",
+        "tuv austria bbs belgelendirme": "30039167-cdaf-483f-b7aa-addd98adf1ae",
+        "tuv austria turk belgelendirme": "30039167-cdaf-483f-b7aa-addd98adf1ae",
+        "velasco international inc.": "9fbd312a-6f69-4ac8-8afc-ca626b5e808f",
+        "veli akgun insaat seramik": "43bc7324-0d61-405b-ba04-d62a72053a2c",
+        "veli akgun seramik": "43bc7324-0d61-405b-ba04-d62a72053a2c",
+        "velutsan troster systeme und": "7a5b3ac3-61e7-4a22-8c75-2bf0def2b9ab",
+        "velutsan troster systeme und kom": "7a5b3ac3-61e7-4a22-8c75-2bf0def2b9ab",
+        "vesna metal ve profil san. dis tic.": "d4635fda-345e-4d11-9021-2a6e11a6fc42",
+        "vesna metal ve profil san.dis tic.": "d4635fda-345e-4d11-9021-2a6e11a6fc42",
+        "vestel ticaret a.s.": "3db889a5-3192-4195-81f7-27624781ba4b",
+        "vestel dis ticaret a.s.": "3db889a5-3192-4195-81f7-27624781ba4b",
+        "vostok media echange ltd": "d054af3c-f72a-4dba-9f80-9f2b7f935537",
+        "vostok media exchange ltd": "d054af3c-f72a-4dba-9f80-9f2b7f935537",
+        "wenling fuxin furniture": "92125a9a-3b39-4959-b976-733feff08225",
+        "wenling fuxin furniture co., ltd": "92125a9a-3b39-4959-b976-733feff08225",
+        "wenling fuxin furniture co.,ltd": "92125a9a-3b39-4959-b976-733feff08225",
+        "wolf gmbh": "38976034-bfd3-4d96-83df-61e49f51d352",
+        "yakamoz general trading llc": "5c5901da-7a8f-4469-87df-93ee49a9f3c7",
+        "yokamoz general trading llc": "5c5901da-7a8f-4469-87df-93ee49a9f3c7",
+        "yiwu holding import and": "b5f6f978-fce8-4d54-a189-74535e649828",
+        "yiwu holding import and export": "b5f6f978-fce8-4d54-a189-74535e649828",
+        "yiwu hengda import and export": "b5f6f978-fce8-4d54-a189-74535e649828",
+        "yiwu leichuan import and export": "b5f6f978-fce8-4d54-a189-74535e649828",
+        "zewi berlin handels gmbh": "e4135f35-58bd-4c8b-87b1-a689e18aa5f4",
+        "zewi juwelen handels gmbh": "e4135f35-58bd-4c8b-87b1-a689e18aa5f4",
+        "zhejiang mengrun knitting": "551b9ed1-912c-4721-9a09-4fb919c983da",
+        "zhejiang mengrun knitting co., ltd": "551b9ed1-912c-4721-9a09-4fb919c983da",
+        "zhejiang mengrun knitting co.,ltd": "551b9ed1-912c-4721-9a09-4fb919c983da",
+        "zhuhai star win pipe co.,ltd": "fc7a1f92-e638-4f59-b826-fe1907fd6ea6",
+        "zhuhai starwin pipe co., ltd": "fc7a1f92-e638-4f59-b826-fe1907fd6ea6",
+        "zhuhai starwin pipe co.,ltd": "fc7a1f92-e638-4f59-b826-fe1907fd6ea6",
+        "ziwu trading co limited": "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147",
+        "zi wu trading co limited rm289 14/f": "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147",
+        "zi wu trading co limited rm289 b14/": "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147",
+        "zi yi trading co limited rm289 14/f": "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147",
+        "ziwu trading co limited no285 lo": "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147",
+        "ziwu trading co limited rm289 14/f": "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147",
+        "ziyi trading co limited": "02a9c2d8-f1fd-43e5-858d-7d7ebdc83147",
+        "zumbotel lighting gmbh": "e19631ea-17f9-4c84-a204-b0327439d68e",
+        "zumtobel lighting gmbh": "e19631ea-17f9-4c84-a204-b0327439d68e",
+        "caboose": "5ce93dd7-b951-4685-a165-0dedd48e8f0e",
+        "inmaxo capital corp.": "aeef03b7-66de-48e9-9442-670536e94ee4",
+        "univar kimya sanayi ve dis tic ltd.": "1e366d97-f5a1-40d2-a853-ae35f55b02b1",
+        "mertik maxitrol gmbh & co.kg": "40d5550b-9112-42c6-963e-57e96de4f50b",
+        "christel heilmann gmbh & co.kg": "5a8e39d5-c797-4c9d-8629-6a71c0324f70",
+        "immergas s.p.a.": "ea51a0fc-bac7-4f8a-ac9d-270127f68f2f",
+        "emma s.r.l": "2c5aee25-3c57-4b3b-b7a0-669fd559cd2a",
+        "konuray kimya sanayi ve ticaret ltd": "20b2eb4d-19e5-4a4c-a767-0b61f9474279",
+        "inka ambalaj sanayi ve insaat. ltd. sti.": "e5d04fe8-322a-4404-947c-97fe0641cf7f",
+        "nigar alakbarova": "5860a091-4a27-4b13-9ce2-22f74a10b992",
+        "teknos sp. z.o.o.": "8d15feae-61ac-4551-a2b8-4a42dd002a6d",
+        "yongkang sanghe radiator co., ltd": "8738c0c6-faea-4881-8422-1be8baee6d97",
+        "safar a safarov": "31e6ed81-7143-4bbd-8543-7f8cd165cee7",
+        "belinka perkemija, d.o.o.": "4a86c451-f411-4dbb-ab8d-fb8a6701f470",
+        "ever champion trading limited": "a70610fa-e0ef-47b6-acd8-ec14a5430dfd",
+        "hk bosfa ind battery int co., ltd": "3f961af9-69a5-40eb-9cc0-e73079df697e",
+        "kpx fine chemical co., ltd": "262d1190-67a7-4b3a-a4a1-f9c724e81118",
+        "inn5905281886": "328da066-299c-4866-9318-aecf6789ad1f",
+        "g.d.g. ltd.": "1876b96d-c086-4f65-88e6-119b5993a1f2",
+        "kai cheng trading co., limited": "f3c040e2-1602-42b4-8ad9-7bb33b1cb8ae",
+        "ooo metinvest-ukraine": "6a44ba04-7a5b-4515-8fe5-31a126e5e0bf",
+        "titantubing hydraulics co., limited": "74033b64-1938-48cd-ad56-f695dd980c4c",
+        "cheng zhang trading co., ltd": "159e4736-3158-4a55-88ad-baa69794e18f",
+        "wenling huanli electric co., ltd": "c84523ea-7d8c-4179-9fc5-dbfe239c777b",
+        "burhanatin ucar": "4d64168f-04e7-446b-91af-2e0991d1499a",
+        "giller group, s.a": "77f83b21-2a5a-43cf-ba16-3cbd431f154c",
+        "martina bornschein": "d7335a17-36b3-41e1-ab88-caaaeae07409",
+        "sadiyar zeynalov": "304fac68-2bf4-4f16-9634-e3af1d5d41f5",
+        "rizhao huge dental indestry co., ltd": "7d90cf91-784a-49c9-8464-a785a4f137df",
+        "ffdm pneumat thomas dental": "1cc19283-4d2d-4a54-9d8b-97adcd881853",
+        "desunho industrial co., limited": "6b2ecfd6-75ea-44e9-b8cd-9f03247d6fdf",
+        "zhu ge wu ying co., ltd": "246f5185-9940-4990-8744-0193af6461d8",
+        "deqing tongchem co., ltd": "00bc69e0-0da5-4124-b1ca-a94a0ac24824",
+        "renaissance associates s.a.": "b345a56d-0d13-409d-aa96-09bf4aea48fc",
+        "hong kong perfect jewellery co., ltd": "93f04726-1908-4873-b3e6-91904efff190",
+        "feng shuang trading co., ltd": "298d3dad-866e-4668-a1c3-7d3809224462",
+        "wonderland s.r.l.": "3ea1d239-9dc0-425a-8290-83c6a6bed465",
+        "hk ocean xin trading co., limited": "e1ddccb8-8e58-47f6-a441-ec28744c0d58",
+        "jsc arcelormittal temirtau": "3b59d452-fc63-4668-ad22-3a1b32898eab",
+        "vita polymers poland sp. z.o.o": "334ce52d-1798-43f3-a6d0-f45c35acd323",
+        "ying-hai(hong kong)co., ltd": "1f882247-54f2-4006-b207-9e28fe5b2bf4",
+        "vestel cis ltd": "b8870062-c075-432f-9c81-dc293a7c3849",
+        "auto saxe nl der weller gmbh & co.kg": "0d5e08e7-1de1-4465-9a26-088e726aadbf",
+        "spazio italia srl": "c5344534-d6fc-49f5-9cbb-0e18d48a9c78",
+        "commexi fze": "90c62d46-4fc0-4fee-99f9-b407d286aa6f",
+        "aisg, inc.": "aff3e4f7-e49c-4add-b2f0-0b99e998544c",
+        "tomasini francia s.r.l.": "f80d6b78-eb1b-4472-bf56-9ccf188a90f8",
+        "qingdao develop multi, inc": "f01eb27d-1141-41e0-bc50-b6c8d352eba7",
+        "manhattan language training, inc.": "ee0af7b4-b70b-4032-87fc-4d6c429a5866",
+        "aat holding sp. z.o.o.": "1e1f6258-e484-4f28-8597-4c36ea0fa4bc",
+        "vatan plastik san. ve tic. a.s.": "0af25245-9995-4d72-9792-9aa4a8fbad9b",
+        "jsc magnitogorsk iron and steel / oao mmk": "d0761778-1e4d-40c6-bde2-873c13e63613",
+        "zhuji fengfan piping co., ltd": "c1076cb2-797f-4fe1-bd25-3ab613cb67ad",
+        "manufacturin company tesey, limited": "9008ada4-ebfb-45a3-ac37-cd63837abd52",
+        "china everlasting parts co., limited": "e1ffeade-2ce7-40bc-8b26-f39bbd01b720",
+        "globecom trade l.p.": "502ab8a7-da6b-45d2-b1c7-767dee48eb9c",
+        "ooo kompaniya torgtransservis": "570ef9ad-e447-4638-95b0-152fc3a33e14",
+        "york wallcoverings inc": "8743b3be-6f6f-4a8e-9a03-232942ca2881",
+        "yontar kalip makina ve ins. san. tic.": "0e2e0b4c-e7f9-46a8-a639-4cb5d00047f0",
+        "a.s.d. lentigione calcio": "8ceadc0c-6ee3-478f-bf9e-521d4c680e48",
+        "fakro sp z.o.o.": "082dc486-5ddb-406a-bf93-fb4759e8f679",
+        "p.v.z. s.r.l.": "8b8a97f4-90c0-4ab1-b957-639b0011f181",
+        "galion systems corp": "d8052b26-7454-4bd4-a2a4-c6faea1e0884",
+        "market union co., ltd.": "9c1ea9ff-d379-4ec9-b8b5-80bd007f9850",
+        "qindao taifa group imp. + exp. co.,": "f7545d7d-0dd7-4987-9c29-ea03b6340c2f",
+        "advantech co., ltd": "9c13ee61-238b-4a88-896a-7a88867e5f27",
+        "baardse bv": "bc596f84-90c6-4167-9b47-d6157f8af159",
+        "powerbucks global co., limited": "43be0747-3182-42cc-a3e1-9e16ce90dde5",
+        "tekser akaryakıt i̇stasyonları org. san. ve tic. a.ş.": "47c339a7-8363-45db-b4d5-ccf6ee4d00ff",
+        "ozer plastik gida san. ve dis tic.": "2aaaecf9-6ad3-4db1-afd9-434c7d4151d8",
+        "daeheung ind. co., ltd": "e18405ec-b1a8-40c1-bb54-499f608ac510",
+        "server boya, matbaa murekkepleri ve": "2a0446d6-1ace-4a71-984d-9e4dec55bb28",
+        "f.i.r. fabbrica italiana radiatori s.r.l.": "73955276-d87f-4de8-b792-1128495c0c28",
+        "sung kwang bend co., ltd": "d52fc4f4-bd0d-4e67-bb91-84b6dc50c6aa",
+        "petals lastik san. ve tic. a.s.": "6ca1d44c-ae8f-42b6-bb0f-39e7b387456f",
+        "tirh technology co., ltd": "9f04f3dc-a855-4fd8-bf79-93e16a490fa3",
+        "shenzhen panels electronics co., ltd": "d2523d78-cd56-43c9-9392-35faaad2bd65",
+        "spident co., ltd": "b938875d-1bd3-4842-8643-d3b5299c1a46",
+        "regulus system s.j.": "cdd1c75b-5e1a-4b2c-a1db-0bdf3d34186c",
+        "lucky home appliance co ., ltd": "ed28eafe-5603-4510-86e6-4ab8186b3065",
+        "taizhou oue furniture co., ltd": "912b2f62-2fe4-4ab1-bb2e-545f7a9e4076",
+        "tianjin elecmotor co., ltd": "1e8ff0ab-2e6e-4961-bb53-46747b4fdf5f",
+        "pjsk slavyanskie walpaper kftp": "aa21cb8f-483b-4060-847d-9c1fa6b29a19",
+        "united chloro paraffins pvt.ltd": "15a1454c-ee92-4853-9e08-3abfe79ddec6",
+        "grohe ag": "473610ec-d8db-464a-bdc0-9bf198b40df1",
+        "cp s.n.c. di pomi claudio and c": "e0d6086c-1a6e-45a6-ad10-ffcda52fe524",
+        "bo.consulting romana bohinc s.p.": "6231ae4e-8578-4952-9e94-8078e910693f",
+        "hfs intl. limited": "f978e392-da89-49e0-a39d-6a6f7dbf1f1b",
+        "zhejiang zhuxin machinery co., ltd": "ea04f5b4-4ec0-4f0f-b4c5-d4f768e9a9f4",
+        "jiangsu a.p steel co., limited": "41a254b5-08e2-4778-8450-a885935fd5bf",
+        "maxdura international co., ltd": "c7c2c555-fc44-4e38-a481-a73f06a8732f",
+        "n.r.g. research and advising fze": "d3f771c3-e59d-40c0-9b3f-2dd9e0eb9a39",
+        "gsc l.t.d.": "17fee13f-d380-4271-b3c6-02b2f3f458aa",
+        "shanghai yipin pigments co., ltd": "8a58d660-4452-4f8b-8660-469f55a9d9c4",
+        "rishang optoelectronics co., ltd": "3bdb87c8-5a41-44d8-b00c-93dac6b02773",
+        "qidi electric group co., ltd": "839718bc-7e6e-46df-93e5-683151b790e6",
+        "qin yi trading co., limited": "7bd0345f-ac52-4321-a2ca-02d0616cfbac",
+        "reck technik gmbh & co., kg": "77109cbf-2b64-40c3-828f-e38af3d325fd",
+        "galfan technology centre, inc.": "0c011a80-11d2-4a0b-b8f6-d1f25e1a6793",
+        "wenzhou honkin industrial co., ltd": "6e84ea47-c569-492c-80fc-e5bab2a820af",
+        "zhejiang noble furniture co., ltd": "9e8b589b-80e7-4afb-8a93-f0f1faf33350",
+        "taizhou zengshi furniture co., ltd": "0b88c468-b480-4265-b005-2441e2e40c15",
+        "vorobyev alexander": "963c2f19-009b-4c42-a251-13a18f9998c2",
+        "lorenzo ungari s.r.l.": "7912eae0-7fbb-41a2-aa71-6878851100d1",
+        "nemesi s.r.l.": "9decbeac-1e56-46ce-9272-1b40fffe7d50",
+        "ferro technologies, inc": "6973a088-9d6f-4f28-8081-04dfe7718584",
+        "koleksiyon mobilya san. a.s.": "63672ecd-357d-489b-a7ab-24fb88003f90",
+        "zhejiang berkam garment co.ltd": "2307ab47-7a24-4a80-bad2-14f1bad43f66",
+        "aux electric (hong kong) company, ltd": "63ad1784-9050-4edd-a378-1ecfa685d5dc",
+        "apex dynamics., inc.": "778b00c1-7fe5-41a2-88e2-78435c913f61",
+        "damiani international bv": "f61558be-8094-40c0-ba76-8caccd164bfb",
+        "genco industrial group co., limited": "c82f2779-c903-44ed-906c-c3258b1c391e",
+        "p.p.h. cerkamed": "e82a0554-283b-4262-ab96-a20670590879",
+        "hamza karimov": "3c3bd90e-65d9-4c38-97df-fda62897c1af",
+        "tianbo trade co., limited": "5e49b7b5-7ea4-4d01-9e78-11d3f6a2f39c",
+        "richmar logistic and chartering": "510e37fd-384c-4274-a622-0bc352d16981",
+        "shaoxing cshbelt co, ltd": "856e89c5-6aa3-4257-9ed1-ec72564f1cec",
+        "bir asansor san. tic. ltd. sti.": "a0ce437c-f960-480a-bc18-6a286d2de1f4",
+        "datacom systems, s.r.o.": "46996c09-192d-4af9-a5af-913fa9e20581",
+        "hebei dongxing plastic co., ltd": "8785b5a2-6c1f-4304-a184-e37c1b886a00",
+        "reflex gornja radgona d.o.o.": "1b2f8ad8-67d2-4889-9587-84a8994f503b",
+        "pinghu aoxin sanitary ware co., ltd": "e9d59de1-a35b-4996-b4f1-cf0b5a6d9e40",
+        "industrias mecanicas lago s.a.u.": "dcdd0fb6-08be-40f9-9fd8-486c57ec720d",
+        "blu oro s.n.c": "ef793b76-df62-43fd-bb55-b781a948e2e6",
+        "maria de toni s.r.l": "dc0bd4ef-322c-4c89-bacd-8cb9300555a6",
+        "yuhuan fuyuan furniture co., ltd": "12b6b0d0-bb98-42ce-b7a2-c0d736511a33",
+        "eksport tampl mmc": "6af300e1-77ba-44c8-8fe2-ff09c6e9483b",
+        "dab pumps s.p.a.": "42a1c8ad-e9c3-4213-937c-9e11043b8d07",
+        "selmodels, s.l.": "f0ce3905-5dc5-4555-b5ea-433abbe9ab2b",
+        "tg - autohandelsgesellschaf t mbh": "87ce901e-5f58-4c35-8087-650962adf2c6",
+        "xihai pan industry co., ltd": "a17ff2e0-3c5a-4ca2-9d1c-0af15636d544",
+        "behruz vatandost": "b4f8c3c2-ee23-48a9-a6d1-56001c60fe34",
+        "nikkyo co., ltd": "f7932871-ab95-4ae8-a8c2-2264c872f2bb",
+        "ozsoy organik temizlik urn.paz. (push clean towelettes)": "b535db90-ff58-458d-bffc-27051abb355f",
+        "schneider elektrik san ve tic as": "3ab584ee-5532-407a-83ed-4ba1f2fcc479",
+        "sa.mi plastic s.p.a.": "baf1e21b-db85-46b6-8e21-60736cae8685",
+        "wayup group co., ltd": "d6afd481-b28b-4a4a-8983-576333905266",
+        "intco international(hk) co., limited": "a8f17fe5-c45a-4aee-9f8a-bf3405b772cb",
+        "chartholm sales inc.": "ea7da700-4e0f-4dd8-8e75-252702e085e2",
+        "yuyao haosheng imp.and exp.co., ltd": "36198a4c-a6cb-42fb-b545-9b43f834566a",
+        "suzhou innovac electric co., ltd": "0021af6d-58bf-4db4-8b33-ddaf1ab8ea97",
+        "micro-nx co., ltd.": "dbdc8d34-7b48-4da2-960b-0ed46e51eb72",
+        "zhejiang tianyuan furniture co., ltd": "0edc77b5-0ac9-4365-96b4-85af94833a13",
+        "zhejiang huanli electric co., ltd": "8f4967c4-3e59-455f-b7bf-de32f0a21313",
+        "eurocond dis. tic. ltd. sti": "3e80b8a2-6f01-4621-acfa-e6a9a6ebbad5",
+        "a.s.t. diamonds ltd": "880156e0-db2e-43bf-bd7b-95546bae8ec3",
+        "shenzhen shengtaili trading co., ltd": "faf22d67-0138-4d0d-915e-3d4cd8dfebc2",
+        "prousek-exklusive lighting, s.r.o.": "971b52a0-cd62-42b0-89fc-68b03cbe682d",
+        "zhejiang guozhen furniture co., ltd": "fe7f66eb-4273-43af-8c64-c0ebfc1c0f3d",
+        "cetinkaya pano a.s.": "8238be10-fa2c-4c4b-a733-d3e37fd3f289",
+        "hao ming chun co., ltd": "746d3c30-972f-4243-bf9a-171a83f22543",
+        "cpi, c.p intertrade co.ltd": "f2714cdc-484b-4936-b81e-bc2e8a95958f",
+        "wenzhou lofull imp. & exp. co., ltd.": "df93aa22-4cc7-4ae8-9390-517761302b83",
+        "hongshengxing trading co., limited": "198e3a4d-389f-4e52-b0da-c7e57740dcbc",
+        "dere co., limited": "87f66f4b-f9e2-41a4-a9f4-108d504c4ab0",
+        "newtech brush co., ltd": "ab3ffa5a-7736-451c-a982-175cf5a7fc27",
+        "guo yanxia co., ltd": "b7d4f83c-5085-4c08-bc07-7f61b8b12197",
+        "hongkong yixia ng imports and exports": "9e896593-701a-4c55-9cb3-e844b19c7ddf",
+        "china tobacco shanghai i/e co., ltd": "4b32f208-b612-4a9a-960a-b9113a05324f",
+        "morakis christos": "7359a5f9-bb83-44ca-b37e-02787ddbeeb1",
+        "yiwu hongcheng trading co., ltd": "fe442350-6b77-4a25-a808-45e8d8eac79f",
+        "mamedovs company ltd": "11314f9e-b6bc-4e27-b654-beb5f347d6e4",
+        "sunbangindustrial co., limited": "1c8f668b-3ff0-4dde-b5db-c786b4e5c85c",
+        "mobel kimya sanayi ve ticaret ltd.": "c0c491a4-b2bb-41d5-8df6-9174dc2d364c",
+        "yiwu yapeng cloths making co., ltd": "ccbb5ea2-44b4-423c-a344-07cb11395efc",
+        "alakbarova gunel": "f02b8cc0-99ba-4b27-9547-b2ee5b665b87",
+        "new zhong yuan ceramics import and export": "a46c2f97-5649-4ce6-9821-d0d6fc500b57",
+        "esmira jamalkhanova": "130c5bb0-5235-47ef-8613-a5966e2900f8",
+        "zen trax inc.": "0ddd4e45-2676-4c36-ab81-b7a79d9085e3",
+        "dogus vana ve dokum san. tic.": "1d8376df-ef90-4a19-b41f-1759756cd87f",
+        "samsung fine chemicals co., ltd": "67f9708c-ee1b-4e24-9103-cfbe493932d9",
+        "hazar insaat dis.tic. ltd. sti": "8d54b88a-020b-4e6d-a56f-3e9f1ab21f3e",
+        "yazici insaat ve endustri sihhi tesisat": "55d825c8-b3e8-4b69-be7f-f585ecda1bc6",
+        "izobil yapi kimyasallari tic. ltd": "b1ee8fe5-eb15-4ed7-bf63-a5faea94769f",
+        "shanghai zhongji machinery manufact": "c803fd13-bf3b-4b7d-b819-f2287cf9af02",
+        "jsc freight one": "07e70aec-141c-429d-9f2c-a85b74c69511",
+        "zhejiang botai tools co., ltd": "8443fdee-0f27-4888-bf1b-78620728af91",
+        "selale dus yapi urunleri san.tic.ve": "c17d77cc-960f-47fe-898b-ec80d3b4d86e",
+        "polux management lp": "be5c3455-fc07-4877-91d4-8732b238e9b8",
+        "ufuk boru": "1ef0a4ce-e579-4f64-a34b-d10c367b5250",
+        "eae elektrik asansor end. insaat san": "9fdb5f69-a438-4650-a3aa-0382b3f2366e",
+        "riverlane llp": "344a4dc6-1ba3-4967-99ef-3d8c9efa875a",
+        "enza zaden export b.v.": "849cd085-3916-4f92-9bcf-403c5ab3cbc7",
+        "jh global services, inc.": "35279655-1fe7-4d05-80c1-c36e8028d33e",
+        "shandong yongsheng rubber group co": "96c6c678-59f6-4f26-b70d-f8e94f18c703",
+        "yi tai trading co., limited": "ba815969-424b-4713-98e2-8ea622a53f92",
+        "welfull group co., ltd": "3f040d58-15ac-4503-b880-79faa7ad1d41",
+        "harald nordin sa": "a06a09ee-602d-485f-875d-c5f868939557",
+        "dizayn teknik boru ve elemanlari": "b999dc71-692f-49d0-8976-e283fe7ffa71",
+        "mesoestetic, sl": "596ea5bc-e602-46c8-82d7-d45ede174762",
+        "al gharabally national trading": "f05d4d89-db87-4593-83cc-d89ecac97c64",
+        "appollo (china) co., ltd": "6813a183-5202-42c3-ae58-ee82fe2f5505",
+        "zagliani s.r.l.": "8c6a4938-face-4398-8cbd-b2ed0563e942",
+        "zhejiang weida industry and investment": "de8fac3a-598f-4fd2-88c5-dacd0d076dbf",
+        "cynosure inc.": "16e84a86-4621-4c35-8a8a-00718e66d3ea",
+        "akpen plastik pen.aks.nak.san.ic ve": "0e2eaf1d-5594-4a14-979b-305afe994bfd",
+        "guney eksport nak, pet.san.": "51db8c78-bd5e-4b0c-9633-5397113ce5f5",
+        "kalekim kimyevi maddeler sanayi ve tic": "56d43f0a-6641-41f1-b40e-14216fd76a9c",
+        "ooo tradichii kachestva": "dec02ac3-908e-46a4-91df-f405d70228c0",
+        "captron merchants llp": "bf7fee41-3c92-40cb-b5d7-24cfcb0db232",
+        "schmid feuerungstechnik gmbh&co., kg": "6d590b40-a15e-4453-be46-6562d4748ff3",
+        "abc keramik berentelg gmbh & co., kg": "84b05041-aefd-4b3b-93bd-c2c3e416cf1b",
+        "novello s.r.l.": "e3740ed9-d1db-4601-8ea1-c2229da7c410",
+        "halla meister ltd.": "d645b2c9-6090-46a0-ad52-90bf05fbc9ba",
+        "maktek kazan, radyator ve klima san": "1b476e37-818c-4522-83fb-279ceadf0b7c",
+        "aras global ticaret ve lojistik tur. ltd. sti": "0b05bf84-0819-441b-84cd-cf8e7fd305a7",
+        "petro-canada europe lubricants ltd.": "4c46a87c-bb2b-4aca-bbc3-014cf605b1f3",
+        "overland ceramics co., ltd": "265accac-41a2-4265-9699-807ffb6b0a95",
+        "mekan duzenleme san. tic. ltd. sti": "198c5a14-5416-4650-b45d-2634f9683595",
+        "changxing shengyan import and export": "a549415e-340c-42c4-af95-227398a4b9a2",
+        "chaozhou coco sanitary ware co., ltd": "1f17967f-d78b-4160-b83a-e96de2d142aa",
+        "shandong wanda boto tyre co., ltd": "34f3ab2e-4ba7-47cc-9f08-a3efea15fe3c",
+        "tanco holding co., ltd": "cc8a451c-8247-4772-8968-0b4bd889bdac",
+        "arte brotto mobili s.r.l.": "af052d73-2e83-4c34-a9e9-0971a7bfeaaa",
+        "matter pitch, the receiver": "aed286fb-c340-4cca-adca-987ca617af46",
+        "aksa jenerator sanayi a.s.": "d25c3206-d82d-492b-86cf-37f11c4214f1",
+        "zhongshan zhengde commercial co., lt": "cab73edb-1206-4263-b795-08b0ed2b8477",
+        "por metal urunleri insaat turizm": "ef38247b-c3fb-4a20-b34e-8ffe623df7e5",
+        "martini spa": "8e706218-739e-48ce-bebf-8ce76fb88eb3",
+        "point s.l": "36608e9b-6d12-408c-a8b4-9cc9fc08f797",
+        "loyal group trading co., ltd": "bdffd3bd-2d64-42e3-84d6-cc42a02152d4",
+        "cetin muhendislik ltd. sti.": "b4276fda-5f8f-4503-b941-a50f55abc050",
+        "heilongjiang laikeda import and export": "0935736b-e416-48b2-8b35-c976758d4cb6",
+        "complete pharma co., ltd": "98b24b3a-8bc0-4c07-8491-c6b69b37949a",
+        "imcd ticaret pazarlama ve danisma ltd. sti": "c7f5eb8c-5c24-40eb-abb1-7019e2dfd57c",
+        "o and o s.r.l.": "7bb12e18-c26d-4bcf-969c-794773a62241",
+        "cafulong appliance co., limited": "23435f73-0cee-478c-aacd-505ceecfac66",
+        "hongkong sinomash co., limited": "b78da017-454a-4bee-bf9e-8f4b08f6c296",
+        "go ocean travel+marketing co., ltd": "99782613-bb07-4fcf-8a2c-64f92be1a4da",
+        "changyi leixiang textiles co., ltd": "94f44d36-04f0-476d-b521-ef7d26b4425d",
+        "sahin zayil general trading llc": "07187e90-7280-4f35-ace5-ec37157f5b62",
+        "jsc evraz ntmk": "422ebe2f-fd50-4295-8806-77fd0bc3c7ff",
+        "xtreme motorcycle outlet, llc": "9472c809-77ed-4b98-bc42-f8198e609453",
+        "drg international, inc": "1ffccc88-e09e-4760-bc9e-7df0b3fcfa2b",
+        "pakart lp": "0a7721f7-f557-41c3-885f-389124633ce8",
+        "chongqing jorcen imp+exp.co., ltd": "0f03f106-2c94-44fe-8f6c-5ef1109b8b7a",
+        "agro west llc / aqro-vest mmm": "58beb3c2-d664-46d4-9bde-00c99b88ef44",
+        "proneo sports, s.c.p.": "82a8d114-7412-46d2-8e39-5d2561ae70ca",
+        "the great wall group holding co., lt": "9eeff488-87b8-427c-9816-d143f5ec5f51",
+        "inci aku san. ve tic. a.s.": "844601af-517a-4f2d-bd5f-848745428267",
+        "mega turizm tasimacilik , tarim orma": "51c91446-714a-4bd5-aa4f-22a80b3d876b",
+        "teng ying trade co., limited": "dc7b0eae-813b-4c75-9cab-267b54b58ac7",
+        "yongkang kinon imp + exp co., ltd": "73bc67fd-2fe7-4aef-99ee-46b641df4861",
+        "l+g ltd": "3554626f-6a1b-436f-a70c-f5a2fad52fdc",
+        "yiwu heng yue import+export co., ltd": "a1aaf86f-b6e8-4400-b433-903510c84235",
+        "pekpan ins.taah.tur.san ve tic.ltd": "56777fa1-2700-49f5-a696-c8f579c37d9b",
+        "aruna dackeviciene": "46d81de9-f1a8-4deb-a16e-3291480eb8b6",
+        "innovative material and devices, inc": "c5864dc3-8da6-466f-8e22-58158089acae",
+        "glaskunst volker kranich": "9d32e616-b0bc-42c1-8568-c7b0b9f823dc",
+        "kospel s.a.": "307dd902-e934-4461-bf07-2fbb31ae022e",
+        "east expert gmbh": "994b90e3-62f0-491a-b8ec-6a77d38981f6",
+        "shanghai qinzhitang display and mannequin": "7570ae30-1c9d-4c24-b2aa-aba238e12531",
+        "bleses kraftfahrzeuge gmbh+co., kg": "082eceb3-358d-4bc4-ae66-660125607cb7",
+        "pierre balmain sa": "2dc2d414-16a4-4f0b-a566-ba5ac271af25",
+        "redpark sales corp.": "bfe4ea3c-ffd3-4432-b6f2-3a3e9329c19b",
+        "hangzhou kang ao technology co., ltd": "c540efef-1149-42e3-80ba-c50f7574bb2f",
+        "mr. jovdat guliyev": "79dac0dd-a204-432d-a2b2-ded27de03449",
+        "sparkle computer co., ltd": "b627cba2-6c0b-4f88-9e67-9524b5c48300",
+        "kyoung dong ind., co": "a375dfea-d7f5-488e-b5f2-b311bfd60ad5",
+        "veka kimya petrol ve tas.san.tic.": "6f1c8b10-c9eb-4e93-afc4-0dce8ba85b86",
+        "maxxis international co., ltd": "38d05724-bdd5-4bde-a192-d7e448b6c085",
+        "yishangyi mannequins co., limited": "2edfbb6c-ec4e-4fd5-88b9-8c2e621702c7",
+        "yuntong hanger international co., li": "628a7fd0-9b3b-4e26-b80a-36f691ebd272",
+        "guangzhou dongheng co., ltd": "9b361924-51e7-41e3-975e-3a3346d17dc3",
+        "cardiff makina sanayi tic.ltd.sti": "4579218f-bf6e-49b8-8fa7-ed31b8d6614b",
+        "sj. hk industry co., ltd": "87132b25-ba38-4e97-b709-67993513e000",
+        "gf + georg fisher piping systems": "9084d159-f710-4be7-9b57-9a31444b8674",
+        "dekorpanel isi sistemleri paz. san.": "b12a7e75-55c4-4509-8f8f-ed42926dead1",
+        "zhejiang rongrong industrial co., lt": "429ccda1-57ca-4210-9163-7b15d308d793",
+        "wenzhou yabiya sanitary ware co., lt": "8b04e3c4-57aa-44f3-a94d-df0add355738",
+        "neo ctr co., ltd.": "5671475f-fece-418d-842e-6ffe61d29edf",
+        "ningbo beitong imp.& exp. co., ltd": "75419ce8-d8ef-4cf5-880d-3844e40c4cb6",
+        "ningfeng electric industry co., ltd": "16d332ff-e5fd-45a1-b92d-dc3b07696b9e",
+        "liza danismanlik dis ticaret a.s.": "40897458-b034-4678-a76c-c2a30f24ab2d",
+        "shunde huanrun imp.+ exp.co., ltd.": "b2b35894-2aba-4c8b-a30e-06e3c2994c92",
+        "inticom s.p.a.": "11c86867-1c8c-4f9f-bcc3-00bf8470e003",
+        "botheven machinery industrial co., l": "ebe1bc11-8906-4cda-9b02-12603fae7bbe",
+        "rotrack ltd": "e49c1abb-db03-424c-b72e-5a8b5a8ac816",
+        "kintowe international co., limited": "81a960c5-112a-4028-99ee-9420c5340e81",
+        "shandong weida machinery co, ltd": "c26f14f6-d942-41a3-a8b4-9947b5d1b92a",
+        "pera seramik sanayi ve ticaret a.s.": "b35327aa-3cf9-42c1-a3a1-3b8940fa92a8",
+        "alexander spies": "ada0f50a-fab3-41f5-b85b-44dfbc288ee0",
+        "derya lastik, plastik ve kalip sanay": "6f843364-7f23-4c53-94b7-547e3fc67fb4",
+        "enki ic ve dis ticaret paz. san. tic.": "dc7d9912-6926-49cf-98eb-26ae0c40cf42",
+        "zhejiang haizhu pipe co., ltd": "37dcba4f-56f0-40a1-a4d4-f91dc4a8cf83",
+        "hangzhou joykie ind and trad co.": "3e5f61db-9985-480f-bb52-156b5fe476ae",
+        "alexandra gold kuyumculuk sanayi ve": "6429cbf2-d6c1-4973-aa76-ab3f03c0e737",
+        "tereach trading llp": "7639932c-86d4-4562-abc4-fe9e68de5453",
+        "siam sanitary ware industry co., ltd": "b7c01c2f-4c69-4deb-84ca-d6fb32418aa1",
+        "yoto import and export co., ltd": "958aceef-1b6f-4f97-b9a1-ffdc389f22df",
+        "gaomi yichen labor products co., ltd": "e10c0b8b-a415-4739-ad73-dd32842bfdbf",
+        "sayan - uul co., ltd": "da32da6f-0a55-40d5-904c-2073e41b07f4",
+        "vicovation corp.": "7ca0917a-2136-4da9-ba4b-a891c5ed3fbf",
+        "elaflex-gummi ehters gmbh": "5448f277-043e-4412-a3ac-c47adcdebac1",
+        "berdan civata, berdan civata somun": "917c5ea9-2f57-40ab-97a4-ee5e56023bb2",
+        "foshan enshan import and export co": "f24b995f-62b1-45f4-bdaa-d806a5dbf049",
+        "easy international logistics (hong": "13e70416-509e-4d06-b613-140b60c13ea7",
+        "yakut hali tekstil sanayi ve ticare": "b402254f-9beb-401f-b7fc-71565a2776e1",
+        "dachen shirt industry co., ltd": "fa61654d-e4f9-41e9-ada8-a8fe512e7905",
+        "juren d.o.o.": "db2cce12-8d7d-4e2a-8fa4-611bcba8346a",
+        "polyflor limited": "09e3149b-8641-4bc6-9fcc-9ec5c4bdab88",
+        "cesare attolini s.p.a.": "82af8a39-7140-42e9-81de-2e9393952bd0",
+        "orka ahsap urunleri san.ve tic.ltd": "33dcc6af-bf8c-4756-8e27-40a9d3e7e928",
+        "general trade l.p": "2431df50-3963-4e36-9f8f-6f607052faf1",
+        "christian dior couture": "d84c3b75-b49d-43f8-9d67-1eef6558794e",
+        "mayolica azulejos s.l.": "aea4d6fc-758e-4084-a0fb-0af59c88dac2",
+        "swarovski international distribution ag": "7d269ce1-19ea-4ab8-9d36-e2e489d86bbf",
+        "isa s.p.a.": "62131866-46f9-480b-be97-25223e7559a3",
+        "salar milano s.r.l.s.": "271fb095-3860-4b32-a565-895d8054619f",
+        "dalgakiran kompresor san.ve tic.": "805ee5f5-40ce-42d4-bb98-6b4b2d836fe1",
+        "lf usa inc.": "f449ba0f-d867-40a6-991a-a7ea256a3f1c",
+        "gimteks makina sanayi ve ticaret as": "1312fd9c-9eda-4822-acbe-27f77b6c7d45",
+        "c.g. capelletti srl": "64bfcc52-36b1-4b77-8001-98cdbf713c3d",
+        "yalcin subasi tarim market tic. san. ltd sti": "c5eb1a38-ea21-4ec1-b1be-fcead89219b4",
+        "sennheiser middle east branch": "f81fd90d-f6bb-46de-ad83-09dfd4def1cb",
+        "cellebrite mobile synchronization ltd": "90131221-ca75-4f73-936a-d7bfd5ba89e3",
+        "silvea schiatti+c.srl": "03ab23de-6432-4bfa-ac56-499bdf96f675",
+        "starkey laboratories, inc.": "681ac68c-b3a3-4791-8667-942539d77676",
+        "shandong santai rubber co., ltd": "e16ffa72-6172-45c2-9672-b506cd556e2e",
+        "jato s.p.a.": "2556718c-26cf-4250-a266-4161137f4a0b",
+        "emp end. mam. paz. san. tic. ltd.": "68b13212-0a32-4e88-9a4d-e4d66484087a",
+        "canny elevator co., ltd": "07f30380-0207-4711-af65-f168bd520e11",
+        "lepow international co., ltd": "34f372a3-d2b0-4c98-8c32-fddfe8057675",
+        "wang, hui": "c82bf419-2507-4d0a-a419-34b7fc7a99ef",
+        "link-plus hong kong limited": "85b6ad64-6b56-4ea1-9d5e-cabe9eacf639",
+        "aux express elevator (suzhou) co., ltd": "f49ba9bf-0e70-4e72-a483-9f95914b66fa",
+        "norinco shanghai co., ltd": "98bf736c-5b40-442f-b28b-b96f791761e9",
+        "mario palmonella": "d1f439b6-0b1d-4bfe-93c9-2240e2ec7acf",
+        "too qte loqistik": "1e3700ab-deed-42fc-85a1-b3a2232ee441",
+        "tongxiang songyuan textile co., ltd": "2489708b-4fd3-47fa-a6a0-1060135c4721",
+        "prana investments management inc.": "37382abd-0bcf-4c8e-8399-a4d3e71590d3",
+        "hemera kuyumculuk san. ve tic. ltd": "3127061b-25ed-4531-b0ff-97901c1fac1d",
+        "robert thomas metall und elektrowerke gmbh": "f0bcf0a3-f7a8-4025-be3d-d77cb2c57aa7",
+        "foshan sky stone imp.exp.co., ltd": "74d855b2-500f-421b-b320-09a602996cb1",
+        "adopen plastik ve insaat san. a.s": "8b1bb201-56e2-4124-bb79-91b9fc4177b6",
+        "antch industries co., ltd": "98b69437-3971-41ed-9631-8f4f11d1634a",
+        "aeolus tyre co., ltd.": "8c1e7abf-ca59-441e-94b6-4333a24bbcf8"
+    }
+}

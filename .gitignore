@@ -1,5 +1,4 @@
 # local files
-data/*.trig
 data/config.toml
 out.json
 out.tsv
