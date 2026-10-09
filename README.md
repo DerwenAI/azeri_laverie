@@ -29,12 +29,12 @@ We have a few narratives to untangle, which tend to augment each other:
 
 Toward that purporse, we will explore two knowledge graphs:
 
-  * a core graph of ~\$3B in wire transfers: how were the shell companies used to obscure FinCrime tradecraft, and what signals should have been detected early, based on graph analytics?
+  * a core graph of ~\$3B in wire transfers: how were the shell companies used to obscure FinCrime tradecraft, and what signals should have been detected early, based on graph analytics?  (aka, `occrp.json`)
 
-  * a larger graph built around that core with BODS: exploring the network of _beneficial ownership_ and political/financial ties for what was used to construct the "Laundromat", mechanisms which are very much in use today, and how graph motifs can detect traces of this corruption?
+  * a larger KG built around that core, based on the BODS data model: exploring the network of _beneficial ownership_ and political/financial ties for what was used to construct the "Laundromat", mechanisms which are very much in use today, and how graph motifs can detect traces of this corruption?
 
 
-In addition to open source Python libraries, this project leverages three sets of tooling:
+In addition to open source Python libraries, this project leverages three sets of tooling which each have agentic capabilities:
 
   * [OpenCheck](https://opencheck.world/) -- conduct _due diligence_ based on open corporate data from many sources, collected into a knowledge graph using the [Beneficial Ownership Data Standard](https://standard.openownership.org/).
 
