@@ -2289,9 +2289,8 @@
         "bods:dissolutionDate": "2016-07-12",
         "bods:foundingDate": "2012-02-01",
         "ukcoh:status": "dissolved",
-        "lavie:query": "BONWEST INDUSTRIAL  LLP",
+        "lavie:query": "BONWEST INDUSTRIAL LLP",
         "lavie:aliases": [
-            "BONWEST INDUSTRIAL  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:49:56.696674+00:00",
         "bods:code": "codes:GB",
@@ -2948,7 +2947,6 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "CAPTRON MERCHANTS LLP",
         "lavie:aliases": [
-            "Captron Merchants LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:50:23.477381+00:00",
         "bods:code": "codes:GB",
@@ -3822,9 +3820,8 @@
         "bods:dissolutionDate": "2014-09-23",
         "bods:foundingDate": "2012-02-01",
         "ukcoh:status": "dissolved",
-        "lavie:query": "CONTRATECH SALES  LLP",
+        "lavie:query": "CONTRATECH SALES LLP",
         "lavie:aliases": [
-            "CONTRATECH SALES  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:50:59.942306+00:00",
         "bods:code": "codes:GB",
@@ -4588,7 +4585,6 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "DANBELL IMPORT LLP",
         "lavie:aliases": [
-            "DANBELL  IMPORT  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:17.479694+00:00",
         "bods:code": "codes:GB",
@@ -5564,7 +5560,6 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "DEXPORT UNIVERSAL LLP",
         "lavie:aliases": [
-            "DEXPORT UNIVERSAL  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:42.452637+00:00",
         "bods:code": "codes:GB",
@@ -5627,7 +5622,6 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "DIGIMARK MERCHANTS LLP",
         "lavie:aliases": [
-            "DIGIMARK MERCHANTS  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:51:45.015422+00:00",
         "bods:code": "codes:GB",
@@ -7936,7 +7930,6 @@
         "ukcoh:status": "active",
         "lavie:query": "GENERAL TRADE L.P",
         "lavie:aliases": [
-            "General Trade L.P",
             "GENERAL TRADE L.P"
         ],
         "bods:retrievedAt": "2026-09-16T02:52:51.407545+00:00",
@@ -9452,9 +9445,8 @@
         "bods:dissolutionDate": "2016-07-12",
         "bods:foundingDate": "2012-02-01",
         "ukcoh:status": "dissolved",
-        "lavie:query": "HILLSTAR COMPLEX  LLP",
+        "lavie:query": "HILLSTAR COMPLEX LLP",
         "lavie:aliases": [
-            "HILLSTAR COMPLEX  LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:53:34.364710+00:00",
         "bods:code": "codes:GB",
@@ -17613,7 +17605,6 @@
         "ukcoh:status": "dissolved",
         "lavie:query": "TEREACH TRADING LLP",
         "lavie:aliases": [
-            "Tereach Trading LLP"
         ],
         "bods:retrievedAt": "2026-09-16T02:58:25.617052+00:00",
         "bods:code": "codes:GB",
@@ -23671,7 +23662,6 @@
         "lavie:class": "operating",
         "bods:fullName": "EKSPORT TAMPL MMC",
         "lavie:aliases": [
-	    "EKSPORT TAMPL LLC ",
 	    "EKSPORT TAMPL LLC",
 	    "Ооо Eksport Tampl"
 	],
@@ -23707,7 +23697,6 @@
         "bods:fullName": "FIRST FREIGHT COMPANY PJSC",
         "lavie:aliases": [
             "JSC FREIGHT ONE",
-            "In favour JSC Freight One",
 	    "IN FAVOUR JSC FREIGHT ONE"
         ],
         "bods:code": "codes:RU",
@@ -23748,7 +23737,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Nigar ALAKBAROVA",
         "lavie:aliases": [
-            "NIGAR ALAKBAROVA",
 	    "ALAKBAROVA NIGAR",
             "16025"
         ],
@@ -23762,7 +23750,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Esmira JAMALKHANOVA",
         "lavie:aliases": [
-            "ESMIRA JAMALKHANOVA",
             "16006"
         ],
         "lavie:edd": [],
@@ -23849,7 +23836,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Eduard LINTNER",
         "lavie:aliases": [
-            "EDUARD LINTNER"
         ],
         "lavie:edd": [
             "https://opencheck.world/?person=EDUARD+LINTNER"
@@ -23987,7 +23973,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Cinzia PALMONELLA",
         "lavie:aliases": [
-            "CINZIA PALMONELLA"
         ],
         "lavie:edd": [],
         "lavie:sanction": [],
@@ -24119,7 +24104,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Ziya MAMMADOV",
         "lavie:aliases": [
-            "ZIYA MAMMADOV"
         ],
         "lavie:edd": [],
         "lavie:sanction": [],
@@ -24135,7 +24119,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Hamid KARIMOV",
         "lavie:aliases": [
-            "HAMID KARIMOV"
         ],
         "lavie:edd": [
             "https://search.openaleph.org/search?q=HAMID%20KARIMOV"
@@ -24155,7 +24138,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Tural KARIMOV",
         "lavie:aliases": [
-            "TURAL KARIMOV"
         ],
         "lavie:edd": [],
         "lavie:sanction": [],
@@ -24173,7 +24155,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Hamza KARIMOV",
         "lavie:aliases": [
-	    "HAMZA KARIMOV",
 	    "Karimov Hamza"
 	],
         "lavie:edd": [],
@@ -24192,7 +24173,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Rashad GAFAROV",
         "lavie:aliases": [
-            "RASHAD GAFAROV"
         ],
         "lavie:edd": [],
         "lavie:sanction": [],
@@ -24222,7 +24202,6 @@
         "bods:personType": "codes:knownPerson",
         "bods:fullName": "Ali NAGHIYEV",
         "lavie:aliases": [
-            "ALI NAGHIYEV"
         ],
         "lavie:edd": [],
         "lavie:sanction": [],

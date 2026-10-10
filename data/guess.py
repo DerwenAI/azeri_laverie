@@ -53,20 +53,6 @@ Iterator for lines read from file in a bizarre YAML-ish format.
             yield True, line.strip()
 
 
-
-def get_uuid (
-    opencheck_subj: dict[ str, str ],
-    name: str,
-    ) -> str:
-    """
-Get a unique identifier for the record, either from OpenCheck or a generated UUID.
-    """
-    if name in opencheck_subj:
-        return opencheck_subj[name]
-    else:
-        return str(uuid.uuid4())
-
-
 def populate_record (
     name: str,
     uid_: str,
@@ -108,39 +94,6 @@ Attempt to collect another synonym.
 
 
 if __name__ == "__main__":
-
-    ######################################################################
-    # load the OpenCheck "subjects.csv"
-    # columns: key,kind,lei,scheme,id,name,class,status,legal_name,jurisdiction,register_status,verdict,risk_codes,context_codes,statements,subsidiary_children,subsidiary_statements,subsidiaries_partial,subsidiaries_note,sources_with_data,degraded,degraded_checks,reason
-
-    df: pl.DataFrame = pl.read_csv("subjects.csv")
-    #ic(df.head())
-
-    keys: list = (
-        df
-        .select("key")
-        .to_series()
-        .to_list()
-    )
-
-    names: list = (
-        df
-        .select("name")
-        .to_series()
-        .to_list()
-    )
-
-    opencheck_subj: dict[ str, str ] = {}
-
-    for key, name in zip(keys, names):
-        name = scrub_name(name)
-
-        if name not in opencheck_subj:
-            opencheck_subj[name] = key
-
-    #ic(opencheck_subj)
-    ic(len(opencheck_subj), len(set(opencheck_subj.keys())))
-
 
     ######################################################################
     # expand the "normalized names" from the base data
@@ -196,14 +149,11 @@ if __name__ == "__main__":
                 if start:
                     record = populate_record(
                         name,
-                        get_uuid(opencheck_subj, name),
+                        str(uuid.uuid4()),
                         [],
                     )
 
                 else:
-                    if name in opencheck_subj:
-                        print("SWAP!", record["uuid"], opencheck_subj[name])
-
                     record["alias"].append(name)
 
                 add_guess(guess_syn, record, name)
@@ -225,7 +175,7 @@ if __name__ == "__main__":
 
             record = populate_record(
                 name,
-                get_uuid(opencheck_subj, name),
+                str(uuid.uuid4()),
                 [ norm ],
             )
 

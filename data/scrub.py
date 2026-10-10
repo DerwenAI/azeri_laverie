@@ -62,6 +62,7 @@ Compute a `MinHash` entry to use in `LSH`
 
 
 if __name__ == "__main__":
+
     # first, collect the resolved entity names and their aliases
     entities: dict[ str, dict ] = {}
     synonyms: dict[ str, str ] = {}
@@ -73,22 +74,24 @@ if __name__ == "__main__":
 
     for record in dat:
         name: str = scrub_name(record.get("bods:fullName"))
+        name_key: str = name.lower()
         uid_: str = str(uuid.uuid4())
 
-        if name.lower() in synonyms.keys():
-            logger.info(f"DUPLICATE: {name}")
+        if name_key in synonyms:
+            logger.info(f"DUPLICATE name: {name}")
         else:
             record["uuid"] = uid_
-            synonyms[name.lower()] = uid_
+            synonyms[name_key] = uid_
             entities[uid_] = record
 
             for alias in record.get("lavie:aliases"):
                 alias = scrub_name(alias)
+                alias_key: str = alias.lower()
 
-                if alias.lower() in synonyms.keys():
-                    logger.info(f"DUPLICATE: {alias}")
+                if alias_key in synonyms:
+                    logger.info(f"DUPLICATE alias: {alias}")
                 else:
-                    synonyms[alias.lower()] = uid_
+                    synonyms[alias_key] = uid_
 
     # load the "guestimated" matches
     guess_path: pathlib.Path = pathlib.Path("guess.json")
@@ -104,6 +107,7 @@ if __name__ == "__main__":
 
     # load the full list of entities, to idenity what remains unresolved
     entities_path: pathlib.Path = pathlib.Path("entities.tsv")
+    guess_use: set[ str ] = set()
     todo: set = set()
 
     with open(entities_path, mode = "r", encoding = "utf-8") as fp:
@@ -111,25 +115,33 @@ if __name__ == "__main__":
         next(reader)
 
         for name, kind, country in reader:
-            name = scrub_name(name)
+            name: str = scrub_name(name)
+            name_key: str = name.lower()
 
-            if name.lower() in synonyms.keys():
-                # already resolved
-                pass
-            elif name.lower() in guess_syn.keys():
-                uid_: str = guess_syn[name.lower()]
-                guess_dat[uid_]["kind"] = kind
-                guess_dat[uid_]["country"] = country
-            else:
-                uid_ = str(uuid.uuid4())
+            if name_key not in synonyms:
+                if name_key in guess_syn:
+                    uid_: str = guess_syn[name_key]
+                    guess_dat[uid_]["kind"] = kind
+                    guess_dat[uid_]["country"] = country
+                else:
+                    uid_ = str(uuid.uuid4())
 
-                guess_dat[uid_] = {
-                    "name": name,
-                    "uuid": uid_,
-                    "alias": [],
-                    "kind": kind,
-                    "country": country,
-                }
+                    guess_dat[uid_] = {
+                        "name": name,
+                        "uuid": uid_,
+                        "alias": [],
+                        "kind": kind,
+                        "country": country,
+                    }
+
+                guess_use.add(uid_)
+
+    # knock out the unused guesses
+    guess_key: set[ str ] = set(guess_dat.keys())
+
+    for key in guess_key:
+        if key not in guess_use:
+            del guess_dat[key]
 
     out_path: pathlib.Path = pathlib.Path("out.json")
 
@@ -170,7 +182,30 @@ if __name__ == "__main__":
 
         entities[uid_] = newrec
 
+
+    ######################################################################
+    # data quality check: do the `alias` values work as a proper set of keys?
+
+    for uid_, record in entities.items():
+        name: str = record["bods:fullName"]
+        name_key: str = name.lower()
+        new_alias: list[ str ] = []
+        keys: set[ str ] = set()
+
+        for alias in record["lavie:aliases"]:
+            key: str = alias.lower()
+
+            if key != name:
+                if key not in keys:
+                    keys.add(key)
+                    new_alias.append(alias)
+
+        record["lavie:aliases"] = new_alias
+
+
+    ######################################################################
     # report
+
     thes_path: pathlib.Path = pathlib.Path("thesaurus.json")
 
     with open(thes_path, mode = "w", encoding = "utf-8") as fp:
@@ -184,14 +219,14 @@ if __name__ == "__main__":
     # build a synonym map for the thesaurus
     syn_map: dict[ str, str ] = {}
 
-    for name, uid_ in synonyms.items():
-        syn_map[name] = uid_
+    for uid_, record in entities.items():
+        name: str = scrub_name(record["bods:fullName"])
+        name_key: str = name.lower()
+        keys: set[ str ] = { scrub_name(alias).lower() for alias in record["lavie:aliases"] }
+        keys.add(name_key)
 
-    for uid_, record in guess_dat.items():
-        syn_map[scrub_name(record["name"]).lower()] = uid_
-
-        for alias in record["alias"]:
-            syn_map[scrub_name(alias).lower()] = uid_
+        for key in keys:
+            syn_map[key] = uid_
 
     map_path: pathlib.Path = pathlib.Path("syn_map.json")
 
