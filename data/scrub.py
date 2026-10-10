@@ -229,11 +229,16 @@ if __name__ == "__main__":
     ######################################################################
     # report
 
+    out_thes: dict[ str, str ] = {
+        record["uuid"]: record
+        for record in entities.values()
+    }
+
     thes_path: pathlib.Path = pathlib.Path("thesaurus.json")
 
     with open(thes_path, mode = "w", encoding = "utf-8") as fp:
         json.dump(
-            entities,
+            out_thes,
             fp,
             ensure_ascii = False,
             indent = 4,
@@ -242,13 +247,7 @@ if __name__ == "__main__":
     # build a synonym map for the thesaurus
     syn_map: dict[ str, str ] = {}
 
-    for record in entities.values():
-        if "uuid" not in record:
-            print("NO UUID:", record)
-            continue
-
-        uid_: str = record["uuid"]
-
+    for uid_, record in out_thes.items():
         name: str = scrub_name(record["bods:fullName"])
         name_key: str = name.lower()
         keys: set[ str ] = { scrub_name(alias).lower() for alias in record["lavie:aliases"] }
