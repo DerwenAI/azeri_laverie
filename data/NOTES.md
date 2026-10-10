@@ -20,7 +20,7 @@ is a temporarly/intermediate thing
 ## TODOs
 
   - entity linking to bring in OpenCheck release data set
-     + reconcile name/UUID to use IRIs in `seed.json` from OpenCheck
+     + reconcile name/UUID to use IRIs in `seed.json` from OpenCheck -- or other sources?
      + resolve the files: `curated.txt`, `us.tsv`, `influ.tsv`
 
   - follow the property BODS data models for generated RDF

@@ -63,7 +63,20 @@ Compute a `MinHash` entry to use in `LSH`
 
 if __name__ == "__main__":
 
-    # first, collect the resolved entity names and their aliases
+    # load the unique identifiers per subject from OpenCheck
+
+    seed_path: pathlib.Path = pathlib.Path("seed.json")
+    seed_uid: dict[ str, str ] = {}
+
+    with open(seed_path, "rb") as fp:
+        dat: dict = json.load(fp)
+
+        for record in dat["subjects"]:
+            uid_: str = record["key"]
+            key: str = scrub_name(record["name"]).lower()
+            seed_uid[key] = uid_
+
+    # collect the resolved entity names and their aliases
     entities: dict[ str, dict ] = {}
     synonyms: dict[ str, str ] = {}
 
@@ -185,8 +198,11 @@ if __name__ == "__main__":
 
     ######################################################################
     # data quality check: do the `alias` values work as a proper set of keys?
+    # data quality check: use the OpenCheck unique identifiers, where available
 
     for uid_, record in entities.items():
+        record["uuid"] = uid_
+
         name: str = record["bods:fullName"]
         name_key: str = name.lower()
         new_alias: list[ str ] = []
@@ -201,6 +217,13 @@ if __name__ == "__main__":
                     new_alias.append(alias)
 
         record["lavie:aliases"] = new_alias
+
+        keys.add(name_key)
+
+        for key in keys:
+            if key in seed_uid:
+                record["uuid"] = seed_uid[key]
+                #print(name_key, seed_uid[key])
 
 
     ######################################################################
@@ -219,7 +242,13 @@ if __name__ == "__main__":
     # build a synonym map for the thesaurus
     syn_map: dict[ str, str ] = {}
 
-    for uid_, record in entities.items():
+    for record in entities.values():
+        if "uuid" not in record:
+            print("NO UUID:", record)
+            continue
+
+        uid_: str = record["uuid"]
+
         name: str = scrub_name(record["bods:fullName"])
         name_key: str = name.lower()
         keys: set[ str ] = { scrub_name(alias).lower() for alias in record["lavie:aliases"] }
