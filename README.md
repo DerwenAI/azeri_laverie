@@ -16,6 +16,14 @@ detailed descriptions of how money laundering gets performed, plus excerpts from
 a Jupyter notebook which performs forensic auditing on the leaked bank records, using graph algorithms and network analytics to identify criminal tradecraft.
 
 
+Overall caveats:
+
+  * data quality within the leaked data is quite poor; ~30% mismatched entity names, prior to entity resolution
+  * search engines and AI assistants tend to provide incorrect company details, e.g., off-by-one errors when parsing strike-off gazette PDFs online leads to wrong company identifiers, registration dates, etc.
+  * AI agents can help for workflow tasks, though only reliabily when specific tools get used for due diligence, entity resolution, etc.
+  * a knowledge graph constructed purely by an LLM will likely have such poor data quality that it would not be useful
+
+
 We have a few narratives to untangle, which tend to augment each other:
 
   * **process:** _money laundering_ plus analysis of the related FinCrime _tradecraft_ employed, leveraging investigative journalism based on two leaked datasets: the ["Azerbaijani Laundromat"](https://www.occrp.org/en/project/the-azerbaijani-laundromat) and the subsequent, larger ["FinCEN Files"](https://www.icij.org/investigations/fincen-files/global-banks-defy-u-s-crackdowns-by-serving-oligarchs-criminals-and-terrorists/)

@@ -11,26 +11,12 @@ import json
 import pathlib
 import sys
 import typing
-import uuid
 
 from icecream import ic
 import polars as pl
 
-
-ic.configureOutput(
-    noColor = True,
-)
-
-
-def scrub_name (
-    name: str,
-    ) -> str:
-    """
-Scrub the text for people/company names, to get stable lookup keys
-    """
-    assert isinstance(name, str), name
-
-    return name.replace("  ", " ").strip()
+from lavie import make_hash, make_uuid, scrub_name, \
+    LOGGER, SIM_THRESH
 
 
 def reader (
@@ -64,7 +50,7 @@ Populate the entity record with initial values.
     key: str = scrub_name(name).lower()
 
     if key not in init_rec:
-        print("MISSING!", name)
+        LOGGER.info(f"MISSING! {name}")
 
     return {
         "name": name,
@@ -88,7 +74,7 @@ Attempt to collect another synonym.
     if key in guess_syn:
         if record["uuid"] != guess_syn[key]:
             if report:
-                print("ALREADY!", key, record["uuid"], guess_syn[key])
+                LOGGER.info(f"ALREADY! {key} {record['uuid']} {guess_syn[key]}")
     else:
         guess_syn[key] = record["uuid"]
 
@@ -149,7 +135,7 @@ if __name__ == "__main__":
                 if start:
                     record = populate_record(
                         name,
-                        str(uuid.uuid4()),
+                        make_uuid(),
                         [],
                     )
 
@@ -175,16 +161,16 @@ if __name__ == "__main__":
 
             record = populate_record(
                 name,
-                str(uuid.uuid4()),
+                make_uuid(),
                 [ norm ],
             )
 
             add_guess(guess_syn, record, norm_names[name], report = False)
             guess_dat[record["uuid"]] = record
-            #print(record)
+            #LOGGER.info(record)
 
         if norm_key not in guess_syn:
-            print("YIKES!", norm)
+            LOGGER.info(f"YIKES! {norm}")
 
 
     ######################################################################

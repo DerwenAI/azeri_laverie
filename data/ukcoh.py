@@ -33,7 +33,7 @@ logging.basicConfig(
 
 
 SEARCH_NAMES: bool = False # True
-TARGET_SOURCE: str = "uk.tsv"
+TARGET_SOURCE: str = "next.txt"
 
 
 def get_ukcoh (

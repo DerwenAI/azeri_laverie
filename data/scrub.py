@@ -8,57 +8,15 @@ Construct a thesaurus from the data to use to build a KG.
 from collections import defaultdict
 import csv
 import json
-import logging
 import pathlib
 import sys
 import typing
-import uuid
 
 from datasketch import MinHashLSHEnsemble, MinHash
 from icecream import ic
 
-
-ic.configureOutput(
-    noColor = True,
-)
-
-logger = logging.getLogger(__name__)
-
-logging.basicConfig(
-    level = logging.INFO,
-)
-
-
-SIM_THRESH: float = 0.9
-
-
-def scrub_name (
-    name: str,
-    ) -> str:
-    """
-Scrub the text for people/company names, to get stable lookup keys
-    """
-    assert isinstance(name, str), name
-
-    return name.replace("  ", " ").strip()
-
-
-def make_hash (
-    mh_index: list,
-    name: str,
-    ) -> None:
-    """
-Compute a `MinHash` entry to use in `LSH`
-    """
-    name = scrub_name(name).lower()
-
-    mh: MinHash = MinHash(num_perm = 128)
-    term_set: set[ str ] = set(name.split(" "))
-
-    for term in term_set:
-        mh.update(term.encode("utf-8"))
-
-    mh_index.append(( name, mh, len(term_set), ))
+from lavie import make_hash, make_uuid, scrub_name, \
+    LOGGER, SIM_THRESH
 
 
 if __name__ == "__main__":
@@ -88,10 +46,10 @@ if __name__ == "__main__":
     for record in dat:
         name: str = scrub_name(record.get("bods:fullName"))
         name_key: str = name.lower()
-        uid_: str = str(uuid.uuid4())
+        uid_: str = make_uuid()
 
         if name_key in synonyms:
-            logger.info(f"DUPLICATE name: {name}")
+            LOGGER.info(f"DUPLICATE name: {name}")
         else:
             record["uuid"] = uid_
             synonyms[name_key] = uid_
@@ -102,7 +60,7 @@ if __name__ == "__main__":
                 alias_key: str = alias.lower()
 
                 if alias_key in synonyms:
-                    logger.info(f"DUPLICATE alias: {alias}")
+                    LOGGER.info(f"DUPLICATE alias: {alias}")
                 else:
                     synonyms[alias_key] = uid_
 
@@ -137,7 +95,7 @@ if __name__ == "__main__":
                     guess_dat[uid_]["kind"] = kind
                     guess_dat[uid_]["country"] = country
                 else:
-                    uid_ = str(uuid.uuid4())
+                    uid_ = make_uuid()
 
                     guess_dat[uid_] = {
                         "name": name,
@@ -169,7 +127,7 @@ if __name__ == "__main__":
     # transform unresolved entities using the same intermediate/temorary
     # format as the thesaurus, stored as `thesaurus.json`
     for uid_, record in guess_dat.items():
-        #print(record)
+        #LOGGER.info(record)
 
         newrec: dict = {
             "bods:fullName": record["name"],
@@ -182,7 +140,7 @@ if __name__ == "__main__":
 
         if "kind" not in record:
             name = record["name"].lower()
-            print("NO KIND:", name, record)
+            LOGGER.info(f"NO KIND: {name} {record}")
             newrec["bods:personType"] = "codes:UnknownPerson"
         else:
             match record["kind"]:
@@ -223,7 +181,7 @@ if __name__ == "__main__":
         for key in keys:
             if key in seed_uid:
                 record["uuid"] = seed_uid[key]
-                #print(name_key, seed_uid[key])
+                #LOGGER.info(f"{name_key} {seed_uid[key]}")
 
 
     ######################################################################

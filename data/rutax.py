@@ -291,7 +291,7 @@ Returns an `InnResult` object
             errors,
         )
 
-TARGET_SOURCE: str = "ru.tsv"
+TARGET_SOURCE: str = "next.txt"
 
 
 if __name__ == "__main__":
