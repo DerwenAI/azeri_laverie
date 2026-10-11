@@ -23,6 +23,7 @@ is a temporarly/intermediate thing
   - entity linking to bring in OpenCheck release data set
      + reconcile name/UUID to use IRIs in `seed.json` from OpenCheck -- or other sources?
      + resolve the curation files: `us.tsv`, `influ.tsv`
+     + parse `az/az*.ftm.*` to get IDs and relations?
 
   - follow the property BODS data models for generated RDF
   - build a graph which has the full set of entities and relations

@@ -34,7 +34,7 @@ first AZ Laundromat transaction, network of shell companies from Beta Consult, o
 2012-2014  
 Eckart Sager, former CNN producer, worked for PR Paul Manafort along with Alan Friedman, lobbying for Viktor Yanukovych's pro-RU government in Ukraine.
 
-2013-06  
+2013-08-01
 https://www.sec.gov/files/danske-complaint-121322.pdf
 A correspondent bank in the US (believed to be JPMorgan Chase) informed Danske Bank they were no longer comfortable providing dollar clearing services for Danske Estonia’s NRP customers due to AML concerns
 
@@ -42,7 +42,7 @@ A correspondent bank in the US (believed to be JPMorgan Chase) informed Danske B
 "One Busy Day" political influence machine: Eduard Lintner, Kalin Mitrev, Luca Volonte -- established that Russia had a powerful mechanism for illegal political influence campaigns and sanctions evasion at scale
 https://www.occrp.org/en/project/the-azerbaijani-laundromat/the-influence-machine
 
-2013-12  
+2013-12-27  
 Howard Wilkinson @ Danske Bank A/S Eesti Filiaal
 becomes internal whistleblower after noticing irregularities with Lantana Trade LLP (OC364391) associated with Igor Putin (cousin of Vladimir Putin)
 
@@ -56,6 +56,9 @@ Eckart Sager paid by Hilux Service LP via Emirates NBD Bank PJSC
 2014-03-24  
 Russia sanctioned: barred from G8, NATO cooperation, etc.
 https://www.businessinsider.com/russia-temporarily-kicked-out-of-g8-club-of-rich-countries-2014-3
+
+2014-12-15  
+Baltic Banking approved new policy to offboard NRP: "Policy to serve non resident clients in Danske Bank Estonian Branch"
 
 2014-12-31  
 last AZ Laundromat transaction
@@ -72,6 +75,9 @@ UK referendum on "Brexit"
 2016-07-20  
 Trump nominated by GOP for Presidential election
 
+2017-03-17  
+Danske Bank internal memo: "authorities in Moldova are currently investigating allegations that 20 billion USD have been laundered and transferred from Russia into the European financial system through a complex scheme, known as the 'Russian Laundromat' between 2011 and 2014"
+
 2017-09-04  
 OCCRP published Azerbaijani Laundromat investigation
 https://www.occrp.org/en/project/the-azerbaijani-laundromat
@@ -81,6 +87,6 @@ Bruun & Hjejle published internal Danske Bank "Report on the Non-Resident Portfo
 https://danskebank.com/-/media/danske-bank-com/file-cloud/2018/9/report-on-the-non-resident-portfolio-at-danske-banks-estonian-branch.pdf
 
 2020-09-20  
-FinCEN Files leaked: more than $2T money laundering
+FinCEN Files leaked: SARs regarding more than $2T money laundering globallly
 https://www.icij.org/investigations/fincen-files/global-banks-defy-u-s-crackdowns-by-serving-oligarchs-criminals-and-terrorists/
 https://www.occrp.org/en/project/the-fincen-files/more-snapshots-from-the-fincen-files
