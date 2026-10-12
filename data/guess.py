@@ -91,9 +91,8 @@ if __name__ == "__main__":
         name: str = scrub_name(row["beneficiary_name"])
         norm: str = scrub_name(row["beneficiary_name_norm"])
 
-        if name != norm:
+        if name.lower() != norm.lower():
             norm_names[name] = norm
-
 
 
     ######################################################################
@@ -112,7 +111,6 @@ if __name__ == "__main__":
         }
 
 
-
     ######################################################################
     # load the "guestimated" matches
     guess_dat: dict[ str, dict ] = {}
@@ -129,7 +127,7 @@ if __name__ == "__main__":
 
             if name.lower() == "caboose":
                 if start:
-                    if len(record) > 0:
+                    if len(record["alias"]) > 0:
                         guess_dat[record["uuid"]] = record
             else:
                 if start:
@@ -139,7 +137,7 @@ if __name__ == "__main__":
                         [],
                     )
 
-                else:
+                elif name.lower() != record["name"].lower():
                     record["alias"].append(name)
 
                 add_guess(guess_syn, record, name)

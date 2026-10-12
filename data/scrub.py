@@ -106,6 +106,7 @@ if __name__ == "__main__":
                     }
 
                 guess_use.add(uid_)
+                synonyms[name_key] = uid_
 
     # knock out the unused guesses
     guess_key: set[ str ] = set(guess_dat.keys())
