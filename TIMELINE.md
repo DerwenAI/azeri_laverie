@@ -32,7 +32,7 @@ https://www.icij.org/investigations/fincen-files/inside-scandal-rocked-danske-es
 first AZ Laundromat transaction, network of shell companies from Beta Consult, operated by network of former KGB
 
 2012-2014  
-Eckart Sager, former CNN producer, worked for PR Paul Manafort along with Alan Friedman, lobbying for Viktor Yanukovych's pro-RU government in Ukraine.
+Eckart Sager, former CNN producer, worked in PR for Paul Manafort along with Alan Friedman, lobbying for Viktor Yanukovych's pro-RU government in Ukraine.
 
 2013-08-01
 https://www.sec.gov/files/danske-complaint-121322.pdf
@@ -73,7 +73,7 @@ some AZ Laundromat shell companies involved in political influence campaigns aga
 UK referendum on "Brexit"
 
 2016-07-20  
-Trump nominated by GOP for Presidential election
+Trump, Thiel, et al., GOP convention
 
 2017-03-17  
 Danske Bank internal memo: "authorities in Moldova are currently investigating allegations that 20 billion USD have been laundered and transferred from Russia into the European financial system through a complex scheme, known as the 'Russian Laundromat' between 2011 and 2014"
