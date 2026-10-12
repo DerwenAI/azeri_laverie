@@ -44,10 +44,10 @@ Toward that purporse, we will explore two knowledge graphs:
 
 In addition to open source Python libraries, this project leverages three sets of tooling which each have agentic capabilities:
 
-  * [OpenCheck](https://opencheck.world/) -- conduct _due diligence_ based on open corporate data from many sources, collected into a knowledge graph using the [Beneficial Ownership Data Standard](https://standard.openownership.org/).
+  * [OpenCheck](https://opencheck.world/) -- conducts _due diligence_ based on open corporate data from many sources, collected into a knowledge graph using the [Beneficial Ownership Data Standard](https://standard.openownership.org/).
 
-  * [Senzing](https://mcp.senzing.com/) -- perform _entity resolution_ as a foundation for _identity intelligence_ infrastructure, in other words
- determining consistent, explanable answers to the questions "Who is who?" and "Who is related to whom?" across an enterprise.
+  * [Senzing](https://mcp.senzing.com/) -- performs _entity resolution_ as a foundation for _identity intelligence_ infrastructure, in other words
+ determining consistent, explainable answers to the questions "Who is who?" and "Who is related to whom?" across an enterprise.
 
   * [Garphield](https://garphield.com/) -- an interactive network visualization and analysis workbench for human-sized graphs, which keeps graph data separate from the sources used to analyse, filter, and present it.
 
