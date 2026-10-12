@@ -128,24 +128,31 @@ if __name__ == "__main__":
             if name.lower() == "caboose":
                 if start:
                     if len(record["alias"]) > 0:
+                        # emit last record
                         guess_dat[record["uuid"]] = record
+
             else:
                 if start:
+                    if "alias" in record and len(record["alias"]) > 0:
+                        # emit record
+                        guess_dat[record["uuid"]] = record
+
                     record = populate_record(
                         name,
                         make_uuid(),
                         [],
                     )
+                    add_guess(guess_syn, record, name)
 
                 elif name.lower() != record["name"].lower():
                     record["alias"].append(name)
-
-                add_guess(guess_syn, record, name)
+                    add_guess(guess_syn, record, name)
 
                 if name in norm_names:
-                    norm_found.add(name)
-                    record["alias"].append(norm_names[name])
-                    add_guess(guess_syn, record, norm_names[name])
+                    if name.lower() != norm_names[name].lower():
+                        norm_found.add(name)
+                        record["alias"].append(norm_names[name])
+                        add_guess(guess_syn, record, norm_names[name])
 
 
     ######################################################################
