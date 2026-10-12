@@ -1,4 +1,5 @@
-**Wash enough times, and it gets clean**
+**Wash enough times, and it gets clean**  
+<https://opendatascience.com/money-laundering-graph-analytics-odsc-ai-west/>
 
 [Paco Nathan](https://sessionize.com/pacoid/)  
 Principal DevRel Engineer, Senzing  

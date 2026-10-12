@@ -1,6 +1,11 @@
 ## title
 How to get started in money laundering
 
+ODSC West  
+2026-10-28 21:00 GMT  
+<https://tinyurl.com/lavie-odsc-2026>
+
+
 ## abstract
 What if you understood how to run a money laundering scam at scale? In this one hour, hands-on tutorial, we'll explore exactly that. Think: "We must train like we fight" for anti-fraud with AI.
 

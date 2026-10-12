@@ -1,7 +1,7 @@
 # azeri_laverie
 
 Money laundering graph data analysis, based on leaked banking data
-provided by OCCRP regarding the "Azerjaibani Laundromat" incident.
+provided by OCCRP regarding the "Azerbaijani Laundromat" incident.
 
 
 This repo includes a few primary resources:
@@ -20,7 +20,7 @@ Overall caveats:
 
   * data quality within the leaked data is quite poor; ~30% mismatched entity names, prior to entity resolution
   * search engines and AI assistants tend to provide incorrect company details, e.g., off-by-one errors when parsing strike-off gazette PDFs online leads to wrong company identifiers, registration dates, etc.
-  * AI agents can help for workflow tasks, though only reliabily when specific tools get used for due diligence, entity resolution, etc.
+  * AI agents can help for workflow tasks, though only reliably when specific tools get used for due diligence, entity resolution, etc.
   * a knowledge graph constructed purely by an LLM will likely have such poor data quality that it would not be useful
 
 
@@ -35,7 +35,7 @@ We have a few narratives to untangle, which tend to augment each other:
   * **transparency:** the _corrupt officials_ they engaged, plus their enablers: **PACE**/**Council of Europe**, **UNESCO**, **Mossack Fonseca**, **Paul Manefort**, and so on, which have been exposed through investigative journalism
 
 
-Toward that purporse, we will explore two knowledge graphs:
+Toward that purpose, we will explore two knowledge graphs:
 
   * a core graph of ~\$3B in wire transfers: how were the shell companies used to obscure FinCrime tradecraft, and what signals should have been detected early, based on graph analytics?  (aka, `occrp.json`)
 
@@ -56,13 +56,6 @@ Data for the knowledge graph builds on:
 <https://github.com/StephenAbbott/opencheck/releases/tag/dataset-azerbaijani-laundromat-2026-10-06>
 
 
-## Disclaimer
-
-Please note that the data used here may contain legitimate business
-transactions, and that the presence of any name in this dataset does
-not necessarily imply any intentional wrongdoing.
-
-
 ## Getting Started
 
 To run the Jupyter notebook, first launch JupyterLab:
@@ -73,6 +66,13 @@ poetry run jupyter-lab
 
 Then navigate in your browser to open the `occrp.ipynb` notebook.
 Run each of the cells in the notebook to perform the analysis.
+
+
+## Disclaimer
+
+Please note that the data used here may contain legitimate business
+transactions, and that the presence of any name in this dataset does
+not necessarily imply any intentional wrongdoing.
 
 
 <details>
