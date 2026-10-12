@@ -25002,5 +25002,98 @@
         "lavie:class": "shell",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:retrievedAt": "2026-10-10T19:18:00.552801+00:00"
+    },
+    {
+        "bods:fullName": "JOHNS HOPKINS MEDICINE",
+        "lavie:aliases": [
+            "JOHNS HOPKINS MEDICINE INTERNATIONAL, L.L.C."
+        ],
+        "lavie:class": "operating",
+        "bods:code": "codes:US",
+        "bods:streetAddress": "733 North Broadway Baltimore, MD 21205",
+        "bods:foundingDate": "1998-04-27",
+        "bods:idString": "T00281636",
+        "lavie:lei": {
+            "bods:idString": "9845000E72D4WDCB3715",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        },
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/johns-hopkins-medicine",
+        "lavie:synopsis": "arranged medical treatment for Emin EYYUBOV and family",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-12T02:52:41.150079+00:00"
+    },
+    {
+        "bods:fullName": "VELASCO INTERNATIONAL INC.",
+        "lavie:aliases": [],
+        "lavie:class": "operating",
+        "bods:foundingDate": "2007-11-14",
+        "bods:idString": "1444719",
+        "bods:dissolutionDate": "2015-04-30",
+        "bods:streetAddress": "LAVECO LTD. 8 INOMENON ETHNON, DESPINA SOFIA COURT SECOND FLOOR, FLAT/OFFICE 202 P.C. 6042 LARNACA, CYPRUS",
+        "bods:code": "codes:VG",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/velasco-international-inc",
+        "lavie:synopsis": "money from Rosoboronexport flowed into the company",
+        "skos:related": [
+            "MOSSACK FONSECA"
+        ],
+        "lavie:officers": [
+            "NOTHINGHAM HOLDING LIMITED (BS)"
+        ],
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-12T02:52:41.150095+00:00"
+    },
+    {
+        "bods:fullName": "Northern Pharmacy and Medical Equipment",
+        "lavie:aliases": [
+            "NORTHERN PHARMACY"
+        ],
+        "bods:streetAddress": "6701 Harford Rd, Baltimore, MD 21234",
+        "bods:foundingDate": "1984-10-11",
+        "bods:idString": "D01793835",
+        "lavie:class": "operating",
+        "bods:code": "codes:US",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "received payments for \"medication\" for Emin EYYUBOV",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-12T02:52:41.150103+00:00"
+    },
+    {
+        "bods:fullName": "BUSINESS+LEISURE TRAVEL ADVISORS",
+        "lavie:aliases": [],
+        "lavie:class": "operating",
+        "bods:code": "codes:AU",
+        "bods:idString": "ABN 93 010 687 733",
+        "bods:foundingDate": "2000-03-16",
+        "bods:streetAddress": "347-349 Sheridan Street, Cairns, QLD 4870, Australia",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "received payments for Azer GASIMOV travel in US",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-12T02:52:41.150109+00:00"
+    },
+    {
+        "bods:fullName": "MERCEDES-BENZ VG GMBH",
+        "lavie:aliases": [
+            "Mercedes-Benz Verwaltungsgesellschaft für Grundbesitz mbH"
+        ],
+        "lavie:class": "operating",
+        "bods:idString": "HRB 9760 CB",
+        "bods:streetAddress": "Hans-Grade-Allee 59, 12529 Schönefeld, Germany",
+        "bods:foundingDate": "1994-12-06",
+        "bods:code": "codes:DE",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "received payments for Emin EYYUBOV",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-12T02:52:41.150115+00:00"
+    },
+    {
+        "bods:fullName": "PRIVATPRAXIS FUR IMPLANTOLOGIE",
+        "lavie:aliases": [],
+        "lavie:class": "operating",
+        "bods:code": "codes:DE",
+        "lavie:source": "https://www.occrp.org/en/project/the-azerbaijani-laundromat/azerbaijans-high-profile-beneficiaries",
+        "lavie:synopsis": "medical payments for Farhad EYYUBOV; in Germany this is a generic descriptive term used by independent, private dental clinics specializing in dental implants, not a distinct company name",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-12T02:52:41.150119+00:00"
     }
 ]
