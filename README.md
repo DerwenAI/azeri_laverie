@@ -81,7 +81,7 @@ you can load in <https://garphield.com/> to generate an interactive
 visualization of the entity resolved knowledge graph (ERKG).
 
 
-## Disclaimer
+## Legal Details
 
 Please note that the data used here may contain legitimate business
 transactions, and that the presence of any name in this dataset does
@@ -105,3 +105,18 @@ Datasets used are licensed by their respective data providers:
   - UK gov, [OGLv3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 </details>
+
+
+**Kudos:**
+[Stephen Abbott Pugh](https://github.com/StephenAbbott),
+[Jamie Foss](https://github.com/Senzing),
+[Jeff Jonas](https://github.com/Senzing),
+[Friedrich Lindenberg](https://github.com/pudo),
+[Christian Miles](https://github.com/StephenAbbott),
+[Clair Sullivan](https://github.com/cj2001),
+[Christophe Willemsen](https://github.com/ikwattro),
+[OCCRP](https://github.com/occrp),
+[GODIN](https://godin.gleif.org/),
+and
+[GraphGeeks](https://www.graphgeeks.org/).
+

@@ -14,20 +14,23 @@
   * `scrub.py` -- Py script to consolidate resolved entites and guestimates into `thesaurus.json` and `syn_map.json`
 
 NB: hopefully the generated RDF graph for this project will be
-considerably more rigorous and compliant than `thesaurus.json` which
-is a temporarly/intermediate thing
+considerably more rigorous and compliant than `thesaurus.json`
+which is a temporarly/intermediate thing.
 
 
 ## TODOs
+
+  - restructure `thesaurus.json` to have three parts: entity records, syn_map, locations
+  - pull addresses and run through Placekey
+  - pull officers and begin representing them as entities
 
   - entity linking to bring in OpenCheck release data set
      + reconcile name/UUID to use IRIs in `seed.json` from OpenCheck -- or other sources?
      + resolve the curation files: `us.tsv`
      + parse `az/az*.ftm.*` to get IDs and relations?
 
-  - follow the property BODS data models for generated RDF
-  - build a graph which has the full set of entities and relations
-
+  - follow the property BODS data models for RDF generated with OTTR
+  - build and query a graph in RDFlib (or `xandergraph`)
   - calculate how much % coverage can be obtained through each AML rule
 
 
@@ -62,6 +65,7 @@ other identifiers) to some unique identifiers used for IRIs.
 Ultimately, this needs to:
 
   1. Fix the wire transfer entity mismatches first, using a thesaurus
-  2. Visualize the fraud tradecraft using Garphfield (for ODSC/West)
+  2. Visualize the fraud tradecraft using Garphield (for ODSC/West)
   3. Link to the automated ER+EDD results to build a KG (for CDL)
-  4. Stretch goal: dump the documents into GraphRAG
+  4. Run geospatial analysis using Placekey
+  5. Stretch goal: dump the documents into GraphRAG
