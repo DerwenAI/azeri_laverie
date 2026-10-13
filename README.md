@@ -18,7 +18,7 @@ a Jupyter notebook which performs forensic auditing on the leaked bank records, 
 
 Overall caveats:
 
-  * data quality within the leaked data is quite poor; ~30% mismatched entity names, prior to entity resolution
+  * data quality within the leaked data is quite poor; ~10% mismatched entity names, prior to entity resolution
   * search engines and AI assistants tend to provide incorrect company details, e.g., off-by-one errors when parsing strike-off gazette PDFs online leads to wrong company identifiers, registration dates, etc.
   * AI agents can help for workflow tasks, though only reliably when specific tools get used for due diligence, entity resolution, etc.
   * a knowledge graph constructed purely by an LLM will likely have such poor data quality that it would not be useful
@@ -58,14 +58,27 @@ Data for the knowledge graph builds on:
 
 ## Getting Started
 
-To run the Jupyter notebook, first launch JupyterLab:
+Use `git` to clone the repo, connect into the repo directory,
+then use `poetry` to install Python dependencies:
+
+```bash
+git clone https://github.com/DerwenAI/azeri_laverie
+cd azeri_laverie
+
+poetry install --no-root —extras=demo
+```
+
+To run the Jupyter notebook:
 
 ```bash
 poetry run jupyter-lab
 ```
 
-Then navigate in your browser to open the `occrp.ipynb` notebook.
+Navigate in your browser to open the `occrp.ipynb` notebook.
 Run each of the cells in the notebook to perform the analysis.
+This will persist the NetworkX graph in `data/occrp.json` which
+you can load in <https://garphield.com/> to generate an interactive
+visualization of the entity resolved knowledge graph (ERKG).
 
 
 ## Disclaimer

@@ -25095,5 +25095,97 @@
         "lavie:synopsis": "medical payments for Farhad EYYUBOV; in Germany this is a generic descriptive term used by independent, private dental clinics specializing in dental implants, not a distinct company name",
         "bods:entityType": "codes:RegisteredEntity",
         "bods:retrievedAt": "2026-10-12T02:52:41.150119+00:00"
+    },
+    {
+        "bods:fullName": "UBS Financial Services Inc.",
+        "lavie:aliases": [
+            "UBS FINANCIAL SERVICES INC",
+            "UBS Painewebber Inc."
+        ],
+        "bods:code": "codes:US",
+        "bods:streetAddress": "1200 Harbor Boulevard, Weehawken, NJ 07086",
+        "bods:idString": "719006",
+        "lavie:lei": {
+            "bods:idString": "ETYRV6ORNFJB5NONI676",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        },
+        "bods:foundingDate": "1969-06-29",
+        "lavie:edd": [
+            "https://opencheck.world/?lei=ETYRV6ORNFJB5NONI676"
+        ],
+        "lavie:sanction": [
+            "https://www.opensanctions.org/entities/NK-VoyamtTVCucvJiKjvvX2Uh/"
+        ],
+        "skos:related": [
+            "UBS SWITZERLAND AG"
+        ],
+        "lavie:class": "bank",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-13T18:31:52.134633+00:00"
+    },
+    {
+        "bods:fullName": "Wynn Las Vegas, LLC",
+        "lavie:aliases": [
+            "WYNN LAS VEGAS LLC"
+        ],
+        "bods:code": "codes:US",
+        "lavie:lei": {
+            "bods:idString": "2549002X45DR4UI7NA62",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        },
+        "lavie:edd": [
+            "https://opencheck.world/?lei=2549002X45DR4UI7NA62"
+        ],
+        "bods:idString": "880494878",
+        "bods:foundingDate": "2001-04-17",
+        "bods:streetAddress": "3131 Las Vegas Boulevard South, Las Vegas, NV 89109",
+        "lavie:synopsis": "casino",
+        "lavie:class": "operating",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-13T18:31:52.134648+00:00"
+    },
+    {
+        "bods:fullName": "Cynosure, Inc.",
+        "lavie:aliases": [
+            "CYNOSURE INC"
+        ],
+        "bods:code": "codes:US",
+        "bods:foundingDate": "1991-07-09",
+        "bods:streetAddress": "5 Carlisle Road, Westford, MA 01886",
+        "bods:idString": "2268010",
+        "lavie:lei": {
+            "bods:idString": "54930087QLH0D6V7E833",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        },
+        "lavie:edd": [
+            "https://opencheck.world/?lei=54930087QLH0D6V7E833"
+        ],
+        "lavie:synopsis": "electromedical and electrotherapeutic apparatus; Instruments and related products",
+        "lavie:class": "operating",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-13T18:31:52.134656+00:00"
+    },
+    {
+        "bods:fullName": "DELTA AIR LINES, INC.",
+        "lavie:aliases": [],
+        "bods:code": "codes:US",
+        "lavie:class": "operating",
+        "lavie:edd": [
+            "https://opencheck.world/?lei=Q2CCMS6R0AS67HJMBN42"
+        ],
+        "lavie:lei": {
+            "bods:idString": "Q2CCMS6R0AS67HJMBN42",
+            "bods:scheme": "XI-LEI",
+            "bods:schemeName": "Global Legal Entity Identifier Index"
+        },
+        "bods:foundingDate": "1967-03-15",
+        "bods:idString": "0654427",
+        "bods:streetAddress": "1030 Delta Boulevard, Atlanta, GA 30354",
+        "lavie:synopsis": "global airline",
+        "bods:entityType": "codes:RegisteredEntity",
+        "bods:retrievedAt": "2026-10-13T18:31:52.134662+00:00"
     }
 ]

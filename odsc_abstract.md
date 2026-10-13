@@ -3,7 +3,7 @@ How to get started in money laundering
 
 ODSC West  
 2026-10-28 21:00 GMT  
-<https://tinyurl.com/lavie-odsc-2026>
+<https://tinyurl.com/laverie-odsc-2026>
 
 
 ## abstract
