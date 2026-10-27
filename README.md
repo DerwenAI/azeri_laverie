@@ -14,6 +14,7 @@ a reconstructed timeline for the events related to the Azerbaijani Laundromat an
 detailed descriptions of how money laundering gets performed, plus excerpts from industry experts analyzing the Azerbaijani Laundromat case.
   * [`occrp.ipynb`](https://github.com/DerwenAI/azeri_laverie/blob/main/occrp.ipynb):
 a Jupyter notebook which performs forensic auditing on the leaked bank records, using graph algorithms and network analytics to identify criminal tradecraft.
+  * [OSCD West 2026 slides](https://tinyurl.com/odsc-2026-laverie)
 
 
 Overall caveats:
