@@ -9,11 +9,12 @@ from collections import Counter
 import json
 import pathlib
 import re
+import sys
 
 from icecream import ic
 
 from lavie import make_uuid, scrub_name, \
-    LOGGER
+    LOGGER, OFFICER_PAT
 
 
 if __name__ == "__main__":
@@ -24,18 +25,19 @@ if __name__ == "__main__":
         thes_ent: dict = dat["entities"]
         thes_syn: dict = dat["synonyms"]
 
-    # tally the hand-curated officers
-    pat = re.compile(r"[\w\s]+\s\(", re.IGNORECASE)
 
-    name_map: dict[ str, dict ] = {}
+    ######################################################################
+    # tally the hand-curated officers
+
+    lavie_name_map: dict[ str, dict ] = {}
     who_count: Counter = Counter()
 
-    for ent_uid, ent_rec in thes_ent.items():
+    for uid_, ent_rec in thes_ent.items():
         lavie_officers: list | None = ent_rec.get("lavie:officers")
 
         if lavie_officers is not None:
             for officer in lavie_officers:
-                if pat.search(officer) is None:
+                if OFFICER_PAT.search(officer) is None:
                     continue
 
                 name, country = officer.strip(")").split(" (")
@@ -44,36 +46,58 @@ if __name__ == "__main__":
 
                 if name_uid is not None:
                     # found a reference
-                    print(name_uid)
-                elif name_key not in name_map:
-                    name_map[name_key] = {
+                    #print(name_uid)
+                    pass
+                elif name_key not in lavie_name_map:
+                    lavie_name_map[name_key] = {
                         "lavie:class": "unknown",
                         "lavie:aliases": [],
                         "bods:entityType": "codes:UnknownPerson",
                         "bods:fullName": scrub_name(name),
                         "bods:code": "codes:" + country,
                         "uuid": make_uuid(),
-                        "refs": [ ent_uid ],
+                        "refs": [ uid_ ],
                     }
                 else:
-                    name_map[name_key]["refs"].append(ent_uid)
+                    lavie_name_map[name_key]["refs"].append(uid_)
 
                 who_count[name_key] += 1
 
     for name_key, count in sorted(who_count.items()):
         ic(name_key, count)
 
-    ic(sorted(name_map.items()))
+    ic(sorted(lavie_name_map.items()))
 
 
     ######################################################################
+    # tally the officers from UK Companies House
+
+    ukcoh_name_map: dict[ str, dict ] = {}
+    who_count: Counter = Counter()
+
+    for uid_, ent_rec in thes_ent.items():
+        ukcoh_officers: list | None = ent_rec.get("ukcoh:officers")
+
+        if ukcoh_officers is not None:
+            for officer in ukcoh_officers:
+                ic(officer)
+
+
+    sys.exit(0)
+
+    ######################################################################
     # persist the results
+
+    dat: dict = {
+        "lavie": list(lavie_name_map.values()),
+        "ukcoh": list(ukcoh_name_map.values()),
+    }
 
     persist_path: pathlib.Path = pathlib.Path("out.json")
 
     with open(persist_path, mode = "w", encoding = "utf-8") as fp:
         json.dump(
-            list(name_map.values()),
+            dat,
             fp,
             ensure_ascii = False,
             sort_keys = True,

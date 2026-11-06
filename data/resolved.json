@@ -1,5 +1,27 @@
 [
     {
+        "bods:code": "codes:BV",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "STANDARD DIRECTORS LTD.",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "b24ae74c-d0fa-4783-8191-7087a875caca"
+        ],
+        "uuid": "753150ef-5afb-4b50-8c1f-860feb54af20"
+    },
+    {
+        "bods:code": "codes:BZ",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "CONSULTING GROUP CORP.",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "f19f8de5-ad54-4520-a025-cb0b70c4c40b"
+        ],
+        "uuid": "0c3fbae1-9a63-4108-a488-c12491ab591e"
+    },
+    {
         "bods:code": "codes:NL",
         "bods:entityType": "codes:UnknownPerson",
         "bods:fullName": "Kuijpers JORIS",

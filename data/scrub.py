@@ -9,6 +9,7 @@ from collections import defaultdict
 import csv
 import json
 import pathlib
+import re
 import sys
 import typing
 
@@ -16,7 +17,7 @@ from datasketch import MinHashLSHEnsemble, MinHash
 from icecream import ic
 
 from lavie import make_hash, make_uuid, scrub_name, \
-    LOGGER, SIM_THRESH
+    LOGGER, OFFICER_PAT, SIM_THRESH
 
 
 if __name__ == "__main__":
@@ -186,7 +187,52 @@ if __name__ == "__main__":
 
 
     ######################################################################
-    # report
+    # data quality check: is it possible to relink the officers?
+
+    # build the synonyms map
+    thes_syn: dict[ str, str ] = {}
+
+    for record in entities.values():
+        name: str = scrub_name(record["bods:fullName"])
+        name_key: str = name.lower()
+        keys: set[ str ] = { scrub_name(alias).lower() for alias in record["lavie:aliases"] }
+        keys.add(name_key)
+
+        for key in keys:
+            thes_syn[key] = record["uuid"]
+
+    # search and replace officers
+    for uid_, record in entities.items():
+        lavie_officers: list | None = record.get("lavie:officers")
+        swap: list[ str ] = []
+
+        if lavie_officers is not None:
+            for officer in lavie_officers:
+                if OFFICER_PAT.search(officer) is None:
+                    print("RAW", uid_, officer, lavie_officers)
+
+                    # keep the reference
+                    swap.append(officer)
+                else:
+                    name, country = officer.strip(")").split(" (")
+                    name_key: str = scrub_name(name).lower()
+                    name_uid: str = thes_syn.get(name_key)
+                    #ic(uid_, name_key, name_uid)
+
+                    if name_uid is None:
+                        # keep the reference
+                        swap.append(officer)
+                    else:
+                        # swap the reference
+                        swap.append(name_key)
+
+        # complete the swap
+        #ic(swap)
+        record["lavie:officers"] = swap
+
+
+    ######################################################################
+    # persist the results
 
     # build the  thesaurus
     thes_ent: dict[ str, str ] = {
@@ -194,18 +240,7 @@ if __name__ == "__main__":
         for record in entities.values()
     }
 
-    thes_syn: dict[ str, str ] = {}
-
-    for uid_, record in thes_ent.items():
-        name: str = scrub_name(record["bods:fullName"])
-        name_key: str = name.lower()
-        keys: set[ str ] = { scrub_name(alias).lower() for alias in record["lavie:aliases"] }
-        keys.add(name_key)
-
-        for key in keys:
-            thes_syn[key] = uid_
-
-
+    # write JSON file
     thes_path: pathlib.Path = pathlib.Path("thesaurus.json")
 
     out_thes: dict = {
@@ -223,8 +258,8 @@ if __name__ == "__main__":
             indent = 4,
         )
 
-    sys.exit(0)
 
+    sys.exit(0)
 
     ######################################################################
     ## extras
