@@ -14,15 +14,17 @@ a reconstructed timeline for the events related to the Azerbaijani Laundromat an
 detailed descriptions of how money laundering gets performed, plus excerpts from industry experts analyzing the Azerbaijani Laundromat case.
   * [`occrp.ipynb`](https://github.com/DerwenAI/azeri_laverie/blob/main/occrp.ipynb):
 a Jupyter notebook which performs forensic auditing on the leaked bank records, using graph algorithms and network analytics to identify criminal tradecraft.
-  * [OSCD West 2026 slides](https://tinyurl.com/odsc-2026-laverie)
+  * [Connected Data London 2026 slides](https://tinyurl.com/cdl26-laverie)
 
 
 Overall caveats:
 
   * data quality within the leaked data is quite poor; ~10% mismatched entity names, prior to entity resolution
   * search engines and AI assistants tend to provide incorrect company details, e.g., off-by-one errors when parsing strike-off gazette PDFs online leads to wrong company identifiers, registration dates, etc.
-  * AI agents can help for workflow tasks, though only reliably when specific tools get used for due diligence, entity resolution, etc.
   * a knowledge graph constructed purely by an LLM will likely have such poor data quality that it would not be useful
+  * AI agents can help for workflow tasks, though most reliably when specific tools get used for due diligence, entity resolution, etc.
+  * leverage the network analytics for building graph-enabled AML models
+  * gain asymmetric advantage by increasing risk for the dark money enablers (aka "scam compounds")
 
 
 We have a few narratives to untangle, which tend to augment each other:

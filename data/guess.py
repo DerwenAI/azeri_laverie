@@ -113,7 +113,7 @@ if __name__ == "__main__":
 
     ######################################################################
     # load the "guestimated" matches
-    guess_dat: dict[ str, dict ] = {}
+    guess_ent: dict[ str, dict ] = {}
     guess_syn: dict[ str, str ] = {}
     norm_found: set[ str ] = set()
 
@@ -129,13 +129,13 @@ if __name__ == "__main__":
                 if start:
                     if len(record["alias"]) > 0:
                         # emit last record
-                        guess_dat[record["uuid"]] = record
+                        guess_ent[record["uuid"]] = record
 
             else:
                 if start:
                     if "alias" in record and len(record["alias"]) > 0:
                         # emit record
-                        guess_dat[record["uuid"]] = record
+                        guess_ent[record["uuid"]] = record
 
                     record = populate_record(
                         name,
@@ -171,7 +171,7 @@ if __name__ == "__main__":
             )
 
             add_guess(guess_syn, record, norm_names[name], report = False)
-            guess_dat[record["uuid"]] = record
+            guess_ent[record["uuid"]] = record
             #LOGGER.info(record)
 
         if norm_key not in guess_syn:
@@ -181,7 +181,7 @@ if __name__ == "__main__":
     ######################################################################
     # data quality check: do the `alias` values work as a proper set of keys?
 
-    for uid_, record in guess_dat.items():
+    for uid_, record in guess_ent.items():
         name: str = record["name"]
         name_key: str = name.lower()
         new_alias: list[ str ] = []
@@ -201,7 +201,7 @@ if __name__ == "__main__":
     ######################################################################
     # data quality check: populate any missing fields
 
-    for uid_, record in guess_dat.items():
+    for uid_, record in guess_ent.items():
         keys: set[ str ] = { alias.lower() for alias in record["alias"] }
         keys.add(record["name"].lower())
 
@@ -217,7 +217,7 @@ if __name__ == "__main__":
 
     guess_syn = {}
         
-    for uid_, record in guess_dat.items():
+    for uid_, record in guess_ent.items():
         keys: set[ str ] = { alias.lower() for alias in record["alias"] }
         keys.add(record["name"].lower())
 
@@ -231,7 +231,7 @@ if __name__ == "__main__":
     out_path: pathlib.Path = pathlib.Path("guess.json")
 
     out_data: dict = {
-        "records": guess_dat,
+        "entities": guess_ent,
         "synonyms": guess_syn,
     }
 

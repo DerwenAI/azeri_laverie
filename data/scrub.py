@@ -69,11 +69,11 @@ if __name__ == "__main__":
 
     with open(guess_path, "rb") as fp:
         dat: dict = json.load(fp)
-        guess_dat: dict[ str, dict ] = dat["records"]
+        guess_ent: dict[ str, dict ] = dat["entities"]
         guess_syn: dict[ str, str ] = dat["synonyms"]
 
+    ic(len(guess_ent))
     ic(len(guess_syn))
-    ic(len(guess_dat))
 
 
     # load the full list of entities, to idenity what remains unresolved
@@ -92,12 +92,12 @@ if __name__ == "__main__":
             if name_key not in synonyms:
                 if name_key in guess_syn:
                     uid_: str = guess_syn[name_key]
-                    guess_dat[uid_]["kind"] = kind
-                    guess_dat[uid_]["country"] = country
+                    guess_ent[uid_]["kind"] = kind
+                    guess_ent[uid_]["country"] = country
                 else:
                     uid_ = make_uuid()
 
-                    guess_dat[uid_] = {
+                    guess_ent[uid_] = {
                         "name": name,
                         "uuid": uid_,
                         "alias": [],
@@ -109,17 +109,17 @@ if __name__ == "__main__":
                 synonyms[name_key] = uid_
 
     # knock out the unused guesses
-    guess_key: set[ str ] = set(guess_dat.keys())
+    guess_key: set[ str ] = set(guess_ent.keys())
 
     for key in guess_key:
         if key not in guess_use:
-            del guess_dat[key]
+            del guess_ent[key]
 
     out_path: pathlib.Path = pathlib.Path("out.json")
 
     with open(out_path, mode = "w", encoding = "utf-8") as fp:
         json.dump(
-            guess_dat,
+            guess_ent,
             fp,
             ensure_ascii = False,
             indent = 4,
@@ -127,7 +127,7 @@ if __name__ == "__main__":
 
     # transform unresolved entities using the same intermediate/temorary
     # format as the thesaurus, stored as `thesaurus.json`
-    for uid_, record in guess_dat.items():
+    for uid_, record in guess_ent.items():
         #LOGGER.info(record)
 
         newrec: dict = {
@@ -188,42 +188,39 @@ if __name__ == "__main__":
     ######################################################################
     # report
 
-    out_thes: dict[ str, str ] = {
+    # build the  thesaurus
+    thes_ent: dict[ str, str ] = {
         record["uuid"]: record
         for record in entities.values()
     }
 
-    thes_path: pathlib.Path = pathlib.Path("thesaurus.json")
+    thes_syn: dict[ str, str ] = {}
 
-    with open(thes_path, mode = "w", encoding = "utf-8") as fp:
-        json.dump(
-            out_thes,
-            fp,
-            ensure_ascii = False,
-            indent = 4,
-        )
-
-    # build a synonym map for the thesaurus
-    syn_map: dict[ str, str ] = {}
-
-    for uid_, record in out_thes.items():
+    for uid_, record in thes_ent.items():
         name: str = scrub_name(record["bods:fullName"])
         name_key: str = name.lower()
         keys: set[ str ] = { scrub_name(alias).lower() for alias in record["lavie:aliases"] }
         keys.add(name_key)
 
         for key in keys:
-            syn_map[key] = uid_
+            thes_syn[key] = uid_
 
-    map_path: pathlib.Path = pathlib.Path("syn_map.json")
 
-    with open(map_path, mode = "w", encoding = "utf-8") as fp:
+    thes_path: pathlib.Path = pathlib.Path("thesaurus.json")
+
+    out_thes: dict = {
+        "entities": thes_ent,
+        "synonyms": thes_syn,
+        "locations": [],
+    }
+
+    with open(thes_path, mode = "w", encoding = "utf-8") as fp:
         json.dump(
-            syn_map,
+            out_thes,
             fp,
             ensure_ascii = False,
-            indent = 4,
             sort_keys = True,
+            indent = 4,
         )
 
     sys.exit(0)
