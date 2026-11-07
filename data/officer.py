@@ -5,7 +5,7 @@
 Pull the officer links from the thesaurus
 """
 
-from collections import Counter
+from collections import Counter, defaultdict
 import json
 import pathlib
 import re
@@ -71,13 +71,6 @@ CC_CODE: dict[ str, str ] = {
     "West Indies": "KN",
 }
 
-ROLE_KEYS: set[ str ] = set([
-    "appointed_on",
-    "identification",
-    "officer_role",
-    "person_number",
-])
-
 ADDR_KEYS: list[ str ] = [
     "care_of",
     "po_box",
@@ -89,6 +82,12 @@ ADDR_KEYS: list[ str ] = [
     "postal_code",
     "country",
 ]
+
+ROLE_KEYS: set[ str ] = set([
+    "appointed_on",
+    "identification",
+    "person_number",
+])
 
 
 if __name__ == "__main__":
@@ -110,7 +109,9 @@ if __name__ == "__main__":
 
         if lavie_officers is not None:
             for officer in lavie_officers:
-                if OFFICER_PAT.search(officer) is None:
+                if not isinstance(officer, str):
+                    continue
+                elif OFFICER_PAT.search(officer) is None:
                     continue
 
                 name, country = officer.strip(")").split(" (")
@@ -139,14 +140,16 @@ if __name__ == "__main__":
     ######################################################################
     # tally the officers from UK Companies House
 
-    guess_path: pathlib.Path = pathlib.Path("off_guess.json")
+    off_guess_path: pathlib.Path = pathlib.Path("off_guess.json")
 
-    with open(guess_path, "rb") as fp:
+    with open(off_guess_path, "rb") as fp:
         guess_syn: dict = json.load(fp)
 
-    ukcoh_name_map: dict[ str, dict ] = {}
-    keys: set[ str ] = set()
-   
+    off_link_path: pathlib.Path = pathlib.Path("off_link.json")
+
+    with open(off_link_path, "rb") as fp:
+        ukcoh_name_map: dict = json.load(fp)
+
     for uid_, ent_rec in thes_ent.items():
         ukcoh_officers: list | None = ent_rec.get("ukcoh:officers")
 
@@ -182,12 +185,12 @@ if __name__ == "__main__":
                 elif name.endswith(", Miss."):
                     name = name.removesuffix(", Miss.")
 
-                if ", " in name:
+                if ", " in name and not name.lower().strip(".").endswith(", inc"):
                     kind = "codes:KnownPerson"
                     m = NAME_PAT.search(name)
 
                     if m is None:
-                        print("---MISSED---")
+                        print("---MISSED---", name)
 
                     canonical = m.group(2) + " " + m.group(1)
 
@@ -203,53 +206,68 @@ if __name__ == "__main__":
                     aliases.append(officer["name"])
 
                 name_key: str = scrub_name(canonical).lower()
-                name_uid: str = thes_syn.get(name_key)
-
-                if name_uid is not None:
-                    # found a reference
-                    #print(name_uid)
-                    continue
-
-                record: dict = {
-                    "lavie:class": "officer",
-                    "lavie:aliases": aliases,
-                    "bods:entityType": kind,
-                    "bods:fullName": scrub_name(canonical),
-                    "bods:code": "codes:" + country,
-                    "bods:streetAddress": addr,
-                    "uuid": make_uuid(),
-                    "roles": {},
-                }                
 
                 if name_key not in ukcoh_name_map:
-                    ukcoh_name_map[name_key] = record
+                    ukcoh_name_map[name_key] = {
+                        "lavie:class": "officer",
+                        "lavie:aliases": aliases,
+                        "bods:entityType": kind,
+                        "bods:fullName": scrub_name(canonical),
+                        "bods:code": "codes:" + country,
+                        "bods:streetAddress": addr,
+                        "uuid": make_uuid(),
+                        "roles": defaultdict(lambda: defaultdict(str)),
+                    }
 
-                ukcoh_name_map[name_key]["roles"][uid_] = {
-                    key: officer[key]
-                    for key in ROLE_KEYS
-                    if key in officer
-                }
+                # TODO: what if an entity has more than one role?
+                if "officer_role" not in officer:
+                    ic("MISS", officer)
+                else:
+                    role: str = officer["officer_role"]
+
+                    ukcoh_name_map[name_key]["roles"][uid_][role] = {
+                        key: officer[key]
+                        for key in ROLE_KEYS
+                        if key in officer
+                    }
+
+
+    ######################################################################
+    # data quality tests
+
+    counts: list = sorted(
+        [
+            ( len(officer["roles"]), name_key, )
+            for name_key, officer in ukcoh_name_map.items()
+        ],
+        reverse = True,
+    )
+
+    ic(counts[:20])
 
 
     ######################################################################
     # persist the results
 
-    dat: dict = {
-        "lavie": list(sorted(
-            lavie_name_map.values(),
-            key = lambda x: x["bods:fullName"],
-        )),
-        "ukcoh": list(sorted(
-            ukcoh_name_map.values(),
-            key = lambda x: x["bods:fullName"],
-        )),
-    }
+    dat: list = list(sorted(
+        lavie_name_map.values(),
+        key = lambda x: x["bods:fullName"],
+    ))
 
     persist_path: pathlib.Path = pathlib.Path("out.json")
 
     with open(persist_path, mode = "w", encoding = "utf-8") as fp:
         json.dump(
             dat,
+            fp,
+            ensure_ascii = False,
+            sort_keys = True,
+            indent = 4,
+        )
+
+    with open(off_link_path, mode = "w", encoding = "utf-8") as fp:
+        json.dump(
+            ukcoh_name_map,
             fp,
             ensure_ascii = False,
             sort_keys = True,
