@@ -1161,25 +1161,6 @@ files = [
 ]
 
 [[package]]
-name = "jsonpickle"
-version = "4.1.4"
-description = "jsonpickle encodes/decodes any Python object to/from JSON"
-optional = false
-python-versions = ">=3.8"
-groups = ["main"]
-files = [
-    {file = "jsonpickle-4.1.4-py3-none-any.whl", hash = "sha256:c46024ba4acd8adb9a8b8485d074e141cbfacafe334c2aa982e5b32efabc2f0e"},
-    {file = "jsonpickle-4.1.4.tar.gz", hash = "sha256:8adf24cca611809b55ff5ed2ace850e1a3e4370dad5d363df71569b8f46c9645"},
-]
-
-[package.extras]
-cov = ["pytest-cov"]
-dev = ["black", "pyupgrade"]
-docs = ["furo", "rst.linker (>=1.9)", "sphinx (>=3.5)"]
-packaging = ["build", "setuptools (>=61.2)", "setuptools_scm[toml] (>=6.0)", "twine"]
-testing = ["PyYAML", "atheris (>=2.3.0,<2.4.0) ; python_version < \"3.12\"", "bson", "ecdsa", "feedparser", "gmpy2", "numpy", "pandas", "pymongo", "pytest (>=6.0,!=8.1.*)", "pytest-benchmark", "pytest-benchmark[histogram]", "pytest-checkdocs (>=1.2.3)", "pytest-enabler (>=1.0.1)", "pytest-ruff (>=0.2.1)", "scikit-learn", "scipy (>=1.9.3) ; python_version > \"3.10\"", "scipy ; python_version <= \"3.10\"", "simplejson", "sqlalchemy", "ujson"]
-
-[[package]]
 name = "jsonpointer"
 version = "3.10"
 description = "Identify specific nodes in a JSON document (RFC 6901) "
@@ -1477,6 +1458,21 @@ dev = ["build", "bump2version", "coverage", "hatch", "pre-commit", "pytest-cov",
 docs-screenshots = ["altair (==6.0.0)", "ipykernel (<7.0)", "ipython (==8.16.1)", "ipywidgets (==8.1.5)", "jupyterlab-geojson (==3.4.0)", "jupyterlab-language-pack-zh-cn (==4.3.post1)", "matplotlib (==3.10.0)", "nbconvert (>=7.0.0)", "pandas (==2.2.3)", "scipy (==1.15.1)"]
 test = ["coverage", "pytest (>=7.0)", "pytest-check-links (>=0.7)", "pytest-console-scripts", "pytest-cov", "pytest-jupyter (>=0.5.3)", "pytest-timeout", "pytest-tornasync", "pytest-xdist", "requests", "requests-cache", "virtualenv"]
 upgrade-extension = ["copier (>=9,<10)", "jinja2-time (<0.3)", "pydantic (<3.0)", "pyyaml-include (<3.0)", "tomli-w (<2.0)"]
+
+[[package]]
+name = "jupyterlab-execute-time"
+version = "3.3.0"
+description = "Display cell timings in Jupyter Lab"
+optional = false
+python-versions = ">=3.7"
+groups = ["main"]
+files = [
+    {file = "jupyterlab_execute_time-3.3.0-py3-none-any.whl", hash = "sha256:ed246db4d25c2fdbf2825206203d9d12251ebb38d46eb17ce0e11d271b2738f7"},
+    {file = "jupyterlab_execute_time-3.3.0.tar.gz", hash = "sha256:900fd1aebbfd3d943d3625eef973eed555bb2745d49840402783959c8a1dfc3a"},
+]
+
+[package.dependencies]
+jupyterlab = ">=4,<5"
 
 [[package]]
 name = "jupyterlab-pygments"
@@ -2699,23 +2695,6 @@ files = [
 ]
 
 [[package]]
-name = "pyvis"
-version = "0.3.2"
-description = "A Python network graph visualization library"
-optional = false
-python-versions = ">3.6"
-groups = ["main"]
-files = [
-    {file = "pyvis-0.3.2-py3-none-any.whl", hash = "sha256:5720c4ca8161dc5d9ab352015723abb7a8bb8fb443edeb07f7a322db34a97555"},
-]
-
-[package.dependencies]
-ipython = ">=5.3.0"
-jinja2 = ">=2.9.6"
-jsonpickle = ">=1.4.1"
-networkx = ">=1.11"
-
-[[package]]
 name = "pywinpty"
 version = "3.1.2"
 description = "Pseudo terminal support for Windows from Python."
@@ -3633,4 +3612,4 @@ type = ["pytest-mypy (>=1.0.1) ; platform_python_implementation != \"PyPy\""]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13,<3.14.1 || >3.14.1"
-content-hash = "4de3e1868daceeaa38f0deb9a835fcab10b228e67d6280506a20e95ea19b8642"
+content-hash = "b9b6510e7a9a3854a9c9462ca2753c08b5bf265fa9bdd92338ebe68ccc1fdc9f"
