@@ -1,5 +1,414 @@
 [
     {
+        "bods:code": "codes:BV",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "STANDARD DIRECTORS LTD.",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "b24ae74c-d0fa-4783-8191-7087a875caca"
+        ],
+        "uuid": "753150ef-5afb-4b50-8c1f-860feb54af20"
+    },
+    {
+        "bods:code": "codes:BZ",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "CONSULTING GROUP CORP.",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "f19f8de5-ad54-4520-a025-cb0b70c4c40b"
+        ],
+        "uuid": "0c3fbae1-9a63-4108-a488-c12491ab591e"
+    },
+    {
+        "bods:code": "codes:NL",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Kuijpers JORIS",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "0440a360-3e8d-4e0a-a592-86b1036ab3b6"
+        ],
+        "uuid": "ce05ffaa-ec4a-4edf-89c7-b130360029fd"
+    },
+    {
+        "bods:code": "codes:NL",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Hamon YVES",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "0440a360-3e8d-4e0a-a592-86b1036ab3b6"
+        ],
+        "uuid": "9cd88c30-0fd0-4203-8e84-0d3340b9053f"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Lev POLISHCHUK",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "106e9437-72b3-4882-99fa-e7123db6e9e6"
+        ],
+        "uuid": "1d9dd476-6a83-42fa-b9e8-78dd9b1eaf46"
+    },
+    {
+        "bods:code": "codes:SC",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Linzi ALCINDOR",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "1eba88ec-79e9-4c69-af9d-aa3645c99034"
+        ],
+        "uuid": "3c3030db-2359-4acd-8372-53e7a8201fb2"
+    },
+    {
+        "bods:code": "codes:CN",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "INTERNATIONAL ADMINISTRATORS LIMITED",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "1eba88ec-79e9-4c69-af9d-aa3645c99034"
+        ],
+        "uuid": "ae1519a2-1dd1-4bc4-bfe6-376364b06a6b"
+    },
+    {
+        "bods:code": "codes:DE",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Peter GRAMPP",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "20d9afd7-0e5f-4a68-98fa-6a08afa72594"
+        ],
+        "uuid": "30411d58-232e-4b03-b993-ab54d0020123"
+    },
+    {
+        "bods:code": "codes:PA",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Humberto Gregorio BARRERA MOJICA",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "2c32a179-0af3-48f0-9903-766f2ea4e19c"
+        ],
+        "uuid": "dce1ebb9-0395-4861-97ef-1d4f6d0d1b99"
+    },
+    {
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Oleg ROMANOV",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "2f80fd08-381f-4e6c-9d64-6b3e07596c65"
+        ],
+        "uuid": "b28b20f4-514a-48a6-bf5b-16ec04037fb6"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Panagiotis CHATZIPANAGIOTOY",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "4da2c105-46fc-41fe-9dbf-d38216d7acde"
+        ],
+        "uuid": "5aec134d-5731-4d04-b424-2a9d07159c16"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Margarita MARKOY",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "4da2c105-46fc-41fe-9dbf-d38216d7acde"
+        ],
+        "uuid": "4cafb8d6-cc02-41d4-b165-133bae788f4c"
+    },
+    {
+        "bods:code": "codes:EE",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Roman VNUKOV",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "52036255-2dec-4427-a322-e7cbb8031736"
+        ],
+        "uuid": "12c0c2e4-5ca5-4e0d-be40-5f0f319616b4"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Evgeny GOLIKOV",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "566a879a-49ab-4096-ae41-29ba3ebb1753"
+        ],
+        "uuid": "bf66d07f-031f-49ee-93f5-ac6f0241676b"
+    },
+    {
+        "bods:code": "codes:BS",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Laverne THOMPSON",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "5ab5f254-3f16-44d6-b45e-2b31ea96388e"
+        ],
+        "uuid": "a93a3d0a-d403-48da-be83-727faf4530c4"
+    },
+    {
+        "bods:code": "codes:TR",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Kiyasi SENTURK",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "70d8350d-3f3c-4572-bd78-42652cf39353"
+        ],
+        "uuid": "d1345088-1abc-41bc-8703-65753e70cb9f"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Nikos AVRAAMIDIS",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "7b676790-c17d-4737-bf02-97cb2486b254"
+        ],
+        "uuid": "5861776f-7582-416c-afbe-10f79c9ac450"
+    },
+    {
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Javanshir FEYZIYEV",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "806c2b88-dd59-4568-bb09-f02c6447288a"
+        ],
+        "uuid": "cfd9056d-a613-4181-ab8e-a1c49cfc355b"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Andreas SPYRIDIS",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "90984f7e-3667-4cae-88c0-004d7a80f968",
+            "ef0de174-225d-43e5-b0f6-86ed36c95f59"
+        ],
+        "uuid": "25fc36b9-669f-41d2-851c-f5d403ae3149"
+    },
+    {
+        "bods:code": "codes:RU",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Dmitry SMIRNOV",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "9118b33c-dda2-4363-bbc9-6a2eb3770137"
+        ],
+        "uuid": "bb871af8-6587-4ff6-932e-4b44874c253e"
+    },
+    {
+        "bods:code": "codes:TR",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Cuneyt IPEKLER",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "99811bbd-a590-4f0d-aa70-0882d53351e2"
+        ],
+        "uuid": "b0d13231-efdb-4454-9740-1ef2bd737dc1"
+    },
+    {
+        "bods:code": "codes:SC",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Veronique Claire SAVY",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "9a4e3dc9-189e-4df2-9f4e-a94effca37ea"
+        ],
+        "uuid": "65261b61-eb5c-4242-9ffd-dbb18144acad"
+    },
+    {
+        "bods:code": "codes:KN",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Edward PETRE-MEARS",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "9a4e3dc9-189e-4df2-9f4e-a94effca37ea"
+        ],
+        "uuid": "e5250eb3-2244-42a8-9041-4d30fba53790"
+    },
+    {
+        "bods:code": "codes:BZ",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "REGISTERED SOLUTIONS LIMITED",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "afbde874-8ee4-472f-9c3f-d8b07b5d3dd9"
+        ],
+        "uuid": "f03b80ee-3e8c-4303-884f-9025486e4675"
+    },
+    {
+        "bods:code": "codes:PA",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "CASCADO AG",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "b3bd53af-8aab-4dc4-988d-14fc8f55df71"
+        ],
+        "uuid": "fa57e1c8-ad51-4f7b-9c83-11f5fa8a5b17"
+    },
+    {
+        "bods:code": "codes:BS",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "NOTHINGHAM HOLDING LIMITED",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "b674cb4e-568c-4311-9595-c7e5bc01e699"
+        ],
+        "uuid": "a2a8fc3f-21f6-4d5c-a58e-724558481313"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownEntity",
+        "bods:fullName": "T.C SECRETARIAL LIMITED",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "c37f9c69-7a5d-454e-b97b-89821de396d7"
+        ],
+        "uuid": "9db9c91c-85c5-4ab0-b9b2-458b715eacb7"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Natalia ANASTASIOY",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "c37f9c69-7a5d-454e-b97b-89821de396d7"
+        ],
+        "uuid": "14c25601-1b1d-48cf-80ca-c13808ae776f"
+    },
+    {
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Sadig MAMEDOV",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "d2d95609-cb28-4746-a796-3b604305fbf8"
+        ],
+        "uuid": "71fb786b-3fa8-4ac2-b785-a9c9ea46a0cc"
+    },
+    {
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Rasim ASADOV",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "d9b6d288-c9ac-4148-aa9a-1be0682d8980"
+        ],
+        "uuid": "0f89bf9b-0a35-4232-8762-573fb03e4714"
+    },
+    {
+        "bods:code": "codes:US",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Amy TANNENBAUM",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "e0d64840-b5c3-4b1b-8135-45c75789586e"
+        ],
+        "uuid": "4a54960a-7f7a-4f55-a377-8a9379daf47a"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Irina KLEANTHOYS",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "eb3c947a-44da-4c5c-9ac9-ad1fb6a18829"
+        ],
+        "uuid": "2524bd32-bbb6-4d14-a505-223056deccde"
+    },
+    {
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Marianna GEMENITZI",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "f7ec1fd6-1f35-4917-9431-3d16087135b9"
+        ],
+        "uuid": "0487f65a-8a48-46f3-b231-1b7b764d4a36"
+    },
+    {
+        "bods:code": "codes:DE",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "John KHWAJA",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "f93a830b-0943-4bbc-84d6-f7fd2f9f2ffd"
+        ],
+        "uuid": "ecc637c6-70b6-493b-870c-6191955cebc6"
+    },
+    {
+        "bods:code": "codes:AZ",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Fuad ALIYEV",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "f93a830b-0943-4bbc-84d6-f7fd2f9f2ffd"
+        ],
+        "uuid": "84d41004-5344-49bb-9fc1-4e4e09441b0d"
+    },
+    {
+        "bods:code": "codes:RO",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Peter KOMIVES",
+        "lavie:aliases": [],
+        "lavie:class": "unknown",
+        "refs": [
+            "f93a830b-0943-4bbc-84d6-f7fd2f9f2ffd"
+        ],
+        "uuid": "3b90b6ef-2cae-440e-b82d-a078b1cafde8"
+    },
+    {
+        "lavie:class": "unknown",
+        "bods:code": "codes:CY",
+        "bods:entityType": "codes:UnknownPerson",
+        "bods:fullName": "Dimitra STAVRINOU",
+        "lavie:aliases": [],
+        "refs": [
+            "b46e3405-e498-4b86-919d-4d10dccc1d5a",
+            "db37ece8-aa9d-4776-8502-68a687a8d8e7"
+        ],
+        "uuid": "d96b7cd3-3309-49aa-86a3-dd079aaec696"
+    },
+    {
         "lavie:class": "core",
         "bods:fullName": "MOSSACK FONSECA",
         "bods:idString": "19206",

@@ -6,6 +6,7 @@ Library for transforming the manually curated entity data.
 """
 
 import logging
+import re
 import uuid
 
 from datasketch import MinHashLSHEnsemble, MinHash
@@ -25,6 +26,8 @@ logging.basicConfig(
 
 
 SIM_THRESH: float = 0.9
+
+OFFICER_PAT = re.compile(r"[\w\s\.]+\s\(", re.IGNORECASE)
 
 
 def make_uuid (
