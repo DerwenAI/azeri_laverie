@@ -5,7 +5,7 @@
 Pull the officer links from the thesaurus
 """
 
-from collections import Counter, defaultdict
+from collections import defaultdict
 import json
 import pathlib
 import re
@@ -90,22 +90,105 @@ ROLE_KEYS: set[ str ] = set([
 ])
 
 
-if __name__ == "__main__":
-    thes_path: pathlib.Path = pathlib.Path("thesaurus.json")
+def parse_location (
+    officer: dict,
+    ) -> tuple[ str, str ]:
+    """
+Parse the location metadata
+    """
+    addr_rec: dict = officer["address"]
+    addr: str = ""
+    country: str = "GB"
 
-    with open(thes_path, "rb") as fp:
+    for key in ADDR_KEYS:
+        if key in addr_rec:
+            val: str = addr_rec[key].strip().strip(",")
+
+            if len(val) > 0 and val not in [ "FOREIGN", ".", ]:
+                if key == "country":
+                    country = CC_CODE[val]
+
+                    if country == "GB":
+                        val = "UK"
+                    elif val == "Virgin Islands, British":
+                        val = "BVI"
+
+                addr = addr + ", " + val
+
+    addr = addr.removeprefix(", ")
+
+    return country, addr
+
+
+def parse_name (
+    officer: dict,
+    ) -> tuple[ str, str, str ]:
+    """
+Parse the name metadata
+    """
+    aliases: list[ str ] = []
+    name: str = officer["name"]
+
+    if name.endswith(", Mr."):
+        name = name.removesuffix(", Mr.")
+    elif name.endswith(", Mrs."):
+        name = name.removesuffix(", Mrs.")
+    elif name.endswith(", Miss."):
+        name = name.removesuffix(", Miss.")
+
+    if ", " in name and not name.lower().strip(".").endswith(", inc"):
+        kind = "codes:KnownPerson"
+        m = NAME_PAT.search(name)
+
+        if m is None:
+            LOGGER.info(f"MISSED: {name}")
+
+        canonical = m.group(2) + " " + m.group(1)
+
+    else:
+        kind = "codes:KnownEntity"
+
+        if name in guess_syn:
+            canonical = guess_syn[name]
+        else:
+            canonical = name
+
+    if canonical != officer["name"]:
+        aliases.append(officer["name"])
+
+    return kind, canonical, aliases
+
+
+if __name__ == "__main__":
+    ######################################################################
+    # load the persisted state for parsing officer links
+
+    off_guess_path: pathlib.Path = pathlib.Path("off_guess.json")
+
+    with open(off_guess_path, "rb") as fp:
+        guess_syn: dict = json.load(fp)
+
+    off_link_path: pathlib.Path = pathlib.Path("off_link.json")
+
+    with open(off_link_path, "rb") as fp:
+        name_map: dict = json.load(fp)
+
+    resolved_path: pathlib.Path = pathlib.Path("resolved.json")
+
+    with open(resolved_path, "rb") as fp:
         dat: dict = json.load(fp)
-        thes_ent: dict = dat["entities"]
-        thes_syn: dict = dat["synonyms"]
+        res_ent: dict = {
+            scrub_name(ent["bods:fullName"]).lower() : ent
+            for ent in dat
+        }
 
 
     ######################################################################
     # tally the hand-curated officers
+    # these have no metadata other than `country`
 
-    lavie_name_map: dict[ str, dict ] = {}
-
-    for uid_, ent_rec in thes_ent.items():
-        lavie_officers: list | None = ent_rec.get("lavie:officers")
+    for org_key, org_ent in res_ent.items():
+        lavie_officers: list | None = org_ent.get("lavie:officers")
 
         if lavie_officers is not None:
             for officer in lavie_officers:
@@ -116,103 +199,49 @@ if __name__ == "__main__":
 
                 name, country = officer.strip(")").split(" (")
                 name_key: str = scrub_name(name).lower()
-                name_uid: str = thes_syn.get(name_key)
 
-                if name_uid is not None:
-                    # found a reference
-                    #print(name_uid)
-                    continue
-
-                if name_key not in lavie_name_map:
-                    lavie_name_map[name_key] = {
-                        "lavie:class": "unknown",
-                        "lavie:aliases": [],
-                        "bods:entityType": "codes:UnknownPerson",
+                if name_key not in name_map:
+                    name_map[name_key] = {
+                        "lavie:class": "officer",
+                        "roles": defaultdict(lambda: defaultdict(str)),
                         "bods:fullName": scrub_name(name),
-                        "bods:code": "codes:" + country,
-                        "uuid": make_uuid(),
-                        "refs": [ uid_ ],
                     }
-                else:
-                    lavie_name_map[name_key]["refs"].append(uid_)
+
+                    # was this officer entity previously known?
+                    if res_ent.get(name_key) is None:
+                        name_map[name_key].update({
+                            "bods:code": "codes:" + country,
+                            "uuid": make_uuid(),
+                            "lavie:aliases": aliases,
+
+                            #"bods:entityType": kind,
+                            #"bods:streetAddress": addr,
+                        })
+
+                # default to generic role "officer"
+                role: str = "officer"
+                name_map[name_key]["roles"][org_key][role] = {}
 
 
     ######################################################################
     # tally the officers from UK Companies House
+    # these have substantial amounts of metadata
 
-    off_guess_path: pathlib.Path = pathlib.Path("off_guess.json")
-
-    with open(off_guess_path, "rb") as fp:
-        guess_syn: dict = json.load(fp)
-
-    off_link_path: pathlib.Path = pathlib.Path("off_link.json")
-
-    with open(off_link_path, "rb") as fp:
-        ukcoh_name_map: dict = json.load(fp)
-
-    for uid_, ent_rec in thes_ent.items():
-        ukcoh_officers: list | None = ent_rec.get("ukcoh:officers")
+    for org_key, org_ent in res_ent.items():
+        ukcoh_officers: list | None = org_ent.get("ukcoh:officers")
 
         if ukcoh_officers is not None:
             for officer in ukcoh_officers:
-                addr_rec: dict = officer["address"]
-                addr: str = ""
-                country: str = "GB"
+                country, addr = parse_location(officer)
+                kind, name, aliases = parse_name(officer)
+                name_key: str = scrub_name(name).lower()
 
-                for key in ADDR_KEYS:
-                    if key in addr_rec:
-                        val: str = addr_rec[key].strip().strip(",")
-
-                        if len(val) > 0 and val not in [ "FOREIGN", ".", ]:
-                            if key == "country":
-                                country = CC_CODE[val]
-
-                                if country == "GB":
-                                    val = "UK"
-                                elif val == "Virgin Islands, British":
-                                    val = "BVI"
-
-                            addr = addr + ", " + val
-
-                addr = addr.removeprefix(", ")
-                name: str = officer["name"]
-                aliases: list[ str ] = []
-
-                if name.endswith(", Mr."):
-                    name = name.removesuffix(", Mr.")
-                elif name.endswith(", Mrs."):
-                    name = name.removesuffix(", Mrs.")
-                elif name.endswith(", Miss."):
-                    name = name.removesuffix(", Miss.")
-
-                if ", " in name and not name.lower().strip(".").endswith(", inc"):
-                    kind = "codes:KnownPerson"
-                    m = NAME_PAT.search(name)
-
-                    if m is None:
-                        print("---MISSED---", name)
-
-                    canonical = m.group(2) + " " + m.group(1)
-
-                else:
-                    kind = "KnownEntity"
-
-                    if name in guess_syn:
-                        canonical = guess_syn[name]
-                    else:
-                        canonical = name
-
-                if canonical != officer["name"]:
-                    aliases.append(officer["name"])
-
-                name_key: str = scrub_name(canonical).lower()
-
-                if name_key not in ukcoh_name_map:
-                    ukcoh_name_map[name_key] = {
+                if name_key not in name_map:
+                    name_map[name_key] = {
                         "lavie:class": "officer",
                         "lavie:aliases": aliases,
                         "bods:entityType": kind,
-                        "bods:fullName": scrub_name(canonical),
+                        "bods:fullName": scrub_name(name),
                         "bods:code": "codes:" + country,
                         "bods:streetAddress": addr,
                         "uuid": make_uuid(),
@@ -225,7 +254,7 @@ if __name__ == "__main__":
                 else:
                     role: str = officer["officer_role"]
 
-                    ukcoh_name_map[name_key]["roles"][uid_][role] = {
+                    name_map[name_key]["roles"][org_key][role] = {
                         key: officer[key]
                         for key in ROLE_KEYS
                         if key in officer
@@ -238,7 +267,7 @@ if __name__ == "__main__":
     counts: list = sorted(
         [
             ( len(officer["roles"]), name_key, )
-            for name_key, officer in ukcoh_name_map.items()
+            for name_key, officer in name_map.items()
         ],
         reverse = True,
     )
@@ -249,25 +278,9 @@ if __name__ == "__main__":
     ######################################################################
     # persist the results
 
-    dat: list = list(sorted(
-        lavie_name_map.values(),
-        key = lambda x: x["bods:fullName"],
-    ))
-
-    persist_path: pathlib.Path = pathlib.Path("out.json")
-
-    with open(persist_path, mode = "w", encoding = "utf-8") as fp:
-        json.dump(
-            dat,
-            fp,
-            ensure_ascii = False,
-            sort_keys = True,
-            indent = 4,
-        )
-
     with open(off_link_path, mode = "w", encoding = "utf-8") as fp:
         json.dump(
-            ukcoh_name_map,
+            name_map,
             fp,
             ensure_ascii = False,
             sort_keys = True,

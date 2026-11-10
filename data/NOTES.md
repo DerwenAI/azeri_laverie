@@ -10,6 +10,7 @@
   * `next.py` -- Py script to reformat curated annotations into intermediate JSON
   * `dedupe.py` -- Py script to validate and count entities in `resolved.json`
   * `guess.py` -- Py script to generate "best guestimate" for matches on unresolved entities
+  * `officer.py` -- Py script to parse metadata for company officers, saved as `off_link.json`
   * `scrub.py` -- Py script to consolidate resolved entites and guestimates into `thesaurus.json` and `syn_map.json`
 
 NB: hopefully the generated RDF graph for this project will be
@@ -18,7 +19,6 @@ which is a temporarly/intermediate thing.
 
 
 ## TODOs
-  - pull officers and begin representing them as entities
   - pull addresses and run through Placekey
 
   - entity linking to bring in OpenCheck release data set

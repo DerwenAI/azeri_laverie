@@ -185,11 +185,14 @@ if __name__ == "__main__":
                 record["uuid"] = seed_uid[key]
                 #LOGGER.info(f"{name_key} {seed_uid[key]}")
 
-
     ######################################################################
-    # data quality check: is it possible to relink the officers?
+    # build the thesaurus
 
-    # build the synonyms map
+    thes_ent: dict[ str, str ] = {
+        record["uuid"]: record
+        for record in entities.values()
+    }
+
     thes_syn: dict[ str, str ] = {}
 
     for record in entities.values():
@@ -201,46 +204,53 @@ if __name__ == "__main__":
         for key in keys:
             thes_syn[key] = record["uuid"]
 
-    # search and replace officers
-    for uid_, record in entities.items():
-        lavie_officers: list | None = record.get("lavie:officers")
-        swap: list[ str ] = []
 
-        if lavie_officers is not None:
-            for officer in lavie_officers:
-                if OFFICER_PAT.search(officer) is None:
-                    print("RAW", uid_, officer, lavie_officers)
+    ######################################################################
+    # link the officers
 
-                    # keep the reference
-                    swap.append(officer)
-                else:
-                    name, country = officer.strip(")").split(" (")
-                    name_key: str = scrub_name(name).lower()
-                    name_uid: str = thes_syn.get(name_key)
-                    #ic(uid_, name_key, name_uid)
+    transfer_fields: list[ str ] = [
+        "bods:code",
+        "bods:entityType",
+        "bods:fullName",
+        "bods:streetAddress",
+        "lavie:aliases",
+        "lavie:class",
+    ]
 
-                    if name_uid is None:
-                        # keep the reference
-                        swap.append(officer)
-                    else:
-                        # swap the reference
-                        swap.append(name_key)
+    off_link_path: pathlib.Path = pathlib.Path("off_link.json")
 
-        # complete the swap
-        #ic(swap)
-        record["lavie:officers"] = swap
+    with open(off_link_path, "rb") as fp:
+        name_map: dict = json.load(fp)
+
+    for name_key, officer in name_map.items():
+        if thes_syn.get(name_key) is None:
+            # add this officer records to the thesaurus
+            uid_: str = officer["uuid"]
+            thes_syn[name_key] = uid_
+
+            for alias in officer["lavie:aliases"]:
+                alias_key: str = scrub_name(alias).lower()
+                thes_syn[alias_key] = uid_
+
+            thes_ent[uid_] = {
+                field: officer[field]
+                for field in transfer_fields
+                if field in officer
+            }
+
+        # link the officer roles
+        for org_key, roles in officer["roles"].items():
+            org_ent = thes_ent[thes_syn[org_key]]
+
+            if "lavie:roles" not in org_ent:
+                org_ent["lavie:roles"] = defaultdict(dict)
+
+            org_ent["lavie:roles"][name_key] = roles
 
 
     ######################################################################
-    # persist the results
+    # persist the results to a JSON file
 
-    # build the  thesaurus
-    thes_ent: dict[ str, str ] = {
-        record["uuid"]: record
-        for record in entities.values()
-    }
-
-    # write JSON file
     thes_path: pathlib.Path = pathlib.Path("thesaurus.json")
 
     out_thes: dict = {
